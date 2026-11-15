@@ -22,7 +22,7 @@ async function loadAudio(u) {
   if(audioCache[u]) return audioCache[u];
   if(!loading[u]) {
     const controller=new AbortController(), timer=setTimeout(()=>controller.abort(),20000);
-    loading[u]=fetch('u'+u+'.json',{signal:controller.signal})
+    loading[u]=fetch('u'+u+'.json?v=20261115',{signal:controller.signal})
       .then(r=>{if(!r.ok)throw Error('network');return r.json();})
       .then(data=>audioCache[u]=data)
       .catch(e=>{delete loading[u];throw e;})
@@ -32,10 +32,11 @@ async function loadAudio(u) {
 }
 function audioURL(id) {
   if(objectURLs[id]) return objectURLs[id];
-  const b64=audioCache[unit]?.[id]; if(!b64) throw Error('missing');
+  const entry=audioCache[unit]?.[id]; if(!entry) throw Error('missing');
+  const b64=typeof entry==='string'?entry:entry.data;
   const raw=atob(b64), bytes=new Uint8Array(raw.length);
   for(let i=0;i<raw.length;i++)bytes[i]=raw.charCodeAt(i);
-  return objectURLs[id]=URL.createObjectURL(new Blob([bytes],{type:'audio/mp4'}));
+  return objectURLs[id]=URL.createObjectURL(new Blob([bytes],{type:entry.mime||'audio/mp4'}));
 }
 async function playSound(id,button,token,slow=false) {
   if(token!==generation) return false;

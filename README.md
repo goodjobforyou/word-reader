@@ -6,7 +6,7 @@
 - U5：黑体 8 项、白体 12 项。
 - U6：黑体 7 项、白体 16 项。
 - 整词、完整音标、音节、每个音素、例句均可点击朗读。
-- 英式男女声整词与例句；英式男声音节和音素。
+- 英式词典整词与音素；英式合成例句与部分音节。
 - 连读模式：只读单词／单词＋拆读＋例句。每项读一次，到本组末尾停止。
 - 所有音频随页面部署，无第三方字体、脚本、语音接口或分析跟踪。
 
@@ -22,11 +22,11 @@ GitHub Settings → Pages → Deploy from a branch → `main` → `/(root)`。
 
 1. 修改 `build.py` 的词表及 `phonics.py` 的字母／音素对应。
 2. `python3 build.py` 生成 `words.json` 与 `jobs.json`。
-3. 在已有 Daniel 和 Flo 英式系统语音的 macOS 上，用 `clang -fobjc-arc -framework Foundation -framework AVFoundation voice.m -o /tmp/word-reader-audio/voice` 编译本地音频生成器。
-4. 建立 `/tmp/word-reader-audio` 目录，运行 `/tmp/word-reader-audio/voice jobs.json /tmp/word-reader-audio`。
-5. 修改 `index.template.html` 和 `app.js`，运行 `python3 package.py` 生成发布文件。编码工具为系统自带 `afconvert`。
+3. 新版音频对应见 `audio-sources.json`。使用本地 `recordings/` 素材运行 `python3 package_recordings.py`。
 
-音频使用 Apple 系统语音合成。合成器兼容处理仅作用于声音输入，页面保留课本英式音标。请勿将 IPA 参数交给不支持 IPA 的声音；生成器使用 Daniel 处理拆读，并对平台不支持的 /ɡ/ 与 /ɜː/ 作适配。打包阶段会验证音频非空、统一音量，并加入短促音素所需的起止静音。
+2026-11-15：全部264个音频引用已替换。整词为剑桥／有道英音；39个音素采用剑桥英式录音；例句采用Google en-GB；音节采用英音同音词及Amazon Polly Amy的IPA合成。close和wind使用明确音标生成。MP3原样打包，不再使用Apple Daniel/Flo。原有 `voice.m` 和 `package.py` 仅保留历史参考。
+
+来源：https://dictionary.cambridge.org/help/phonetics.html 、有道词典、Google Translate en-GB、https://ttsmp3.com/text-to-speech/British%20English/ 。第三方录音不声明为本项目原创或开源授权。
 
 ## 验证范围
 
