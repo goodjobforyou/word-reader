@@ -48,7 +48,8 @@
     "translation": "我们应该保持健康。",
     "audio": "e54512d1b31eff",
     "exampleAudio": "75d0cee45a5812",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-01-4df38c4a8083.json"
   },
   {
     "id": 1,
@@ -99,7 +100,8 @@
     "translation": "你应该喝点水。",
     "audio": "be972c3d5fdc07",
     "exampleAudio": "0e316518ecd850",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-01-4df38c4a8083.json"
   },
   {
     "id": 2,
@@ -150,7 +152,8 @@
     "translation": "他得了流感。",
     "audio": "8207299454aac6",
     "exampleAudio": "9d7b0c3b67e0ba",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-01-4df38c4a8083.json"
   },
   {
     "id": 3,
@@ -201,7 +204,8 @@
     "translation": "我们还能做什么？",
     "audio": "042b6c0c0a6f4f",
     "exampleAudio": "23f4e4a6247bc4",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-02-40dfbbeb912b.json"
   },
   {
     "id": 4,
@@ -295,7 +299,8 @@
     "translation": "让我们一起锻炼吧！",
     "audio": "d7ba8834699db3",
     "exampleAudio": "16d1e9e193fc84",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-02-40dfbbeb912b.json"
   },
   {
     "id": 5,
@@ -361,7 +366,8 @@
     "translation": "我们需要充足的睡眠。",
     "audio": "8a938815b1b5c3",
     "exampleAudio": "6dd1a45a997111",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-02-40dfbbeb912b.json"
   },
   {
     "id": 6,
@@ -403,7 +409,8 @@
     "translation": "如果你累了，就休息一下。",
     "audio": "c4ae7a5f7a825f",
     "exampleAudio": "e336fa40623fb4",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-03-73f13e20ef15.json"
   },
   {
     "id": 7,
@@ -478,7 +485,8 @@
     "translation": "每天阅读是个好习惯。",
     "audio": "df9d32b46ea53a",
     "exampleAudio": "82f79e4d7b1d62",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-03-73f13e20ef15.json"
   },
   {
     "id": 8,
@@ -520,7 +528,8 @@
     "translation": "这是我最喜欢的电视节目。",
     "audio": "33a021be55f984",
     "exampleAudio": "23d4ae31b08bfc",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-03-73f13e20ef15.json"
   },
   {
     "id": 9,
@@ -571,7 +580,8 @@
     "translation": "电话在书桌上。",
     "audio": "0c94a33f945727",
     "exampleAudio": "c35ddffc344cb4",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-04-7e9845bcd077.json"
   },
   {
     "id": 10,
@@ -622,7 +632,8 @@
     "translation": "那么我们回家吧。",
     "audio": "da7fa21d7ee453",
     "exampleAudio": "5517b3a201c46b",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-04-7e9845bcd077.json"
   },
   {
     "id": 11,
@@ -682,7 +693,8 @@
     "translation": "我们休息一下吧。",
     "audio": "a9f651cb1a9d56",
     "exampleAudio": "79abeda0023383",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-04-7e9845bcd077.json"
   },
   {
     "id": 12,
@@ -781,7 +793,8 @@
     "translation": "我们应该爱护眼睛。",
     "audio": "217a6a81881a95",
     "exampleAudio": "9b99493055502d",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-05-de43c15a2061.json"
   },
   {
     "id": 13,
@@ -832,7 +845,8 @@
     "translation": "请检查你的作业。",
     "audio": "11a4afb41b07e5",
     "exampleAudio": "4089a2626001e6",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-05-de43c15a2061.json"
   },
   {
     "id": 14,
@@ -883,7 +897,8 @@
     "translation": "我们应该少吃糖。",
     "audio": "c0d8cd33508366",
     "exampleAudio": "ecbd4595a667ca",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-05-de43c15a2061.json"
   },
   {
     "id": 15,
@@ -943,7 +958,8 @@
     "translation": "我每天早上刷牙。",
     "audio": "11db1e0b5a74c8",
     "exampleAudio": "6878ef070b0780",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-06-016f15e1d69d.json"
   },
   {
     "id": 16,
@@ -994,7 +1010,8 @@
     "translation": "这颗牙松了。",
     "audio": "c94b9480c71463",
     "exampleAudio": "8f224d99034b91",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-06-016f15e1d69d.json"
   },
   {
     "id": 17,
@@ -1054,7 +1071,8 @@
     "translation": "我每天刷两次牙。",
     "audio": "32f475a95eabf9",
     "exampleAudio": "4ae5b45de04112",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-06-016f15e1d69d.json"
   },
   {
     "id": 18,
@@ -1095,7 +1113,8 @@
     "translation": "我每天读书一小时。",
     "audio": "1b755e0b68e834",
     "exampleAudio": "405b8f79a4cb81",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-07-e4fb7c1fc002.json"
   },
   {
     "id": 19,
@@ -1146,7 +1165,8 @@
     "translation": "你今天下午有空吗？",
     "audio": "38d85d5921f0b3",
     "exampleAudio": "414c9b74fc9724",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u4-07-e4fb7c1fc002.json"
   },
   {
     "id": 20,
@@ -1230,7 +1250,8 @@
     "translation": "我饿了。我们吃午饭吧。",
     "audio": "54b52809aa12d0",
     "exampleAudio": "31577df02fa5f8",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-01-260249400723.json"
   },
   {
     "id": 21,
@@ -1281,7 +1302,8 @@
     "translation": "我想吃一些牛肉。",
     "audio": "81fb25d3a9b65a",
     "exampleAudio": "5ad8806af446d9",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-01-260249400723.json"
   },
   {
     "id": 22,
@@ -1365,7 +1387,8 @@
     "translation": "我喜欢冰激凌。",
     "audio": "c18218db4eb77c",
     "exampleAudio": "503a35c6c5e725",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-01-260249400723.json"
   },
   {
     "id": 23,
@@ -1435,7 +1458,8 @@
     "translation": "杯子里有一点牛奶。",
     "audio": "07c5ca3e80abfd",
     "exampleAudio": "c94b087eccd704",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-02-e1a32bc8dff8.json"
   },
   {
     "id": 24,
@@ -1528,7 +1552,8 @@
     "translation": "这个饺子很好吃。",
     "audio": "144f5d6eb61693",
     "exampleAudio": "db72afa33d44c2",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-02-e1a32bc8dff8.json"
   },
   {
     "id": 25,
@@ -1570,7 +1595,8 @@
     "translation": "你想喝点茶吗？",
     "audio": "be90195a6dd43c",
     "exampleAudio": "20fecd8f8f3611",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-02-e1a32bc8dff8.json"
   },
   {
     "id": 26,
@@ -1669,7 +1695,8 @@
     "translation": "我想要一个汉堡包。",
     "audio": "37adfe87e02651",
     "exampleAudio": "6638674dbaf211",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-03-8a5baa803b30.json"
   },
   {
     "id": 27,
@@ -1724,7 +1751,8 @@
     "translation": "格林夫人是我们的老师。",
     "audio": "fbbed4070bb3d7",
     "exampleAudio": "fe925ad267da9f",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-03-8a5baa803b30.json"
   },
   {
     "id": 28,
@@ -1823,7 +1851,8 @@
     "translation": "这个椰子很大。",
     "audio": "c7d6d084931da0",
     "exampleAudio": "83618959d47424",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-03-8a5baa803b30.json"
   },
   {
     "id": 29,
@@ -1935,7 +1964,8 @@
     "translation": "这本书很有趣。",
     "audio": "3b51630d79a6d2",
     "exampleAudio": "f5cb0667b42d97",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-04-7db5c6bf2576.json"
   },
   {
     "id": 30,
@@ -1986,7 +2016,8 @@
     "translation": "把种子放进土里。",
     "audio": "2e2645fda5f682",
     "exampleAudio": "d6e93f73535996",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-04-7db5c6bf2576.json"
   },
   {
     "id": 31,
@@ -2037,7 +2068,8 @@
     "translation": "我们把胡萝卜拔出来吧。",
     "audio": "f62a352edd85fd",
     "exampleAudio": "8f5450f809dd08",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-04-7db5c6bf2576.json"
   },
   {
     "id": 32,
@@ -2097,7 +2129,8 @@
     "translation": "茎是绿色的。",
     "audio": "bbc094f254bb1a",
     "exampleAudio": "b4d11ca0d34acb",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-05-9c1afee46ee4.json"
   },
   {
     "id": 33,
@@ -2148,7 +2181,8 @@
     "translation": "根在地下。",
     "audio": "c739dd726a9486",
     "exampleAudio": "b544f92fd584d5",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-05-9c1afee46ee4.json"
   },
   {
     "id": 34,
@@ -2223,7 +2257,8 @@
     "translation": "一株莲花生长在湖中。",
     "audio": "5b2133d8febda1",
     "exampleAudio": "439d97432e2fc3",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-05-9c1afee46ee4.json"
   },
   {
     "id": 35,
@@ -2274,7 +2309,8 @@
     "translation": "这个湖很美。",
     "audio": "bec10ceb00a8fe",
     "exampleAudio": "5909c35d172d2c",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-06-db0eb0c8d579.json"
   },
   {
     "id": 36,
@@ -2334,7 +2370,8 @@
     "translation": "我们生活在一个美丽的世界里。",
     "audio": "eeca494f774639",
     "exampleAudio": "38dec028888683",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-06-db0eb0c8d579.json"
   },
   {
     "id": 37,
@@ -2394,7 +2431,8 @@
     "translation": "球是圆的。",
     "audio": "2f77c483f82299",
     "exampleAudio": "519cbf5b6b554b",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-06-db0eb0c8d579.json"
   },
   {
     "id": 38,
@@ -2482,7 +2520,8 @@
     "translation": "我们喜欢不同的颜色。",
     "audio": "4ab7cda2c890a2",
     "exampleAudio": "d0e0f0c11eace1",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-07-1fa789b0daa0.json"
   },
   {
     "id": 39,
@@ -2524,7 +2563,8 @@
     "translation": "这是一个很好的学习方法。",
     "audio": "bb18fe827ced1c",
     "exampleAudio": "e04920f92de285",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u5-07-1fa789b0daa0.json"
   },
   {
     "id": 40,
@@ -2590,7 +2630,8 @@
     "translation": "我的学校附近有一条河。",
     "audio": "8925d35c09f0ba",
     "exampleAudio": "8b44e911e0309d",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-01-29a165ababfd.json"
   },
   {
     "id": 41,
@@ -2656,7 +2697,8 @@
     "translation": "我们热爱大自然。",
     "audio": "7c4e47352e6cdc",
     "exampleAudio": "872f878dad6f46",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-01-29a165ababfd.json"
   },
   {
     "id": 42,
@@ -2755,7 +2797,8 @@
     "translation": "看那道瀑布！",
     "audio": "c7adf004f50613",
     "exampleAudio": "1d8be41571921f",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-01-29a165ababfd.json"
   },
   {
     "id": 43,
@@ -2839,7 +2882,8 @@
     "translation": "森林里有许多树。",
     "audio": "b9d1cd963558a2",
     "exampleAudio": "4faa482e422fd4",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-02-4e6c3cdbb29b.json"
   },
   {
     "id": 44,
@@ -2914,7 +2958,8 @@
     "translation": "这座城市因茶而闻名。",
     "audio": "2107342d73d770",
     "exampleAudio": "e4283100224be2",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-02-4e6c3cdbb29b.json"
   },
   {
     "id": 45,
@@ -2998,7 +3043,8 @@
     "translation": "这座山很高。",
     "audio": "db09febf380407",
     "exampleAudio": "d55d1d065a91bb",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-02-4e6c3cdbb29b.json"
   },
   {
     "id": 46,
@@ -3058,7 +3104,8 @@
     "translation": "今天风很大。",
     "audio": "0227acc55894e4",
     "exampleAudio": "759e5e7fe465f2",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-03-5a2305fe1eed.json"
   },
   {
     "id": 47,
@@ -3118,7 +3165,8 @@
     "translation": "我们要去参加学校组织的旅行。",
     "audio": "e2942c79361f70",
     "exampleAudio": "1cecec7cf23d26",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-03-5a2305fe1eed.json"
   },
   {
     "id": 48,
@@ -3226,7 +3274,8 @@
     "translation": "在这里游泳很危险。",
     "audio": "6785cb51e20c83",
     "exampleAudio": "563909af45d737",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-03-5a2305fe1eed.json"
   },
   {
     "id": 49,
@@ -3292,7 +3341,8 @@
     "translation": "今天有大雨。",
     "audio": "c39b4eb4cd93a3",
     "exampleAudio": "facded26804e86",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-04-255688c04a81.json"
   },
   {
     "id": 50,
@@ -3367,7 +3417,8 @@
     "translation": "我们住在一家小旅馆里。",
     "audio": "94a276cbbcd0d8",
     "exampleAudio": "60b0f0feb00526",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-04-255688c04a81.json"
   },
   {
     "id": 51,
@@ -3427,7 +3478,8 @@
     "translation": "请关上窗户。",
     "audio": "73e536da504921",
     "exampleAudio": "780d92624ed51d",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-04-255688c04a81.json"
   },
   {
     "id": 52,
@@ -3526,7 +3578,8 @@
     "translation": "带上你的雨伞。",
     "audio": "bdf6b71fd7ecfb",
     "exampleAudio": "63fc69cf346908",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-05-a178e5fab73a.json"
   },
   {
     "id": 53,
@@ -3610,7 +3663,8 @@
     "translation": "穿上你的雨衣。",
     "audio": "19496b36940ace",
     "exampleAudio": "627e2b13d4b0ee",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-05-a178e5fab73a.json"
   },
   {
     "id": 54,
@@ -3676,7 +3730,8 @@
     "translation": "别担心。我很好。",
     "audio": "ed9aba2e7b132b",
     "exampleAudio": "7f8d12134475af",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-05-a178e5fab73a.json"
   },
   {
     "id": 55,
@@ -3727,7 +3782,8 @@
     "translation": "今天是个晴天。",
     "audio": "cfa6d46570de16",
     "exampleAudio": "5771f1c79d6f07",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-06-84d46989cc6c.json"
   },
   {
     "id": 56,
@@ -3778,7 +3834,8 @@
     "translation": "雾中我们看不清道路。",
     "audio": "4b4cc7758543af",
     "exampleAudio": "30a748e440affe",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-06-84d46989cc6c.json"
   },
   {
     "id": 57,
@@ -3838,7 +3895,8 @@
     "translation": "大雨引发了洪水。",
     "audio": "dbe04cd7ad6a40",
     "exampleAudio": "3a5a1c14f38cc7",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-06-84d46989cc6c.json"
   },
   {
     "id": 58,
@@ -3884,7 +3942,8 @@
     "translation": "远离火。",
     "audio": "960e83a3b28ee2",
     "exampleAudio": "585a862c86dec6",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-07-ee91a44b9a87.json"
   },
   {
     "id": 59,
@@ -3926,7 +3985,8 @@
     "translation": "你知道这个地方吗？",
     "audio": "4fc10d08e1b2b5",
     "exampleAudio": "99ba44ce00361e",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-07-ee91a44b9a87.json"
   },
   {
     "id": 60,
@@ -3992,7 +4052,8 @@
     "translation": "午饭前洗手。",
     "audio": "56dc1ad33c570c",
     "exampleAudio": "7f6c29fdb1f971",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-07-ee91a44b9a87.json"
   },
   {
     "id": 61,
@@ -4091,7 +4152,8 @@
     "translation": "我们这周日去徒步旅行吧。",
     "audio": "c3e75ea46411dc",
     "exampleAudio": "d357c5e37fb291",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u6-08-57d3ec2da34b.json"
   },
   {
     "id": 62,
@@ -4151,7 +4213,8 @@
     "translation": "请带些水来。",
     "audio": "6c5c6aad217074",
     "exampleAudio": "3bf5a3f920e53e",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u6-08-57d3ec2da34b.json"
   },
   {
     "id": 63,
@@ -4202,7 +4265,8 @@
     "translation": "我们是一个好团队。",
     "audio": "6af9fdfe58bb1e",
     "exampleAudio": "e314b52e1a1a9d",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-01-25b398443066.json"
   },
   {
     "id": 64,
@@ -4268,7 +4332,8 @@
     "translation": "他是一名篮球运动员。",
     "audio": "6938bd2186b7b9",
     "exampleAudio": "6f30df3465f3d6",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-01-25b398443066.json"
   },
   {
     "id": 65,
@@ -4319,7 +4384,8 @@
     "translation": "我们来帮助他吧。",
     "audio": "356de177228607",
     "exampleAudio": "2743bdf2a09f83",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-01-25b398443066.json"
   },
   {
     "id": 66,
@@ -4394,7 +4460,8 @@
     "translation": "多么美丽的花园！",
     "audio": "2c8aa4265bf647",
     "exampleAudio": "7ed2897caf6eaa",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-02-076dcbd7dd73.json"
   },
   {
     "id": 67,
@@ -4469,7 +4536,8 @@
     "translation": "我的姐姐很聪明。",
     "audio": "6db3ebd48739f1",
     "exampleAudio": "551f7912d179f1",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-02-076dcbd7dd73.json"
   },
   {
     "id": 68,
@@ -4520,7 +4588,8 @@
     "translation": "我们的老师很年轻。",
     "audio": "3f57b97d7c981a",
     "exampleAudio": "b4d930bea5c7aa",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-02-076dcbd7dd73.json"
   },
   {
     "id": 69,
@@ -4628,7 +4697,8 @@
     "translation": "她是一个勤奋的学生。",
     "audio": "3a298fac4b814b",
     "exampleAudio": "2898001ef5a74a",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-03-610b4ff21806.json"
   },
   {
     "id": 70,
@@ -4703,7 +4773,8 @@
     "translation": "我喜欢科学。",
     "audio": "406a9e36c8524c",
     "exampleAudio": "e3ab8fd261f219",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-03-610b4ff21806.json"
   },
   {
     "id": 71,
@@ -4778,7 +4849,8 @@
     "translation": "这个机器人会跳舞。",
     "audio": "9fded907c6714d",
     "exampleAudio": "97003a443b6fba",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-03-610b4ff21806.json"
   },
   {
     "id": 72,
@@ -4838,7 +4910,8 @@
     "translation": "我能跳得很高。",
     "audio": "3e53f5c4d3e6fe",
     "exampleAudio": "7f4aa8fabf206a",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-04-1adcdff33375.json"
   },
   {
     "id": 73,
@@ -4889,7 +4962,8 @@
     "translation": "这根绳子很长。",
     "audio": "270bf2fb308f3f",
     "exampleAudio": "0400f963dfa5ab",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-04-1adcdff33375.json"
   },
   {
     "id": 74,
@@ -4970,7 +5044,8 @@
     "translation": "我会弹钢琴。",
     "audio": "16b6440a7432b7",
     "exampleAudio": "c7ca8ec7ee671d",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-04-1adcdff33375.json"
   },
   {
     "id": 75,
@@ -5021,7 +5096,8 @@
     "translation": "我们来下国际象棋吧。",
     "audio": "621330af148e6c",
     "exampleAudio": "b66a3f6de2f784",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-05-64c7a4bccc00.json"
   },
   {
     "id": 76,
@@ -5090,7 +5166,8 @@
     "translation": "老师在教室前面。",
     "audio": "c89d71a7d89647",
     "exampleAudio": "360ab13b10da2f",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-05-64c7a4bccc00.json"
   },
   {
     "id": 77,
@@ -5147,7 +5224,8 @@
     "translation": "这个游戏很容易。",
     "audio": "135289132b44b2",
     "exampleAudio": "76a55dd99b6fa3",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-05-64c7a4bccc00.json"
   },
   {
     "id": 78,
@@ -5198,7 +5276,8 @@
     "translation": "她是一位电影明星。",
     "audio": "dd4ccd7c76bb9c",
     "exampleAudio": "745bd069bfead4",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u1-06-4015d4394c41.json"
   },
   {
     "id": 79,
@@ -5301,7 +5380,8 @@
     "translation": "这个节目很精彩。",
     "audio": "ceb9ea1802dae1",
     "exampleAudio": "2cbc540f723b45",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-06-4015d4394c41.json"
   },
   {
     "id": 80,
@@ -5415,7 +5495,8 @@
     "translation": "我的朋友来自澳大利亚。",
     "audio": "3f22f7c27880f3",
     "exampleAudio": "bd26cb31a9a97b",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u1-06-4015d4394c41.json"
   },
   {
     "id": 81,
@@ -5466,7 +5547,8 @@
     "translation": "别难过。",
     "audio": "2598b9ce2f0e49",
     "exampleAudio": "835e6b8b66f011",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u2-01-08323161d48f.json"
   },
   {
     "id": 82,
@@ -5532,7 +5614,8 @@
     "translation": "怎么了？",
     "audio": "e79858511e08e5",
     "exampleAudio": "eaeca52ad350f1",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-01-08323161d48f.json"
   },
   {
     "id": 83,
@@ -5625,7 +5708,8 @@
     "translation": "我们正在做一个科学项目。",
     "audio": "d680210f283eb4",
     "exampleAudio": "648eb04c15719d",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-01-08323161d48f.json"
   },
   {
     "id": 84,
@@ -5700,7 +5784,8 @@
     "translation": "公园在镇中心。",
     "audio": "9612abacb3b1d9",
     "exampleAudio": "6551ca8291e2fe",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-02-e1a0231eeb83.json"
   },
   {
     "id": 85,
@@ -5766,7 +5851,8 @@
     "translation": "我同意你的看法。",
     "audio": "b5fb1b748a8619",
     "exampleAudio": "eb9cd6495089e9",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-02-e1a0231eeb83.json"
   },
   {
     "id": 86,
@@ -5841,7 +5927,8 @@
     "translation": "放学后我完成作业。",
     "audio": "f07056feb512f1",
     "exampleAudio": "d7d18e73191011",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-02-e1a0231eeb83.json"
   },
   {
     "id": 87,
@@ -5916,7 +6003,8 @@
     "translation": "我们星期一有英语课。",
     "audio": "1024c5ba6ea634",
     "exampleAudio": "1cdc9e8b3f1f5f",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-03-0576d0307aac.json"
   },
   {
     "id": 88,
@@ -5991,7 +6079,8 @@
     "translation": "她很担心她的小狗。",
     "audio": "cbca78a63b28a4",
     "exampleAudio": "8285d0e22596a8",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-03-0576d0307aac.json"
   },
   {
     "id": 89,
@@ -6042,7 +6131,8 @@
     "translation": "我们俩都喜欢音乐。",
     "audio": "ac4276a0851070",
     "exampleAudio": "f6faf67910fc79",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u2-03-0576d0307aac.json"
   },
   {
     "id": 90,
@@ -6136,7 +6226,8 @@
     "translation": "我对学校组织的旅行感到兴奋。",
     "audio": "d662998fe02f85",
     "exampleAudio": "2106f16480b30e",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-04-28af4f2cbef7.json"
   },
   {
     "id": 91,
@@ -6187,7 +6278,8 @@
     "translation": "这个答案是错的。",
     "audio": "c870855ed4af3b",
     "exampleAudio": "cc2c7607244615",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u2-04-28af4f2cbef7.json"
   },
   {
     "id": 92,
@@ -6262,7 +6354,8 @@
     "translation": "请不要生气。",
     "audio": "ef86ddab10ceb9",
     "exampleAudio": "8bb28d0c485bd1",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-04-28af4f2cbef7.json"
   },
   {
     "id": 93,
@@ -6337,7 +6430,8 @@
     "translation": "我害怕蛇。",
     "audio": "3e2b4f97f81f34",
     "exampleAudio": "17ee3c6c835748",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-05-2b83f9398d2c.json"
   },
   {
     "id": 94,
@@ -6421,7 +6515,8 @@
     "translation": "家长可以帮忙玩这个游戏。",
     "audio": "8cee6e210e41ac",
     "exampleAudio": "8a2cdd035f03e6",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u2-05-2b83f9398d2c.json"
   },
   {
     "id": 95,
@@ -6472,7 +6567,8 @@
     "translation": "我可以问一个问题吗？",
     "audio": "0fbd84822b42b7",
     "exampleAudio": "c59f41c138cd66",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u2-05-2b83f9398d2c.json"
   },
   {
     "id": 96,
@@ -6523,7 +6619,8 @@
     "translation": "我们搬到一所新房子里。",
     "audio": "9182fc8f77cd77",
     "exampleAudio": "a70aef96e3af9c",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u2-06-d7a78263aae3.json"
   },
   {
     "id": 97,
@@ -6574,7 +6671,8 @@
     "translation": "您真诚的，埃米。",
     "audio": "80087392e104e6",
     "exampleAudio": "f8c106987dcdb5",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u2-06-d7a78263aae3.json"
   },
   {
     "id": 98,
@@ -6666,7 +6764,8 @@
     "translation": "我们星期三有美术课。",
     "audio": "1cd72ef7e58665",
     "exampleAudio": "f453fcb64b9d2a",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-01-58205184b314.json"
   },
   {
     "id": 99,
@@ -6759,7 +6858,8 @@
     "translation": "英语是我最喜欢的科目。",
     "audio": "c9d783b74da9ca",
     "exampleAudio": "ce2b1818bb2442",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-01-58205184b314.json"
   },
   {
     "id": 100,
@@ -6834,7 +6934,8 @@
     "translation": "我们星期一有英语课。",
     "audio": "4c0b6f760b5f81",
     "exampleAudio": "8e55ac1d711a0e",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-01-58205184b314.json"
   },
   {
     "id": 101,
@@ -6913,7 +7014,8 @@
     "translation": "我星期二踢足球。",
     "audio": "01c59847eaeff5",
     "exampleAudio": "7decfd140a6f9d",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-02-997304cf8bc5.json"
   },
   {
     "id": 102,
@@ -6988,7 +7090,8 @@
     "translation": "我们星期五有音乐课。",
     "audio": "127b5d20828d5d",
     "exampleAudio": "21f9e1225ebdd2",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-02-997304cf8bc5.json"
   },
   {
     "id": 103,
@@ -7063,7 +7166,8 @@
     "translation": "我喜欢这本书，因为它很有趣。",
     "audio": "1ff662bd11b1fc",
     "exampleAudio": "59052327e95606",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-02-997304cf8bc5.json"
   },
   {
     "id": 104,
@@ -7138,7 +7242,8 @@
     "translation": "我星期四和朋友们一起读书。",
     "audio": "85004258cf5bd9",
     "exampleAudio": "2582f57144593b",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-03-5edc0e48c487.json"
   },
   {
     "id": 105,
@@ -7198,7 +7303,8 @@
     "translation": "我们开始游戏吧。",
     "audio": "67ae5f727e6299",
     "exampleAudio": "403a918f8ab62a",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u3-03-5edc0e48c487.json"
   },
   {
     "id": 106,
@@ -7298,7 +7404,8 @@
     "translation": "我通常七点起床。",
     "audio": "165e42ee0795ef",
     "exampleAudio": "2baee340bf6cc8",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-03-5edc0e48c487.json"
   },
   {
     "id": 107,
@@ -7382,7 +7489,8 @@
     "translation": "我周末去看望祖父母。",
     "audio": "bc901ec3908549",
     "exampleAudio": "b72e041701804e",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-04-be4431f6c333.json"
   },
   {
     "id": 108,
@@ -7475,7 +7583,8 @@
     "translation": "我有时步行去学校。",
     "audio": "dbc5270bb3ad65",
     "exampleAudio": "c6624c8b8d7ffb",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-04-be4431f6c333.json"
   },
   {
     "id": 109,
@@ -7565,7 +7674,8 @@
     "translation": "我们星期六去公园。",
     "audio": "50e5efe3872f0b",
     "exampleAudio": "9cc5d407758cb4",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-04-be4431f6c333.json"
   },
   {
     "id": 110,
@@ -7640,7 +7750,8 @@
     "translation": "我星期日下国际象棋。",
     "audio": "d63366aefcb6c3",
     "exampleAudio": "49984d89ca7245",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-05-3679194b0f2d.json"
   },
   {
     "id": 111,
@@ -7710,7 +7821,8 @@
     "translation": "我们今天有一节音乐课。",
     "audio": "e5f81bf53803be",
     "exampleAudio": "2893ea29103615",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-05-3679194b0f2d.json"
   },
   {
     "id": 112,
@@ -7789,7 +7901,8 @@
     "translation": "我在晚上读书。",
     "audio": "171c816872239d",
     "exampleAudio": "7b8112cf3707da",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-05-3679194b0f2d.json"
   },
   {
     "id": 113,
@@ -7859,7 +7972,8 @@
     "translation": "请回答我的问题。",
     "audio": "1cf04e171000e6",
     "exampleAudio": "51092c688697ed",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-06-a337754767b1.json"
   },
   {
     "id": 114,
@@ -7943,7 +8057,8 @@
     "translation": "我们来打乒乓球吧。",
     "audio": "b52f8f18548113",
     "exampleAudio": "dc5f1a59e61ce8",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-06-a337754767b1.json"
   },
   {
     "id": 115,
@@ -7994,7 +8109,8 @@
     "translation": "我晚上睡得很好。",
     "audio": "056e7e2cc4c35a",
     "exampleAudio": "149325ae095efa",
-    "syllablesReady": true
+    "syllablesReady": true,
+    "audioPack": "clip-u3-06-a337754767b1.json"
   },
   {
     "id": 116,
@@ -8069,7 +8185,8 @@
     "translation": "我们去看望老师。",
     "audio": "7e21a1990b5356",
     "exampleAudio": "7219c97af1afd0",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-07-2b1903ed90d6.json"
   },
   {
     "id": 117,
@@ -8199,6 +8316,7 @@
     "translation": "祖辈可以给我们讲许多故事。",
     "audio": "5c7026d444d707",
     "exampleAudio": "8a247ea6ad3069",
-    "syllablesReady": false
+    "syllablesReady": false,
+    "audioPack": "clip-u3-07-2b1903ed90d6.json"
   }
 ]

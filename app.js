@@ -2,8 +2,8 @@
 const $ = id => document.getElementById(id);
 const speaker = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg>';
 const playIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 5 11 7-11 7V5Z"/></svg>';
-let unit=4, group='bold', position=0, filtered=[], generation=0, auto=false, active=null, cancelPending=null, slowFactor=1;
-const player=$('player'), audioCache={}, loading={}, objectURLs={};
+let unit=4, group='bold', position=0, filtered=[], generation=0, auto=false, active=null, slowFactor=1;
+const player=$('player'), audio=new ReaderAudio(AUDIO_INDEX,player);
 function status(message='') { $('status').textContent=message; }
 function resetActive() {
   if (!active) return;
@@ -14,60 +14,24 @@ function renderAuto() {
   $('auto').setAttribute('aria-pressed',String(auto));
 }
 function stop() {
-  generation++; auto=false;
-  if(cancelPending) cancelPending();
-  player.pause(); player.onended=null; player.onerror=null; resetActive(); renderAuto();
-}
-async function loadAudio(u) {
-  if(audioCache[u]) return audioCache[u];
-  if(!loading[u]) {
-    const controller=new AbortController(), timer=setTimeout(()=>controller.abort(),20000);
-    loading[u]=fetch('u'+u+'.json?v=20261116b',{signal:controller.signal})
-      .then(r=>{if(!r.ok)throw Error('network');return r.json();})
-      .then(data=>audioCache[u]=data)
-      .catch(e=>{delete loading[u];throw e;})
-      .finally(()=>clearTimeout(timer));
-  }
-  return loading[u];
-}
-function audioURL(id) {
-  if(objectURLs[id]) return objectURLs[id];
-  const entry=audioCache[unit]?.[id]; if(!entry) throw Error('missing');
-  const b64=typeof entry==='string'?entry:entry.data;
-  const raw=atob(b64), bytes=new Uint8Array(raw.length);
-  for(let i=0;i<raw.length;i++)bytes[i]=raw.charCodeAt(i);
-  return objectURLs[id]=URL.createObjectURL(new Blob([bytes],{type:entry.mime||'audio/mp4'}));
+  generation++; auto=false; audio.stop(); resetActive(); renderAuto();
 }
 async function playSound(id,button,token,slow=false) {
   if(token!==generation) return false;
-  if(!audioCache[unit]) {
-    status('音频加载中…');
-    try { await loadAudio(unit); }
-    catch(e) { if(token===generation)status('音频加载失败，点一下重试');return false; }
-    if(token!==generation)return false;
+  resetActive(); active=button; button.setAttribute('aria-busy','true');
+  status(audio.raw.has(id)||audio.buffers.has(id)?'':'音频加载中…');
+  slowFactor=slow?.82:1;
+  try {
+    const ok=await audio.play(id,Number($('speed').value)*slowFactor,()=>{
+      if(token!==generation) return;
+      status();button.removeAttribute('aria-busy');button.classList.add('is-playing');button.setAttribute('aria-pressed','true');
+    });
+    if(token===generation) resetActive();
+    return ok&&token===generation;
+  } catch(e) {
+    if(token===generation) {resetActive();status('音频加载失败，请再点一次');}
+    return false;
   }
-  resetActive(); active=button; button.setAttribute('aria-busy','true'); status();
-  return new Promise(resolve=>{
-    let done=false;
-    const finish=ok=>{
-      if(done)return; done=true; clearTimeout(timer);
-      if(cancelPending===cancel)cancelPending=null;
-      player.onended=null; player.onerror=null; resetActive(); resolve(ok);
-    };
-    const cancel=()=>finish(false); cancelPending=cancel;
-    const fail=()=>{if(done)return;if(token===generation)status('暂时无法播放，请再点一次');finish(false);};
-    const timer=setTimeout(()=>{if(done)return;player.pause();fail();},30000);
-    player.onended=()=>finish(true); player.onerror=fail;
-    try {
-      player.src=audioURL(id); slowFactor=slow?.82:1;
-      player.playbackRate=Number($('speed').value)*slowFactor;
-      const promise=player.play();
-      if(promise)promise.then(()=>{
-        if(done||token!==generation)return;
-        button.removeAttribute('aria-busy');button.classList.add('is-playing');button.setAttribute('aria-pressed','true');
-      }).catch(fail);
-    } catch(e) { fail(); }
-  });
 }
 function single(id,button,slow=false) { stop();return playSound(id,button,generation,slow); }
 function writeHash() { history.replaceState(null,'','#u'+unit+'/'+group+'/'+filtered[position].id); }
@@ -133,13 +97,13 @@ function render() {
   $('previous').disabled=position===0;$('next').disabled=position===filtered.length-1;
   $('position').textContent=`${position+1} / ${filtered.length}`;
   $('progress').style.width=((position+1)/filtered.length*100)+'%';renderAuto();writeHash();
-  loadAudio(unit).catch(()=>{if(unit===w.unit)status('音频加载失败，点一下重试');});
+  audio.focus(w,filtered[position+1]);
 }
 document.querySelectorAll('[data-unit]').forEach(b=>b.onclick=()=>{stop();status();unit=Number(b.dataset.unit);position=0;render();});
 document.querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{stop();status();group=b.dataset.group;position=0;render();});
 function move(step){stop();status();position+=step;render();}
 $('previous').onclick=()=>move(-1);$('next').onclick=()=>move(1);
-$('speed').onchange=()=>{player.playbackRate=Number($('speed').value)*slowFactor;};
+$('speed').onchange=()=>{audio.setRate(Number($('speed').value)*slowFactor);};
 $('mode').onchange=()=>{stop();status();};
 $('auto').onclick=async()=>{
   if(auto){stop();return;}stop();auto=true;renderAuto();const token=generation;
@@ -166,6 +130,9 @@ function restoreHash(){
   render();
 }
 window.addEventListener('hashchange',()=>{stop();restoreHash();});
-document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();});
-window.addEventListener('pagehide',stop);
+document.addEventListener('visibilitychange',()=>{
+  if(document.hidden){stop();audio.suspend();}
+  else if(filtered[position]) audio.focus(filtered[position],filtered[position+1]);
+});
+window.addEventListener('pagehide',()=>{stop();audio.suspend();});
 restoreHash();

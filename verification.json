@@ -1,16 +1,41 @@
 {
-  "units": 6,
+  "build": "20261116-audio3",
   "entries": 118,
-  "priorityUnits": [
-    4,
-    5
-  ],
+  "audioIDs": 367,
   "prioritySyllableWords": 40,
-  "dataAndReferences": "passed",
-  "wordAndFullAutoplay": "passed in simulated DOM",
-  "cancellation": "passed",
-  "mobileLayout": "visually checked at 390x844 in Chrome device toolbar",
-  "audioPlayback": "exercise and different syllable observed playing and ending",
-  "remainingSyllables": "U1/U2/U3/U6 deferred per user request",
-  "wechatRealDevice": "not tested"
+  "sourceAudioChanged": false,
+  "allAudioReferences": "passed",
+  "wordPacks": 41,
+  "phonemeFiles": 43,
+  "maxWordPackBytes": 193139,
+  "legacyDefaultU4Bytes": 1741607,
+  "newDefaultU4Bytes": 153388,
+  "simulatedRegressions": [
+    "synchronous gesture resume",
+    "repeat playback without fetch/decode",
+    "latest tap only",
+    "stop active source",
+    "abort old unit downloads",
+    "A-B-A request race",
+    "native fallback",
+    "12 unit/category groups",
+    "both autoplay modes"
+  ],
+  "browserSlowNetwork": {
+    "server": "250ms request latency, 16KiB per 120ms",
+    "viewport": "390x844 Chrome",
+    "firstU5SchedulingMs": 1215,
+    "cachedU5SchedulingMs": 0,
+    "rapidUnits": [
+      1,
+      2,
+      3,
+      6,
+      4
+    ],
+    "latestUnitOnly": "passed"
+  },
+  "realAndroidWechat": "not tested",
+  "realIPhoneWechat": "not tested",
+  "publication": "pending"
 }
