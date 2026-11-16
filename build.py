@@ -1,15 +1,17 @@
 import json, pathlib, subprocess, base64, hashlib
 from phonics import PHONICS
+from units123 import RAW_NEW, PHONICS_NEW
+PHONICS = {**PHONICS, **PHONICS_NEW}
 ROOT = pathlib.Path(__file__).parent
 # unit | bold | starred | word | IPA | meaning | syllables (spelling~IPA) | example | translation
 RAW = '''4|0|0|stay|steɪ|待；保持；继续是|stay~steɪ|We should stay healthy.|我们应该保持健康。
 4|0|1|should|ʃʊd|（提出或征询建议）该，可以|should~ʃʊd|You should drink some water.|你应该喝点水。
 4|0|0|flu|fluː|流行性感冒；流感|flu~fluː|He has the flu.|他得了流感。
 4|0|0|else|els|其他的；别的|else~els|What else can we do?|我们还能做什么？
-4|1|1|exercise|ˈeksəsaɪz|锻炼；训练；操练|ex~eks;er~ə;cise~saɪz|Let's exercise together!|让我们一起锻炼吧！
+4|1|1|exercise|ˈeksəsaɪz|锻炼；训练；操练|ex~ek;er~sə;cise~saɪz|Let's exercise together!|让我们一起锻炼吧！
 4|0|0|enough|ɪˈnʌf|足够的；充足的；充分的|e~ɪ;nough~nʌf|We need enough sleep.|我们需要充足的睡眠。
 4|0|0|if|ɪf|如果；假若；倘若|if~ɪf|If you are tired, take a rest.|如果你累了，就休息一下。
-4|0|0|habit|ˈhæbɪt|习惯|ha~hæ;bit~bɪt|Reading every day is a good habit.|每天阅读是个好习惯。
+4|0|0|habit|ˈhæbɪt|习惯|hab~hæb;it~ɪt|Reading every day is a good habit.|每天阅读是个好习惯。
 4|0|1|show|ʃəʊ|（电视或广播）节目|show~ʃəʊ|This is my favourite TV show.|这是我最喜欢的电视节目。
 4|1|1|phone|fəʊn|电话；电话机|phone~fəʊn|The phone is on the desk.|电话在书桌上。
 4|0|1|then|ðen|那么；因此；既然如此|then~ðen|Then let's go home.|那么我们回家吧。
@@ -51,7 +53,7 @@ RAW = '''4|0|0|stay|steɪ|待；保持；继续是|stay~steɪ|We should stay hea
 6|0|0|wind|wɪnd|风；气流|wind~wɪnd|The wind is strong today.|今天风很大。
 6|0|0|trip|trɪp|（尤指短程往返的）旅行，旅游，出行|trip~trɪp|We are going on a school trip.|我们要去参加学校组织的旅行。
 6|0|0|dangerous|ˈdeɪndʒərəs|有危险的；不安全的|dan~deɪn;ge~dʒə;rous~rəs|It is dangerous to swim here.|在这里游泳很危险。
-6|0|1|heavy|ˈhevi|程度大的；严重的|hea~he;vy~vi|There is heavy rain today.|今天有大雨。
+6|0|1|heavy|ˈhevi|程度大的；严重的|heav~hev;y~i|There is heavy rain today.|今天有大雨。
 6|0|0|hotel|həʊˈtel|旅馆；旅社|ho~həʊ;tel~tel|We stay at a small hotel.|我们住在一家小旅馆里。
 6|0|1|close|kləʊz|关；关闭；闭上|close~kləʊz|Please close the window.|请关上窗户。
 6|0|1|umbrella|ʌmˈbrelə|伞；雨伞|um~ʌm;brel~bre;la~lə|Take your umbrella.|带上你的雨伞。
@@ -73,7 +75,7 @@ def sound(text, ipa=None, voice=None):
     key=hashlib.sha256((text+'|'+str(ipa)+'|'+voice).encode()).hexdigest()[:14]
     jobs[key]={'id':key,'text':text,'ipa':ipa,'voice':voice}
     return key
-for i,line in enumerate(RAW.splitlines()):
+for i,line in enumerate((RAW + "\n" + RAW_NEW).splitlines()):
     unit,bold,star,word,ipa,meaning,parts,example,translation=line.split('|')
     parts=parts.replace('n ut','nut')
     syllables=[]
@@ -86,8 +88,8 @@ for i,line in enumerate(RAW.splitlines()):
         phonics.append({'text':spelling,'sounds':[{'ipa':p,'audio':sound('sound',p)} for p in phones.split(',') if p]})
     voice='male' if i%2==0 else 'female'
     words.append({'id':i,'unit':int(unit),'bold':bold=='1','star':star=='1','word':word,'ipa':ipa,'meaning':meaning,'syllables':syllables,'phonics':phonics,'example':example,'translation':translation,'audio':sound('Missus' if word=='Mrs' else word,voice=voice),'exampleAudio':sound(example,voice='female' if voice=='male' else 'male')})
-assert len(words)==63
-for unit in (4,5,6):
+assert len(words)==118
+for unit in range(1,7):
     subset=[w for w in words if w['unit']==unit]
     print(unit,len(subset),'bold',sum(w['bold'] for w in subset))
 (ROOT/'words.json').write_text(json.dumps(words,ensure_ascii=False,indent=2))

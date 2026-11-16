@@ -11,7 +11,8 @@
       {
         "text": "stay",
         "ipa": "steɪ",
-        "audio": "2a2f13c2bb9223"
+        "audio": "2a2f13c2bb9223",
+        "available": true
       }
     ],
     "phonics": [
@@ -46,7 +47,8 @@
     "example": "We should stay healthy.",
     "translation": "我们应该保持健康。",
     "audio": "e54512d1b31eff",
-    "exampleAudio": "75d0cee45a5812"
+    "exampleAudio": "75d0cee45a5812",
+    "syllablesReady": true
   },
   {
     "id": 1,
@@ -60,7 +62,8 @@
       {
         "text": "should",
         "ipa": "ʃʊd",
-        "audio": "db7db6dccc90fd"
+        "audio": "db7db6dccc90fd",
+        "available": true
       }
     ],
     "phonics": [
@@ -95,7 +98,8 @@
     "example": "You should drink some water.",
     "translation": "你应该喝点水。",
     "audio": "be972c3d5fdc07",
-    "exampleAudio": "0e316518ecd850"
+    "exampleAudio": "0e316518ecd850",
+    "syllablesReady": true
   },
   {
     "id": 2,
@@ -109,7 +113,8 @@
       {
         "text": "flu",
         "ipa": "fluː",
-        "audio": "a85a29feed39eb"
+        "audio": "a85a29feed39eb",
+        "available": true
       }
     ],
     "phonics": [
@@ -144,7 +149,8 @@
     "example": "He has the flu.",
     "translation": "他得了流感。",
     "audio": "8207299454aac6",
-    "exampleAudio": "9d7b0c3b67e0ba"
+    "exampleAudio": "9d7b0c3b67e0ba",
+    "syllablesReady": true
   },
   {
     "id": 3,
@@ -158,7 +164,8 @@
       {
         "text": "else",
         "ipa": "els",
-        "audio": "09506fd597117b"
+        "audio": "09506fd597117b",
+        "available": true
       }
     ],
     "phonics": [
@@ -193,7 +200,8 @@
     "example": "What else can we do?",
     "translation": "我们还能做什么？",
     "audio": "042b6c0c0a6f4f",
-    "exampleAudio": "23f4e4a6247bc4"
+    "exampleAudio": "23f4e4a6247bc4",
+    "syllablesReady": true
   },
   {
     "id": 4,
@@ -206,18 +214,21 @@
     "syllables": [
       {
         "text": "ex",
-        "ipa": "eks",
-        "audio": "71083769801a9d"
+        "ipa": "ek",
+        "audio": "ee538955fcd40a",
+        "available": true
       },
       {
         "text": "er",
-        "ipa": "ə",
-        "audio": "c01fb921053345"
+        "ipa": "sə",
+        "audio": "0a44e4180bbe7e",
+        "available": true
       },
       {
         "text": "cise",
         "ipa": "saɪz",
-        "audio": "6377fe2136d4f4"
+        "audio": "6377fe2136d4f4",
+        "available": true
       }
     ],
     "phonics": [
@@ -283,7 +294,8 @@
     "example": "Let's exercise together!",
     "translation": "让我们一起锻炼吧！",
     "audio": "d7ba8834699db3",
-    "exampleAudio": "16d1e9e193fc84"
+    "exampleAudio": "16d1e9e193fc84",
+    "syllablesReady": true
   },
   {
     "id": 5,
@@ -297,12 +309,14 @@
       {
         "text": "e",
         "ipa": "ɪ",
-        "audio": "bf27c43688d6e5"
+        "audio": "bf27c43688d6e5",
+        "available": true
       },
       {
         "text": "nough",
         "ipa": "nʌf",
-        "audio": "0137be5a025a5c"
+        "audio": "0137be5a025a5c",
+        "available": true
       }
     ],
     "phonics": [
@@ -346,7 +360,8 @@
     "example": "We need enough sleep.",
     "translation": "我们需要充足的睡眠。",
     "audio": "8a938815b1b5c3",
-    "exampleAudio": "6dd1a45a997111"
+    "exampleAudio": "6dd1a45a997111",
+    "syllablesReady": true
   },
   {
     "id": 6,
@@ -360,7 +375,8 @@
       {
         "text": "if",
         "ipa": "ɪf",
-        "audio": "f15a19af0896d4"
+        "audio": "f15a19af0896d4",
+        "available": true
       }
     ],
     "phonics": [
@@ -386,7 +402,8 @@
     "example": "If you are tired, take a rest.",
     "translation": "如果你累了，就休息一下。",
     "audio": "c4ae7a5f7a825f",
-    "exampleAudio": "e336fa40623fb4"
+    "exampleAudio": "e336fa40623fb4",
+    "syllablesReady": true
   },
   {
     "id": 7,
@@ -398,14 +415,16 @@
     "meaning": "习惯",
     "syllables": [
       {
-        "text": "ha",
-        "ipa": "hæ",
-        "audio": "38184fea32e9e6"
+        "text": "hab",
+        "ipa": "hæb",
+        "audio": "6153f23c8b336a",
+        "available": true
       },
       {
-        "text": "bit",
-        "ipa": "bɪt",
-        "audio": "90b6d33cfec941"
+        "text": "it",
+        "ipa": "ɪt",
+        "audio": "d3bbe8ee735b5b",
+        "available": true
       }
     ],
     "phonics": [
@@ -458,7 +477,8 @@
     "example": "Reading every day is a good habit.",
     "translation": "每天阅读是个好习惯。",
     "audio": "df9d32b46ea53a",
-    "exampleAudio": "82f79e4d7b1d62"
+    "exampleAudio": "82f79e4d7b1d62",
+    "syllablesReady": true
   },
   {
     "id": 8,
@@ -472,7 +492,8 @@
       {
         "text": "show",
         "ipa": "ʃəʊ",
-        "audio": "5d4f435da3c693"
+        "audio": "5d4f435da3c693",
+        "available": true
       }
     ],
     "phonics": [
@@ -498,7 +519,8 @@
     "example": "This is my favourite TV show.",
     "translation": "这是我最喜欢的电视节目。",
     "audio": "33a021be55f984",
-    "exampleAudio": "23d4ae31b08bfc"
+    "exampleAudio": "23d4ae31b08bfc",
+    "syllablesReady": true
   },
   {
     "id": 9,
@@ -512,7 +534,8 @@
       {
         "text": "phone",
         "ipa": "fəʊn",
-        "audio": "1bc954d05c8421"
+        "audio": "1bc954d05c8421",
+        "available": true
       }
     ],
     "phonics": [
@@ -547,7 +570,8 @@
     "example": "The phone is on the desk.",
     "translation": "电话在书桌上。",
     "audio": "0c94a33f945727",
-    "exampleAudio": "c35ddffc344cb4"
+    "exampleAudio": "c35ddffc344cb4",
+    "syllablesReady": true
   },
   {
     "id": 10,
@@ -561,7 +585,8 @@
       {
         "text": "then",
         "ipa": "ðen",
-        "audio": "d1798d2abfa24e"
+        "audio": "d1798d2abfa24e",
+        "available": true
       }
     ],
     "phonics": [
@@ -596,7 +621,8 @@
     "example": "Then let's go home.",
     "translation": "那么我们回家吧。",
     "audio": "da7fa21d7ee453",
-    "exampleAudio": "5517b3a201c46b"
+    "exampleAudio": "5517b3a201c46b",
+    "syllablesReady": true
   },
   {
     "id": 11,
@@ -610,7 +636,8 @@
       {
         "text": "rest",
         "ipa": "rest",
-        "audio": "c1668ff1b518d0"
+        "audio": "c1668ff1b518d0",
+        "available": true
       }
     ],
     "phonics": [
@@ -654,7 +681,8 @@
     "example": "Let's have a rest.",
     "translation": "我们休息一下吧。",
     "audio": "a9f651cb1a9d56",
-    "exampleAudio": "79abeda0023383"
+    "exampleAudio": "79abeda0023383",
+    "syllablesReady": true
   },
   {
     "id": 12,
@@ -668,17 +696,20 @@
       {
         "text": "take",
         "ipa": "teɪk",
-        "audio": "1ae70d4390ac8b"
+        "audio": "1ae70d4390ac8b",
+        "available": true
       },
       {
         "text": "care",
         "ipa": "keə",
-        "audio": "ab6530cb1fba55"
+        "audio": "ab6530cb1fba55",
+        "available": true
       },
       {
         "text": "of",
         "ipa": "əv",
-        "audio": "1ba9ad55427d74"
+        "audio": "1ba9ad55427d74",
+        "available": true
       }
     ],
     "phonics": [
@@ -749,7 +780,8 @@
     "example": "We should take care of our eyes.",
     "translation": "我们应该爱护眼睛。",
     "audio": "217a6a81881a95",
-    "exampleAudio": "9b99493055502d"
+    "exampleAudio": "9b99493055502d",
+    "syllablesReady": true
   },
   {
     "id": 13,
@@ -763,7 +795,8 @@
       {
         "text": "check",
         "ipa": "tʃek",
-        "audio": "b43e006a75d6fb"
+        "audio": "b43e006a75d6fb",
+        "available": true
       }
     ],
     "phonics": [
@@ -798,7 +831,8 @@
     "example": "Please check your homework.",
     "translation": "请检查你的作业。",
     "audio": "11a4afb41b07e5",
-    "exampleAudio": "4089a2626001e6"
+    "exampleAudio": "4089a2626001e6",
+    "syllablesReady": true
   },
   {
     "id": 14,
@@ -812,7 +846,8 @@
       {
         "text": "less",
         "ipa": "les",
-        "audio": "28cf12b258746d"
+        "audio": "28cf12b258746d",
+        "available": true
       }
     ],
     "phonics": [
@@ -847,7 +882,8 @@
     "example": "We should eat less sugar.",
     "translation": "我们应该少吃糖。",
     "audio": "c0d8cd33508366",
-    "exampleAudio": "ecbd4595a667ca"
+    "exampleAudio": "ecbd4595a667ca",
+    "syllablesReady": true
   },
   {
     "id": 15,
@@ -861,7 +897,8 @@
       {
         "text": "brush",
         "ipa": "brʌʃ",
-        "audio": "c9064931e882f1"
+        "audio": "c9064931e882f1",
+        "available": true
       }
     ],
     "phonics": [
@@ -905,7 +942,8 @@
     "example": "I brush my teeth every morning.",
     "translation": "我每天早上刷牙。",
     "audio": "11db1e0b5a74c8",
-    "exampleAudio": "6878ef070b0780"
+    "exampleAudio": "6878ef070b0780",
+    "syllablesReady": true
   },
   {
     "id": 16,
@@ -919,7 +957,8 @@
       {
         "text": "tooth",
         "ipa": "tuːθ",
-        "audio": "8a84264580e888"
+        "audio": "8a84264580e888",
+        "available": true
       }
     ],
     "phonics": [
@@ -954,7 +993,8 @@
     "example": "This tooth is loose.",
     "translation": "这颗牙松了。",
     "audio": "c94b9480c71463",
-    "exampleAudio": "8f224d99034b91"
+    "exampleAudio": "8f224d99034b91",
+    "syllablesReady": true
   },
   {
     "id": 17,
@@ -968,7 +1008,8 @@
       {
         "text": "twice",
         "ipa": "twaɪs",
-        "audio": "28f8f8c76cd113"
+        "audio": "28f8f8c76cd113",
+        "available": true
       }
     ],
     "phonics": [
@@ -1012,7 +1053,8 @@
     "example": "I brush my teeth twice a day.",
     "translation": "我每天刷两次牙。",
     "audio": "32f475a95eabf9",
-    "exampleAudio": "4ae5b45de04112"
+    "exampleAudio": "4ae5b45de04112",
+    "syllablesReady": true
   },
   {
     "id": 18,
@@ -1026,7 +1068,8 @@
       {
         "text": "hour",
         "ipa": "aʊə",
-        "audio": "8290a1b06ed621"
+        "audio": "8290a1b06ed621",
+        "available": true
       }
     ],
     "phonics": [
@@ -1051,7 +1094,8 @@
     "example": "I read for an hour every day.",
     "translation": "我每天读书一小时。",
     "audio": "1b755e0b68e834",
-    "exampleAudio": "405b8f79a4cb81"
+    "exampleAudio": "405b8f79a4cb81",
+    "syllablesReady": true
   },
   {
     "id": 19,
@@ -1065,7 +1109,8 @@
       {
         "text": "free",
         "ipa": "friː",
-        "audio": "514ea739c9547a"
+        "audio": "514ea739c9547a",
+        "available": true
       }
     ],
     "phonics": [
@@ -1100,7 +1145,8 @@
     "example": "Are you free this afternoon?",
     "translation": "你今天下午有空吗？",
     "audio": "38d85d5921f0b3",
-    "exampleAudio": "414c9b74fc9724"
+    "exampleAudio": "414c9b74fc9724",
+    "syllablesReady": true
   },
   {
     "id": 20,
@@ -1114,12 +1160,14 @@
       {
         "text": "hun",
         "ipa": "hʌŋ",
-        "audio": "081b4bf7f21118"
+        "audio": "081b4bf7f21118",
+        "available": true
       },
       {
         "text": "gry",
         "ipa": "ɡri",
-        "audio": "0e489ad536ae18"
+        "audio": "0e489ad536ae18",
+        "available": true
       }
     ],
     "phonics": [
@@ -1181,7 +1229,8 @@
     "example": "I'm hungry. Let's have lunch.",
     "translation": "我饿了。我们吃午饭吧。",
     "audio": "54b52809aa12d0",
-    "exampleAudio": "31577df02fa5f8"
+    "exampleAudio": "31577df02fa5f8",
+    "syllablesReady": true
   },
   {
     "id": 21,
@@ -1195,7 +1244,8 @@
       {
         "text": "beef",
         "ipa": "biːf",
-        "audio": "2748f887795691"
+        "audio": "2748f887795691",
+        "available": true
       }
     ],
     "phonics": [
@@ -1230,7 +1280,8 @@
     "example": "I'd like some beef.",
     "translation": "我想吃一些牛肉。",
     "audio": "81fb25d3a9b65a",
-    "exampleAudio": "5ad8806af446d9"
+    "exampleAudio": "5ad8806af446d9",
+    "syllablesReady": true
   },
   {
     "id": 22,
@@ -1244,12 +1295,14 @@
       {
         "text": "ice",
         "ipa": "aɪs",
-        "audio": "6c1d875e449369"
+        "audio": "6c1d875e449369",
+        "available": true
       },
       {
         "text": "cream",
         "ipa": "kriːm",
-        "audio": "be3cfcd6d507e9"
+        "audio": "be3cfcd6d507e9",
+        "available": true
       }
     ],
     "phonics": [
@@ -1311,7 +1364,8 @@
     "example": "I like ice cream.",
     "translation": "我喜欢冰激凌。",
     "audio": "c18218db4eb77c",
-    "exampleAudio": "503a35c6c5e725"
+    "exampleAudio": "503a35c6c5e725",
+    "syllablesReady": true
   },
   {
     "id": 23,
@@ -1325,12 +1379,14 @@
       {
         "text": "lit",
         "ipa": "lɪt",
-        "audio": "46910977fb0121"
+        "audio": "46910977fb0121",
+        "available": true
       },
       {
         "text": "tle",
         "ipa": "əl",
-        "audio": "3cf048b6124127"
+        "audio": "3cf048b6124127",
+        "available": true
       }
     ],
     "phonics": [
@@ -1378,7 +1434,8 @@
     "example": "There is a little milk in the cup.",
     "translation": "杯子里有一点牛奶。",
     "audio": "07c5ca3e80abfd",
-    "exampleAudio": "c94b087eccd704"
+    "exampleAudio": "c94b087eccd704",
+    "syllablesReady": true
   },
   {
     "id": 24,
@@ -1392,12 +1449,14 @@
       {
         "text": "dump",
         "ipa": "dʌmp",
-        "audio": "3d62fba4124b29"
+        "audio": "3d62fba4124b29",
+        "available": true
       },
       {
         "text": "ling",
         "ipa": "lɪŋ",
-        "audio": "43e2d2f10e1f4b"
+        "audio": "43e2d2f10e1f4b",
+        "available": true
       }
     ],
     "phonics": [
@@ -1468,7 +1527,8 @@
     "example": "This dumpling is delicious.",
     "translation": "这个饺子很好吃。",
     "audio": "144f5d6eb61693",
-    "exampleAudio": "db72afa33d44c2"
+    "exampleAudio": "db72afa33d44c2",
+    "syllablesReady": true
   },
   {
     "id": 25,
@@ -1482,7 +1542,8 @@
       {
         "text": "tea",
         "ipa": "tiː",
-        "audio": "a247d03b37863d"
+        "audio": "a247d03b37863d",
+        "available": true
       }
     ],
     "phonics": [
@@ -1508,7 +1569,8 @@
     "example": "Would you like some tea?",
     "translation": "你想喝点茶吗？",
     "audio": "be90195a6dd43c",
-    "exampleAudio": "20fecd8f8f3611"
+    "exampleAudio": "20fecd8f8f3611",
+    "syllablesReady": true
   },
   {
     "id": 26,
@@ -1522,17 +1584,20 @@
       {
         "text": "ham",
         "ipa": "hæm",
-        "audio": "b5cdba738a498d"
+        "audio": "b5cdba738a498d",
+        "available": true
       },
       {
         "text": "bur",
         "ipa": "bɜː",
-        "audio": "3b0ccd052e14e4"
+        "audio": "3b0ccd052e14e4",
+        "available": true
       },
       {
         "text": "ger",
         "ipa": "ɡə",
-        "audio": "5946224befcdd2"
+        "audio": "5946224befcdd2",
+        "available": true
       }
     ],
     "phonics": [
@@ -1603,7 +1668,8 @@
     "example": "I'd like a hamburger.",
     "translation": "我想要一个汉堡包。",
     "audio": "37adfe87e02651",
-    "exampleAudio": "6638674dbaf211"
+    "exampleAudio": "6638674dbaf211",
+    "syllablesReady": true
   },
   {
     "id": 27,
@@ -1617,12 +1683,14 @@
       {
         "text": "Mrs",
         "ipa": "mɪ",
-        "audio": "d0f69d635a62b8"
+        "audio": "d0f69d635a62b8",
+        "available": true
       },
       {
         "text": "Mrs",
         "ipa": "sɪz",
-        "audio": "cbd4a77cf29ab8"
+        "audio": "cbd4a77cf29ab8",
+        "available": true
       }
     ],
     "phonics": [
@@ -1655,7 +1723,8 @@
     "example": "Mrs Green is our teacher.",
     "translation": "格林夫人是我们的老师。",
     "audio": "fbbed4070bb3d7",
-    "exampleAudio": "fe925ad267da9f"
+    "exampleAudio": "fe925ad267da9f",
+    "syllablesReady": true
   },
   {
     "id": 28,
@@ -1669,17 +1738,20 @@
       {
         "text": "co",
         "ipa": "kəʊ",
-        "audio": "55a91ac7a5f490"
+        "audio": "55a91ac7a5f490",
+        "available": true
       },
       {
         "text": "co",
         "ipa": "kə",
-        "audio": "1e03dd7a88f59c"
+        "audio": "1e03dd7a88f59c",
+        "available": true
       },
       {
         "text": "nut",
         "ipa": "nʌt",
-        "audio": "c502aa17656202"
+        "audio": "c502aa17656202",
+        "available": true
       }
     ],
     "phonics": [
@@ -1750,7 +1822,8 @@
     "example": "This coconut is big.",
     "translation": "这个椰子很大。",
     "audio": "c7d6d084931da0",
-    "exampleAudio": "83618959d47424"
+    "exampleAudio": "83618959d47424",
+    "syllablesReady": true
   },
   {
     "id": 29,
@@ -1764,17 +1837,20 @@
       {
         "text": "in",
         "ipa": "ɪn",
-        "audio": "802e0235cca67c"
+        "audio": "802e0235cca67c",
+        "available": true
       },
       {
         "text": "teres",
         "ipa": "trəs",
-        "audio": "33742b3c32ddc9"
+        "audio": "33742b3c32ddc9",
+        "available": true
       },
       {
         "text": "ting",
         "ipa": "tɪŋ",
-        "audio": "b687acc58cc42f"
+        "audio": "b687acc58cc42f",
+        "available": true
       }
     ],
     "phonics": [
@@ -1858,7 +1934,8 @@
     "example": "This book is interesting.",
     "translation": "这本书很有趣。",
     "audio": "3b51630d79a6d2",
-    "exampleAudio": "f5cb0667b42d97"
+    "exampleAudio": "f5cb0667b42d97",
+    "syllablesReady": true
   },
   {
     "id": 30,
@@ -1872,7 +1949,8 @@
       {
         "text": "seed",
         "ipa": "siːd",
-        "audio": "7c690914313502"
+        "audio": "7c690914313502",
+        "available": true
       }
     ],
     "phonics": [
@@ -1907,7 +1985,8 @@
     "example": "Put the seed in the soil.",
     "translation": "把种子放进土里。",
     "audio": "2e2645fda5f682",
-    "exampleAudio": "d6e93f73535996"
+    "exampleAudio": "d6e93f73535996",
+    "syllablesReady": true
   },
   {
     "id": 31,
@@ -1921,7 +2000,8 @@
       {
         "text": "pull",
         "ipa": "pʊl",
-        "audio": "737add44595752"
+        "audio": "737add44595752",
+        "available": true
       }
     ],
     "phonics": [
@@ -1956,7 +2036,8 @@
     "example": "Let's pull up the carrot.",
     "translation": "我们把胡萝卜拔出来吧。",
     "audio": "f62a352edd85fd",
-    "exampleAudio": "8f5450f809dd08"
+    "exampleAudio": "8f5450f809dd08",
+    "syllablesReady": true
   },
   {
     "id": 32,
@@ -1970,7 +2051,8 @@
       {
         "text": "stem",
         "ipa": "stem",
-        "audio": "fcf9610d690b92"
+        "audio": "fcf9610d690b92",
+        "available": true
       }
     ],
     "phonics": [
@@ -2014,7 +2096,8 @@
     "example": "The stem is green.",
     "translation": "茎是绿色的。",
     "audio": "bbc094f254bb1a",
-    "exampleAudio": "b4d11ca0d34acb"
+    "exampleAudio": "b4d11ca0d34acb",
+    "syllablesReady": true
   },
   {
     "id": 33,
@@ -2028,7 +2111,8 @@
       {
         "text": "root",
         "ipa": "ruːt",
-        "audio": "607da766b6a8a1"
+        "audio": "607da766b6a8a1",
+        "available": true
       }
     ],
     "phonics": [
@@ -2063,7 +2147,8 @@
     "example": "The root is under the ground.",
     "translation": "根在地下。",
     "audio": "c739dd726a9486",
-    "exampleAudio": "b544f92fd584d5"
+    "exampleAudio": "b544f92fd584d5",
+    "syllablesReady": true
   },
   {
     "id": 34,
@@ -2077,12 +2162,14 @@
       {
         "text": "lo",
         "ipa": "ləʊ",
-        "audio": "322b15e48f392f"
+        "audio": "322b15e48f392f",
+        "available": true
       },
       {
         "text": "tus",
         "ipa": "təs",
-        "audio": "52c84ef194562e"
+        "audio": "52c84ef194562e",
+        "available": true
       }
     ],
     "phonics": [
@@ -2135,7 +2222,8 @@
     "example": "A lotus grows in the lake.",
     "translation": "一株莲花生长在湖中。",
     "audio": "5b2133d8febda1",
-    "exampleAudio": "439d97432e2fc3"
+    "exampleAudio": "439d97432e2fc3",
+    "syllablesReady": true
   },
   {
     "id": 35,
@@ -2149,7 +2237,8 @@
       {
         "text": "lake",
         "ipa": "leɪk",
-        "audio": "a80de6a97da5bc"
+        "audio": "a80de6a97da5bc",
+        "available": true
       }
     ],
     "phonics": [
@@ -2184,7 +2273,8 @@
     "example": "The lake is beautiful.",
     "translation": "这个湖很美。",
     "audio": "bec10ceb00a8fe",
-    "exampleAudio": "5909c35d172d2c"
+    "exampleAudio": "5909c35d172d2c",
+    "syllablesReady": true
   },
   {
     "id": 36,
@@ -2198,7 +2288,8 @@
       {
         "text": "world",
         "ipa": "wɜːld",
-        "audio": "8d502d7c07de66"
+        "audio": "8d502d7c07de66",
+        "available": true
       }
     ],
     "phonics": [
@@ -2242,7 +2333,8 @@
     "example": "We live in a beautiful world.",
     "translation": "我们生活在一个美丽的世界里。",
     "audio": "eeca494f774639",
-    "exampleAudio": "38dec028888683"
+    "exampleAudio": "38dec028888683",
+    "syllablesReady": true
   },
   {
     "id": 37,
@@ -2256,7 +2348,8 @@
       {
         "text": "round",
         "ipa": "raʊnd",
-        "audio": "eba7f9b1a6a204"
+        "audio": "eba7f9b1a6a204",
+        "available": true
       }
     ],
     "phonics": [
@@ -2300,7 +2393,8 @@
     "example": "The ball is round.",
     "translation": "球是圆的。",
     "audio": "2f77c483f82299",
-    "exampleAudio": "519cbf5b6b554b"
+    "exampleAudio": "519cbf5b6b554b",
+    "syllablesReady": true
   },
   {
     "id": 38,
@@ -2314,12 +2408,14 @@
       {
         "text": "dif",
         "ipa": "dɪf",
-        "audio": "d4bd34d121b1d1"
+        "audio": "d4bd34d121b1d1",
+        "available": true
       },
       {
         "text": "ferent",
         "ipa": "rənt",
-        "audio": "f9c10afab49139"
+        "audio": "f9c10afab49139",
+        "available": true
       }
     ],
     "phonics": [
@@ -2385,7 +2481,8 @@
     "example": "We like different colours.",
     "translation": "我们喜欢不同的颜色。",
     "audio": "4ab7cda2c890a2",
-    "exampleAudio": "d0e0f0c11eace1"
+    "exampleAudio": "d0e0f0c11eace1",
+    "syllablesReady": true
   },
   {
     "id": 39,
@@ -2399,7 +2496,8 @@
       {
         "text": "way",
         "ipa": "weɪ",
-        "audio": "50c3611ce3492e"
+        "audio": "50c3611ce3492e",
+        "available": true
       }
     ],
     "phonics": [
@@ -2425,7 +2523,8 @@
     "example": "This is a good way to learn.",
     "translation": "这是一个很好的学习方法。",
     "audio": "bb18fe827ced1c",
-    "exampleAudio": "e04920f92de285"
+    "exampleAudio": "e04920f92de285",
+    "syllablesReady": true
   },
   {
     "id": 40,
@@ -2439,12 +2538,14 @@
       {
         "text": "riv",
         "ipa": "rɪv",
-        "audio": "736c36d08f5442"
+        "audio": "736c36d08f5442",
+        "available": false
       },
       {
         "text": "er",
         "ipa": "ə",
-        "audio": "c01fb921053345"
+        "audio": "c01fb921053345",
+        "available": false
       }
     ],
     "phonics": [
@@ -2488,7 +2589,8 @@
     "example": "There is a river near my school.",
     "translation": "我的学校附近有一条河。",
     "audio": "8925d35c09f0ba",
-    "exampleAudio": "8b44e911e0309d"
+    "exampleAudio": "8b44e911e0309d",
+    "syllablesReady": false
   },
   {
     "id": 41,
@@ -2502,12 +2604,14 @@
       {
         "text": "na",
         "ipa": "neɪ",
-        "audio": "0f092fa873de65"
+        "audio": "0f092fa873de65",
+        "available": false
       },
       {
         "text": "ture",
         "ipa": "tʃə",
-        "audio": "7f9596c69f0bfc"
+        "audio": "7f9596c69f0bfc",
+        "available": false
       }
     ],
     "phonics": [
@@ -2551,7 +2655,8 @@
     "example": "We love nature.",
     "translation": "我们热爱大自然。",
     "audio": "7c4e47352e6cdc",
-    "exampleAudio": "872f878dad6f46"
+    "exampleAudio": "872f878dad6f46",
+    "syllablesReady": false
   },
   {
     "id": 42,
@@ -2565,17 +2670,20 @@
       {
         "text": "wa",
         "ipa": "wɔː",
-        "audio": "afefd7ab8fb5f1"
+        "audio": "afefd7ab8fb5f1",
+        "available": false
       },
       {
         "text": "ter",
         "ipa": "tə",
-        "audio": "aadba06d2dbabf"
+        "audio": "aadba06d2dbabf",
+        "available": false
       },
       {
         "text": "fall",
         "ipa": "fɔːl",
-        "audio": "7c89a61380e26b"
+        "audio": "7c89a61380e26b",
+        "available": false
       }
     ],
     "phonics": [
@@ -2646,7 +2754,8 @@
     "example": "Look at that waterfall!",
     "translation": "看那道瀑布！",
     "audio": "c7adf004f50613",
-    "exampleAudio": "1d8be41571921f"
+    "exampleAudio": "1d8be41571921f",
+    "syllablesReady": false
   },
   {
     "id": 43,
@@ -2660,12 +2769,14 @@
       {
         "text": "for",
         "ipa": "fɒr",
-        "audio": "d99c1195cf2425"
+        "audio": "d99c1195cf2425",
+        "available": false
       },
       {
         "text": "est",
         "ipa": "ɪst",
-        "audio": "7ff8d483ee3cd6"
+        "audio": "7ff8d483ee3cd6",
+        "available": false
       }
     ],
     "phonics": [
@@ -2727,7 +2838,8 @@
     "example": "There are many trees in the forest.",
     "translation": "森林里有许多树。",
     "audio": "b9d1cd963558a2",
-    "exampleAudio": "4faa482e422fd4"
+    "exampleAudio": "4faa482e422fd4",
+    "syllablesReady": false
   },
   {
     "id": 44,
@@ -2741,12 +2853,14 @@
       {
         "text": "fa",
         "ipa": "feɪ",
-        "audio": "52d355ceba19a7"
+        "audio": "52d355ceba19a7",
+        "available": false
       },
       {
         "text": "mous",
         "ipa": "məs",
-        "audio": "8f40432b52b79d"
+        "audio": "8f40432b52b79d",
+        "available": false
       }
     ],
     "phonics": [
@@ -2799,7 +2913,8 @@
     "example": "This city is famous for its tea.",
     "translation": "这座城市因茶而闻名。",
     "audio": "2107342d73d770",
-    "exampleAudio": "e4283100224be2"
+    "exampleAudio": "e4283100224be2",
+    "syllablesReady": false
   },
   {
     "id": 45,
@@ -2813,12 +2928,14 @@
       {
         "text": "moun",
         "ipa": "maʊn",
-        "audio": "440fbd5d5e7249"
+        "audio": "440fbd5d5e7249",
+        "available": false
       },
       {
         "text": "tain",
         "ipa": "tən",
-        "audio": "d81e9f5755e746"
+        "audio": "d81e9f5755e746",
+        "available": false
       }
     ],
     "phonics": [
@@ -2880,7 +2997,8 @@
     "example": "The mountain is very high.",
     "translation": "这座山很高。",
     "audio": "db09febf380407",
-    "exampleAudio": "d55d1d065a91bb"
+    "exampleAudio": "d55d1d065a91bb",
+    "syllablesReady": false
   },
   {
     "id": 46,
@@ -2894,7 +3012,8 @@
       {
         "text": "wind",
         "ipa": "wɪnd",
-        "audio": "2bd9f8351be1a7"
+        "audio": "2bd9f8351be1a7",
+        "available": true
       }
     ],
     "phonics": [
@@ -2938,7 +3057,8 @@
     "example": "The wind is strong today.",
     "translation": "今天风很大。",
     "audio": "0227acc55894e4",
-    "exampleAudio": "759e5e7fe465f2"
+    "exampleAudio": "759e5e7fe465f2",
+    "syllablesReady": true
   },
   {
     "id": 47,
@@ -2952,7 +3072,8 @@
       {
         "text": "trip",
         "ipa": "trɪp",
-        "audio": "c42818bbf04c8a"
+        "audio": "c42818bbf04c8a",
+        "available": true
       }
     ],
     "phonics": [
@@ -2996,7 +3117,8 @@
     "example": "We are going on a school trip.",
     "translation": "我们要去参加学校组织的旅行。",
     "audio": "e2942c79361f70",
-    "exampleAudio": "1cecec7cf23d26"
+    "exampleAudio": "1cecec7cf23d26",
+    "syllablesReady": true
   },
   {
     "id": 48,
@@ -3010,17 +3132,20 @@
       {
         "text": "dan",
         "ipa": "deɪn",
-        "audio": "c83db3e7c1099b"
+        "audio": "c83db3e7c1099b",
+        "available": false
       },
       {
         "text": "ge",
         "ipa": "dʒə",
-        "audio": "27be90c3d135db"
+        "audio": "27be90c3d135db",
+        "available": false
       },
       {
         "text": "rous",
         "ipa": "rəs",
-        "audio": "cfc02dd3e00557"
+        "audio": "cfc02dd3e00557",
+        "available": false
       }
     ],
     "phonics": [
@@ -3100,7 +3225,8 @@
     "example": "It is dangerous to swim here.",
     "translation": "在这里游泳很危险。",
     "audio": "6785cb51e20c83",
-    "exampleAudio": "563909af45d737"
+    "exampleAudio": "563909af45d737",
+    "syllablesReady": false
   },
   {
     "id": 49,
@@ -3112,14 +3238,16 @@
     "meaning": "程度大的；严重的",
     "syllables": [
       {
-        "text": "hea",
-        "ipa": "he",
-        "audio": "0d694bd9487f91"
+        "text": "heav",
+        "ipa": "hev",
+        "audio": "cecc257d5bab0b",
+        "available": true
       },
       {
-        "text": "vy",
-        "ipa": "vi",
-        "audio": "ea81b5c64b7fd1"
+        "text": "y",
+        "ipa": "i",
+        "audio": "999473b953cc26",
+        "available": true
       }
     ],
     "phonics": [
@@ -3163,7 +3291,8 @@
     "example": "There is heavy rain today.",
     "translation": "今天有大雨。",
     "audio": "c39b4eb4cd93a3",
-    "exampleAudio": "facded26804e86"
+    "exampleAudio": "facded26804e86",
+    "syllablesReady": true
   },
   {
     "id": 50,
@@ -3177,12 +3306,14 @@
       {
         "text": "ho",
         "ipa": "həʊ",
-        "audio": "17bf35fa5b69ef"
+        "audio": "17bf35fa5b69ef",
+        "available": false
       },
       {
         "text": "tel",
         "ipa": "tel",
-        "audio": "e356fb757814e6"
+        "audio": "e356fb757814e6",
+        "available": false
       }
     ],
     "phonics": [
@@ -3235,7 +3366,8 @@
     "example": "We stay at a small hotel.",
     "translation": "我们住在一家小旅馆里。",
     "audio": "94a276cbbcd0d8",
-    "exampleAudio": "60b0f0feb00526"
+    "exampleAudio": "60b0f0feb00526",
+    "syllablesReady": false
   },
   {
     "id": 51,
@@ -3249,7 +3381,8 @@
       {
         "text": "close",
         "ipa": "kləʊz",
-        "audio": "1874b3f8a96850"
+        "audio": "1874b3f8a96850",
+        "available": true
       }
     ],
     "phonics": [
@@ -3293,7 +3426,8 @@
     "example": "Please close the window.",
     "translation": "请关上窗户。",
     "audio": "73e536da504921",
-    "exampleAudio": "780d92624ed51d"
+    "exampleAudio": "780d92624ed51d",
+    "syllablesReady": true
   },
   {
     "id": 52,
@@ -3307,17 +3441,20 @@
       {
         "text": "um",
         "ipa": "ʌm",
-        "audio": "7d928338ee54df"
+        "audio": "7d928338ee54df",
+        "available": false
       },
       {
         "text": "brel",
         "ipa": "bre",
-        "audio": "5ab75a6e0bc867"
+        "audio": "5ab75a6e0bc867",
+        "available": false
       },
       {
         "text": "la",
         "ipa": "lə",
-        "audio": "ecced18ec19fc1"
+        "audio": "ecced18ec19fc1",
+        "available": false
       }
     ],
     "phonics": [
@@ -3388,7 +3525,8 @@
     "example": "Take your umbrella.",
     "translation": "带上你的雨伞。",
     "audio": "bdf6b71fd7ecfb",
-    "exampleAudio": "63fc69cf346908"
+    "exampleAudio": "63fc69cf346908",
+    "syllablesReady": false
   },
   {
     "id": 53,
@@ -3402,12 +3540,14 @@
       {
         "text": "rain",
         "ipa": "reɪn",
-        "audio": "e6f133d2b853fe"
+        "audio": "e6f133d2b853fe",
+        "available": false
       },
       {
         "text": "coat",
         "ipa": "kəʊt",
-        "audio": "efc074962eb7d9"
+        "audio": "efc074962eb7d9",
+        "available": false
       }
     ],
     "phonics": [
@@ -3469,7 +3609,8 @@
     "example": "Put on your raincoat.",
     "translation": "穿上你的雨衣。",
     "audio": "19496b36940ace",
-    "exampleAudio": "627e2b13d4b0ee"
+    "exampleAudio": "627e2b13d4b0ee",
+    "syllablesReady": false
   },
   {
     "id": 54,
@@ -3483,12 +3624,14 @@
       {
         "text": "wor",
         "ipa": "wʌ",
-        "audio": "302d158e8a38a9"
+        "audio": "302d158e8a38a9",
+        "available": false
       },
       {
         "text": "ry",
         "ipa": "ri",
-        "audio": "08ba8918fd078b"
+        "audio": "08ba8918fd078b",
+        "available": false
       }
     ],
     "phonics": [
@@ -3532,7 +3675,8 @@
     "example": "Don't worry. I'm fine.",
     "translation": "别担心。我很好。",
     "audio": "ed9aba2e7b132b",
-    "exampleAudio": "7f8d12134475af"
+    "exampleAudio": "7f8d12134475af",
+    "syllablesReady": false
   },
   {
     "id": 55,
@@ -3546,7 +3690,8 @@
       {
         "text": "fine",
         "ipa": "faɪn",
-        "audio": "f0973534c0ebbc"
+        "audio": "f0973534c0ebbc",
+        "available": true
       }
     ],
     "phonics": [
@@ -3581,7 +3726,8 @@
     "example": "It's a fine day today.",
     "translation": "今天是个晴天。",
     "audio": "cfa6d46570de16",
-    "exampleAudio": "5771f1c79d6f07"
+    "exampleAudio": "5771f1c79d6f07",
+    "syllablesReady": true
   },
   {
     "id": 56,
@@ -3595,7 +3741,8 @@
       {
         "text": "fog",
         "ipa": "fɒɡ",
-        "audio": "aad4c3a71573b6"
+        "audio": "aad4c3a71573b6",
+        "available": true
       }
     ],
     "phonics": [
@@ -3630,7 +3777,8 @@
     "example": "We can't see the road in the fog.",
     "translation": "雾中我们看不清道路。",
     "audio": "4b4cc7758543af",
-    "exampleAudio": "30a748e440affe"
+    "exampleAudio": "30a748e440affe",
+    "syllablesReady": true
   },
   {
     "id": 57,
@@ -3644,7 +3792,8 @@
       {
         "text": "flood",
         "ipa": "flʌd",
-        "audio": "cf562e2f0cc2e3"
+        "audio": "cf562e2f0cc2e3",
+        "available": true
       }
     ],
     "phonics": [
@@ -3688,7 +3837,8 @@
     "example": "The heavy rain caused a flood.",
     "translation": "大雨引发了洪水。",
     "audio": "dbe04cd7ad6a40",
-    "exampleAudio": "3a5a1c14f38cc7"
+    "exampleAudio": "3a5a1c14f38cc7",
+    "syllablesReady": true
   },
   {
     "id": 58,
@@ -3702,7 +3852,8 @@
       {
         "text": "fire",
         "ipa": "faɪə",
-        "audio": "7059f12f757bd8"
+        "audio": "7059f12f757bd8",
+        "available": true
       }
     ],
     "phonics": [
@@ -3732,7 +3883,8 @@
     "example": "Stay away from the fire.",
     "translation": "远离火。",
     "audio": "960e83a3b28ee2",
-    "exampleAudio": "585a862c86dec6"
+    "exampleAudio": "585a862c86dec6",
+    "syllablesReady": true
   },
   {
     "id": 59,
@@ -3746,7 +3898,8 @@
       {
         "text": "know",
         "ipa": "nəʊ",
-        "audio": "d937b125fd7535"
+        "audio": "d937b125fd7535",
+        "available": true
       }
     ],
     "phonics": [
@@ -3772,7 +3925,8 @@
     "example": "Do you know this place?",
     "translation": "你知道这个地方吗？",
     "audio": "4fc10d08e1b2b5",
-    "exampleAudio": "99ba44ce00361e"
+    "exampleAudio": "99ba44ce00361e",
+    "syllablesReady": true
   },
   {
     "id": 60,
@@ -3786,12 +3940,14 @@
       {
         "text": "be",
         "ipa": "bɪ",
-        "audio": "28b0109910a752"
+        "audio": "28b0109910a752",
+        "available": false
       },
       {
         "text": "fore",
         "ipa": "fɔː",
-        "audio": "afa0b9f1dc21eb"
+        "audio": "afa0b9f1dc21eb",
+        "available": false
       }
     ],
     "phonics": [
@@ -3835,7 +3991,8 @@
     "example": "Wash your hands before lunch.",
     "translation": "午饭前洗手。",
     "audio": "56dc1ad33c570c",
-    "exampleAudio": "7f6c29fdb1f971"
+    "exampleAudio": "7f6c29fdb1f971",
+    "syllablesReady": false
   },
   {
     "id": 61,
@@ -3849,17 +4006,20 @@
       {
         "text": "go",
         "ipa": "ɡəʊ",
-        "audio": "1386ffd7c8a78a"
+        "audio": "1386ffd7c8a78a",
+        "available": false
       },
       {
         "text": "hi",
         "ipa": "haɪ",
-        "audio": "6b8bb68dea4516"
+        "audio": "6b8bb68dea4516",
+        "available": false
       },
       {
         "text": "king",
         "ipa": "kɪŋ",
-        "audio": "24b9e3bc22fe8f"
+        "audio": "24b9e3bc22fe8f",
+        "available": false
       }
     ],
     "phonics": [
@@ -3930,7 +4090,8 @@
     "example": "Let's go hiking this Sunday.",
     "translation": "我们这周日去徒步旅行吧。",
     "audio": "c3e75ea46411dc",
-    "exampleAudio": "d357c5e37fb291"
+    "exampleAudio": "d357c5e37fb291",
+    "syllablesReady": false
   },
   {
     "id": 62,
@@ -3944,7 +4105,8 @@
       {
         "text": "bring",
         "ipa": "brɪŋ",
-        "audio": "f0e859751d1f4e"
+        "audio": "f0e859751d1f4e",
+        "available": true
       }
     ],
     "phonics": [
@@ -3988,6 +4150,4055 @@
     "example": "Please bring some water.",
     "translation": "请带些水来。",
     "audio": "6c5c6aad217074",
-    "exampleAudio": "3bf5a3f920e53e"
+    "exampleAudio": "3bf5a3f920e53e",
+    "syllablesReady": true
+  },
+  {
+    "id": 63,
+    "unit": 1,
+    "bold": false,
+    "star": false,
+    "word": "team",
+    "ipa": "tiːm",
+    "meaning": "（游戏或运动的）队；（一起工作的）组，班",
+    "syllables": [
+      {
+        "text": "team",
+        "ipa": "tiːm",
+        "audio": "b19976d044cecd",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "ea",
+        "sounds": [
+          {
+            "ipa": "iː",
+            "audio": "d35f2468855d20"
+          }
+        ]
+      },
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      }
+    ],
+    "example": "We are a good team.",
+    "translation": "我们是一个好团队。",
+    "audio": "6af9fdfe58bb1e",
+    "exampleAudio": "e314b52e1a1a9d",
+    "syllablesReady": true
+  },
+  {
+    "id": 64,
+    "unit": 1,
+    "bold": false,
+    "star": false,
+    "word": "player",
+    "ipa": "ˈpleɪə",
+    "meaning": "运动员；参赛选手",
+    "syllables": [
+      {
+        "text": "play",
+        "ipa": "pleɪ",
+        "audio": "127d737c94fb50",
+        "available": false
+      },
+      {
+        "text": "er",
+        "ipa": "ə",
+        "audio": "c01fb921053345",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      },
+      {
+        "text": "er",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      }
+    ],
+    "example": "He is a basketball player.",
+    "translation": "他是一名篮球运动员。",
+    "audio": "6938bd2186b7b9",
+    "exampleAudio": "6f30df3465f3d6",
+    "syllablesReady": false
+  },
+  {
+    "id": 65,
+    "unit": 1,
+    "bold": false,
+    "star": true,
+    "word": "him",
+    "ipa": "hɪm",
+    "meaning": "他",
+    "syllables": [
+      {
+        "text": "him",
+        "ipa": "hɪm",
+        "audio": "954eb280c09827",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "h",
+        "sounds": [
+          {
+            "ipa": "h",
+            "audio": "db8be77c321027"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      }
+    ],
+    "example": "Let's help him.",
+    "translation": "我们来帮助他吧。",
+    "audio": "356de177228607",
+    "exampleAudio": "2743bdf2a09f83",
+    "syllablesReady": true
+  },
+  {
+    "id": 66,
+    "unit": 1,
+    "bold": true,
+    "star": true,
+    "word": "lovely",
+    "ipa": "ˈlʌvli",
+    "meaning": "美丽的；优美的",
+    "syllables": [
+      {
+        "text": "love",
+        "ipa": "lʌv",
+        "audio": "c7ca4d644c4fb4",
+        "available": false
+      },
+      {
+        "text": "ly",
+        "ipa": "li",
+        "audio": "1ea57fc3a6551c",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "ve",
+        "sounds": [
+          {
+            "ipa": "v",
+            "audio": "3aedc26320a6b2"
+          }
+        ]
+      },
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "y",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      }
+    ],
+    "example": "What a lovely garden!",
+    "translation": "多么美丽的花园！",
+    "audio": "2c8aa4265bf647",
+    "exampleAudio": "7ed2897caf6eaa",
+    "syllablesReady": false
+  },
+  {
+    "id": 67,
+    "unit": 1,
+    "bold": true,
+    "star": true,
+    "word": "clever",
+    "ipa": "ˈklevə",
+    "meaning": "聪明的；聪颖的",
+    "syllables": [
+      {
+        "text": "cle",
+        "ipa": "kle",
+        "audio": "0e21c278ab9277",
+        "available": false
+      },
+      {
+        "text": "ver",
+        "ipa": "və",
+        "audio": "2192fd59a6d18f",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "c",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      },
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "v",
+        "sounds": [
+          {
+            "ipa": "v",
+            "audio": "3aedc26320a6b2"
+          }
+        ]
+      },
+      {
+        "text": "er",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      }
+    ],
+    "example": "My sister is clever.",
+    "translation": "我的姐姐很聪明。",
+    "audio": "6db3ebd48739f1",
+    "exampleAudio": "551f7912d179f1",
+    "syllablesReady": false
+  },
+  {
+    "id": 68,
+    "unit": 1,
+    "bold": true,
+    "star": true,
+    "word": "young",
+    "ipa": "jʌŋ",
+    "meaning": "幼小的；年轻的",
+    "syllables": [
+      {
+        "text": "young",
+        "ipa": "jʌŋ",
+        "audio": "44b38874c14e86",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "y",
+        "sounds": [
+          {
+            "ipa": "j",
+            "audio": "5e374cc4494517"
+          }
+        ]
+      },
+      {
+        "text": "ou",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      }
+    ],
+    "example": "Our teacher is young.",
+    "translation": "我们的老师很年轻。",
+    "audio": "3f57b97d7c981a",
+    "exampleAudio": "b4d930bea5c7aa",
+    "syllablesReady": true
+  },
+  {
+    "id": 69,
+    "unit": 1,
+    "bold": true,
+    "star": false,
+    "word": "hard-working",
+    "ipa": "ˌhɑːdˈwɜːkɪŋ",
+    "meaning": "工作努力的；辛勤的",
+    "syllables": [
+      {
+        "text": "hard-",
+        "ipa": "hɑːd",
+        "audio": "2867e6fb20db3c",
+        "available": false
+      },
+      {
+        "text": "work",
+        "ipa": "wɜːk",
+        "audio": "acc81d57cb6e51",
+        "available": false
+      },
+      {
+        "text": "ing",
+        "ipa": "ɪŋ",
+        "audio": "af86fae40f67ee",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "h",
+        "sounds": [
+          {
+            "ipa": "h",
+            "audio": "db8be77c321027"
+          }
+        ]
+      },
+      {
+        "text": "ar",
+        "sounds": [
+          {
+            "ipa": "ɑː",
+            "audio": "b699b498200cb2"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "w",
+        "sounds": [
+          {
+            "ipa": "w",
+            "audio": "f36e0f89fd2198"
+          }
+        ]
+      },
+      {
+        "text": "or",
+        "sounds": [
+          {
+            "ipa": "ɜː",
+            "audio": "2f49ed94ac4a88"
+          }
+        ]
+      },
+      {
+        "text": "k",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      }
+    ],
+    "example": "She is a hard-working student.",
+    "translation": "她是一个勤奋的学生。",
+    "audio": "3a298fac4b814b",
+    "exampleAudio": "2898001ef5a74a",
+    "syllablesReady": false
+  },
+  {
+    "id": 70,
+    "unit": 1,
+    "bold": false,
+    "star": true,
+    "word": "science",
+    "ipa": "ˈsaɪəns",
+    "meaning": "科学；自然科学",
+    "syllables": [
+      {
+        "text": "sci",
+        "ipa": "saɪ",
+        "audio": "8fc8a6cca6b09d",
+        "available": false
+      },
+      {
+        "text": "ence",
+        "ipa": "əns",
+        "audio": "ee830a2f70ea06",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "sc",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "aɪ",
+            "audio": "14cbe880b8cc93"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "ce",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      }
+    ],
+    "example": "I like science.",
+    "translation": "我喜欢科学。",
+    "audio": "406a9e36c8524c",
+    "exampleAudio": "e3ab8fd261f219",
+    "syllablesReady": false
+  },
+  {
+    "id": 71,
+    "unit": 1,
+    "bold": true,
+    "star": true,
+    "word": "robot",
+    "ipa": "ˈrəʊbɒt",
+    "meaning": "机器人",
+    "syllables": [
+      {
+        "text": "ro",
+        "ipa": "rəʊ",
+        "audio": "f509cddf09e6bb",
+        "available": false
+      },
+      {
+        "text": "bot",
+        "ipa": "bɒt",
+        "audio": "fec19891b0f7dd",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "əʊ",
+            "audio": "de230a6793e507"
+          }
+        ]
+      },
+      {
+        "text": "b",
+        "sounds": [
+          {
+            "ipa": "b",
+            "audio": "a5bdd5a78e7f5c"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ɒ",
+            "audio": "7fc4906a2e863c"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "This robot can dance.",
+    "translation": "这个机器人会跳舞。",
+    "audio": "9fded907c6714d",
+    "exampleAudio": "97003a443b6fba",
+    "syllablesReady": false
+  },
+  {
+    "id": 72,
+    "unit": 1,
+    "bold": true,
+    "star": true,
+    "word": "jump",
+    "ipa": "dʒʌmp",
+    "meaning": "跳；跃",
+    "syllables": [
+      {
+        "text": "jump",
+        "ipa": "dʒʌmp",
+        "audio": "cb003b8d661e38",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "j",
+        "sounds": [
+          {
+            "ipa": "dʒ",
+            "audio": "d71944203034a0"
+          }
+        ]
+      },
+      {
+        "text": "u",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      }
+    ],
+    "example": "I can jump high.",
+    "translation": "我能跳得很高。",
+    "audio": "3e53f5c4d3e6fe",
+    "exampleAudio": "7f4aa8fabf206a",
+    "syllablesReady": true
+  },
+  {
+    "id": 73,
+    "unit": 1,
+    "bold": true,
+    "star": false,
+    "word": "rope",
+    "ipa": "rəʊp",
+    "meaning": "绳；粗绳",
+    "syllables": [
+      {
+        "text": "rope",
+        "ipa": "rəʊp",
+        "audio": "febee3cd4a1b80",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "o…e",
+        "sounds": [
+          {
+            "ipa": "əʊ",
+            "audio": "de230a6793e507"
+          }
+        ]
+      },
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      }
+    ],
+    "example": "This rope is long.",
+    "translation": "这根绳子很长。",
+    "audio": "270bf2fb308f3f",
+    "exampleAudio": "0400f963dfa5ab",
+    "syllablesReady": true
+  },
+  {
+    "id": 74,
+    "unit": 1,
+    "bold": true,
+    "star": true,
+    "word": "piano",
+    "ipa": "piˈænəʊ",
+    "meaning": "钢琴",
+    "syllables": [
+      {
+        "text": "pi",
+        "ipa": "pi",
+        "audio": "911f86d00de548",
+        "available": false
+      },
+      {
+        "text": "a",
+        "ipa": "æ",
+        "audio": "4103cf4e04d3a4",
+        "available": false
+      },
+      {
+        "text": "no",
+        "ipa": "nəʊ",
+        "audio": "ea465fb60dfea4",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "æ",
+            "audio": "aa4d5e6c8d4199"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "əʊ",
+            "audio": "de230a6793e507"
+          }
+        ]
+      }
+    ],
+    "example": "I can play the piano.",
+    "translation": "我会弹钢琴。",
+    "audio": "16b6440a7432b7",
+    "exampleAudio": "c7ca8ec7ee671d",
+    "syllablesReady": false
+  },
+  {
+    "id": 75,
+    "unit": 1,
+    "bold": true,
+    "star": false,
+    "word": "chess",
+    "ipa": "tʃes",
+    "meaning": "国际象棋",
+    "syllables": [
+      {
+        "text": "chess",
+        "ipa": "tʃes",
+        "audio": "6c958e266f925d",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "ch",
+        "sounds": [
+          {
+            "ipa": "tʃ",
+            "audio": "0f3a4731d286ed"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "ss",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      }
+    ],
+    "example": "Let's play chess.",
+    "translation": "我们来下国际象棋吧。",
+    "audio": "621330af148e6c",
+    "exampleAudio": "b66a3f6de2f784",
+    "syllablesReady": true
+  },
+  {
+    "id": 76,
+    "unit": 1,
+    "bold": false,
+    "star": true,
+    "word": "front",
+    "ipa": "frʌnt",
+    "meaning": "前部",
+    "syllables": [
+      {
+        "text": "front",
+        "ipa": "frʌnt",
+        "audio": "80628770a54439",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "f",
+        "sounds": [
+          {
+            "ipa": "f",
+            "audio": "3984d7593e7a02"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "The teacher is at the front of the classroom.",
+    "translation": "老师在教室前面。",
+    "audio": "c89d71a7d89647",
+    "exampleAudio": "360ab13b10da2f",
+    "syllablesReady": true
+  },
+  {
+    "id": 77,
+    "unit": 1,
+    "bold": false,
+    "star": true,
+    "word": "easy",
+    "ipa": "ˈiːzi",
+    "meaning": "容易的；轻易的",
+    "syllables": [
+      {
+        "text": "ea",
+        "ipa": "iː",
+        "audio": "bbf81634778d8c",
+        "available": false
+      },
+      {
+        "text": "sy",
+        "ipa": "zi",
+        "audio": "9e64532b5cbf23",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "ea",
+        "sounds": [
+          {
+            "ipa": "iː",
+            "audio": "d35f2468855d20"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      },
+      {
+        "text": "y",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      }
+    ],
+    "example": "This game is easy.",
+    "translation": "这个游戏很容易。",
+    "audio": "135289132b44b2",
+    "exampleAudio": "76a55dd99b6fa3",
+    "syllablesReady": false
+  },
+  {
+    "id": 78,
+    "unit": 1,
+    "bold": false,
+    "star": true,
+    "word": "star",
+    "ipa": "stɑː",
+    "meaning": "歌唱（或表演）明星",
+    "syllables": [
+      {
+        "text": "star",
+        "ipa": "stɑː",
+        "audio": "8184d686f5803e",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "ar",
+        "sounds": [
+          {
+            "ipa": "ɑː",
+            "audio": "b699b498200cb2"
+          }
+        ]
+      }
+    ],
+    "example": "She is a film star.",
+    "translation": "她是一位电影明星。",
+    "audio": "dd4ccd7c76bb9c",
+    "exampleAudio": "745bd069bfead4",
+    "syllablesReady": true
+  },
+  {
+    "id": 79,
+    "unit": 1,
+    "bold": false,
+    "star": true,
+    "word": "wonderful",
+    "ipa": "ˈwʌndəfl",
+    "meaning": "精彩的；绝妙的",
+    "syllables": [
+      {
+        "text": "won",
+        "ipa": "wʌn",
+        "audio": "01fdd8ba7fa18f",
+        "available": false
+      },
+      {
+        "text": "der",
+        "ipa": "də",
+        "audio": "8e758288b12d05",
+        "available": false
+      },
+      {
+        "text": "ful",
+        "ipa": "fl",
+        "audio": "98e32576492eb2",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "w",
+        "sounds": [
+          {
+            "ipa": "w",
+            "audio": "f36e0f89fd2198"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "er",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "f",
+        "sounds": [
+          {
+            "ipa": "f",
+            "audio": "3984d7593e7a02"
+          }
+        ]
+      },
+      {
+        "text": "u",
+        "sounds": []
+      },
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      }
+    ],
+    "example": "The show is wonderful.",
+    "translation": "这个节目很精彩。",
+    "audio": "ceb9ea1802dae1",
+    "exampleAudio": "2cbc540f723b45",
+    "syllablesReady": false
+  },
+  {
+    "id": 80,
+    "unit": 1,
+    "bold": false,
+    "star": false,
+    "word": "Australia",
+    "ipa": "ɒˈstreɪliə",
+    "meaning": "澳大利亚",
+    "syllables": [
+      {
+        "text": "Au",
+        "ipa": "ɒ",
+        "audio": "150422293fb477",
+        "available": false
+      },
+      {
+        "text": "stra",
+        "ipa": "streɪ",
+        "audio": "d9c98d952c0e35",
+        "available": false
+      },
+      {
+        "text": "li",
+        "ipa": "li",
+        "audio": "f01b714c3addd8",
+        "available": false
+      },
+      {
+        "text": "a",
+        "ipa": "ə",
+        "audio": "7d024eb0e929d0",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "Au",
+        "sounds": [
+          {
+            "ipa": "ɒ",
+            "audio": "7fc4906a2e863c"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      },
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      }
+    ],
+    "example": "My friend is from Australia.",
+    "translation": "我的朋友来自澳大利亚。",
+    "audio": "3f22f7c27880f3",
+    "exampleAudio": "bd26cb31a9a97b",
+    "syllablesReady": false
+  },
+  {
+    "id": 81,
+    "unit": 2,
+    "bold": true,
+    "star": true,
+    "word": "sad",
+    "ipa": "sæd",
+    "meaning": "悲哀的；难过的",
+    "syllables": [
+      {
+        "text": "sad",
+        "ipa": "sæd",
+        "audio": "b80b43b73c7fe6",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "æ",
+            "audio": "aa4d5e6c8d4199"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      }
+    ],
+    "example": "Don't be sad.",
+    "translation": "别难过。",
+    "audio": "2598b9ce2f0e49",
+    "exampleAudio": "835e6b8b66f011",
+    "syllablesReady": true
+  },
+  {
+    "id": 82,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "matter",
+    "ipa": "ˈmætə",
+    "meaning": "事情；问题",
+    "syllables": [
+      {
+        "text": "mat",
+        "ipa": "mæ",
+        "audio": "94047818a9eee0",
+        "available": false
+      },
+      {
+        "text": "ter",
+        "ipa": "tə",
+        "audio": "aadba06d2dbabf",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "æ",
+            "audio": "aa4d5e6c8d4199"
+          }
+        ]
+      },
+      {
+        "text": "tt",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "er",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      }
+    ],
+    "example": "What's the matter?",
+    "translation": "怎么了？",
+    "audio": "e79858511e08e5",
+    "exampleAudio": "eaeca52ad350f1",
+    "syllablesReady": false
+  },
+  {
+    "id": 83,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "project",
+    "ipa": "ˈprɒdʒekt",
+    "meaning": "项目；方案",
+    "syllables": [
+      {
+        "text": "pro",
+        "ipa": "prɒ",
+        "audio": "e86c2b3ad497c8",
+        "available": false
+      },
+      {
+        "text": "ject",
+        "ipa": "dʒekt",
+        "audio": "5d54e1de479f0d",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ɒ",
+            "audio": "7fc4906a2e863c"
+          }
+        ]
+      },
+      {
+        "text": "j",
+        "sounds": [
+          {
+            "ipa": "dʒ",
+            "audio": "d71944203034a0"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "c",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "We are doing a science project.",
+    "translation": "我们正在做一个科学项目。",
+    "audio": "d680210f283eb4",
+    "exampleAudio": "648eb04c15719d",
+    "syllablesReady": false
+  },
+  {
+    "id": 84,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "centre",
+    "ipa": "ˈsentə",
+    "meaning": "中心",
+    "syllables": [
+      {
+        "text": "cen",
+        "ipa": "sen",
+        "audio": "7c1dd6db9f2e34",
+        "available": false
+      },
+      {
+        "text": "tre",
+        "ipa": "tə",
+        "audio": "5b60f20a3c8dd6",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "c",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "re",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      }
+    ],
+    "example": "The park is in the centre of town.",
+    "translation": "公园在镇中心。",
+    "audio": "9612abacb3b1d9",
+    "exampleAudio": "6551ca8291e2fe",
+    "syllablesReady": false
+  },
+  {
+    "id": 85,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "agree",
+    "ipa": "əˈɡriː",
+    "meaning": "同意；赞成",
+    "syllables": [
+      {
+        "text": "a",
+        "ipa": "ə",
+        "audio": "7d024eb0e929d0",
+        "available": false
+      },
+      {
+        "text": "gree",
+        "ipa": "ɡriː",
+        "audio": "21a5e7fb119d88",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "g",
+        "sounds": [
+          {
+            "ipa": "ɡ",
+            "audio": "af5a7e7f10bb01"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "ee",
+        "sounds": [
+          {
+            "ipa": "iː",
+            "audio": "d35f2468855d20"
+          }
+        ]
+      }
+    ],
+    "example": "I agree with you.",
+    "translation": "我同意你的看法。",
+    "audio": "b5fb1b748a8619",
+    "exampleAudio": "eb9cd6495089e9",
+    "syllablesReady": false
+  },
+  {
+    "id": 86,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "finish",
+    "ipa": "ˈfɪnɪʃ",
+    "meaning": "完成；做好",
+    "syllables": [
+      {
+        "text": "fi",
+        "ipa": "fɪ",
+        "audio": "d2c2bec4d751d7",
+        "available": false
+      },
+      {
+        "text": "nish",
+        "ipa": "nɪʃ",
+        "audio": "ca32762abe60bd",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "f",
+        "sounds": [
+          {
+            "ipa": "f",
+            "audio": "3984d7593e7a02"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "sh",
+        "sounds": [
+          {
+            "ipa": "ʃ",
+            "audio": "73bfa18d421b52"
+          }
+        ]
+      }
+    ],
+    "example": "I finish my homework after school.",
+    "translation": "放学后我完成作业。",
+    "audio": "f07056feb512f1",
+    "exampleAudio": "d7d18e73191011",
+    "syllablesReady": false
+  },
+  {
+    "id": 87,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "Monday",
+    "ipa": "ˈmʌndeɪ",
+    "meaning": "星期一",
+    "syllables": [
+      {
+        "text": "Mon",
+        "ipa": "mʌn",
+        "audio": "cf5c37bcf57624",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "M",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "We have English on Monday.",
+    "translation": "我们星期一有英语课。",
+    "audio": "1024c5ba6ea634",
+    "exampleAudio": "1cdc9e8b3f1f5f",
+    "syllablesReady": false
+  },
+  {
+    "id": 88,
+    "unit": 2,
+    "bold": true,
+    "star": false,
+    "word": "worried",
+    "ipa": "ˈwʌrid",
+    "meaning": "担心的；担忧的",
+    "syllables": [
+      {
+        "text": "wor",
+        "ipa": "wʌ",
+        "audio": "302d158e8a38a9",
+        "available": false
+      },
+      {
+        "text": "ried",
+        "ipa": "rid",
+        "audio": "6407e8bb35928a",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "w",
+        "sounds": [
+          {
+            "ipa": "w",
+            "audio": "f36e0f89fd2198"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "rr",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "ie",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      }
+    ],
+    "example": "She is worried about her dog.",
+    "translation": "她很担心她的小狗。",
+    "audio": "cbca78a63b28a4",
+    "exampleAudio": "8285d0e22596a8",
+    "syllablesReady": false
+  },
+  {
+    "id": 89,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "both",
+    "ipa": "bəʊθ",
+    "meaning": "两者",
+    "syllables": [
+      {
+        "text": "both",
+        "ipa": "bəʊθ",
+        "audio": "ca3cf4c38a0529",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "b",
+        "sounds": [
+          {
+            "ipa": "b",
+            "audio": "a5bdd5a78e7f5c"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "əʊ",
+            "audio": "de230a6793e507"
+          }
+        ]
+      },
+      {
+        "text": "th",
+        "sounds": [
+          {
+            "ipa": "θ",
+            "audio": "09ea4f5cf06072"
+          }
+        ]
+      }
+    ],
+    "example": "We both like music.",
+    "translation": "我们俩都喜欢音乐。",
+    "audio": "ac4276a0851070",
+    "exampleAudio": "f6faf67910fc79",
+    "syllablesReady": true
+  },
+  {
+    "id": 90,
+    "unit": 2,
+    "bold": true,
+    "star": true,
+    "word": "excited",
+    "ipa": "ɪkˈsaɪtɪd",
+    "meaning": "激动的；兴奋的",
+    "syllables": [
+      {
+        "text": "ex",
+        "ipa": "ɪk",
+        "audio": "977e14af9248b5",
+        "available": false
+      },
+      {
+        "text": "ci",
+        "ipa": "saɪ",
+        "audio": "0b63bbd50a7a8b",
+        "available": false
+      },
+      {
+        "text": "ted",
+        "ipa": "tɪd",
+        "audio": "4f0354535ea1a9",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "x",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          },
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "aɪ",
+            "audio": "14cbe880b8cc93"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      }
+    ],
+    "example": "I'm excited about the school trip.",
+    "translation": "我对学校组织的旅行感到兴奋。",
+    "audio": "d662998fe02f85",
+    "exampleAudio": "2106f16480b30e",
+    "syllablesReady": false
+  },
+  {
+    "id": 91,
+    "unit": 2,
+    "bold": false,
+    "star": true,
+    "word": "wrong",
+    "ipa": "rɒŋ",
+    "meaning": "错误的",
+    "syllables": [
+      {
+        "text": "wrong",
+        "ipa": "rɒŋ",
+        "audio": "593f46ee342fa9",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "wr",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ɒ",
+            "audio": "7fc4906a2e863c"
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      }
+    ],
+    "example": "This answer is wrong.",
+    "translation": "这个答案是错的。",
+    "audio": "c870855ed4af3b",
+    "exampleAudio": "cc2c7607244615",
+    "syllablesReady": true
+  },
+  {
+    "id": 92,
+    "unit": 2,
+    "bold": true,
+    "star": true,
+    "word": "angry",
+    "ipa": "ˈæŋɡri",
+    "meaning": "愤怒的；生气的",
+    "syllables": [
+      {
+        "text": "an",
+        "ipa": "æŋ",
+        "audio": "a4d0a829ea26c8",
+        "available": false
+      },
+      {
+        "text": "gry",
+        "ipa": "ɡri",
+        "audio": "0e489ad536ae18",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "æ",
+            "audio": "aa4d5e6c8d4199"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      },
+      {
+        "text": "g",
+        "sounds": [
+          {
+            "ipa": "ɡ",
+            "audio": "af5a7e7f10bb01"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "y",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      }
+    ],
+    "example": "Please don't be angry.",
+    "translation": "请不要生气。",
+    "audio": "ef86ddab10ceb9",
+    "exampleAudio": "8bb28d0c485bd1",
+    "syllablesReady": false
+  },
+  {
+    "id": 93,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "afraid",
+    "ipa": "əˈfreɪd",
+    "meaning": "担心；害怕",
+    "syllables": [
+      {
+        "text": "a",
+        "ipa": "ə",
+        "audio": "7d024eb0e929d0",
+        "available": false
+      },
+      {
+        "text": "fraid",
+        "ipa": "freɪd",
+        "audio": "12b0ca2e2fb529",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "f",
+        "sounds": [
+          {
+            "ipa": "f",
+            "audio": "3984d7593e7a02"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "ai",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      }
+    ],
+    "example": "I'm afraid of snakes.",
+    "translation": "我害怕蛇。",
+    "audio": "3e2b4f97f81f34",
+    "exampleAudio": "17ee3c6c835748",
+    "syllablesReady": false
+  },
+  {
+    "id": 94,
+    "unit": 2,
+    "bold": true,
+    "star": true,
+    "word": "parent",
+    "ipa": "ˈpeərənt",
+    "meaning": "父亲；母亲",
+    "syllables": [
+      {
+        "text": "par",
+        "ipa": "peə",
+        "audio": "6b56cf7ad4e101",
+        "available": false
+      },
+      {
+        "text": "ent",
+        "ipa": "rənt",
+        "audio": "a60e224ca88f20",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "eə",
+            "audio": "a111d2c7999a7c"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "A parent can help with this game.",
+    "translation": "家长可以帮忙玩这个游戏。",
+    "audio": "8cee6e210e41ac",
+    "exampleAudio": "8a2cdd035f03e6",
+    "syllablesReady": false
+  },
+  {
+    "id": 95,
+    "unit": 2,
+    "bold": true,
+    "star": true,
+    "word": "ask",
+    "ipa": "ɑːsk",
+    "meaning": "问；询问",
+    "syllables": [
+      {
+        "text": "ask",
+        "ipa": "ɑːsk",
+        "audio": "6c3a7112d3df55",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "ɑː",
+            "audio": "b699b498200cb2"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "k",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      }
+    ],
+    "example": "May I ask a question?",
+    "translation": "我可以问一个问题吗？",
+    "audio": "0fbd84822b42b7",
+    "exampleAudio": "c59f41c138cd66",
+    "syllablesReady": true
+  },
+  {
+    "id": 96,
+    "unit": 2,
+    "bold": false,
+    "star": true,
+    "word": "move",
+    "ipa": "muːv",
+    "meaning": "搬家；移动",
+    "syllables": [
+      {
+        "text": "move",
+        "ipa": "muːv",
+        "audio": "60932d9e2453a7",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "o…e",
+        "sounds": [
+          {
+            "ipa": "uː",
+            "audio": "7e804d0117455f"
+          }
+        ]
+      },
+      {
+        "text": "v",
+        "sounds": [
+          {
+            "ipa": "v",
+            "audio": "3aedc26320a6b2"
+          }
+        ]
+      }
+    ],
+    "example": "We move to a new house.",
+    "translation": "我们搬到一所新房子里。",
+    "audio": "9182fc8f77cd77",
+    "exampleAudio": "a70aef96e3af9c",
+    "syllablesReady": true
+  },
+  {
+    "id": 97,
+    "unit": 2,
+    "bold": false,
+    "star": false,
+    "word": "yours",
+    "ipa": "jɔːz",
+    "meaning": "您的（用于书信结尾的签名前）",
+    "syllables": [
+      {
+        "text": "yours",
+        "ipa": "jɔːz",
+        "audio": "0a295a08785f09",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "y",
+        "sounds": [
+          {
+            "ipa": "j",
+            "audio": "5e374cc4494517"
+          }
+        ]
+      },
+      {
+        "text": "our",
+        "sounds": [
+          {
+            "ipa": "ɔː",
+            "audio": "0ff427d3c3ea79"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      }
+    ],
+    "example": "Yours, Amy.",
+    "translation": "您真诚的，埃米。",
+    "audio": "80087392e104e6",
+    "exampleAudio": "f8c106987dcdb5",
+    "syllablesReady": true
+  },
+  {
+    "id": 98,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Wednesday",
+    "ipa": "ˈwenzdeɪ",
+    "meaning": "星期三",
+    "syllables": [
+      {
+        "text": "Wednes",
+        "ipa": "wenz",
+        "audio": "1a0a97e49f92ee",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "W",
+        "sounds": [
+          {
+            "ipa": "w",
+            "audio": "f36e0f89fd2198"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": []
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": []
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "We have art on Wednesday.",
+    "translation": "我们星期三有美术课。",
+    "audio": "1cd72ef7e58665",
+    "exampleAudio": "f453fcb64b9d2a",
+    "syllablesReady": false
+  },
+  {
+    "id": 99,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "subject",
+    "ipa": "ˈsʌbdʒɪkt",
+    "meaning": "科目；学科",
+    "syllables": [
+      {
+        "text": "sub",
+        "ipa": "sʌb",
+        "audio": "156534b4cd9fd9",
+        "available": false
+      },
+      {
+        "text": "ject",
+        "ipa": "dʒɪkt",
+        "audio": "49d95c2b290b6d",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "u",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "b",
+        "sounds": [
+          {
+            "ipa": "b",
+            "audio": "a5bdd5a78e7f5c"
+          }
+        ]
+      },
+      {
+        "text": "j",
+        "sounds": [
+          {
+            "ipa": "dʒ",
+            "audio": "d71944203034a0"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "c",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "English is my favourite subject.",
+    "translation": "英语是我最喜欢的科目。",
+    "audio": "c9d783b74da9ca",
+    "exampleAudio": "ce2b1818bb2442",
+    "syllablesReady": false
+  },
+  {
+    "id": 100,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Monday",
+    "ipa": "ˈmʌndeɪ",
+    "meaning": "星期一",
+    "syllables": [
+      {
+        "text": "Mon",
+        "ipa": "mʌn",
+        "audio": "cf5c37bcf57624",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "M",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "We have English on Monday.",
+    "translation": "我们星期一有英语课。",
+    "audio": "4c0b6f760b5f81",
+    "exampleAudio": "8e55ac1d711a0e",
+    "syllablesReady": false
+  },
+  {
+    "id": 101,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Tuesday",
+    "ipa": "ˈtjuːzdeɪ",
+    "meaning": "星期二",
+    "syllables": [
+      {
+        "text": "Tues",
+        "ipa": "tjuːz",
+        "audio": "8fd0f2bb314566",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "T",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          },
+          {
+            "ipa": "j",
+            "audio": "5e374cc4494517"
+          }
+        ]
+      },
+      {
+        "text": "ue",
+        "sounds": [
+          {
+            "ipa": "uː",
+            "audio": "7e804d0117455f"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "I play football on Tuesday.",
+    "translation": "我星期二踢足球。",
+    "audio": "01c59847eaeff5",
+    "exampleAudio": "7decfd140a6f9d",
+    "syllablesReady": false
+  },
+  {
+    "id": 102,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Friday",
+    "ipa": "ˈfraɪdeɪ",
+    "meaning": "星期五",
+    "syllables": [
+      {
+        "text": "Fri",
+        "ipa": "fraɪ",
+        "audio": "4ef9c98f87a07c",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "F",
+        "sounds": [
+          {
+            "ipa": "f",
+            "audio": "3984d7593e7a02"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "aɪ",
+            "audio": "14cbe880b8cc93"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "We have music on Friday.",
+    "translation": "我们星期五有音乐课。",
+    "audio": "127b5d20828d5d",
+    "exampleAudio": "21f9e1225ebdd2",
+    "syllablesReady": false
+  },
+  {
+    "id": 103,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "because",
+    "ipa": "bɪˈkɒz",
+    "meaning": "因为",
+    "syllables": [
+      {
+        "text": "be",
+        "ipa": "bɪ",
+        "audio": "28b0109910a752",
+        "available": false
+      },
+      {
+        "text": "cause",
+        "ipa": "kɒz",
+        "audio": "dda1bcf7726130",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "b",
+        "sounds": [
+          {
+            "ipa": "b",
+            "audio": "a5bdd5a78e7f5c"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "c",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      },
+      {
+        "text": "au",
+        "sounds": [
+          {
+            "ipa": "ɒ",
+            "audio": "7fc4906a2e863c"
+          }
+        ]
+      },
+      {
+        "text": "se",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      }
+    ],
+    "example": "I like this book because it is funny.",
+    "translation": "我喜欢这本书，因为它很有趣。",
+    "audio": "1ff662bd11b1fc",
+    "exampleAudio": "59052327e95606",
+    "syllablesReady": false
+  },
+  {
+    "id": 104,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Thursday",
+    "ipa": "ˈθɜːzdeɪ",
+    "meaning": "星期四",
+    "syllables": [
+      {
+        "text": "Thurs",
+        "ipa": "θɜːz",
+        "audio": "2498f2eb72e33d",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "Th",
+        "sounds": [
+          {
+            "ipa": "θ",
+            "audio": "09ea4f5cf06072"
+          }
+        ]
+      },
+      {
+        "text": "ur",
+        "sounds": [
+          {
+            "ipa": "ɜː",
+            "audio": "2f49ed94ac4a88"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "I read with my friends on Thursday.",
+    "translation": "我星期四和朋友们一起读书。",
+    "audio": "85004258cf5bd9",
+    "exampleAudio": "2582f57144593b",
+    "syllablesReady": false
+  },
+  {
+    "id": 105,
+    "unit": 3,
+    "bold": false,
+    "star": false,
+    "word": "start",
+    "ipa": "stɑːt",
+    "meaning": "开始",
+    "syllables": [
+      {
+        "text": "start",
+        "ipa": "stɑːt",
+        "audio": "9fc071beb1ec8b",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "ar",
+        "sounds": [
+          {
+            "ipa": "ɑː",
+            "audio": "b699b498200cb2"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "Let's start the game.",
+    "translation": "我们开始游戏吧。",
+    "audio": "67ae5f727e6299",
+    "exampleAudio": "403a918f8ab62a",
+    "syllablesReady": true
+  },
+  {
+    "id": 106,
+    "unit": 3,
+    "bold": false,
+    "star": false,
+    "word": "usually",
+    "ipa": "ˈjuːʒuəli",
+    "meaning": "通常地；经常地",
+    "syllables": [
+      {
+        "text": "u",
+        "ipa": "juː",
+        "audio": "d3f71e530ae4ee",
+        "available": false
+      },
+      {
+        "text": "su",
+        "ipa": "ʒu",
+        "audio": "11f6c374c4a5a8",
+        "available": false
+      },
+      {
+        "text": "al",
+        "ipa": "ə",
+        "audio": "8d68418492a42e",
+        "available": false
+      },
+      {
+        "text": "ly",
+        "ipa": "li",
+        "audio": "1ea57fc3a6551c",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "u",
+        "sounds": [
+          {
+            "ipa": "j",
+            "audio": "5e374cc4494517"
+          },
+          {
+            "ipa": "uː",
+            "audio": "7e804d0117455f"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "ʒ",
+            "audio": "b23ef757296352"
+          }
+        ]
+      },
+      {
+        "text": "u",
+        "sounds": [
+          {
+            "ipa": "u",
+            "audio": "f20410fbf7d750"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "ll",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "y",
+        "sounds": [
+          {
+            "ipa": "i",
+            "audio": "0f890b4d8daec8"
+          }
+        ]
+      }
+    ],
+    "example": "I usually get up at seven.",
+    "translation": "我通常七点起床。",
+    "audio": "165e42ee0795ef",
+    "exampleAudio": "2baee340bf6cc8",
+    "syllablesReady": false
+  },
+  {
+    "id": 107,
+    "unit": 3,
+    "bold": false,
+    "star": false,
+    "word": "weekend",
+    "ipa": "ˌwiːkˈend",
+    "meaning": "周末",
+    "syllables": [
+      {
+        "text": "week",
+        "ipa": "wiːk",
+        "audio": "18df297fe0f58e",
+        "available": false
+      },
+      {
+        "text": "end",
+        "ipa": "end",
+        "audio": "285c8254bf44fc",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "w",
+        "sounds": [
+          {
+            "ipa": "w",
+            "audio": "f36e0f89fd2198"
+          }
+        ]
+      },
+      {
+        "text": "ee",
+        "sounds": [
+          {
+            "ipa": "iː",
+            "audio": "d35f2468855d20"
+          }
+        ]
+      },
+      {
+        "text": "k",
+        "sounds": [
+          {
+            "ipa": "k",
+            "audio": "15deac28bfb6ce"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      }
+    ],
+    "example": "I visit my grandparents at the weekend.",
+    "translation": "我周末去看望祖父母。",
+    "audio": "bc901ec3908549",
+    "exampleAudio": "b72e041701804e",
+    "syllablesReady": false
+  },
+  {
+    "id": 108,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "sometimes",
+    "ipa": "ˈsʌmtaɪmz",
+    "meaning": "有时；间或",
+    "syllables": [
+      {
+        "text": "some",
+        "ipa": "sʌm",
+        "audio": "a60cbda4726f60",
+        "available": false
+      },
+      {
+        "text": "times",
+        "ipa": "taɪmz",
+        "audio": "eca2ba0d097f4d",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "o…e",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "i…e",
+        "sounds": [
+          {
+            "ipa": "aɪ",
+            "audio": "14cbe880b8cc93"
+          }
+        ]
+      },
+      {
+        "text": "m",
+        "sounds": [
+          {
+            "ipa": "m",
+            "audio": "98c42d047aab7c"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      }
+    ],
+    "example": "I sometimes walk to school.",
+    "translation": "我有时步行去学校。",
+    "audio": "dbc5270bb3ad65",
+    "exampleAudio": "c6624c8b8d7ffb",
+    "syllablesReady": false
+  },
+  {
+    "id": 109,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Saturday",
+    "ipa": "ˈsætədeɪ",
+    "meaning": "星期六",
+    "syllables": [
+      {
+        "text": "Sa",
+        "ipa": "sæ",
+        "audio": "c72ac08452bf4f",
+        "available": false
+      },
+      {
+        "text": "tur",
+        "ipa": "tə",
+        "audio": "1f82e5ff789fd7",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "S",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "æ",
+            "audio": "aa4d5e6c8d4199"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      },
+      {
+        "text": "ur",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "We go to the park on Saturday.",
+    "translation": "我们星期六去公园。",
+    "audio": "50e5efe3872f0b",
+    "exampleAudio": "9cc5d407758cb4",
+    "syllablesReady": false
+  },
+  {
+    "id": 110,
+    "unit": 3,
+    "bold": true,
+    "star": false,
+    "word": "Sunday",
+    "ipa": "ˈsʌndeɪ",
+    "meaning": "星期日",
+    "syllables": [
+      {
+        "text": "Sun",
+        "ipa": "sʌn",
+        "audio": "9476a5829121ed",
+        "available": false
+      },
+      {
+        "text": "day",
+        "ipa": "deɪ",
+        "audio": "c6997a35680c53",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "S",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "u",
+        "sounds": [
+          {
+            "ipa": "ʌ",
+            "audio": "78f5a0338d9278"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": [
+          {
+            "ipa": "d",
+            "audio": "3692ea2fce4f91"
+          }
+        ]
+      },
+      {
+        "text": "ay",
+        "sounds": [
+          {
+            "ipa": "eɪ",
+            "audio": "e068af44706bc8"
+          }
+        ]
+      }
+    ],
+    "example": "I play chess on Sunday.",
+    "translation": "我星期日下国际象棋。",
+    "audio": "d63366aefcb6c3",
+    "exampleAudio": "49984d89ca7245",
+    "syllablesReady": false
+  },
+  {
+    "id": 111,
+    "unit": 3,
+    "bold": true,
+    "star": true,
+    "word": "lesson",
+    "ipa": "ˈlesn",
+    "meaning": "课；一节课",
+    "syllables": [
+      {
+        "text": "les",
+        "ipa": "le",
+        "audio": "362bf4d75e6549",
+        "available": false
+      },
+      {
+        "text": "son",
+        "ipa": "sn",
+        "audio": "cab1ac35a246fd",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "l",
+        "sounds": [
+          {
+            "ipa": "l",
+            "audio": "8e840d89b18934"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "e",
+            "audio": "df6f04fda0979d"
+          }
+        ]
+      },
+      {
+        "text": "ss",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": []
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      }
+    ],
+    "example": "We have a music lesson today.",
+    "translation": "我们今天有一节音乐课。",
+    "audio": "e5f81bf53803be",
+    "exampleAudio": "2893ea29103615",
+    "syllablesReady": false
+  },
+  {
+    "id": 112,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "evening",
+    "ipa": "ˈiːvnɪŋ",
+    "meaning": "晚上；傍晚",
+    "syllables": [
+      {
+        "text": "eve",
+        "ipa": "iːv",
+        "audio": "bbe51558478567",
+        "available": false
+      },
+      {
+        "text": "ning",
+        "ipa": "nɪŋ",
+        "audio": "1b9b10d0fc02cb",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "iː",
+            "audio": "d35f2468855d20"
+          }
+        ]
+      },
+      {
+        "text": "v",
+        "sounds": [
+          {
+            "ipa": "v",
+            "audio": "3aedc26320a6b2"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": []
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      }
+    ],
+    "example": "I read in the evening.",
+    "translation": "我在晚上读书。",
+    "audio": "171c816872239d",
+    "exampleAudio": "7b8112cf3707da",
+    "syllablesReady": false
+  },
+  {
+    "id": 113,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "answer",
+    "ipa": "ˈɑːnsə",
+    "meaning": "答复；回答",
+    "syllables": [
+      {
+        "text": "an",
+        "ipa": "ɑːn",
+        "audio": "34828d7b14f73a",
+        "available": false
+      },
+      {
+        "text": "swer",
+        "ipa": "sə",
+        "audio": "ae7ce0ada5e687",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "ɑː",
+            "audio": "b699b498200cb2"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "s",
+            "audio": "77df5b15685141"
+          }
+        ]
+      },
+      {
+        "text": "w",
+        "sounds": []
+      },
+      {
+        "text": "er",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      }
+    ],
+    "example": "Please answer my question.",
+    "translation": "请回答我的问题。",
+    "audio": "1cf04e171000e6",
+    "exampleAudio": "51092c688697ed",
+    "syllablesReady": false
+  },
+  {
+    "id": 114,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "ping-pong",
+    "ipa": "ˈpɪŋpɒŋ",
+    "meaning": "乒乓球",
+    "syllables": [
+      {
+        "text": "ping-",
+        "ipa": "pɪŋ",
+        "audio": "662517845d0fc7",
+        "available": false
+      },
+      {
+        "text": "pong",
+        "ipa": "pɒŋ",
+        "audio": "4213371ce469ba",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      },
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "o",
+        "sounds": [
+          {
+            "ipa": "ɒ",
+            "audio": "7fc4906a2e863c"
+          }
+        ]
+      },
+      {
+        "text": "ng",
+        "sounds": [
+          {
+            "ipa": "ŋ",
+            "audio": "386316af5b148a"
+          }
+        ]
+      }
+    ],
+    "example": "Let's play ping-pong.",
+    "translation": "我们来打乒乓球吧。",
+    "audio": "b52f8f18548113",
+    "exampleAudio": "dc5f1a59e61ce8",
+    "syllablesReady": false
+  },
+  {
+    "id": 115,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "night",
+    "ipa": "naɪt",
+    "meaning": "夜；夜晚",
+    "syllables": [
+      {
+        "text": "night",
+        "ipa": "naɪt",
+        "audio": "56f63227c7566d",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "igh",
+        "sounds": [
+          {
+            "ipa": "aɪ",
+            "audio": "14cbe880b8cc93"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "I sleep well at night.",
+    "translation": "我晚上睡得很好。",
+    "audio": "056e7e2cc4c35a",
+    "exampleAudio": "149325ae095efa",
+    "syllablesReady": true
+  },
+  {
+    "id": 116,
+    "unit": 3,
+    "bold": false,
+    "star": true,
+    "word": "visit",
+    "ipa": "ˈvɪzɪt",
+    "meaning": "看望；拜访；参观",
+    "syllables": [
+      {
+        "text": "vi",
+        "ipa": "vɪ",
+        "audio": "760a15c0ecec0a",
+        "available": false
+      },
+      {
+        "text": "sit",
+        "ipa": "zɪt",
+        "audio": "7ade87c946d525",
+        "available": false
+      }
+    ],
+    "phonics": [
+      {
+        "text": "v",
+        "sounds": [
+          {
+            "ipa": "v",
+            "audio": "3aedc26320a6b2"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "s",
+        "sounds": [
+          {
+            "ipa": "z",
+            "audio": "938f5e83c40cc0"
+          }
+        ]
+      },
+      {
+        "text": "i",
+        "sounds": [
+          {
+            "ipa": "ɪ",
+            "audio": "9666e5af85009f"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "We visit our teacher.",
+    "translation": "我们去看望老师。",
+    "audio": "7e21a1990b5356",
+    "exampleAudio": "7219c97af1afd0",
+    "syllablesReady": false
+  },
+  {
+    "id": 117,
+    "unit": 3,
+    "bold": false,
+    "star": false,
+    "word": "grandparent",
+    "ipa": "ˈɡrænpeərənt",
+    "meaning": "祖父；祖母；外祖父；外祖母",
+    "syllables": [
+      {
+        "text": "grand",
+        "ipa": "ɡræn",
+        "audio": "d6a6930cae66a6",
+        "available": false
+      },
+      {
+        "text": "par",
+        "ipa": "peə",
+        "audio": "6b56cf7ad4e101",
+        "available": false
+      },
+      {
+        "text": "ent",
+        "ipa": "rənt",
+        "audio": "a60e224ca88f20",
+        "available": true
+      }
+    ],
+    "phonics": [
+      {
+        "text": "g",
+        "sounds": [
+          {
+            "ipa": "ɡ",
+            "audio": "af5a7e7f10bb01"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "æ",
+            "audio": "aa4d5e6c8d4199"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "d",
+        "sounds": []
+      },
+      {
+        "text": "p",
+        "sounds": [
+          {
+            "ipa": "p",
+            "audio": "6b4b229c14d0aa"
+          }
+        ]
+      },
+      {
+        "text": "a",
+        "sounds": [
+          {
+            "ipa": "eə",
+            "audio": "a111d2c7999a7c"
+          }
+        ]
+      },
+      {
+        "text": "r",
+        "sounds": [
+          {
+            "ipa": "r",
+            "audio": "440264ba9812d7"
+          }
+        ]
+      },
+      {
+        "text": "e",
+        "sounds": [
+          {
+            "ipa": "ə",
+            "audio": "a1d90646e1e7f2"
+          }
+        ]
+      },
+      {
+        "text": "n",
+        "sounds": [
+          {
+            "ipa": "n",
+            "audio": "520b21b4bc85e6"
+          }
+        ]
+      },
+      {
+        "text": "t",
+        "sounds": [
+          {
+            "ipa": "t",
+            "audio": "33d6bff3a3ce33"
+          }
+        ]
+      }
+    ],
+    "example": "A grandparent can tell us many stories.",
+    "translation": "祖辈可以给我们讲许多故事。",
+    "audio": "5c7026d444d707",
+    "exampleAudio": "8a247ea6ad3069",
+    "syllablesReady": false
   }
 ]

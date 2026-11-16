@@ -1,0 +1,16 @@
+{
+  "units": 6,
+  "entries": 118,
+  "priorityUnits": [
+    4,
+    5
+  ],
+  "prioritySyllableWords": 40,
+  "dataAndReferences": "passed",
+  "wordAndFullAutoplay": "passed in simulated DOM",
+  "cancellation": "passed",
+  "mobileLayout": "visually checked at 390x844 in Chrome device toolbar",
+  "audioPlayback": "exercise and different syllable observed playing and ending",
+  "remainingSyllables": "U1/U2/U3/U6 deferred per user request",
+  "wechatRealDevice": "not tested"
+}

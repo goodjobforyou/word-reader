@@ -1,1385 +1,4007 @@
 {
-  "e54512d1b31eff": {
-    "file": "stay.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksta/ukstaun005.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
   "75d0cee45a5812": {
-    "file": "example-0.mp3",
     "text": "We should stay healthy.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+should+stay+healthy."
+    "kind": "example",
+    "references": [
+      "75d0cee45a5812"
+    ],
+    "file": "female-full/98c28ae637cc4c74.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f5bde08149b69ad2e3864dfc387057040b7eab18371d11f092629bd9ba761fb7"
   },
-  "2a2f13c2bb9223": {
-    "file": "stay.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksta/ukstaun005.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "77df5b15685141": {
-    "file": "phone-36.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_say_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "33d6bff3a3ce33": {
-    "file": "phone-27.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_town_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "e068af44706bc8": {
-    "file": "phone-14.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_day_2023feb_002.mp3",
-    "source": "Cambridge Dictionary UK"
+  "e54512d1b31eff": {
+    "text": "stay",
+    "kind": "word",
+    "references": [
+      "e54512d1b31eff"
+    ],
+    "file": "female-full/caba8da16b4a5a53.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9bcf671e9512fd5be1de199c6334afef42eaebbbea6f44b203713a696985c520"
   },
   "be972c3d5fdc07": {
-    "file": "should.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksho/ukshorn024.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "should",
+    "kind": "word",
+    "references": [
+      "be972c3d5fdc07"
+    ],
+    "file": "female-full/5f0e7bf3c74b374d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5180e4dc4d93ee10b92f8bfbf816e70f4ae9f829de1634ae0bc56cade9d7eb27"
   },
   "0e316518ecd850": {
-    "file": "example-1.mp3",
     "text": "You should drink some water.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=You+should+drink+some+water."
-  },
-  "db7db6dccc90fd": {
-    "file": "should.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksho/ukshorn024.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "73bfa18d421b52": {
-    "file": "phone-38.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_she_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "71e7372bf9fe41": {
-    "file": "phone-8.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_foot_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "3692ea2fce4f91": {
-    "file": "phone-29.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_day_2023feb_001.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "0e316518ecd850"
+    ],
+    "file": "female-full/0616bbcb619ac2ff.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "efd9495b2bf5cdba23972773fb0bae8a22d11fea32421a1322ffd45f445c4be9"
   },
   "8207299454aac6": {
-    "file": "flu.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfle/ukfleab022.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "9d7b0c3b67e0ba": {
-    "file": "example-2.mp3",
-    "text": "He has the flu.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=He+has+the+flu."
-  },
-  "a85a29feed39eb": {
-    "file": "flu.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfle/ukfleab022.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "3984d7593e7a02": {
-    "file": "phone-32.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_fish_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "8e840d89b18934": {
-    "file": "phone-45.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_look_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "7e804d0117455f": {
-    "file": "phone-7.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_blue_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "flu",
+    "kind": "word",
+    "references": [
+      "8207299454aac6"
+    ],
+    "file": "female-full/4eff129e999b37c8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a53d7c82c4fd43c28be0797ab3c7ade409313a0a194a6931a6c964648dfa5bd2"
   },
   "042b6c0c0a6f4f": {
-    "file": "else.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukeli/ukelimi028.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "else",
+    "kind": "word",
+    "references": [
+      "042b6c0c0a6f4f"
+    ],
+    "file": "female-full/bded8cf6d6fb843b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a58e23e8f558facd8655992f9ecc0874863d6754008f8a6a1278ee9b3d5f0d01"
   },
   "23f4e4a6247bc4": {
-    "file": "example-3.mp3",
     "text": "What else can we do?",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=What+else+can+we+do%3F"
-  },
-  "09506fd597117b": {
-    "file": "else.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukeli/ukelimi028.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "df6f04fda0979d": {
-    "file": "phone-9.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_head_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "23f4e4a6247bc4"
+    ],
+    "file": "female-full/e0256deead9f853f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "68ddabaf322ec4796f2515fef6a8caa3fb4ebdda9564197d030f30f369a31028"
   },
   "d7ba8834699db3": {
-    "file": "exercise.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukexc/ukexcre029.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "exercise",
+    "kind": "word",
+    "references": [
+      "d7ba8834699db3"
+    ],
+    "file": "female-full/001bb5a676ac7051.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4b812799b1f53b9bb642708fc094793be966671c1e5a1e8c32a19a2650f3783a"
   },
-  "16d1e9e193fc84": {
-    "file": "example-4.mp3",
-    "text": "Let's exercise together!",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Let%27s+exercise+together%21"
-  },
-  "71083769801a9d": {
-    "file": "syllable-0.mp3",
-    "text": "ex",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=ex"
-  },
-  "c01fb921053345": {
-    "file": "phone-12.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_above_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "6377fe2136d4f4": {
-    "file": "syllable-1.mp3",
-    "text": "size",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=size"
-  },
-  "15deac28bfb6ce": {
-    "file": "phone-30.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cat_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "a1d90646e1e7f2": {
-    "file": "phone-12.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_above_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "14cbe880b8cc93": {
-    "file": "phone-15.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_eye_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "938f5e83c40cc0": {
-    "file": "phone-37.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_zoo_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "9d7b0c3b67e0ba": {
+    "text": "He has the flu.",
+    "kind": "example",
+    "references": [
+      "9d7b0c3b67e0ba"
+    ],
+    "file": "female-full/850f47a025794f41.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5432dd24cfc48e2e0769b67d372d61c64761acb47edf5c21c30746651069decc"
   },
   "8a938815b1b5c3": {
-    "file": "enough.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uke/ukenl/ukenliv011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "enough",
+    "kind": "word",
+    "references": [
+      "8a938815b1b5c3"
+    ],
+    "file": "female-full/bd8d80455767646f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c3d63c4a5da67d19ead7e9de02f6420440d8df73c16124ac2415a67e626dbc51"
   },
-  "6dd1a45a997111": {
-    "file": "example-5.mp3",
-    "text": "We need enough sleep.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+need+enough+sleep."
-  },
-  "bf27c43688d6e5": {
-    "file": "phone-1.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_ship_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "0137be5a025a5c": {
-    "file": "amy-syllables-0.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "9666e5af85009f": {
-    "file": "phone-1.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_ship_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "520b21b4bc85e6": {
-    "file": "phone-43.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_name_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "78f5a0338d9278": {
-    "file": "phone-4.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cup_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "16d1e9e193fc84": {
+    "text": "Let's exercise together!",
+    "kind": "example",
+    "references": [
+      "16d1e9e193fc84"
+    ],
+    "file": "female-full/08d5e829df880b16.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6f0ede3ddc75fb88e47f0b0076050f2408444fbdfa915c0af7e9668457ec6153"
   },
   "c4ae7a5f7a825f": {
-    "file": "if.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukidi/ukidioc017.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "if",
+    "kind": "word",
+    "references": [
+      "c4ae7a5f7a825f"
+    ],
+    "file": "female-full/f64f116557a6be0a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "66d5936d342a14aecdbad32f0c06e1c9aea83379702a6a25b84d742fb9cbe9a0"
+  },
+  "6dd1a45a997111": {
+    "text": "We need enough sleep.",
+    "kind": "example",
+    "references": [
+      "6dd1a45a997111"
+    ],
+    "file": "female-full/926145392aa53b91.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6a7793c861707bd08abdcb765184a07e48ae449498dec67b94ea5f9cc562d084"
   },
   "e336fa40623fb4": {
-    "file": "example-6.mp3",
     "text": "If you are tired, take a rest.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=If+you+are+tired%2C+take+a+rest."
-  },
-  "f15a19af0896d4": {
-    "file": "if.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukidi/ukidioc017.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "e336fa40623fb4"
+    ],
+    "file": "female-full/03ef58a6c77c287f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d0b401bf0b8fc127734c2dcd31fc492d0fd2e494c9f7082a305cf5638c5bb37b"
   },
   "df9d32b46ea53a": {
-    "file": "habit.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukg/ukgyr/ukgyros007.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "habit",
+    "kind": "word",
+    "references": [
+      "df9d32b46ea53a"
+    ],
+    "file": "female-full/6efe52d1830b9b1a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c466d5431af68ce958563c715da23802aa904fb845029dc3c38bba1185e9e503"
   },
   "82f79e4d7b1d62": {
-    "file": "example-7.mp3",
     "text": "Reading every day is a good habit.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Reading+every+day+is+a+good+habit."
-  },
-  "38184fea32e9e6": {
-    "file": "amy-syllables-1.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "90b6d33cfec941": {
-    "file": "syllable-2.mp3",
-    "text": "bit",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=bit"
-  },
-  "db8be77c321027": {
-    "file": "phone-49.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hand_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "aa4d5e6c8d4199": {
-    "file": "phone-3.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hat_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "a5bdd5a78e7f5c": {
-    "file": "phone-26.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_book_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "82f79e4d7b1d62"
+    ],
+    "file": "female-full/50a20ed11337c382.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "481f3c306669894a43c6e352ddf210dd7e42cb43e59d77c61588347dd4069a09"
   },
   "33a021be55f984": {
-    "file": "show.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksho/ukshove003.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "23d4ae31b08bfc": {
-    "file": "example-8.mp3",
-    "text": "This is my favourite TV show.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+is+my+favourite+TV+show."
-  },
-  "5d4f435da3c693": {
-    "file": "show.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksho/ukshove003.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "de230a6793e507": {
-    "file": "phone-17.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_nose_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "show",
+    "kind": "word",
+    "references": [
+      "33a021be55f984"
+    ],
+    "file": "female-full/1e057ccda89b11dd.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0de39d8cb4c521816f87f962f4654db96ffd5790f7a9a927e466961403c428ff"
   },
   "0c94a33f945727": {
-    "file": "phone.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukphe/ukpheno029.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "phone",
+    "kind": "word",
+    "references": [
+      "0c94a33f945727"
+    ],
+    "file": "female-full/a0a909751d01ae69.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e362ec6427f75e42c9a4740d2b8f56a3942203818abc3d20e6ddc6ca1678ae7c"
+  },
+  "23d4ae31b08bfc": {
+    "text": "This is my favourite TV show.",
+    "kind": "example",
+    "references": [
+      "23d4ae31b08bfc"
+    ],
+    "file": "female-full/08cba6f2cfa1a7fb.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "837d870cc916f0a320d879d4ac8c348c87da816473d31899a9121677e77ee11f"
   },
   "c35ddffc344cb4": {
-    "file": "example-9.mp3",
     "text": "The phone is on the desk.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+phone+is+on+the+desk."
-  },
-  "1bc954d05c8421": {
-    "file": "phone.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukphe/ukpheno029.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "c35ddffc344cb4"
+    ],
+    "file": "female-full/aadbd57ec5b6a899.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "83743400cc2ad394f6c27579fdab1b8dec76d7fb044c1e836297f5ff06d444a2"
   },
   "da7fa21d7ee453": {
-    "file": "then.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/ukthe/uktheat017.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "then",
+    "kind": "word",
+    "references": [
+      "da7fa21d7ee453"
+    ],
+    "file": "female-full/558c181464e3b41f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6be643ffabc0a976f102450acfe3a8f00c2c77ecd23bbac02eec2f7a7f5db91f"
   },
   "5517b3a201c46b": {
-    "file": "example-10.mp3",
     "text": "Then let's go home.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Then+let%27s+go+home."
-  },
-  "d1798d2abfa24e": {
-    "file": "then.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/ukthe/uktheat017.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "ab1d00f7f7bc23": {
-    "file": "phone-35.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_this_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "a9f651cb1a9d56": {
-    "file": "rest.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukres/ukrespo006.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "5517b3a201c46b"
+    ],
+    "file": "female-full/eebac55ec08097db.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f0b6d8b82532fde55fa196ccc5dbf889822ce084e5ca630fdcf0155ead00fc28"
   },
   "79abeda0023383": {
-    "file": "example-11.mp3",
     "text": "Let's have a rest.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Let%27s+have+a+rest."
+    "kind": "example",
+    "references": [
+      "79abeda0023383"
+    ],
+    "file": "female-full/1015c22595fa0854.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d907bdeb547aaaa7c8f4cf020677835d7e963ff7e32f3b35a0b4a5a78bbacbae"
   },
-  "c1668ff1b518d0": {
-    "file": "rest.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukres/ukrespo006.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "440264ba9812d7": {
-    "file": "phone-46.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_run_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "217a6a81881a95": {
-    "file": "take-care-of.mp3",
-    "url": "https://dict.youdao.com/dictvoice?audio=take+care+of&type=1",
-    "source": "Youdao UK"
+  "a9f651cb1a9d56": {
+    "text": "rest",
+    "kind": "word",
+    "references": [
+      "a9f651cb1a9d56"
+    ],
+    "file": "female-full/4780243c11333ea2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ce6f4bcac5d8048d5c9d1fc3a5eff72ce6b3216beb6a9716b43bc3e78c67335c"
   },
   "9b99493055502d": {
-    "file": "example-12.mp3",
     "text": "We should take care of our eyes.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+should+take+care+of+our+eyes."
-  },
-  "1ae70d4390ac8b": {
-    "file": "syllable-3.mp3",
-    "text": "take",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=take"
-  },
-  "ab6530cb1fba55": {
-    "file": "syllable-4.mp3",
-    "text": "care",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=care"
-  },
-  "1ba9ad55427d74": {
-    "file": "amy-syllables-2.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "a111d2c7999a7c": {
-    "file": "phone-21.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hair_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "3aedc26320a6b2": {
-    "file": "phone-33.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_very_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "9b99493055502d"
+    ],
+    "file": "female-full/0da0a9f6472bcda0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "3fd5dd2ea051e2ec7d75aa51fe58fbbaae3bceaa3d635c4dbf1141b8e2a80b47"
   },
   "11a4afb41b07e5": {
-    "file": "check.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukche/ukcheat004.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "check",
+    "kind": "word",
+    "references": [
+      "11a4afb41b07e5"
+    ],
+    "file": "female-full/3433fae7b1b3ad5c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e384539bac01d3d7484f25b8a044d58afc14b0b4feaa96f0bd1c5989fe830c5a"
   },
-  "4089a2626001e6": {
-    "file": "example-13.mp3",
-    "text": "Please check your homework.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Please+check+your+homework."
-  },
-  "b43e006a75d6fb": {
-    "file": "check.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukche/ukcheat004.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "0f3a4731d286ed": {
-    "file": "phone-40.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cheese_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "217a6a81881a95": {
+    "text": "take care of",
+    "kind": "word",
+    "references": [
+      "217a6a81881a95"
+    ],
+    "file": "female-full/f022c6bb7c129c85.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "34e369b43182cbfbf325b4a0bf76549c2eae0c4ec0a9d0f7130681c5d8859430"
   },
   "c0d8cd33508366": {
-    "file": "less.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/ukles/ukles__006.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "less",
+    "kind": "word",
+    "references": [
+      "c0d8cd33508366"
+    ],
+    "file": "female-full/5944ba4be32be049.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "03b6054fce0f9ebfe649078cc4d974086cd527935df7a9598697c1d88093c42a"
   },
   "ecbd4595a667ca": {
-    "file": "example-14.mp3",
     "text": "We should eat less sugar.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+should+eat+less+sugar."
+    "kind": "example",
+    "references": [
+      "ecbd4595a667ca"
+    ],
+    "file": "female-full/cdc77d5421d4538e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a7a6a5c57eda05b4a1625748ecdacaed42a439d5b5c1b3c395a1f4f3a20497b1"
   },
-  "28cf12b258746d": {
-    "file": "less.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/ukles/ukles__006.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "11db1e0b5a74c8": {
-    "file": "brush.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbro/ukbroug025.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "6878ef070b0780": {
-    "file": "example-15.mp3",
-    "text": "I brush my teeth every morning.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I+brush+my+teeth+every+morning."
-  },
-  "c9064931e882f1": {
-    "file": "brush.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbro/ukbroug025.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "c94b9480c71463": {
-    "file": "tooth.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/ukton/uktoned019.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "8f224d99034b91": {
-    "file": "example-16.mp3",
-    "text": "This tooth is loose.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+tooth+is+loose."
-  },
-  "8a84264580e888": {
-    "file": "tooth.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/ukton/uktoned019.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "09ea4f5cf06072": {
-    "file": "phone-34.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_think_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "4089a2626001e6": {
+    "text": "Please check your homework.",
+    "kind": "example",
+    "references": [
+      "4089a2626001e6"
+    ],
+    "file": "female-full/f2e7e029cc1e35ca.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9bdf5ae9cc7201fd7fc69976b41d2c003962f92560877dbdc0d215df6a13baf0"
   },
   "32f475a95eabf9": {
-    "file": "twice.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/uktux/uktuxed021.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "twice",
+    "kind": "word",
+    "references": [
+      "32f475a95eabf9"
+    ],
+    "file": "female-full/d8a9925e0de537f4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6889b45a23f78cb5b2ba795c805d95e4d0c036d983e6fa4172867b2d28468e4c"
   },
-  "4ae5b45de04112": {
-    "file": "example-17.mp3",
-    "text": "I brush my teeth twice a day.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I+brush+my+teeth+twice+a+day."
+  "c94b9480c71463": {
+    "text": "tooth",
+    "kind": "word",
+    "references": [
+      "c94b9480c71463"
+    ],
+    "file": "female-full/14d8374678043b57.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1b5e39314cc2164a60aec26d26e79d8435b83fe7f19b91897646a334a8e47231"
   },
-  "28f8f8c76cd113": {
-    "file": "twice.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukt/uktux/uktuxed021.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "f36e0f89fd2198": {
-    "file": "phone-47.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_we_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "8f224d99034b91": {
+    "text": "This tooth is loose.",
+    "kind": "example",
+    "references": [
+      "8f224d99034b91"
+    ],
+    "file": "female-full/f4c13b790e26c9c4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a6e03bfe723271490b089bdf7e5bed3a0caba8c09005f3c9361865a2b175ca00"
   },
   "1b755e0b68e834": {
-    "file": "hour.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhot/ukhotfo020.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "hour",
+    "kind": "word",
+    "references": [
+      "1b755e0b68e834"
+    ],
+    "file": "female-full/3a2ef16dafedce1d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "88100bf73b4455022a2b6ed407b7b045680c5326ec9efc0f6209ddbd1fe041c6"
+  },
+  "4ae5b45de04112": {
+    "text": "I brush my teeth twice a day.",
+    "kind": "example",
+    "references": [
+      "4ae5b45de04112"
+    ],
+    "file": "female-full/c7a44b952423778a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1dd6898d616203aeafa07f3503eecd3051974a4f66cd30cb3326c547a45a6954"
   },
   "405b8f79a4cb81": {
-    "file": "example-18.mp3",
     "text": "I read for an hour every day.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I+read+for+an+hour+every+day."
-  },
-  "8290a1b06ed621": {
-    "file": "hour.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhot/ukhotfo020.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "ec80d9424a1e54": {
-    "file": "phone-19.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_mouth_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "38d85d5921f0b3": {
-    "file": "free.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfra/ukfrate025.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "405b8f79a4cb81"
+    ],
+    "file": "female-full/3ab30751e871e32d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "39ebcde69bc0b62e2c92c8655ec9f088cbb9655cd3ccc7918c0efa3c16477281"
   },
   "414c9b74fc9724": {
-    "file": "example-19.mp3",
     "text": "Are you free this afternoon?",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Are+you+free+this+afternoon%3F"
-  },
-  "514ea739c9547a": {
-    "file": "free.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfra/ukfrate025.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "d35f2468855d20": {
-    "file": "phone-0.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sheep_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "414c9b74fc9724"
+    ],
+    "file": "female-full/6b7a027903ee76a0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6348590d2e487cb3c5fc63890916e0a422ff3ec015e1df760c6fe11038527e6e"
   },
   "54b52809aa12d0": {
-    "file": "hungry.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhun/ukhunch015.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "hungry",
+    "kind": "word",
+    "references": [
+      "54b52809aa12d0"
+    ],
+    "file": "female-full/4afd7dcd9e833d3e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "98cdcbda3437aecd289023b1a0104bc156ee133407f4cd339428b27ccaf65536"
   },
   "31577df02fa5f8": {
-    "file": "example-20.mp3",
     "text": "I'm hungry. Let's have lunch.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I%27m+hungry.+Let%27s+have+lunch."
+    "kind": "example",
+    "references": [
+      "31577df02fa5f8"
+    ],
+    "file": "female-full/0758c09e61bed490.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1991b216282149c86693bc43fa5b891637314c3d9763f459a868c391cf99f6b2"
   },
-  "081b4bf7f21118": {
-    "file": "syllable-5.mp3",
-    "text": "hung",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=hung"
-  },
-  "0e489ad536ae18": {
-    "file": "amy-syllables-3.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "386316af5b148a": {
-    "file": "phone-44.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sing_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "af5a7e7f10bb01": {
-    "file": "phone-60.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_give_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "0f890b4d8daec8": {
-    "file": "phone-50.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_happy_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "38d85d5921f0b3": {
+    "text": "free",
+    "kind": "word",
+    "references": [
+      "38d85d5921f0b3"
+    ],
+    "file": "female-full/240c4a81c5fef6c4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0b9cec8d6875fb941c26a68f90e19d58ad6e00499102e6f1618813523f2f9b68"
   },
   "81fb25d3a9b65a": {
-    "file": "beef.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbed/ukbeddi022.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "beef",
+    "kind": "word",
+    "references": [
+      "81fb25d3a9b65a"
+    ],
+    "file": "female-full/46098d1220385636.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "535842c35c95bff9e2d3432a6cef9c03febee10cb7569dbd91bb184885aa2b50"
   },
   "5ad8806af446d9": {
-    "file": "example-21.mp3",
     "text": "I'd like some beef.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I%27d+like+some+beef."
-  },
-  "2748f887795691": {
-    "file": "beef.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbed/ukbeddi022.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "5ad8806af446d9"
+    ],
+    "file": "female-full/cc64e2cf37c6ba51.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f28f989105db98544e3e0682d2923d46ff7855102292503f1943feae579f5e7f"
   },
   "c18218db4eb77c": {
-    "file": "ice-cream.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcld/ukcld00700.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "ice cream",
+    "kind": "word",
+    "references": [
+      "c18218db4eb77c"
+    ],
+    "file": "female-full/848ed3c1212b6fbf.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e20c4ba76a98f0e6b2d03ceae58994c74efc5757c6e148c3662f6a8557961da5"
   },
   "503a35c6c5e725": {
-    "file": "example-22.mp3",
     "text": "I like ice cream.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I+like+ice+cream."
-  },
-  "6c1d875e449369": {
-    "file": "syllable-6.mp3",
-    "text": "ice",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=ice"
-  },
-  "be3cfcd6d507e9": {
-    "file": "syllable-7.mp3",
-    "text": "cream",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=cream"
-  },
-  "98c42d047aab7c": {
-    "file": "phone-42.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_moon_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "503a35c6c5e725"
+    ],
+    "file": "female-full/31f50dde632bf694.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "98a3b1b934a31d42b63e049c997f4261e0cdd177a086f439b7ad3e478efe51cf"
   },
   "07c5ca3e80abfd": {
-    "file": "little.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/uklit/uklitig008.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "c94b087eccd704": {
-    "file": "example-23.mp3",
-    "text": "There is a little milk in the cup.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=There+is+a+little+milk+in+the+cup."
-  },
-  "46910977fb0121": {
-    "file": "syllable-8.mp3",
-    "text": "lit",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=lit"
-  },
-  "3cf048b6124127": {
-    "file": "amy-syllables-4.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "text": "little",
+    "kind": "word",
+    "references": [
+      "07c5ca3e80abfd"
+    ],
+    "file": "female-full/7a77e1a00d23872f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "314a0de69eefe26cc259467328a0e3260f00405ce65427be9aec1d931f02b7ea"
   },
   "144f5d6eb61693": {
-    "file": "dumpling.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdul/ukdull_018.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "dumpling",
+    "kind": "word",
+    "references": [
+      "144f5d6eb61693"
+    ],
+    "file": "female-full/178a97830baff5b9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d4756b97d0ffb8938bb6acf9fbdfe1672f1eabc7e6289c2eaeb15f1e3b1ec950"
   },
-  "db72afa33d44c2": {
-    "file": "example-24.mp3",
-    "text": "This dumpling is delicious.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+dumpling+is+delicious."
-  },
-  "3d62fba4124b29": {
-    "file": "syllable-9.mp3",
-    "text": "dump",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=dump"
-  },
-  "43e2d2f10e1f4b": {
-    "file": "syllable-10.mp3",
-    "text": "ling",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=ling"
-  },
-  "6b4b229c14d0aa": {
-    "file": "phone-25.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_pen_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+  "c94b087eccd704": {
+    "text": "There is a little milk in the cup.",
+    "kind": "example",
+    "references": [
+      "c94b087eccd704"
+    ],
+    "file": "female-full/9feee1302f9a012c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e61be8e8ba44a13839f4e2f742f54d0bd313ce57cbe2a3df454ff38ea6530a31"
   },
   "be90195a6dd43c": {
-    "file": "tea.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksyn/uksynta021.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "tea",
+    "kind": "word",
+    "references": [
+      "be90195a6dd43c"
+    ],
+    "file": "female-full/c154de07c1fa7a88.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6eff91895ab79a20885c78ed23ae1ca02815dc67f114edd503da16de4463353c"
+  },
+  "db72afa33d44c2": {
+    "text": "This dumpling is delicious.",
+    "kind": "example",
+    "references": [
+      "db72afa33d44c2"
+    ],
+    "file": "female-full/d87746466e1c9431.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "8677c3bd082310b819e6460894197721c4f4dd96ea1209650f0485a940045a29"
   },
   "20fecd8f8f3611": {
-    "file": "example-25.mp3",
     "text": "Would you like some tea?",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Would+you+like+some+tea%3F"
-  },
-  "a247d03b37863d": {
-    "file": "tea.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/uksyn/uksynta021.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "20fecd8f8f3611"
+    ],
+    "file": "female-full/27d3914684f60819.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "565f640657c60916643d8c2bbf369233c742995d4a53ae5c03c1eb3ef45a97e4"
   },
   "37adfe87e02651": {
-    "file": "hamburger.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhal/ukhallw017.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "6638674dbaf211": {
-    "file": "example-26.mp3",
-    "text": "I'd like a hamburger.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=I%27d+like+a+hamburger."
-  },
-  "b5cdba738a498d": {
-    "file": "syllable-11.mp3",
-    "text": "ham",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=ham"
-  },
-  "3b0ccd052e14e4": {
-    "file": "syllable-12.mp3",
-    "text": "burr",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=burr"
-  },
-  "5946224befcdd2": {
-    "file": "amy-syllables-5.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "2f49ed94ac4a88": {
-    "file": "phone-10.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_bird_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "fbbed4070bb3d7": {
-    "file": "mrs.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmoz/ukmozam013.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "hamburger",
+    "kind": "word",
+    "references": [
+      "37adfe87e02651"
+    ],
+    "file": "female-full/8cfd1826f59fc4d8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "09a7e4335d419c1bae97cc24399b95f5181e05dc47bffca2b4b7315852c2ca4a"
   },
   "fe925ad267da9f": {
-    "file": "example-27.mp3",
     "text": "Mrs Green is our teacher.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Mrs+Green+is+our+teacher."
-  },
-  "d0f69d635a62b8": {
-    "file": "amy-syllables-6.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "cbd4a77cf29ab8": {
-    "file": "amy-syllables-7.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "fe925ad267da9f"
+    ],
+    "file": "female-full/b2ba8c391009cad8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d2d4661c699d290cf9ac0f1dc0a76cb3029020c8954ccc34f52fa6ac1cd20b37"
   },
   "c7d6d084931da0": {
-    "file": "coconut.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcoc/ukcocke013.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "coconut",
+    "kind": "word",
+    "references": [
+      "c7d6d084931da0"
+    ],
+    "file": "female-full/2a00e7d922c6f972.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "fe27b40dc7fa28f205408b30ea80e13239e601dbe6524abef90fb79ae1cfb564"
   },
-  "83618959d47424": {
-    "file": "example-28.mp3",
-    "text": "This coconut is big.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+coconut+is+big."
-  },
-  "55a91ac7a5f490": {
-    "file": "syllable-13.mp3",
-    "text": "co",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=co"
-  },
-  "1e03dd7a88f59c": {
-    "file": "amy-syllables-8.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "c502aa17656202": {
-    "file": "syllable-14.mp3",
-    "text": "nut",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=nut"
+  "6638674dbaf211": {
+    "text": "I'd like a hamburger.",
+    "kind": "example",
+    "references": [
+      "6638674dbaf211"
+    ],
+    "file": "female-full/292700f4c573f639.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "446d8823ed222033d2452ccb29998bfc6309662ce851ae0f600d40220fcce6e9"
   },
   "3b51630d79a6d2": {
-    "file": "interesting.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uki/ukint/ukinter018.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "interesting",
+    "kind": "word",
+    "references": [
+      "3b51630d79a6d2"
+    ],
+    "file": "female-full/0ba95f2f15d2808c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "76f798245f2c98d5f6799cb5816e6cf761e19ef33dd8cdfe6cff6fda11be2943"
+  },
+  "83618959d47424": {
+    "text": "This coconut is big.",
+    "kind": "example",
+    "references": [
+      "83618959d47424"
+    ],
+    "file": "female-full/aecfc2a2f2089937.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a4579130d11330473f706d9d932abb07c0a180ff98e489d9d6450f8270af6eb7"
   },
   "f5cb0667b42d97": {
-    "file": "example-29.mp3",
     "text": "This book is interesting.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+book+is+interesting."
-  },
-  "802e0235cca67c": {
-    "file": "syllable-15.mp3",
-    "text": "in",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=in"
-  },
-  "33742b3c32ddc9": {
-    "file": "amy-syllables-9.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "b687acc58cc42f": {
-    "file": "syllable-16.mp3",
-    "text": "ting",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=ting"
+    "kind": "example",
+    "references": [
+      "f5cb0667b42d97"
+    ],
+    "file": "female-full/e67e234ae736de85.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "de0fb7ae223e5c30c56f2d001f0b433e0b7f8f9accdd5e78f74259f796ec33ce"
   },
   "2e2645fda5f682": {
-    "file": "seed.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcav/ukcaval025.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "seed",
+    "kind": "word",
+    "references": [
+      "2e2645fda5f682"
+    ],
+    "file": "female-full/076e56ec20581d47.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "65b5cdaf8dfe21115d6df38e2faa62c44b4a1e4c4a66bcfa6fc4f7bbf30ea959"
   },
   "d6e93f73535996": {
-    "file": "example-30.mp3",
     "text": "Put the seed in the soil.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Put+the+seed+in+the+soil."
-  },
-  "7c690914313502": {
-    "file": "seed.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukc/ukcav/ukcaval025.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "d6e93f73535996"
+    ],
+    "file": "female-full/6837192eac83f346.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "db5842f0fae273c5dda2e347644e6d4f1e176387be1ffaafc78e8ee1160e45ff"
   },
   "f62a352edd85fd": {
-    "file": "pull.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpue/ukpueri015.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "pull",
+    "kind": "word",
+    "references": [
+      "f62a352edd85fd"
+    ],
+    "file": "female-full/e795fb998f25aa47.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0462ecca4502c8555f933cb4168dc0f1ba564f988b5cea2e49de170bb59069d2"
   },
   "8f5450f809dd08": {
-    "file": "example-31.mp3",
     "text": "Let's pull up the carrot.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Let%27s+pull+up+the+carrot."
-  },
-  "737add44595752": {
-    "file": "pull.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukp/ukpue/ukpueri015.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "8f5450f809dd08"
+    ],
+    "file": "female-full/f4a1e2c8d4c734d8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c30fc75c06ab90bfeacadc0579d2bf4bc1af5e5b3be772f5a5e4a60111076cd2"
   },
   "bbc094f254bb1a": {
-    "file": "stem.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/ukste/uksteep011.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "b4d11ca0d34acb": {
-    "file": "example-32.mp3",
-    "text": "The stem is green.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+stem+is+green."
-  },
-  "fcf9610d690b92": {
-    "file": "stem.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uks/ukste/uksteep011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "stem",
+    "kind": "word",
+    "references": [
+      "bbc094f254bb1a"
+    ],
+    "file": "female-full/518228771b317ac2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "37eede10f826f70045de66bedb02a14389c96d8164c87f0569b8fb64805e8043"
   },
   "c739dd726a9486": {
-    "file": "root.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukroo/ukrooke012.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "root",
+    "kind": "word",
+    "references": [
+      "c739dd726a9486"
+    ],
+    "file": "female-full/020230b3f9555751.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7f2dcca56ef766a675e33fc41f6396fca278b1a3dd78f472984e514623ceb6e0"
+  },
+  "b4d11ca0d34acb": {
+    "text": "The stem is green.",
+    "kind": "example",
+    "references": [
+      "b4d11ca0d34acb"
+    ],
+    "file": "female-full/7c93d4e18603090b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f263a3231281376891e162124bf79d756d70162e771db61ad594a7472a55476c"
   },
   "b544f92fd584d5": {
-    "file": "example-33.mp3",
     "text": "The root is under the ground.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+root+is+under+the+ground."
-  },
-  "607da766b6a8a1": {
-    "file": "root.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukroo/ukrooke012.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "5b2133d8febda1": {
-    "file": "lotus.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/ukloo/ukloose025.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "439d97432e2fc3": {
-    "file": "example-34.mp3",
-    "text": "A lotus grows in the lake.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=A+lotus+grows+in+the+lake."
-  },
-  "322b15e48f392f": {
-    "file": "syllable-17.mp3",
-    "text": "low",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=low"
-  },
-  "52c84ef194562e": {
-    "file": "amy-syllables-10.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "b544f92fd584d5"
+    ],
+    "file": "female-full/00b84d3915bff7b7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "409394753f177553bfce49957ac33d60d160dab55512299f3d7204f67e407be3"
   },
   "bec10ceb00a8fe": {
-    "file": "lake.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/uklai/uklaidb010.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "lake",
+    "kind": "word",
+    "references": [
+      "bec10ceb00a8fe"
+    ],
+    "file": "female-full/be8b5ffa5b168817.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a0475b9b76165931be60263369c88be71f22e3479c1f878c337226978a48e3ff"
   },
   "5909c35d172d2c": {
-    "file": "example-35.mp3",
     "text": "The lake is beautiful.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+lake+is+beautiful."
+    "kind": "example",
+    "references": [
+      "5909c35d172d2c"
+    ],
+    "file": "female-full/31541dc891d4a41d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "201fa16554a6d36152e565154416195e35a85dea5878c36d09ab91d0ebf01a11"
   },
-  "a80de6a97da5bc": {
-    "file": "lake.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukl/uklai/uklaidb010.mp3",
-    "source": "Cambridge Dictionary UK"
+  "5b2133d8febda1": {
+    "text": "lotus",
+    "kind": "word",
+    "references": [
+      "5b2133d8febda1"
+    ],
+    "file": "female-full/eb6ef1fe21e30dbe.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "548b6ce173908d0a7f0232f818b631cfad1ca82234dfc68461480190ee8f6cbd"
   },
-  "eeca494f774639": {
-    "file": "world.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwor/ukworks006.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "38dec028888683": {
-    "file": "example-36.mp3",
-    "text": "We live in a beautiful world.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+live+in+a+beautiful+world."
-  },
-  "8d502d7c07de66": {
-    "file": "world.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwor/ukworks006.mp3",
-    "source": "Cambridge Dictionary UK"
+  "439d97432e2fc3": {
+    "text": "A lotus grows in the lake.",
+    "kind": "example",
+    "references": [
+      "439d97432e2fc3"
+    ],
+    "file": "female-full/d7bb1daf2e7de4c5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "8513697daec3688ae71cda262740a8e46a8166288726890b0806f9dafbab8e99"
   },
   "2f77c483f82299": {
-    "file": "round.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrou/ukrough006.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "round",
+    "kind": "word",
+    "references": [
+      "2f77c483f82299"
+    ],
+    "file": "female-full/a8a9bcc590e398e3.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7ee37212897ead130893404bd4b3d2f131b9dfec148e4366734e315bc445c5c4"
+  },
+  "38dec028888683": {
+    "text": "We live in a beautiful world.",
+    "kind": "example",
+    "references": [
+      "38dec028888683"
+    ],
+    "file": "female-full/bd1717ede7e870fe.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "db9e72071edca2300fb1cae6f202785e8fddcac60837bca52d68a9428cf9e6ac"
+  },
+  "eeca494f774639": {
+    "text": "world",
+    "kind": "word",
+    "references": [
+      "eeca494f774639"
+    ],
+    "file": "female-full/3f2a4efd66c25e1a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e788356b678a4c753e149c3ada2510b4c971e6242164c83434c225cfefeeeafb"
   },
   "519cbf5b6b554b": {
-    "file": "example-37.mp3",
     "text": "The ball is round.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+ball+is+round."
-  },
-  "eba7f9b1a6a204": {
-    "file": "round.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrou/ukrough006.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "519cbf5b6b554b"
+    ],
+    "file": "female-full/d0889bd817d4864b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "2e185eada56e8345ac7213acfefd80945afaabb1a3b35f455acef92e6fab9ff8"
   },
   "4ab7cda2c890a2": {
-    "file": "different.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdic/ukdictu024.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "d0e0f0c11eace1": {
-    "file": "example-38.mp3",
-    "text": "We like different colours.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+like+different+colours."
-  },
-  "d4bd34d121b1d1": {
-    "file": "syllable-18.mp3",
-    "text": "diff",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=diff"
-  },
-  "f9c10afab49139": {
-    "file": "amy-rent-0.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "text": "different",
+    "kind": "word",
+    "references": [
+      "4ab7cda2c890a2"
+    ],
+    "file": "female-full/046e0c2791a1d473.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "804e2e13690996d9012a955ba9781eb268a3b67c0c9b68f8a67437b8fa9c97ee"
   },
   "bb18fe827ced1c": {
-    "file": "way.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwax/ukwaxwo004.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "way",
+    "kind": "word",
+    "references": [
+      "bb18fe827ced1c"
+    ],
+    "file": "female-full/e8b185028a5a90c0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0e6b6ef1a65a897d66d52376fa74f30e20d602366815c6462ac8bddf0a8afc64"
+  },
+  "d0e0f0c11eace1": {
+    "text": "We like different colours.",
+    "kind": "example",
+    "references": [
+      "d0e0f0c11eace1"
+    ],
+    "file": "female-full/6f2eac4567c8232c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5e5ae8dda411e150ad5b23140f510df8d10f465dcc5bd6660abaac4d630fbb76"
   },
   "e04920f92de285": {
-    "file": "example-39.mp3",
     "text": "This is a good way to learn.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+is+a+good+way+to+learn."
-  },
-  "50c3611ce3492e": {
-    "file": "way.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwax/ukwaxwo004.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "e04920f92de285"
+    ],
+    "file": "female-full/3b4f108e1bef959d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a065f49c0b67353c5dda8e5546c7514de74e71831ab4ce93a476b7fd88b044ba"
   },
   "8925d35c09f0ba": {
-    "file": "river.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukr/ukrip/ukripof024.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "river",
+    "kind": "word",
+    "references": [
+      "8925d35c09f0ba"
+    ],
+    "file": "female-full/9055c9e3c1986dc9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "167cc2361abaec5734052475d46262df7347b2fdb198f8f2e041c9eaf3498a3b"
   },
   "8b44e911e0309d": {
-    "file": "example-40.mp3",
     "text": "There is a river near my school.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=There+is+a+river+near+my+school."
-  },
-  "736c36d08f5442": {
-    "file": "amy-syllables-11.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "8b44e911e0309d"
+    ],
+    "file": "female-full/15fea5abe1d452c2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f4ac337131069363b36d77db51754947859edd5bad7b0689df579a1ab3cbabf2"
   },
   "7c4e47352e6cdc": {
-    "file": "nature.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukn/uknat/uknativ015.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "872f878dad6f46": {
-    "file": "example-41.mp3",
-    "text": "We love nature.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+love+nature."
-  },
-  "0f092fa873de65": {
-    "file": "syllable-20.mp3",
-    "text": "nay",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=nay"
-  },
-  "7f9596c69f0bfc": {
-    "file": "amy-syllables-12.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "text": "nature",
+    "kind": "word",
+    "references": [
+      "7c4e47352e6cdc"
+    ],
+    "file": "female-full/3becd63ae492b06d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a10925ef4fa811e9f6bf269201cea27b4c97f7396f29b5c945a5ea1ebb909a19"
   },
   "c7adf004f50613": {
-    "file": "waterfall.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwat/ukwater001.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "waterfall",
+    "kind": "word",
+    "references": [
+      "c7adf004f50613"
+    ],
+    "file": "female-full/404893711b8f30c8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a5367a095408444b6df897de4fa59ae122f7a07b9a18992dde8b31177e4b07a2"
+  },
+  "872f878dad6f46": {
+    "text": "We love nature.",
+    "kind": "example",
+    "references": [
+      "872f878dad6f46"
+    ],
+    "file": "female-full/a077ad091aba5e68.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0d69eeb916fc5c571c9ca91ce2bfab76673550f8c696f6a202abd6f4cd6bfd56"
   },
   "1d8be41571921f": {
-    "file": "example-42.mp3",
     "text": "Look at that waterfall!",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Look+at+that+waterfall%21"
-  },
-  "afefd7ab8fb5f1": {
-    "file": "syllable-21.mp3",
-    "text": "war",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=war"
-  },
-  "aadba06d2dbabf": {
-    "file": "amy-syllables-13.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "7c89a61380e26b": {
-    "file": "syllable-22.mp3",
-    "text": "fall",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=fall"
-  },
-  "0ff427d3c3ea79": {
-    "file": "phone-5.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_horse_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "1d8be41571921f"
+    ],
+    "file": "female-full/e41efa7ecb78d58c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "60dcc235269494128c59f38a7fdb03809751b6430d5ebb7f6a4e17d80dac4c89"
   },
   "b9d1cd963558a2": {
-    "file": "forest.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfor/ukfores005.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "forest",
+    "kind": "word",
+    "references": [
+      "b9d1cd963558a2"
+    ],
+    "file": "female-full/e0d92e18c16ac92a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f1f4198c1b606704a94cfe2a63dbb76d32dd6d081a73a9d259a1d249418947bf"
   },
   "4faa482e422fd4": {
-    "file": "example-43.mp3",
     "text": "There are many trees in the forest.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=There+are+many+trees+in+the+forest."
-  },
-  "d99c1195cf2425": {
-    "file": "amy-syllables-14.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "7ff8d483ee3cd6": {
-    "file": "amy-syllables-15.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "7fc4906a2e863c": {
-    "file": "phone-6.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sock_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "4faa482e422fd4"
+    ],
+    "file": "female-full/31e24d6a91ab1126.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "2ef375be1786256b20a10c453659bf0253428e956dc8afb7473cc2d36018d14f"
   },
   "2107342d73d770": {
-    "file": "famous.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfal/ukfalsi015.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "e4283100224be2": {
-    "file": "example-44.mp3",
-    "text": "This city is famous for its tea.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=This+city+is+famous+for+its+tea."
-  },
-  "52d355ceba19a7": {
-    "file": "syllable-23.mp3",
-    "text": "fey",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=fey"
-  },
-  "8f40432b52b79d": {
-    "file": "amy-syllables-16.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "text": "famous",
+    "kind": "word",
+    "references": [
+      "2107342d73d770"
+    ],
+    "file": "female-full/f2f7f705ad14ee13.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6c5114528c910c5b25613c849808ec29afbde26a2b85e1b2d0ccbb60e6da2415"
   },
   "db09febf380407": {
-    "file": "mountain.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmot/ukmotor019.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "mountain",
+    "kind": "word",
+    "references": [
+      "db09febf380407"
+    ],
+    "file": "female-full/5cdd111eb5b6742c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "32414b333a93c5f3a1f949f93f10b60a0c664623626378d050e9eb7eeda5bb94"
+  },
+  "e4283100224be2": {
+    "text": "This city is famous for its tea.",
+    "kind": "example",
+    "references": [
+      "e4283100224be2"
+    ],
+    "file": "female-full/f6326d9bb346dc2e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f45cdaf472544abbc53789ee637add05a6689e45d62b43f60b7f172872c20e4f"
   },
   "d55d1d065a91bb": {
-    "file": "example-45.mp3",
     "text": "The mountain is very high.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+mountain+is+very+high."
-  },
-  "440fbd5d5e7249": {
-    "file": "amy-syllables-17.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "d81e9f5755e746": {
-    "file": "amy-syllables-18.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "0227acc55894e4": {
-    "file": "amy-special-1.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "759e5e7fe465f2": {
-    "file": "example-46.mp3",
-    "text": "The wind is strong today.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+wind+is+strong+today."
-  },
-  "2bd9f8351be1a7": {
-    "file": "amy-special-1.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "d55d1d065a91bb"
+    ],
+    "file": "female-full/ab1cd02d498d0587.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5554953faa1ea8374364795a31039a8d9f49089e447d9d9d242afa48511d2926"
   },
   "e2942c79361f70": {
-    "file": "trip.wav",
-    "source": "Youdao UK",
-    "url": "https://dict.youdao.com/dictvoice?audio=trip&type=1"
+    "text": "trip",
+    "kind": "word",
+    "references": [
+      "e2942c79361f70"
+    ],
+    "file": "female-full/639acf56facdbc56.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e2d506e9448191291cca18ec532a9bc44fb6f66418ac53482d1e97f18edcc2d0"
+  },
+  "759e5e7fe465f2": {
+    "text": "The wind is strong today.",
+    "kind": "example",
+    "references": [
+      "759e5e7fe465f2"
+    ],
+    "file": "female-full/98cf35914239667e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f820896ccf021c43881930d50ad407dc72b2f566fc3f8324387292c80cf02a59"
   },
   "1cecec7cf23d26": {
-    "file": "example-47.mp3",
     "text": "We are going on a school trip.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+are+going+on+a+school+trip."
-  },
-  "c42818bbf04c8a": {
-    "file": "trip.wav",
-    "source": "Youdao UK",
-    "url": "https://dict.youdao.com/dictvoice?audio=trip&type=1"
+    "kind": "example",
+    "references": [
+      "1cecec7cf23d26"
+    ],
+    "file": "female-full/8f942c60cb660550.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "008065ce0ffe0040fbd11b8a6e0d815df827aa05ccb10dc515093e70e23268ce"
   },
   "6785cb51e20c83": {
-    "file": "dangerous.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukd/ukdam/ukdamne021.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "dangerous",
+    "kind": "word",
+    "references": [
+      "6785cb51e20c83"
+    ],
+    "file": "female-full/9da395b3edcadd27.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1f8a0d781876d632439341ea67ef9365ce2bf05fbad6044f07ac5dbed10effb2"
   },
   "563909af45d737": {
-    "file": "example-48.mp3",
     "text": "It is dangerous to swim here.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=It+is+dangerous+to+swim+here."
-  },
-  "c83db3e7c1099b": {
-    "file": "syllable-24.mp3",
-    "text": "Dane",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Dane"
-  },
-  "27be90c3d135db": {
-    "file": "amy-syllables-19.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "cfc02dd3e00557": {
-    "file": "amy-syllables-20.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "d71944203034a0": {
-    "file": "phone-41.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_jump_2023feb.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "c39b4eb4cd93a3": {
-    "file": "heavy.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhea/ukheave008.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "563909af45d737"
+    ],
+    "file": "female-full/a85e002f6269746e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f223b11af237206ac9fcc4505d2e68ae2c423c8e4ecd78d00611a6425271b9d6"
   },
   "facded26804e86": {
-    "file": "example-49.mp3",
     "text": "There is heavy rain today.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=There+is+heavy+rain+today."
+    "kind": "example",
+    "references": [
+      "facded26804e86"
+    ],
+    "file": "female-full/54bc9da24163226b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b276c64ef859edf4f353a7c821513baccf391307ea1f2e668479511626009981"
   },
-  "0d694bd9487f91": {
-    "file": "amy-syllables-21.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "ea81b5c64b7fd1": {
-    "file": "amy-syllables-22.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+  "c39b4eb4cd93a3": {
+    "text": "heavy",
+    "kind": "word",
+    "references": [
+      "c39b4eb4cd93a3"
+    ],
+    "file": "female-full/5082e872f2ad3bd5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "fb397f68694de7ac0800de7a00d471dbbda6a554ebe275f051ff74f2059fac72"
   },
   "94a276cbbcd0d8": {
-    "file": "hotel.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukh/ukhor/ukhorsi028.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "hotel",
+    "kind": "word",
+    "references": [
+      "94a276cbbcd0d8"
+    ],
+    "file": "female-full/17342a545b126e2e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "410e7b6954952c49946569021ff305d19174e8d7db4114d91afacf80212e5ca9"
   },
   "60b0f0feb00526": {
-    "file": "example-50.mp3",
     "text": "We stay at a small hotel.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+stay+at+a+small+hotel."
-  },
-  "17bf35fa5b69ef": {
-    "file": "syllable-25.mp3",
-    "text": "hoe",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=hoe"
-  },
-  "e356fb757814e6": {
-    "file": "syllable-26.mp3",
-    "text": "tell",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=tell"
-  },
-  "73e536da504921": {
-    "file": "amy-special-0.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "60b0f0feb00526"
+    ],
+    "file": "female-full/5df15a7da263506f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1b4c78679eeea9fefa7ec6d490028d976dd06cb35cf1b5457808d6326ade0f46"
   },
   "780d92624ed51d": {
-    "file": "example-51.mp3",
     "text": "Please close the window.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Please+close+the+window."
-  },
-  "1874b3f8a96850": {
-    "file": "amy-special-0.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "780d92624ed51d"
+    ],
+    "file": "female-full/a4f87150841bfcf6.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "3eff2dc1536a1915788dac9f4198f379c9a8a728d7219ec263a32dbe4c63af23"
   },
   "bdf6b71fd7ecfb": {
-    "file": "umbrella.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/uku/ukugl/ukuglin029.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "umbrella",
+    "kind": "word",
+    "references": [
+      "bdf6b71fd7ecfb"
+    ],
+    "file": "female-full/db295861183c3af2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4db324776efcd39521df5a76517b861edc128e77ce87422d95b02c7da4f0ac0e"
   },
   "63fc69cf346908": {
-    "file": "example-52.mp3",
     "text": "Take your umbrella.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Take+your+umbrella."
-  },
-  "7d928338ee54df": {
-    "file": "syllable-27.mp3",
-    "text": "um",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=um"
-  },
-  "5ab75a6e0bc867": {
-    "file": "amy-syllables-23.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "ecced18ec19fc1": {
-    "file": "amy-syllables-24.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+    "kind": "example",
+    "references": [
+      "63fc69cf346908"
+    ],
+    "file": "female-full/19635c73168acc16.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "437688cd24b17f74f7319a1f27ca59c0bc6374a001cd8fe34a2b3cee471a8871"
   },
   "19496b36940ace": {
-    "file": "raincoat.wav",
-    "source": "Youdao UK",
-    "url": "https://dict.youdao.com/dictvoice?audio=raincoat&type=1"
-  },
-  "627e2b13d4b0ee": {
-    "file": "example-53.mp3",
-    "text": "Put on your raincoat.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Put+on+your+raincoat."
-  },
-  "e6f133d2b853fe": {
-    "file": "syllable-28.mp3",
-    "text": "rain",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=rain"
-  },
-  "efc074962eb7d9": {
-    "file": "syllable-29.mp3",
-    "text": "coat",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=coat"
+    "text": "raincoat",
+    "kind": "word",
+    "references": [
+      "19496b36940ace"
+    ],
+    "file": "female-full/0e721d0a67a1bf5c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5866b1f54627d47747d657ebdf0bea3035aeef63d165f84b37a7763a7b9e6786"
   },
   "ed9aba2e7b132b": {
-    "file": "worry.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukw/ukwor/ukworks018.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "worry",
+    "kind": "word",
+    "references": [
+      "ed9aba2e7b132b"
+    ],
+    "file": "female-full/c06d48a6a0548e21.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "2b462440a7de2a64a98c4140b578b0ace550b026ebc789b8e652e1bbc3a75da6"
   },
   "7f8d12134475af": {
-    "file": "example-54.mp3",
     "text": "Don't worry. I'm fine.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Don%27t+worry.+I%27m+fine."
+    "kind": "example",
+    "references": [
+      "7f8d12134475af"
+    ],
+    "file": "female-full/f1307e3612afc234.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5742822f46a826ef35212ecb9a804952934177814dc4b0e5cd84bc6deaec68c3"
   },
-  "302d158e8a38a9": {
-    "file": "amy-syllables-25.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "08ba8918fd078b": {
-    "file": "amy-syllables-26.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
+  "627e2b13d4b0ee": {
+    "text": "Put on your raincoat.",
+    "kind": "example",
+    "references": [
+      "627e2b13d4b0ee"
+    ],
+    "file": "female-full/2101585b2975e8bf.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9bade81f3897a74411eaec0f3346ffd60820f81f140f6bd1d3b17a771cfa22c2"
   },
   "cfa6d46570de16": {
-    "file": "fine.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfin/ukfinan011.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "5771f1c79d6f07": {
-    "file": "example-55.mp3",
-    "text": "It's a fine day today.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=It%27s+a+fine+day+today."
-  },
-  "f0973534c0ebbc": {
-    "file": "fine.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfin/ukfinan011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "fine",
+    "kind": "word",
+    "references": [
+      "cfa6d46570de16"
+    ],
+    "file": "female-full/1362e1e744f98aad.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7ebe2ce0e0d8e4347598cf7ef9e2b63bf5cb4ce62b982944005ba6a4e3024dc0"
   },
   "4b4cc7758543af": {
-    "file": "fog.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfob/ukfob__011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "fog",
+    "kind": "word",
+    "references": [
+      "4b4cc7758543af"
+    ],
+    "file": "female-full/81d3e67d937d318c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f777f65c01885ffe83b458d45a7108011c0a2e7823b51f12d3fc091bfadea778"
   },
   "30a748e440affe": {
-    "file": "example-56.mp3",
     "text": "We can't see the road in the fog.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=We+can%27t+see+the+road+in+the+fog."
-  },
-  "aad4c3a71573b6": {
-    "file": "fog.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfob/ukfob__011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "30a748e440affe"
+    ],
+    "file": "female-full/87714602e8028cb4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d87523202b54b2b83edefe05bc91c70028532fa7da09b726ca71cb9addb196d0"
   },
   "dbe04cd7ad6a40": {
-    "file": "flood.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfli/ukflirt011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "flood",
+    "kind": "word",
+    "references": [
+      "dbe04cd7ad6a40"
+    ],
+    "file": "female-full/d2e64473cb26fb06.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b09d60aca5a2fece92833ad53cd2d8f7bcb3b95235e49cee7b6e45364a5d6156"
   },
   "3a5a1c14f38cc7": {
-    "file": "example-57.mp3",
     "text": "The heavy rain caused a flood.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=The+heavy+rain+caused+a+flood."
+    "kind": "example",
+    "references": [
+      "3a5a1c14f38cc7"
+    ],
+    "file": "female-full/f82c033a62713a91.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "173dfaaa5bb7135961c9182b6ea117dbf8df707a6cbe1a720676e019602005f7"
   },
-  "cf562e2f0cc2e3": {
-    "file": "flood.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfli/ukflirt011.mp3",
-    "source": "Cambridge Dictionary UK"
-  },
-  "960e83a3b28ee2": {
-    "file": "fire.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfin/ukfink_006.mp3",
-    "source": "Cambridge Dictionary UK"
+  "5771f1c79d6f07": {
+    "text": "It's a fine day today.",
+    "kind": "example",
+    "references": [
+      "5771f1c79d6f07"
+    ],
+    "file": "female-full/35702faf75ff786f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "aac28d08f08451db1b6c561b39e4de2bb60f4f16c006725dccbac5caea529a49"
   },
   "585a862c86dec6": {
-    "file": "example-58.mp3",
     "text": "Stay away from the fire.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Stay+away+from+the+fire."
-  },
-  "7059f12f757bd8": {
-    "file": "fire.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukf/ukfin/ukfink_006.mp3",
-    "source": "Cambridge Dictionary UK"
+    "kind": "example",
+    "references": [
+      "585a862c86dec6"
+    ],
+    "file": "female-full/85232ef4365ee4c4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "35574fb502426f09eeb123c7325a7eab72792ca91f394d24755d079095a8aa18"
   },
   "4fc10d08e1b2b5": {
-    "file": "know.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukk/ukkno/ukknock008.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "know",
+    "kind": "word",
+    "references": [
+      "4fc10d08e1b2b5"
+    ],
+    "file": "female-full/2f598d590992bde4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7083b33503d63de7bc0ce1bb449ca41580eaec31a3e69506d9f75a9cdd061600"
   },
-  "99ba44ce00361e": {
-    "file": "example-59.mp3",
-    "text": "Do you know this place?",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Do+you+know+this+place%3F"
-  },
-  "d937b125fd7535": {
-    "file": "know.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukk/ukkno/ukknock008.mp3",
-    "source": "Cambridge Dictionary UK"
+  "960e83a3b28ee2": {
+    "text": "fire",
+    "kind": "word",
+    "references": [
+      "960e83a3b28ee2"
+    ],
+    "file": "female-full/23a6c721d252cdea.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "29aef1cd6087b22cffed359ef5a0f466143d85d19b8041be8751a06576ea89ed"
   },
   "56dc1ad33c570c": {
-    "file": "before.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbee/ukbeer_011.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "before",
+    "kind": "word",
+    "references": [
+      "56dc1ad33c570c"
+    ],
+    "file": "female-full/25cc6d42874727b7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9d883e65e9fc2005882c460983af12f691819ee8070e2f526e2ffc1abea0cab6"
+  },
+  "99ba44ce00361e": {
+    "text": "Do you know this place?",
+    "kind": "example",
+    "references": [
+      "99ba44ce00361e"
+    ],
+    "file": "female-full/59858f96b38b0ce3.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c14e0fb6c24823747d8837152363887215b998f26dce09766377e971b40b164c"
   },
   "7f6c29fdb1f971": {
-    "file": "example-60.mp3",
     "text": "Wash your hands before lunch.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Wash+your+hands+before+lunch."
-  },
-  "28b0109910a752": {
-    "file": "amy-syllables-27.m4a",
-    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3"
-  },
-  "afa0b9f1dc21eb": {
-    "file": "syllable-30.mp3",
-    "text": "four",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=four"
-  },
-  "c3e75ea46411dc": {
-    "file": "go-hiking.mp3",
-    "url": "https://dict.youdao.com/dictvoice?audio=go+hiking&type=1",
-    "source": "Youdao UK"
-  },
-  "d357c5e37fb291": {
-    "file": "example-61.mp3",
-    "text": "Let's go hiking this Sunday.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Let%27s+go+hiking+this+Sunday."
-  },
-  "1386ffd7c8a78a": {
-    "file": "syllable-31.mp3",
-    "text": "go",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=go"
-  },
-  "6b8bb68dea4516": {
-    "file": "syllable-32.mp3",
-    "text": "high",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=high"
-  },
-  "24b9e3bc22fe8f": {
-    "file": "syllable-33.mp3",
-    "text": "king",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=king"
+    "kind": "example",
+    "references": [
+      "7f6c29fdb1f971"
+    ],
+    "file": "female-full/3fad47f61c803cbb.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a92f18a5902cc64b9e416d1a204239b8b79e313a0ebf61c683b58120f991a9b5"
   },
   "6c5c6aad217074": {
-    "file": "bring.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbri/ukbriga019.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "bring",
+    "kind": "word",
+    "references": [
+      "6c5c6aad217074"
+    ],
+    "file": "female-full/b26e14fb9f2c8e34.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "59c5d87203f034e24f933b25b0ee89f8f1470a7b6f134cd26de37b41f8769be0"
+  },
+  "c3e75ea46411dc": {
+    "text": "go hiking",
+    "kind": "word",
+    "references": [
+      "c3e75ea46411dc"
+    ],
+    "file": "female-full/b75c206315e7c393.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c6480da7291008042e35ebb7896c55b64406cac6c67cd995a6de7f75afb86b30"
+  },
+  "d357c5e37fb291": {
+    "text": "Let's go hiking this Sunday.",
+    "kind": "example",
+    "references": [
+      "d357c5e37fb291"
+    ],
+    "file": "female-full/aff4de3e59f6fc86.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "81307bd8976ffb01f628508cb0b73d0f916411183d4f9a923513e1066054a371"
+  },
+  "6af9fdfe58bb1e": {
+    "text": "team",
+    "kind": "word",
+    "references": [
+      "6af9fdfe58bb1e"
+    ],
+    "file": "female-full/995e41665fef02d5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "432a79a4ed0f5004ae79a1fadc05c1c3ed3051595bd9a0234ce47426ec193f1b"
+  },
+  "e314b52e1a1a9d": {
+    "text": "We are a good team.",
+    "kind": "example",
+    "references": [
+      "e314b52e1a1a9d"
+    ],
+    "file": "female-full/fc43a4795b20ca90.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "3862e7ccbb31851a96790bd8029323f4537a72eb8b25ffbb85ae5235ecf98d29"
+  },
+  "6938bd2186b7b9": {
+    "text": "player",
+    "kind": "word",
+    "references": [
+      "6938bd2186b7b9"
+    ],
+    "file": "female-full/f51804f4f40b3bc5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "dc0703fe2d23c17b7da312594fae93d16c81ac559f6834aef87f4569da37c25c"
   },
   "3bf5a3f920e53e": {
-    "file": "example-62.mp3",
     "text": "Please bring some water.",
-    "source": "Google Translate en-GB",
-    "url": "https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en-GB&q=Please+bring+some+water."
+    "kind": "example",
+    "references": [
+      "3bf5a3f920e53e"
+    ],
+    "file": "female-full/4251e4090840690a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "05472c3fa84b5621d5bce1037efd9fb27a10b2cbc5d959ed5df61506d6c7152f"
+  },
+  "356de177228607": {
+    "text": "him",
+    "kind": "word",
+    "references": [
+      "356de177228607"
+    ],
+    "file": "female-full/dd309a03edc18b1b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c78997441a957d9263262ff700a84efb23d1f04ea119a442e0cd93413702e2c0"
+  },
+  "6f30df3465f3d6": {
+    "text": "He is a basketball player.",
+    "kind": "example",
+    "references": [
+      "6f30df3465f3d6"
+    ],
+    "file": "female-full/d65c759e3d9294f0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ac414f5d7437601ea9307a6136e75cb3b7ec921a23eddd75295cdab9e01a654f"
+  },
+  "2c8aa4265bf647": {
+    "text": "lovely",
+    "kind": "word",
+    "references": [
+      "2c8aa4265bf647"
+    ],
+    "file": "female-full/90e934a02bc5e88c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "35e7662c5129e5fdb61d22374b0e241bd680688e7c5c29d1c16bd4001323d674"
+  },
+  "7ed2897caf6eaa": {
+    "text": "What a lovely garden!",
+    "kind": "example",
+    "references": [
+      "7ed2897caf6eaa"
+    ],
+    "file": "female-full/e9341f35d8ef9afd.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "3bad7e54029aea89180f06970d9256ffbe3d085004ed24e3c964b0bf19e40a91"
+  },
+  "2743bdf2a09f83": {
+    "text": "Let's help him.",
+    "kind": "example",
+    "references": [
+      "2743bdf2a09f83"
+    ],
+    "file": "female-full/daa00b10e48c621f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7d1c14a98bc37b11cad39d119a08343998126e7abb585452159dee53b2fdc62e"
+  },
+  "6db3ebd48739f1": {
+    "text": "clever",
+    "kind": "word",
+    "references": [
+      "6db3ebd48739f1"
+    ],
+    "file": "female-full/a8204cc8e7379a58.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "db10ec65bc9031d31902c4d747a989572b19a4ada87cd7a76606b3d88c54bd11"
+  },
+  "551f7912d179f1": {
+    "text": "My sister is clever.",
+    "kind": "example",
+    "references": [
+      "551f7912d179f1"
+    ],
+    "file": "female-full/725598dc535c9926.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6ebeedd2af11c5c0ea41d410621fe462538502926963849a152e848b7795e89f"
+  },
+  "3f57b97d7c981a": {
+    "text": "young",
+    "kind": "word",
+    "references": [
+      "3f57b97d7c981a"
+    ],
+    "file": "female-full/e9ddc02232f2704d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "da22ce9f102c0bf805f980ab7127ba9654ba627e7bf743445d542e4ea36cd711"
+  },
+  "b4d930bea5c7aa": {
+    "text": "Our teacher is young.",
+    "kind": "example",
+    "references": [
+      "b4d930bea5c7aa"
+    ],
+    "file": "female-full/7428e0f931758d73.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9352536ea115b393201a7651a80a529bd43da9737a9e3bf6049e8fb84b8aa9ff"
+  },
+  "3a298fac4b814b": {
+    "text": "hard-working",
+    "kind": "word",
+    "references": [
+      "3a298fac4b814b"
+    ],
+    "file": "female-full/ddcb1f1fde8ad5bf.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c8773231cf86f8f7b1a38a09ca18ccb5ba8928852c834b3607b4357a755a408c"
+  },
+  "406a9e36c8524c": {
+    "text": "science",
+    "kind": "word",
+    "references": [
+      "406a9e36c8524c"
+    ],
+    "file": "female-full/bade34cc42ed8d61.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ee9217a23840a7cd40d432346025e56dbebd3f0a1b3b5e82e132ddd5d4300739"
+  },
+  "e3ab8fd261f219": {
+    "text": "I like science.",
+    "kind": "example",
+    "references": [
+      "e3ab8fd261f219"
+    ],
+    "file": "female-full/8a95bd6dc2d15a3c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "3b4b8393fa15866a7d9a196a660a5f682482935610e8032d70277ce47db8803d"
+  },
+  "9fded907c6714d": {
+    "text": "robot",
+    "kind": "word",
+    "references": [
+      "9fded907c6714d"
+    ],
+    "file": "female-full/00debdfce4071b25.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a7be7c4fe0588fdb61cb91aa28a31a8b30d2dbde09917a67ae2fe08eb1839cfa"
+  },
+  "2898001ef5a74a": {
+    "text": "She is a hard-working student.",
+    "kind": "example",
+    "references": [
+      "2898001ef5a74a"
+    ],
+    "file": "female-full/09055b1d3c91030f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "857c21e1dff2629f57b2b9b77c6b2a8e90e0f0c8c13d5dea088534b5bb3808ea"
+  },
+  "97003a443b6fba": {
+    "text": "This robot can dance.",
+    "kind": "example",
+    "references": [
+      "97003a443b6fba"
+    ],
+    "file": "female-full/c3f5942c9907822f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "fa48092259ee83b6a1c7cf6fda78210d98a5ca76bca6ec04cd8de82fc9538fe0"
+  },
+  "3e53f5c4d3e6fe": {
+    "text": "jump",
+    "kind": "word",
+    "references": [
+      "3e53f5c4d3e6fe"
+    ],
+    "file": "female-full/6b1ba52ff3d49aac.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a9d8147c005f4a365f2dea30d2c3b4fadf67c7f1a3f58f93895e36742058345e"
+  },
+  "7f4aa8fabf206a": {
+    "text": "I can jump high.",
+    "kind": "example",
+    "references": [
+      "7f4aa8fabf206a"
+    ],
+    "file": "female-full/9876c27121bf754f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "624a1bfe78df6478d9b4dfc89cf9075cca32308f2fd3ff38a29e2994a411694f"
+  },
+  "270bf2fb308f3f": {
+    "text": "rope",
+    "kind": "word",
+    "references": [
+      "270bf2fb308f3f"
+    ],
+    "file": "female-full/3de252f8fe85926d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b4b5b2b01f9fa3a769a7b2eb2b030a93893e9e8e7ba19100dad98b59bcb6e7a4"
+  },
+  "16b6440a7432b7": {
+    "text": "piano",
+    "kind": "word",
+    "references": [
+      "16b6440a7432b7"
+    ],
+    "file": "female-full/caf0803f35106854.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d99a7ccf15fb909e6973de16df80414cc6a85a8bc0f038ed599f779acd6e6332"
+  },
+  "0400f963dfa5ab": {
+    "text": "This rope is long.",
+    "kind": "example",
+    "references": [
+      "0400f963dfa5ab"
+    ],
+    "file": "female-full/a201b23e5599e36a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e1d9b0becd06d3eb83c4b1ca1746e0a0028ace122d3478b11761f50f10d8f739"
+  },
+  "c7ca8ec7ee671d": {
+    "text": "I can play the piano.",
+    "kind": "example",
+    "references": [
+      "c7ca8ec7ee671d"
+    ],
+    "file": "female-full/e441ed07bfe98a39.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b410e9a62db55ca122546c2874257f35bec1724bee65aa9f7099b30d00450964"
+  },
+  "621330af148e6c": {
+    "text": "chess",
+    "kind": "word",
+    "references": [
+      "621330af148e6c"
+    ],
+    "file": "female-full/da1a64dd4aeb6195.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "edae8252ce2d84af62bd0645840f9c38a53f349209f7bd135d7e2921368f6cb5"
+  },
+  "c89d71a7d89647": {
+    "text": "front",
+    "kind": "word",
+    "references": [
+      "c89d71a7d89647"
+    ],
+    "file": "female-full/52c3c2f6cb58bba4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f329901026e22307aeb427fa4130757c1ff385a85b03f1cf1da0ace840f95a3c"
+  },
+  "360ab13b10da2f": {
+    "text": "The teacher is at the front of the classroom.",
+    "kind": "example",
+    "references": [
+      "360ab13b10da2f"
+    ],
+    "file": "female-full/f834610dcfada1a3.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d00ab6eeeea8151fa1b4e8e0ded42b4a9b8fa59c8da9f2c0dd9ffc61fcbcd5a0"
+  },
+  "b66a3f6de2f784": {
+    "text": "Let's play chess.",
+    "kind": "example",
+    "references": [
+      "b66a3f6de2f784"
+    ],
+    "file": "female-full/5aaad7da35e8f7e5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "448de61a6c620316c79b045faf3c891029cc4c533077c7e6720a309b5526931d"
+  },
+  "135289132b44b2": {
+    "text": "easy",
+    "kind": "word",
+    "references": [
+      "135289132b44b2"
+    ],
+    "file": "female-full/c35ca2862785d358.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "715c2e777b92cda7c6fae9807ce7c3ae43689857908c74e179bbe531aa44d0ac"
+  },
+  "76a55dd99b6fa3": {
+    "text": "This game is easy.",
+    "kind": "example",
+    "references": [
+      "76a55dd99b6fa3"
+    ],
+    "file": "female-full/099915e6f0e85b51.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "53b792e89f8c9c7e97b3559fb48ffe6cf5d4401e86384a602bfc37601781b220"
+  },
+  "dd4ccd7c76bb9c": {
+    "text": "star",
+    "kind": "word",
+    "references": [
+      "dd4ccd7c76bb9c"
+    ],
+    "file": "female-full/daf7320fc599b698.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6122e3bb6beffc14dd3f27105c509b5688d427a5dcb4347d3fab9e6b5859b08a"
+  },
+  "ceb9ea1802dae1": {
+    "text": "wonderful",
+    "kind": "word",
+    "references": [
+      "ceb9ea1802dae1"
+    ],
+    "file": "female-full/33e81a3a3a775820.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "17b8ec7f00edf03e19d0dfa3cb76331bf911d38425e01bc72ec02f8511579b65"
+  },
+  "745bd069bfead4": {
+    "text": "She is a film star.",
+    "kind": "example",
+    "references": [
+      "745bd069bfead4"
+    ],
+    "file": "female-full/464f8f901cac1a8b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f5625991daf6e4677c08c47ce02b5c84501e7007f467edbd52f24a0ba9bb5f83"
+  },
+  "3f22f7c27880f3": {
+    "text": "Australia",
+    "kind": "word",
+    "references": [
+      "3f22f7c27880f3"
+    ],
+    "file": "female-full/6fa73c0c792130c1.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a793d667b5f335a313254597bcc421c3a0a50ee7efd3eb789badd47aa20d19b7"
+  },
+  "2cbc540f723b45": {
+    "text": "The show is wonderful.",
+    "kind": "example",
+    "references": [
+      "2cbc540f723b45"
+    ],
+    "file": "female-full/52ae78be997db0e9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0a8a2c1b691b0394f11954c78ad761c31082c74b66771e44a494d37c3b879cd8"
+  },
+  "2598b9ce2f0e49": {
+    "text": "sad",
+    "kind": "word",
+    "references": [
+      "2598b9ce2f0e49"
+    ],
+    "file": "female-full/316b6656877bc36f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a96358e23fccbc4ffac9fbf0279227a02d6706cf302d04e03c1af03e8371f84b"
+  },
+  "835e6b8b66f011": {
+    "text": "Don't be sad.",
+    "kind": "example",
+    "references": [
+      "835e6b8b66f011"
+    ],
+    "file": "female-full/c452d11010cc6a3d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "bf83ee4c0b263f59b8954e11f1bfa1c95e651f85199212ab70c80d0306960374"
+  },
+  "e79858511e08e5": {
+    "text": "matter",
+    "kind": "word",
+    "references": [
+      "e79858511e08e5"
+    ],
+    "file": "female-full/0e569563d5413dd3.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "da557045b903805f9b64d60d9edcc233b87cbf2e3b0e429bbffb43423680454c"
+  },
+  "eaeca52ad350f1": {
+    "text": "What's the matter?",
+    "kind": "example",
+    "references": [
+      "eaeca52ad350f1"
+    ],
+    "file": "female-full/567f56dabdb93c95.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9f95010a6f7ee486a72e03b0159785c8a358173bd0195f4beb54a7fb8075dbe2"
+  },
+  "d680210f283eb4": {
+    "text": "project",
+    "kind": "word",
+    "references": [
+      "d680210f283eb4"
+    ],
+    "file": "female-full/5177e9209d0274d4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4531c65111368ffd59a99ee3de82421aefbac1774fe0ac3e308b595cb377fd0f"
+  },
+  "bd26cb31a9a97b": {
+    "text": "My friend is from Australia.",
+    "kind": "example",
+    "references": [
+      "bd26cb31a9a97b"
+    ],
+    "file": "female-full/8cfe26485b4729e4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "bf4307af9daaaf04eda7f07ef40aa11e1131bbcd40dae345fb63b2a11b6d163e"
+  },
+  "9612abacb3b1d9": {
+    "text": "centre",
+    "kind": "word",
+    "references": [
+      "9612abacb3b1d9"
+    ],
+    "file": "female-full/109ea102bd1f6841.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "123e7f2a572ac1233d03234692a8157e04ee6db76014f48130e809d09139691e"
+  },
+  "648eb04c15719d": {
+    "text": "We are doing a science project.",
+    "kind": "example",
+    "references": [
+      "648eb04c15719d"
+    ],
+    "file": "female-full/39a9eb41f83946da.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "01b8aabacf40c98bc5554c292ce542b0fed83e9bf28b964a0e2ba1f0ef07f9a8"
+  },
+  "eb9cd6495089e9": {
+    "text": "I agree with you.",
+    "kind": "example",
+    "references": [
+      "eb9cd6495089e9"
+    ],
+    "file": "female-full/69dc42728c5310cc.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "63dd8e746fc252af94b34a7b99ceae32c52da75d57811bc1f494956bdd2ad794"
+  },
+  "6551ca8291e2fe": {
+    "text": "The park is in the centre of town.",
+    "kind": "example",
+    "references": [
+      "6551ca8291e2fe"
+    ],
+    "file": "female-full/bd7ed5a337f6a436.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "908188006e3f3a37260bd6ba06aa52f4092f33f388d60f6f51f09fa27637788d"
+  },
+  "b5fb1b748a8619": {
+    "text": "agree",
+    "kind": "word",
+    "references": [
+      "b5fb1b748a8619"
+    ],
+    "file": "female-full/a19b40c7f87afc84.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "35486df3048044af314ec488b793bab0c47414b38f62365670e74997caa0eb70"
+  },
+  "f07056feb512f1": {
+    "text": "finish",
+    "kind": "word",
+    "references": [
+      "f07056feb512f1"
+    ],
+    "file": "female-full/38e0f216c3f6fff7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5bea29107748dd8c044d95aea8fdb24165a0f11b3d6cfdcb8123d4c6f22327ee"
+  },
+  "1024c5ba6ea634": {
+    "text": "Monday",
+    "kind": "word",
+    "references": [
+      "1024c5ba6ea634",
+      "4c0b6f760b5f81"
+    ],
+    "file": "female-full/04f8e2723ee29585.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6e95cf22cc9dc53624d5dfeb5d623e26b3258c2218ba76b3f9eae00b8fb83d4f"
+  },
+  "4c0b6f760b5f81": {
+    "text": "Monday",
+    "kind": "word",
+    "references": [
+      "1024c5ba6ea634",
+      "4c0b6f760b5f81"
+    ],
+    "file": "female-full/04f8e2723ee29585.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6e95cf22cc9dc53624d5dfeb5d623e26b3258c2218ba76b3f9eae00b8fb83d4f"
+  },
+  "1cdc9e8b3f1f5f": {
+    "text": "We have English on Monday.",
+    "kind": "example",
+    "references": [
+      "1cdc9e8b3f1f5f",
+      "8e55ac1d711a0e"
+    ],
+    "file": "female-full/83298292ee7b53f9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4ac2e9474f26065ce195b0064b77c89305fdd23f2b79d01aac771b511738e559"
+  },
+  "8e55ac1d711a0e": {
+    "text": "We have English on Monday.",
+    "kind": "example",
+    "references": [
+      "1cdc9e8b3f1f5f",
+      "8e55ac1d711a0e"
+    ],
+    "file": "female-full/83298292ee7b53f9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4ac2e9474f26065ce195b0064b77c89305fdd23f2b79d01aac771b511738e559"
+  },
+  "d7d18e73191011": {
+    "text": "I finish my homework after school.",
+    "kind": "example",
+    "references": [
+      "d7d18e73191011"
+    ],
+    "file": "female-full/db4aa8b0d1831a80.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "dd5f243226a13a7d0c125a827e69160ce9c0b083419812e09efad396a743afa5"
+  },
+  "cbca78a63b28a4": {
+    "text": "worried",
+    "kind": "word",
+    "references": [
+      "cbca78a63b28a4"
+    ],
+    "file": "female-full/7c1534ad68aba052.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "da786aa939fb70e4bd1d1144ecef2d5221dc3a8cd6b746f42dcfc70dc4fbb20e"
+  },
+  "ac4276a0851070": {
+    "text": "both",
+    "kind": "word",
+    "references": [
+      "ac4276a0851070"
+    ],
+    "file": "female-full/2334a9ef0507bd47.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f03c467d6c4daf0588f61a2b3d175a336560dc5d615f688e353827e4e3e9f513"
+  },
+  "8285d0e22596a8": {
+    "text": "She is worried about her dog.",
+    "kind": "example",
+    "references": [
+      "8285d0e22596a8"
+    ],
+    "file": "female-full/c45529a9b42663fa.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e205211d37ca0da7d79131fc2b905b756d14d74e72087c5d3458392d6dc108ec"
+  },
+  "d662998fe02f85": {
+    "text": "excited",
+    "kind": "word",
+    "references": [
+      "d662998fe02f85"
+    ],
+    "file": "female-full/dfeb310a9d06780d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f32c5ba7ab755f861144eda1e08654be7e02fcfa7d694fd60150620da1bc0a4f"
+  },
+  "f6faf67910fc79": {
+    "text": "We both like music.",
+    "kind": "example",
+    "references": [
+      "f6faf67910fc79"
+    ],
+    "file": "female-full/82f7908a4a8574d6.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "3ba78157ceb44f86c489b42a1b1f8d53659ad1432310254ea75fbcdf3f0bb5b1"
+  },
+  "2106f16480b30e": {
+    "text": "I'm excited about the school trip.",
+    "kind": "example",
+    "references": [
+      "2106f16480b30e"
+    ],
+    "file": "female-full/18c15044ec76079c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ad362e91b30ed9ee93d04dbb747172e668c3927fc70a171809204dac71d152ce"
+  },
+  "c870855ed4af3b": {
+    "text": "wrong",
+    "kind": "word",
+    "references": [
+      "c870855ed4af3b"
+    ],
+    "file": "female-full/eac21b7109fc3c96.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "af449fdfaf182b4521dafb60c2d7d84ce7d52a03087259a78c2249cabdfcf0db"
+  },
+  "cc2c7607244615": {
+    "text": "This answer is wrong.",
+    "kind": "example",
+    "references": [
+      "cc2c7607244615"
+    ],
+    "file": "female-full/a35dc0cfd33803a1.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "21a9b61122d952865c48d5f2efb4d5e23ac8c0febeb5f095a449443a72ac9d0c"
+  },
+  "ef86ddab10ceb9": {
+    "text": "angry",
+    "kind": "word",
+    "references": [
+      "ef86ddab10ceb9"
+    ],
+    "file": "female-full/93a4406a28771d53.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6521789c1ca2c53edabf2aa5cd1e4150242a7e42f202e7f01270e8e520bdd3fc"
+  },
+  "3e2b4f97f81f34": {
+    "text": "afraid",
+    "kind": "word",
+    "references": [
+      "3e2b4f97f81f34"
+    ],
+    "file": "female-full/4fc28c17302f007b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "437dc60429151adae0f632c283e5989e90d3bf3dd66aa543e707bfa9044b9d1b"
+  },
+  "8bb28d0c485bd1": {
+    "text": "Please don't be angry.",
+    "kind": "example",
+    "references": [
+      "8bb28d0c485bd1"
+    ],
+    "file": "female-full/1a23f9d3ff36956c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "8fc5e1d323515fdde416b91122d68e4b3df4c879d8a95869f614c25d02ac90ae"
+  },
+  "17ee3c6c835748": {
+    "text": "I'm afraid of snakes.",
+    "kind": "example",
+    "references": [
+      "17ee3c6c835748"
+    ],
+    "file": "female-full/00b9cea5c334c20a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "aa9af6fdad20ebf3b7756905b34b5a898634eb162263b22a5b248c7a6eba487f"
+  },
+  "0fbd84822b42b7": {
+    "text": "ask",
+    "kind": "word",
+    "references": [
+      "0fbd84822b42b7"
+    ],
+    "file": "female-full/b94f5af581481552.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9d5b4eff21c016cb8d9c9d7ebc3e42772ae78021feb62cc72dd07c983ff137cf"
+  },
+  "8cee6e210e41ac": {
+    "text": "parent",
+    "kind": "word",
+    "references": [
+      "8cee6e210e41ac"
+    ],
+    "file": "female-full/0332a6571d62220b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ab54ee6a0295173052dea064ce78ef1fd98b61b6bf060aef9170ffa4e5dba1d6"
+  },
+  "8a2cdd035f03e6": {
+    "text": "A parent can help with this game.",
+    "kind": "example",
+    "references": [
+      "8a2cdd035f03e6"
+    ],
+    "file": "female-full/b35de46e37f82f9e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "d14b67dd186920e5828d29608a8dd0439dd60febfa7dfc19b7132e7203558bf1"
+  },
+  "9182fc8f77cd77": {
+    "text": "move",
+    "kind": "word",
+    "references": [
+      "9182fc8f77cd77"
+    ],
+    "file": "female-full/cad2c00a61d4640c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "df12b46d23931fcf85239e06f6be1f8d9db5855d24acb3512f7ab8fcc19476fb"
+  },
+  "c59f41c138cd66": {
+    "text": "May I ask a question?",
+    "kind": "example",
+    "references": [
+      "c59f41c138cd66"
+    ],
+    "file": "female-full/2035c306d5ab71da.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4fc0dfbc854cee54f28355be9370500c0660cdaf624745751247e28c668ada79"
+  },
+  "a70aef96e3af9c": {
+    "text": "We move to a new house.",
+    "kind": "example",
+    "references": [
+      "a70aef96e3af9c"
+    ],
+    "file": "female-full/7b97f13abc9d7f97.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "cd82e605029882d0fda536edea00c392fd3f5e271dd9026adb8c840f5549e8bb"
+  },
+  "80087392e104e6": {
+    "text": "yours",
+    "kind": "word",
+    "references": [
+      "80087392e104e6"
+    ],
+    "file": "female-full/6fbe6000bfc444e8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "bb0c5eec0dc3137f9a2ea931dee6d67bf65ce447a05b9398f1cd9772829c7200"
+  },
+  "1cd72ef7e58665": {
+    "text": "Wednesday",
+    "kind": "word",
+    "references": [
+      "1cd72ef7e58665"
+    ],
+    "file": "female-full/0683e32334854482.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "db641101798c934195c3633381ac7367031638816bf1c163198da77935658e63"
+  },
+  "f8c106987dcdb5": {
+    "text": "Yours, Amy.",
+    "kind": "example",
+    "references": [
+      "f8c106987dcdb5"
+    ],
+    "file": "female-full/e6ea6a4576350103.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0b08f632ba9550690324376fde9a7a6fe3458166c57a3118bd92caadbae340e6"
+  },
+  "c9d783b74da9ca": {
+    "text": "subject",
+    "kind": "word",
+    "references": [
+      "c9d783b74da9ca"
+    ],
+    "file": "female-full/7f47844abf901414.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ac6e5916d3cd1111d2a954ed168c3defd69ebea8b8ed7a1abd4c7645e45a433f"
+  },
+  "ce2b1818bb2442": {
+    "text": "English is my favourite subject.",
+    "kind": "example",
+    "references": [
+      "ce2b1818bb2442"
+    ],
+    "file": "female-full/1c6e33ddddd769b0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a67cff86988011d5dfbf65986017f1de80d86b1f4999bcb56f084f8e91e86cc9"
+  },
+  "f453fcb64b9d2a": {
+    "text": "We have art on Wednesday.",
+    "kind": "example",
+    "references": [
+      "f453fcb64b9d2a"
+    ],
+    "file": "female-full/4003f4ef0d98eba1.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f1b93d5598a78a9dc0cba2f495478077b151c5bd4412fa86709eb8c26dd5c86a"
+  },
+  "01c59847eaeff5": {
+    "text": "Tuesday",
+    "kind": "word",
+    "references": [
+      "01c59847eaeff5"
+    ],
+    "file": "female-full/24acbe091ee7dc95.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "50ed70fe8cd169245a38b441acad35e2075a538f524bec11b79d12724bb1897f"
+  },
+  "127b5d20828d5d": {
+    "text": "Friday",
+    "kind": "word",
+    "references": [
+      "127b5d20828d5d"
+    ],
+    "file": "female-full/3ca3885e8c3b4a06.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7aecac415e016531424f7ab128e0c5bf03b333af0f2a061f18b36407b6a25d86"
+  },
+  "7decfd140a6f9d": {
+    "text": "I play football on Tuesday.",
+    "kind": "example",
+    "references": [
+      "7decfd140a6f9d"
+    ],
+    "file": "female-full/438d8a26c4210597.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "efe2dafae280a29347ce053c9dbf2f5b871d84e47007e725904e7f69fdd44e01"
+  },
+  "1ff662bd11b1fc": {
+    "text": "because",
+    "kind": "word",
+    "references": [
+      "1ff662bd11b1fc"
+    ],
+    "file": "female-full/462fd4ca6c593b56.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "32c13d63ba5522578bb8d4bdae85e8838c1fd392909e1a078300800e3c227ce7"
+  },
+  "21f9e1225ebdd2": {
+    "text": "We have music on Friday.",
+    "kind": "example",
+    "references": [
+      "21f9e1225ebdd2"
+    ],
+    "file": "female-full/bd63769142f2bfbf.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "bf98c36ab7123d8c5bd2bc66a4bd0396c53bd0044144c51e20fd02244251ab6b"
+  },
+  "59052327e95606": {
+    "text": "I like this book because it is funny.",
+    "kind": "example",
+    "references": [
+      "59052327e95606"
+    ],
+    "file": "female-full/bbbc2aa5e60cd5ec.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f9dcd6f5a7fa9dc61f5383ace5dc828022c4fc2f0589e2e13a90a1174269a9b8"
+  },
+  "2582f57144593b": {
+    "text": "I read with my friends on Thursday.",
+    "kind": "example",
+    "references": [
+      "2582f57144593b"
+    ],
+    "file": "female-full/d956a90a6c005902.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a98f178587b744ddaf9f969a034ef3799ae45d96598118641f500b488a035d9c"
+  },
+  "85004258cf5bd9": {
+    "text": "Thursday",
+    "kind": "word",
+    "references": [
+      "85004258cf5bd9"
+    ],
+    "file": "female-full/b68ae36223b83628.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0fb6d55c11223e477956ddb1eb4825276ced9d800ea7d7f8caf499ea67243e4d"
+  },
+  "403a918f8ab62a": {
+    "text": "Let's start the game.",
+    "kind": "example",
+    "references": [
+      "403a918f8ab62a"
+    ],
+    "file": "female-full/6397693bb1fc95ea.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "69070d00c94a90012342ecb9e9415b693daec4956640da72bb878f50ab499c42"
+  },
+  "67ae5f727e6299": {
+    "text": "start",
+    "kind": "word",
+    "references": [
+      "67ae5f727e6299"
+    ],
+    "file": "female-full/d8e770cb4b20a6bb.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a409bc854c145d1be8b8887e43e34e7eb9f421c41868eb8cb24afd94eeec36fa"
+  },
+  "165e42ee0795ef": {
+    "text": "usually",
+    "kind": "word",
+    "references": [
+      "165e42ee0795ef"
+    ],
+    "file": "female-full/c0eec4de0861bfab.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a2f2bc4dc83ca9c513ab1d4327d77698db9c3d872e72f6b2557672cb2fa23aff"
+  },
+  "2baee340bf6cc8": {
+    "text": "I usually get up at seven.",
+    "kind": "example",
+    "references": [
+      "2baee340bf6cc8"
+    ],
+    "file": "female-full/144ec692721f6117.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7e60f769572b0bf19bdeca1004c968b457fe75dd81e3f40964b1c2b97996ccc9"
+  },
+  "bc901ec3908549": {
+    "text": "weekend",
+    "kind": "word",
+    "references": [
+      "bc901ec3908549"
+    ],
+    "file": "female-full/806bd2da5e124c09.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7fb53b3b67c7d5ecfac8cbbbe637088f0ce094fff2b9ac377fc415cd5d81094d"
+  },
+  "b72e041701804e": {
+    "text": "I visit my grandparents at the weekend.",
+    "kind": "example",
+    "references": [
+      "b72e041701804e"
+    ],
+    "file": "female-full/e89851c7fdb42e46.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f35317aede534ac70b59ce82460a931f7c34d3e112f5faa8b6bbd55c703dcd1e"
+  },
+  "c6624c8b8d7ffb": {
+    "text": "I sometimes walk to school.",
+    "kind": "example",
+    "references": [
+      "c6624c8b8d7ffb"
+    ],
+    "file": "female-full/924afb90dfa6e7b0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ebf217135b62326030247824fb013f94c6207d798e3c46ec820014b571b0fbae"
+  },
+  "50e5efe3872f0b": {
+    "text": "Saturday",
+    "kind": "word",
+    "references": [
+      "50e5efe3872f0b"
+    ],
+    "file": "female-full/35ed688c2d407ec9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "605245d08756c19c18762fcb864dd197c8337ad19267ed5c855f6a81c58613b1"
+  },
+  "dbc5270bb3ad65": {
+    "text": "sometimes",
+    "kind": "word",
+    "references": [
+      "dbc5270bb3ad65"
+    ],
+    "file": "female-full/48e63d6cc548ae9c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0c0a9d6b828962493f05f9d8a8bf22feab5f6c6945d2e18f6cf4c9fb759e4632"
+  },
+  "d63366aefcb6c3": {
+    "text": "Sunday",
+    "kind": "word",
+    "references": [
+      "d63366aefcb6c3"
+    ],
+    "file": "female-full/8dcc16969aa28117.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "4dcccef75210779a4bcb9494d6c06b97d454ecd83bc9404c4a3f4abac98ecb20"
+  },
+  "49984d89ca7245": {
+    "text": "I play chess on Sunday.",
+    "kind": "example",
+    "references": [
+      "49984d89ca7245"
+    ],
+    "file": "female-full/2056ca3d0fcd9e2e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b5606d2b3411aed1719e424c10459ae96aa00c5401b5565208bc489701312a12"
+  },
+  "e5f81bf53803be": {
+    "text": "lesson",
+    "kind": "word",
+    "references": [
+      "e5f81bf53803be"
+    ],
+    "file": "female-full/0ba45283dccad07d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a9e331d61f4dfd27e074d1f2ad46e899bb18f12f1e67dd94f711d3c98b0881f2"
+  },
+  "9cc5d407758cb4": {
+    "text": "We go to the park on Saturday.",
+    "kind": "example",
+    "references": [
+      "9cc5d407758cb4"
+    ],
+    "file": "female-full/a338c8226ca6eadf.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "baaca2ae4f58fd1fc57d0f845019b007ac2c205058a4145edc00bdbc16292c2f"
+  },
+  "171c816872239d": {
+    "text": "evening",
+    "kind": "word",
+    "references": [
+      "171c816872239d"
+    ],
+    "file": "female-full/4c5f0b9ec5f33e46.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "02d40ade4fc0c9a9b10800912ec071f2c5c06dcba4caae31adebf1b2ece34603"
+  },
+  "2893ea29103615": {
+    "text": "We have a music lesson today.",
+    "kind": "example",
+    "references": [
+      "2893ea29103615"
+    ],
+    "file": "female-full/c4a25b3b15fb9286.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "cd3b20b013f2a871e22c8699a5ece251d4a4a2c4ff3649c79cdfc57725a991fd"
+  },
+  "1cf04e171000e6": {
+    "text": "answer",
+    "kind": "word",
+    "references": [
+      "1cf04e171000e6"
+    ],
+    "file": "female-full/780c3550d3cbff36.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1cd93b31c950875fee856703fbb1eb4288074821c0c44e483cdb74eceb227f0d"
+  },
+  "51092c688697ed": {
+    "text": "Please answer my question.",
+    "kind": "example",
+    "references": [
+      "51092c688697ed"
+    ],
+    "file": "female-full/921b1db671c250f7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1f859c20af11575a5bce61ae77b01cf58802b110af9c88ee03e8edd1c62bd7e0"
+  },
+  "b52f8f18548113": {
+    "text": "ping-pong",
+    "kind": "word",
+    "references": [
+      "b52f8f18548113"
+    ],
+    "file": "female-full/a48572365eba4165.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "75a45ab2fd61bf6bc846b9b5e0cecbe5557da4aac6ec498b600dfb9fea56b291"
+  },
+  "dc5f1a59e61ce8": {
+    "text": "Let's play ping-pong.",
+    "kind": "example",
+    "references": [
+      "dc5f1a59e61ce8"
+    ],
+    "file": "female-full/2bccc597416760d6.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a1c7900b69540a511a8869360b6696139c44e0871d2efbebc40b1b1013b2c6b8"
+  },
+  "056e7e2cc4c35a": {
+    "text": "night",
+    "kind": "word",
+    "references": [
+      "056e7e2cc4c35a"
+    ],
+    "file": "female-full/14195350bc04f24d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "cf54245c4952d8393fd9200d4ffc9f73723620d1fa26207cefcb79a1dea62187"
+  },
+  "149325ae095efa": {
+    "text": "I sleep well at night.",
+    "kind": "example",
+    "references": [
+      "149325ae095efa"
+    ],
+    "file": "female-full/a121d260d193fedf.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b2919f66d9b68903bd1a525b366c5b32d24c4233978835ccda50f1e87db0ca2e"
+  },
+  "7e21a1990b5356": {
+    "text": "visit",
+    "kind": "word",
+    "references": [
+      "7e21a1990b5356"
+    ],
+    "file": "female-full/fe181b6d4c726e1a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "2f089371284e6fed48a04640039a9e6191f9578d27e8fa4abcd1d288f588a4fe"
+  },
+  "7b8112cf3707da": {
+    "text": "I read in the evening.",
+    "kind": "example",
+    "references": [
+      "7b8112cf3707da"
+    ],
+    "file": "female-full/016191fe3353b828.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "8424931883151fd0c3f7bca618269566098331ec5597a0c4296f98c748809354"
+  },
+  "5c7026d444d707": {
+    "text": "grandparent",
+    "kind": "word",
+    "references": [
+      "5c7026d444d707"
+    ],
+    "file": "female-full/5714f69bbb3f127a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "92081008461b95db709ba8b1d266fc1975d5b997d5c3bde546d74d3328e655df"
+  },
+  "7219c97af1afd0": {
+    "text": "We visit our teacher.",
+    "kind": "example",
+    "references": [
+      "7219c97af1afd0"
+    ],
+    "file": "female-full/4516dac7d052cb84.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "dcf06e20c18b5702bf71fdd490d0d2dfdc2ea8fef5b18905078fc3e60e91f04e"
+  },
+  "8a247ea6ad3069": {
+    "text": "A grandparent can tell us many stories.",
+    "kind": "example",
+    "references": [
+      "8a247ea6ad3069"
+    ],
+    "file": "female-full/8f1eec714ccccb89.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "cc1a7690aceb318dc5fbefb0a62c236b70854e4f5c01182f4a14e5dadc7b4b0d"
+  },
+  "6878ef070b0780": {
+    "text": "I brush my teeth every morning.",
+    "kind": "example",
+    "references": [
+      "6878ef070b0780"
+    ],
+    "file": "female-full/1a36a726ea92bf27.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "94f70180c2a77b01f952e9f61c53a21789b11683ffdd8b89b75d7511ee5bf29e"
+  },
+  "11db1e0b5a74c8": {
+    "text": "brush",
+    "kind": "word",
+    "references": [
+      "11db1e0b5a74c8"
+    ],
+    "file": "female-full/2cd90aea7850042d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "dbdeb67903588068838e2850e60271989cd3d4f3ea45142a92ed796ee8cf7749"
+  },
+  "77df5b15685141": {
+    "file": "recordings/phone-36.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_say_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "2cd828e9cc943d8479a735643678fc0fad0e9038e7303a3bb6c9a0f05736cdc2"
+  },
+  "33d6bff3a3ce33": {
+    "file": "recordings/phone-27.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_town_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "b0b4dc368558a548775f484634b7980b72f7f1b966ecc9b39dfbb82cf35fee95"
+  },
+  "e068af44706bc8": {
+    "file": "recordings/phone-14.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_day_2023feb_002.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "7321fc2b9ecb31ca42fb562c8f7a567a1ca8ed6614ea243c7949412bb9ec9cd3"
+  },
+  "73bfa18d421b52": {
+    "file": "recordings/phone-38.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_she_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "e10fea51af2a881a274c3c35ecc4c658cd71b2fc6020c656102a28de9edb36c3"
+  },
+  "71e7372bf9fe41": {
+    "file": "recordings/phone-8.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_foot_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "af347a3a2f0ebdaf79fb5453db8b283908bb9f8ab563b815466d75d2516705b7"
+  },
+  "3692ea2fce4f91": {
+    "file": "recordings/phone-29.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_day_2023feb_001.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "188e014938c6044f4eeed4705081c97e27e71834bfd6c545b90617d878600a98"
+  },
+  "3984d7593e7a02": {
+    "file": "recordings/phone-32.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_fish_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "f234413ecf3d5f73526563207cc6044cad330b5328a9c65a950dcacfe6299d42"
+  },
+  "8e840d89b18934": {
+    "file": "recordings/phone-45.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_look_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "3933149456955d58cd3b775769a17d30690dad694fa7f97917851d2d3374fdd7"
+  },
+  "7e804d0117455f": {
+    "file": "recordings/phone-7.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_blue_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "1fded600dbad944747fee036f01de6d4f7367ca3be8bcbc60d0b3b18460ef33a"
+  },
+  "df6f04fda0979d": {
+    "file": "recordings/phone-9.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_head_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "9af095907616d7cc7de9c254d25831377c31f1ee568b4d6b556ecfad324eac81"
+  },
+  "15deac28bfb6ce": {
+    "file": "recordings/phone-30.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cat_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "54663938cda299e55d5f28cd9110173aa2746bb695f325cae26cb28e716330f3"
+  },
+  "a1d90646e1e7f2": {
+    "file": "recordings/phone-12.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_above_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "faf82942f194c1b75e35f062eb685034d6b88023224d0ab077a29b358255cc1a"
+  },
+  "14cbe880b8cc93": {
+    "file": "recordings/phone-15.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_eye_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "1ef39c3754f6e9ea502b94af6749b1c66207cf7c83c20c2f6a81d63785b44c9a"
+  },
+  "938f5e83c40cc0": {
+    "file": "recordings/phone-37.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_zoo_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "c07969a5e0d33d93afa06e85cc7f734bdf5df0679ad24b2ed39c56c6534d0de6"
+  },
+  "9666e5af85009f": {
+    "file": "recordings/phone-1.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_ship_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "c80dcb7f1633351357999ad747132b6f26d23f3cfee546a1f5b524d003893eea"
+  },
+  "520b21b4bc85e6": {
+    "file": "recordings/phone-43.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_name_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "e9d7ca643d039356dbde625652453217983244a0ead97ca3e47850dd229e901c"
+  },
+  "78f5a0338d9278": {
+    "file": "recordings/phone-4.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cup_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "f16d967dafb71ffbe09572c028f64f3fd8a3135fb9abfd60f6ccba7c97b3788f"
+  },
+  "db8be77c321027": {
+    "file": "recordings/phone-49.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hand_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "cf9b53d00a6e0c314c93f87d96e64eb48a652632dd43933bbfcb6f7f4e64b7c7"
+  },
+  "aa4d5e6c8d4199": {
+    "file": "recordings/phone-3.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hat_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "00183f32637a26ca36f32648bca8118ed139fa463ee5cfd63f4f4b6c63f54030"
+  },
+  "a5bdd5a78e7f5c": {
+    "file": "recordings/phone-26.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_book_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "2dda21b55671fa296b719de741d193e45e73cd9ab7ed30e459e284ac717dd118"
+  },
+  "de230a6793e507": {
+    "file": "recordings/phone-17.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_nose_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "de0b42fa20fc7c2fe242173da855d12076104051f42ded7ae33472fb15fa041f"
+  },
+  "ab1d00f7f7bc23": {
+    "file": "recordings/phone-35.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_this_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "6ea6330ed8e94e91060e7ee555af6b2dad4bb5e697f4b866226978e497a45ce7"
+  },
+  "440264ba9812d7": {
+    "file": "recordings/phone-46.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_run_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "e2013d418e55dae80df9cffe2610f70fc50732091108c194b38fc2c1294873c9"
+  },
+  "a111d2c7999a7c": {
+    "file": "recordings/phone-21.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_hair_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "2f9ae1324f185de032cd64370554f8da4852a0e9050c2456bee21953465b9b77"
+  },
+  "3aedc26320a6b2": {
+    "file": "recordings/phone-33.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_very_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "f12f6873923152326b353669dcb1543a73912da55b27e765736759c88173a6a6"
+  },
+  "0f3a4731d286ed": {
+    "file": "recordings/phone-40.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_cheese_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "9df454f6aed12720d151368be6cc5eb0f1a4af83b9fb7ddd533f2303059a2c7d"
+  },
+  "09ea4f5cf06072": {
+    "file": "recordings/phone-34.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_think_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "42b72a0b466dadfaceab78b434b86dd8912c5fa44268889a12965d8e520c3ba7"
+  },
+  "f36e0f89fd2198": {
+    "file": "recordings/phone-47.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_we_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "724fdba2a678fd22eb8bca38b1a22b7ab8b29c837e1221975f961b1647f51ab3"
+  },
+  "ec80d9424a1e54": {
+    "file": "recordings/phone-19.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_mouth_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "6e393a9c6b3d02a60c94b28ce0032c905984f241dbff8e60eeb1d6002ee3efb9"
+  },
+  "d35f2468855d20": {
+    "file": "recordings/phone-0.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sheep_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "1099cdcdcbf31461740f7973681b254216c03a5b1f004f013027973603132a4d"
+  },
+  "386316af5b148a": {
+    "file": "recordings/phone-44.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sing_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "ec40e55fd150d8841ef260dedb4381e5a00a7f17ece05346b0519e4a320aca82"
+  },
+  "af5a7e7f10bb01": {
+    "file": "recordings/phone-60.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_give_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "515fc52f6f055a4dca9c44ac354f7060d5fca4cd8ee511e225c2aee8bea84570"
+  },
+  "0f890b4d8daec8": {
+    "file": "recordings/phone-50.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_happy_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "2ccdb47d8453e3365428fe21f63b7f317d5c037b81c83f78ceabc20430d50790"
+  },
+  "98c42d047aab7c": {
+    "file": "recordings/phone-42.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_moon_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "86b8e470ed517fc853780709abbe1188b658c7136b18a40e7ceebe72da208fb7"
+  },
+  "6b4b229c14d0aa": {
+    "file": "recordings/phone-25.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_pen_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "252cbc199de20722a121d8269863a6369f980776dbe75bf26379e665d2e32e7b"
+  },
+  "2f49ed94ac4a88": {
+    "file": "recordings/phone-10.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_bird_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "e066b63b8bc95c5f9fd8ded169e2710351530d6650320c28b43c4864491abc97"
+  },
+  "fbbed4070bb3d7": {
+    "file": "recordings/mrs.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukm/ukmoz/ukmozam013.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "9dff2a6088c85d183f97569bd5307eb998880aea0f8e55daaadc79b4fc8d624f"
+  },
+  "0ff427d3c3ea79": {
+    "file": "recordings/phone-5.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_horse_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "e9671d7cceabb35ee37fe2aad7e4e2e555c20e72c013cfa0952ea87440158dd3"
+  },
+  "7fc4906a2e863c": {
+    "file": "recordings/phone-6.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_sock_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "43c6965757bcac6f81921120f0f4dd38d1fd530ed942a904b4d0fcc7d717e3a0"
+  },
+  "0227acc55894e4": {
+    "file": "recordings/amy-special-1.m4a",
+    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3",
+    "sha256": "6ac920e89d731c394a7d930300ddd6a4e59261df968a79e914c0d62050a61d1c"
+  },
+  "d71944203034a0": {
+    "file": "recordings/phone-41.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_jump_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "27cc3e61a18e6fc62935766a5b8571bbb0299f3c5783f3b562fa293fc1d24ebd"
+  },
+  "73e536da504921": {
+    "file": "recordings/amy-special-0.m4a",
+    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3",
+    "sha256": "cbdcb012a49c4318c07e0d85db0a7e140b036c06fb9df271c28318a4f3ca68be"
+  },
+  "5e374cc4494517": {
+    "file": "recordings/phone-new-48.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_yes_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "6ef7c5fe3a432e573f9dad7065d9186d03124910d3e688d86e40a3c5e940b4aa"
+  },
+  "b699b498200cb2": {
+    "file": "recordings/phone-new-2.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_father_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "b6ba49ad0d90462fa278383222c48900a5045244cb443a7d695bc7ede3837c16"
+  },
+  "b23ef757296352": {
+    "file": "recordings/phone-new-39.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_vision_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "69af6788ebfeda92fa925910a2f55ccca738b9b2e75fef6d624987e3a790a750"
+  },
+  "f20410fbf7d750": {
+    "file": "recordings/phone-new-51.mp3",
+    "url": "https://dictionary.cambridge.org/media/english/uk_phonetic/uk_phonetics_sound_situation_2023feb.mp3",
+    "source": "Cambridge Dictionary UK",
+    "sha256": "be361121584d2fd3051dcd755166cf0929604ff9de5ff1c4f2e2283ffd6e9a8f"
+  },
+  "2a2f13c2bb9223": {
+    "text": "stay",
+    "kind": "word",
+    "references": [
+      "e54512d1b31eff"
+    ],
+    "file": "female-full/caba8da16b4a5a53.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9bcf671e9512fd5be1de199c6334afef42eaebbbea6f44b203713a696985c520"
+  },
+  "db7db6dccc90fd": {
+    "text": "should",
+    "kind": "word",
+    "references": [
+      "be972c3d5fdc07"
+    ],
+    "file": "female-full/5f0e7bf3c74b374d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "5180e4dc4d93ee10b92f8bfbf816e70f4ae9f829de1634ae0bc56cade9d7eb27"
+  },
+  "a85a29feed39eb": {
+    "text": "flu",
+    "kind": "word",
+    "references": [
+      "8207299454aac6"
+    ],
+    "file": "female-full/4eff129e999b37c8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a53d7c82c4fd43c28be0797ab3c7ade409313a0a194a6931a6c964648dfa5bd2"
+  },
+  "09506fd597117b": {
+    "text": "else",
+    "kind": "word",
+    "references": [
+      "042b6c0c0a6f4f"
+    ],
+    "file": "female-full/bded8cf6d6fb843b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a58e23e8f558facd8655992f9ecc0874863d6754008f8a6a1278ee9b3d5f0d01"
+  },
+  "f15a19af0896d4": {
+    "text": "if",
+    "kind": "word",
+    "references": [
+      "c4ae7a5f7a825f"
+    ],
+    "file": "female-full/f64f116557a6be0a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "66d5936d342a14aecdbad32f0c06e1c9aea83379702a6a25b84d742fb9cbe9a0"
+  },
+  "5d4f435da3c693": {
+    "text": "show",
+    "kind": "word",
+    "references": [
+      "33a021be55f984"
+    ],
+    "file": "female-full/1e057ccda89b11dd.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0de39d8cb4c521816f87f962f4654db96ffd5790f7a9a927e466961403c428ff"
+  },
+  "1bc954d05c8421": {
+    "text": "phone",
+    "kind": "word",
+    "references": [
+      "0c94a33f945727"
+    ],
+    "file": "female-full/a0a909751d01ae69.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e362ec6427f75e42c9a4740d2b8f56a3942203818abc3d20e6ddc6ca1678ae7c"
+  },
+  "d1798d2abfa24e": {
+    "text": "then",
+    "kind": "word",
+    "references": [
+      "da7fa21d7ee453"
+    ],
+    "file": "female-full/558c181464e3b41f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6be643ffabc0a976f102450acfe3a8f00c2c77ecd23bbac02eec2f7a7f5db91f"
+  },
+  "c1668ff1b518d0": {
+    "text": "rest",
+    "kind": "word",
+    "references": [
+      "a9f651cb1a9d56"
+    ],
+    "file": "female-full/4780243c11333ea2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "ce6f4bcac5d8048d5c9d1fc3a5eff72ce6b3216beb6a9716b43bc3e78c67335c"
+  },
+  "b43e006a75d6fb": {
+    "text": "check",
+    "kind": "word",
+    "references": [
+      "11a4afb41b07e5"
+    ],
+    "file": "female-full/3433fae7b1b3ad5c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e384539bac01d3d7484f25b8a044d58afc14b0b4feaa96f0bd1c5989fe830c5a"
+  },
+  "28cf12b258746d": {
+    "text": "less",
+    "kind": "word",
+    "references": [
+      "c0d8cd33508366"
+    ],
+    "file": "female-full/5944ba4be32be049.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "03b6054fce0f9ebfe649078cc4d974086cd527935df7a9598697c1d88093c42a"
+  },
+  "c9064931e882f1": {
+    "text": "brush",
+    "kind": "word",
+    "references": [
+      "11db1e0b5a74c8"
+    ],
+    "file": "female-full/2cd90aea7850042d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "dbdeb67903588068838e2850e60271989cd3d4f3ea45142a92ed796ee8cf7749"
+  },
+  "8a84264580e888": {
+    "text": "tooth",
+    "kind": "word",
+    "references": [
+      "c94b9480c71463"
+    ],
+    "file": "female-full/14d8374678043b57.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "1b5e39314cc2164a60aec26d26e79d8435b83fe7f19b91897646a334a8e47231"
+  },
+  "28f8f8c76cd113": {
+    "text": "twice",
+    "kind": "word",
+    "references": [
+      "32f475a95eabf9"
+    ],
+    "file": "female-full/d8a9925e0de537f4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6889b45a23f78cb5b2ba795c805d95e4d0c036d983e6fa4172867b2d28468e4c"
+  },
+  "8290a1b06ed621": {
+    "text": "hour",
+    "kind": "word",
+    "references": [
+      "1b755e0b68e834"
+    ],
+    "file": "female-full/3a2ef16dafedce1d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "88100bf73b4455022a2b6ed407b7b045680c5326ec9efc0f6209ddbd1fe041c6"
+  },
+  "514ea739c9547a": {
+    "text": "free",
+    "kind": "word",
+    "references": [
+      "38d85d5921f0b3"
+    ],
+    "file": "female-full/240c4a81c5fef6c4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0b9cec8d6875fb941c26a68f90e19d58ad6e00499102e6f1618813523f2f9b68"
+  },
+  "2748f887795691": {
+    "text": "beef",
+    "kind": "word",
+    "references": [
+      "81fb25d3a9b65a"
+    ],
+    "file": "female-full/46098d1220385636.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "535842c35c95bff9e2d3432a6cef9c03febee10cb7569dbd91bb184885aa2b50"
+  },
+  "a247d03b37863d": {
+    "text": "tea",
+    "kind": "word",
+    "references": [
+      "be90195a6dd43c"
+    ],
+    "file": "female-full/c154de07c1fa7a88.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6eff91895ab79a20885c78ed23ae1ca02815dc67f114edd503da16de4463353c"
+  },
+  "7c690914313502": {
+    "text": "seed",
+    "kind": "word",
+    "references": [
+      "2e2645fda5f682"
+    ],
+    "file": "female-full/076e56ec20581d47.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "65b5cdaf8dfe21115d6df38e2faa62c44b4a1e4c4a66bcfa6fc4f7bbf30ea959"
+  },
+  "737add44595752": {
+    "text": "pull",
+    "kind": "word",
+    "references": [
+      "f62a352edd85fd"
+    ],
+    "file": "female-full/e795fb998f25aa47.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0462ecca4502c8555f933cb4168dc0f1ba564f988b5cea2e49de170bb59069d2"
+  },
+  "fcf9610d690b92": {
+    "text": "stem",
+    "kind": "word",
+    "references": [
+      "bbc094f254bb1a"
+    ],
+    "file": "female-full/518228771b317ac2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "37eede10f826f70045de66bedb02a14389c96d8164c87f0569b8fb64805e8043"
+  },
+  "607da766b6a8a1": {
+    "text": "root",
+    "kind": "word",
+    "references": [
+      "c739dd726a9486"
+    ],
+    "file": "female-full/020230b3f9555751.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7f2dcca56ef766a675e33fc41f6396fca278b1a3dd78f472984e514623ceb6e0"
+  },
+  "a80de6a97da5bc": {
+    "text": "lake",
+    "kind": "word",
+    "references": [
+      "bec10ceb00a8fe"
+    ],
+    "file": "female-full/be8b5ffa5b168817.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a0475b9b76165931be60263369c88be71f22e3479c1f878c337226978a48e3ff"
+  },
+  "8d502d7c07de66": {
+    "text": "world",
+    "kind": "word",
+    "references": [
+      "eeca494f774639"
+    ],
+    "file": "female-full/3f2a4efd66c25e1a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e788356b678a4c753e149c3ada2510b4c971e6242164c83434c225cfefeeeafb"
+  },
+  "eba7f9b1a6a204": {
+    "text": "round",
+    "kind": "word",
+    "references": [
+      "2f77c483f82299"
+    ],
+    "file": "female-full/a8a9bcc590e398e3.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7ee37212897ead130893404bd4b3d2f131b9dfec148e4366734e315bc445c5c4"
+  },
+  "50c3611ce3492e": {
+    "text": "way",
+    "kind": "word",
+    "references": [
+      "bb18fe827ced1c"
+    ],
+    "file": "female-full/e8b185028a5a90c0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "0e6b6ef1a65a897d66d52376fa74f30e20d602366815c6462ac8bddf0a8afc64"
+  },
+  "2bd9f8351be1a7": {
+    "file": "recordings/amy-special-1.m4a",
+    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3",
+    "sha256": "6ac920e89d731c394a7d930300ddd6a4e59261df968a79e914c0d62050a61d1c"
+  },
+  "c42818bbf04c8a": {
+    "text": "trip",
+    "kind": "word",
+    "references": [
+      "e2942c79361f70"
+    ],
+    "file": "female-full/639acf56facdbc56.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "e2d506e9448191291cca18ec532a9bc44fb6f66418ac53482d1e97f18edcc2d0"
+  },
+  "1874b3f8a96850": {
+    "file": "recordings/amy-special-0.m4a",
+    "source": "Amazon Polly Amy en-GB; IPA via ttsMP3",
+    "sha256": "cbdcb012a49c4318c07e0d85db0a7e140b036c06fb9df271c28318a4f3ca68be"
+  },
+  "f0973534c0ebbc": {
+    "text": "fine",
+    "kind": "word",
+    "references": [
+      "cfa6d46570de16"
+    ],
+    "file": "female-full/1362e1e744f98aad.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7ebe2ce0e0d8e4347598cf7ef9e2b63bf5cb4ce62b982944005ba6a4e3024dc0"
+  },
+  "aad4c3a71573b6": {
+    "text": "fog",
+    "kind": "word",
+    "references": [
+      "4b4cc7758543af"
+    ],
+    "file": "female-full/81d3e67d937d318c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f777f65c01885ffe83b458d45a7108011c0a2e7823b51f12d3fc091bfadea778"
+  },
+  "cf562e2f0cc2e3": {
+    "text": "flood",
+    "kind": "word",
+    "references": [
+      "dbe04cd7ad6a40"
+    ],
+    "file": "female-full/d2e64473cb26fb06.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b09d60aca5a2fece92833ad53cd2d8f7bcb3b95235e49cee7b6e45364a5d6156"
+  },
+  "7059f12f757bd8": {
+    "text": "fire",
+    "kind": "word",
+    "references": [
+      "960e83a3b28ee2"
+    ],
+    "file": "female-full/23a6c721d252cdea.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "29aef1cd6087b22cffed359ef5a0f466143d85d19b8041be8751a06576ea89ed"
+  },
+  "d937b125fd7535": {
+    "text": "know",
+    "kind": "word",
+    "references": [
+      "4fc10d08e1b2b5"
+    ],
+    "file": "female-full/2f598d590992bde4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "7083b33503d63de7bc0ce1bb449ca41580eaec31a3e69506d9f75a9cdd061600"
   },
   "f0e859751d1f4e": {
-    "file": "bring.mp3",
-    "url": "https://dictionary.cambridge.org/media/english/uk_pron/u/ukb/ukbri/ukbriga019.mp3",
-    "source": "Cambridge Dictionary UK"
+    "text": "bring",
+    "kind": "word",
+    "references": [
+      "6c5c6aad217074"
+    ],
+    "file": "female-full/b26e14fb9f2c8e34.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "59c5d87203f034e24f933b25b0ee89f8f1470a7b6f134cd26de37b41f8769be0"
+  },
+  "b19976d044cecd": {
+    "text": "team",
+    "kind": "word",
+    "references": [
+      "6af9fdfe58bb1e"
+    ],
+    "file": "female-full/995e41665fef02d5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "432a79a4ed0f5004ae79a1fadc05c1c3ed3051595bd9a0234ce47426ec193f1b"
+  },
+  "954eb280c09827": {
+    "text": "him",
+    "kind": "word",
+    "references": [
+      "356de177228607"
+    ],
+    "file": "female-full/dd309a03edc18b1b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "c78997441a957d9263262ff700a84efb23d1f04ea119a442e0cd93413702e2c0"
+  },
+  "44b38874c14e86": {
+    "text": "young",
+    "kind": "word",
+    "references": [
+      "3f57b97d7c981a"
+    ],
+    "file": "female-full/e9ddc02232f2704d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "da22ce9f102c0bf805f980ab7127ba9654ba627e7bf743445d542e4ea36cd711"
+  },
+  "cb003b8d661e38": {
+    "text": "jump",
+    "kind": "word",
+    "references": [
+      "3e53f5c4d3e6fe"
+    ],
+    "file": "female-full/6b1ba52ff3d49aac.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a9d8147c005f4a365f2dea30d2c3b4fadf67c7f1a3f58f93895e36742058345e"
+  },
+  "febee3cd4a1b80": {
+    "text": "rope",
+    "kind": "word",
+    "references": [
+      "270bf2fb308f3f"
+    ],
+    "file": "female-full/3de252f8fe85926d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "b4b5b2b01f9fa3a769a7b2eb2b030a93893e9e8e7ba19100dad98b59bcb6e7a4"
+  },
+  "6c958e266f925d": {
+    "text": "chess",
+    "kind": "word",
+    "references": [
+      "621330af148e6c"
+    ],
+    "file": "female-full/da1a64dd4aeb6195.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "edae8252ce2d84af62bd0645840f9c38a53f349209f7bd135d7e2921368f6cb5"
+  },
+  "80628770a54439": {
+    "text": "front",
+    "kind": "word",
+    "references": [
+      "c89d71a7d89647"
+    ],
+    "file": "female-full/52c3c2f6cb58bba4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f329901026e22307aeb427fa4130757c1ff385a85b03f1cf1da0ace840f95a3c"
+  },
+  "8184d686f5803e": {
+    "text": "star",
+    "kind": "word",
+    "references": [
+      "dd4ccd7c76bb9c"
+    ],
+    "file": "female-full/daf7320fc599b698.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "6122e3bb6beffc14dd3f27105c509b5688d427a5dcb4347d3fab9e6b5859b08a"
+  },
+  "b80b43b73c7fe6": {
+    "text": "sad",
+    "kind": "word",
+    "references": [
+      "2598b9ce2f0e49"
+    ],
+    "file": "female-full/316b6656877bc36f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a96358e23fccbc4ffac9fbf0279227a02d6706cf302d04e03c1af03e8371f84b"
+  },
+  "ca3cf4c38a0529": {
+    "text": "both",
+    "kind": "word",
+    "references": [
+      "ac4276a0851070"
+    ],
+    "file": "female-full/2334a9ef0507bd47.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "f03c467d6c4daf0588f61a2b3d175a336560dc5d615f688e353827e4e3e9f513"
+  },
+  "593f46ee342fa9": {
+    "text": "wrong",
+    "kind": "word",
+    "references": [
+      "c870855ed4af3b"
+    ],
+    "file": "female-full/eac21b7109fc3c96.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "af449fdfaf182b4521dafb60c2d7d84ce7d52a03087259a78c2249cabdfcf0db"
+  },
+  "6c3a7112d3df55": {
+    "text": "ask",
+    "kind": "word",
+    "references": [
+      "0fbd84822b42b7"
+    ],
+    "file": "female-full/b94f5af581481552.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "9d5b4eff21c016cb8d9c9d7ebc3e42772ae78021feb62cc72dd07c983ff137cf"
+  },
+  "60932d9e2453a7": {
+    "text": "move",
+    "kind": "word",
+    "references": [
+      "9182fc8f77cd77"
+    ],
+    "file": "female-full/cad2c00a61d4640c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "df12b46d23931fcf85239e06f6be1f8d9db5855d24acb3512f7ab8fcc19476fb"
+  },
+  "0a295a08785f09": {
+    "text": "yours",
+    "kind": "word",
+    "references": [
+      "80087392e104e6"
+    ],
+    "file": "female-full/6fbe6000bfc444e8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "bb0c5eec0dc3137f9a2ea931dee6d67bf65ce447a05b9398f1cd9772829c7200"
+  },
+  "9fc071beb1ec8b": {
+    "text": "start",
+    "kind": "word",
+    "references": [
+      "67ae5f727e6299"
+    ],
+    "file": "female-full/d8e770cb4b20a6bb.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "a409bc854c145d1be8b8887e43e34e7eb9f421c41868eb8cb24afd94eeec36fa"
+  },
+  "56f63227c7566d": {
+    "text": "night",
+    "kind": "word",
+    "references": [
+      "056e7e2cc4c35a"
+    ],
+    "file": "female-full/14195350bc04f24d.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "source": "Microsoft Edge Read Aloud",
+    "locale": "en-GB",
+    "sha256": "cf54245c4952d8393fd9200d4ffc9f73723620d1fa26207cefcb79a1dea62187"
+  },
+  "ee538955fcd40a": {
+    "file": "female-recordings/ad4c28bcfd66a219.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.65,
+    "duration": 0.53,
+    "batch": "priority45",
+    "sha256": "5926655f04587503eb3fab3e48a9e93e782ba619ba064553e1c200085527aa39"
+  },
+  "0a44e4180bbe7e": {
+    "file": "female-recordings/b44f09d01e7a5210.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.42,
+    "duration": 0.88,
+    "batch": "priority45",
+    "sha256": "d289542b2f26e4dc4b948b9b8ae61d1d3b9b3053223f591a3aab2ec5b1dcca05"
+  },
+  "ae7ce0ada5e687": {
+    "file": "female-recordings/b44f09d01e7a5210.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.42,
+    "duration": 0.88,
+    "batch": "priority45",
+    "sha256": "d289542b2f26e4dc4b948b9b8ae61d1d3b9b3053223f591a3aab2ec5b1dcca05"
+  },
+  "6377fe2136d4f4": {
+    "file": "female-recordings/5149f44bffbc3beb.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.35,
+    "duration": 0.9,
+    "batch": "priority45",
+    "sha256": "f00820d63e58b234500037b209d4a6492ab64a6c23043a315d4979305b935447"
+  },
+  "bf27c43688d6e5": {
+    "file": "female-recordings/9499f6a6c7bf7cac.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 1.06,
+    "duration": 0.79,
+    "batch": "priority45",
+    "sha256": "c6e69462779136607408bdee3e95ccbf756d39366e59acc3dfb04d863e68604c"
+  },
+  "0137be5a025a5c": {
+    "file": "female-recordings/30a73738a8fc919a.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 1.85,
+    "duration": 0.94,
+    "batch": "priority45",
+    "sha256": "d3d1974c0c2a025ee3acd9fe02f238f12242f0104d4be604ef251ab1964dc360"
+  },
+  "6153f23c8b336a": {
+    "file": "female-recordings/ae1e16d15edce059.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 7.15,
+    "duration": 0.79,
+    "batch": "priority45",
+    "sha256": "9790c71ce4bf8de54ef52729afa1513427930fdfcf4e8dac234ab60172b46c26"
+  },
+  "d3bbe8ee735b5b": {
+    "file": "female-recordings/80e4f60b78da7529.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 10.59,
+    "duration": 0.64,
+    "batch": "priority45",
+    "sha256": "70095af2b02d4df77e9169c226a10752b5dcc1edd8673b7aebd2476a059f243c"
+  },
+  "1ae70d4390ac8b": {
+    "file": "female-recordings/71d262edc5681de2.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.65,
+    "duration": 0.89,
+    "batch": "priority45",
+    "sha256": "113c9afc3ba13ae3aacd30652687df92dd2204f9ed1c8a7de7cfe846c88fdd37"
+  },
+  "ab6530cb1fba55": {
+    "file": "female-recordings/8d65a69058e22ae0.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.31,
+    "duration": 0.92,
+    "batch": "priority45",
+    "sha256": "a68d6a91b546e7512e46bb652eb15248ef17567f979007f5ea8a4a8f4f77cf41"
+  },
+  "1ba9ad55427d74": {
+    "file": "female-recordings/924436fe2e43dbbc.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.13,
+    "duration": 0.7,
+    "batch": "priority45",
+    "sha256": "0742c0840fe5d0aa27bb8bf41f0e313eee4ac29449b302058afaec400ca26ce5"
+  },
+  "081b4bf7f21118": {
+    "file": "female-recordings/687bcaca35dc6490.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.77,
+    "duration": 0.85,
+    "batch": "priority45",
+    "sha256": "1e608e0bf1c4105437a400ff8f2f9d8259f4e67b757d938ff92f3bcf68209485"
+  },
+  "0e489ad536ae18": {
+    "file": "female-recordings/f99ac5d752d34355.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.61,
+    "duration": 0.87,
+    "batch": "priority45",
+    "sha256": "7e1a323836120b61b2d6f44be334c019aa65a1eab3eb72432dda20b335dc50e6"
+  },
+  "6c1d875e449369": {
+    "file": "female-recordings/2a9a46a5531099db.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.85,
+    "duration": 0.84,
+    "batch": "priority45",
+    "sha256": "d39aee3ffc9cf3d931018465ffc4c589b23e96ecca8469f604f3d4eee691e027"
+  },
+  "be3cfcd6d507e9": {
+    "file": "female-recordings/798cdf937311e3d3.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.84,
+    "duration": 0.95,
+    "batch": "priority45",
+    "sha256": "9d9ac259409b64010d78fa5e84d4c03d1b1cfcac61de60e7b9b1b7ef82f496f1"
+  },
+  "46910977fb0121": {
+    "file": "female-recordings/a03740e056ea8d64.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.84,
+    "duration": 0.75,
+    "batch": "priority45",
+    "sha256": "7ee61ed3434b777b538572fcbd17788da025e2e1137d2dcc5d6a4c581751a596"
+  },
+  "3cf048b6124127": {
+    "file": "female-recordings/fb73b15d496234be.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.7,
+    "duration": 0.79,
+    "batch": "priority45",
+    "sha256": "7e60650fc03dae8a780629d8dbab6e9032b04b1546d881e2d9d7a63605183aac"
+  },
+  "3d62fba4124b29": {
+    "file": "female-recordings/05329cbfdd495d9d.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.05,
+    "duration": 0.92,
+    "batch": "priority45",
+    "sha256": "fba05dba985677caece678797cf5eb7cf0cb8a670185b79f540715e50f2724ad"
+  },
+  "43e2d2f10e1f4b": {
+    "file": "female-recordings/bdf5db5b4278089c.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.35,
+    "duration": 0.84,
+    "batch": "priority45",
+    "sha256": "d87c22f51776b4072f7da4eeebecdb9bd47102b48fb49f6af64a66cf9c936c4b"
+  },
+  "b5cdba738a498d": {
+    "file": "female-recordings/6cd83b423e24b679.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.95,
+    "duration": 0.85,
+    "batch": "priority45",
+    "sha256": "363bddc73707062b3ed468c5e56aea9c71f65bc32276c2339e939b4b1422c1ce"
+  },
+  "3b0ccd052e14e4": {
+    "file": "female-recordings/6c4a526d3a93acb9.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.47,
+    "duration": 0.74,
+    "batch": "priority45",
+    "sha256": "886f02600a60750ec216a89948d95282578bfd8d53bd392a002e20e0ab31e97b"
+  },
+  "5946224befcdd2": {
+    "file": "female-recordings/acd48db62eb0b70e.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.56,
+    "duration": 0.74,
+    "batch": "priority45",
+    "sha256": "c8b4792a771167bae7abb10b7c59272abdcb3de0965fc0b9a774f09d77a2c19a"
+  },
+  "d0f69d635a62b8": {
+    "file": "female-recordings/9d15f573239d4e30.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.13,
+    "duration": 0.7,
+    "batch": "priority45",
+    "sha256": "0641d38c5c20416e1660e6364fff42916d648ecac5992f5ad3c9ff47e3056544"
+  },
+  "cbd4a77cf29ab8": {
+    "file": "female-recordings/16fa9de6f567c104.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.3,
+    "duration": 0.91,
+    "batch": "priority45",
+    "sha256": "c179a0c19d98a1ecdf6159561173275753a44e57846693e8d45f11d48f47d559"
+  },
+  "55a91ac7a5f490": {
+    "file": "female-recordings/e6bd7d60f950a390.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.52,
+    "duration": 0.78,
+    "batch": "priority45",
+    "sha256": "74ac6eca16307e92d01ea14996df2cfdaf621e2c3fcc8bcee054cff774be168f"
+  },
+  "1e03dd7a88f59c": {
+    "file": "female-recordings/517342fe5a1540e7.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.72,
+    "duration": 0.78,
+    "batch": "priority45",
+    "sha256": "f93a595b0fdae6a0d9d1f981261182464c523625e99b10a3616ded6a8c7d5fad"
+  },
+  "c502aa17656202": {
+    "file": "female-recordings/838fbb52045b8dcd.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 1.91,
+    "duration": 0.92,
+    "batch": "priority45",
+    "sha256": "04f732501cfcc783db6cf628e1d078f29372968f876f2f68560434c0875ba0ef"
+  },
+  "802e0235cca67c": {
+    "file": "female-recordings/ef15dfc838fbabd8.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.69,
+    "duration": 0.71,
+    "batch": "priority45",
+    "sha256": "c2df0be105e9fe875c4f6267da7e18d762cee402b1f8837ba41e32140e49d993"
+  },
+  "33742b3c32ddc9": {
+    "file": "female-recordings/99ff36c76f512632.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.9,
+    "duration": 0.88,
+    "batch": "priority45",
+    "sha256": "4871ab3590e7af580791226e3ff414831393e6a38ec326eb6a70eda16c5c0666"
+  },
+  "b687acc58cc42f": {
+    "file": "female-recordings/efcbc6bad040b61c.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 8.57,
+    "duration": 0.89,
+    "batch": "priority45",
+    "sha256": "dfe409f6c8228609bbf3efabf7938243e2a7cebd7e14cc8dd78ca1f0fcdab24a"
+  },
+  "322b15e48f392f": {
+    "file": "female-recordings/ab6118df8b87353c.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.83,
+    "duration": 0.7,
+    "batch": "priority45",
+    "sha256": "a8a0b745c4314da4eebd04ef95f7b24b99f2dcda2a2f7a5ce75b1a867e86194c"
+  },
+  "52c84ef194562e": {
+    "file": "female-recordings/cdacf3323a2a3858.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.4,
+    "duration": 0.88,
+    "batch": "priority45",
+    "sha256": "a280a14f92b88f8c360e4149e847cabe35d979eec5311756852899861ce065bb"
+  },
+  "d4bd34d121b1d1": {
+    "file": "female-recordings/0cc4a0bdb5751670.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 7.14,
+    "duration": 0.66,
+    "batch": "quality-sample",
+    "sha256": "511aecb365e7384c3c14dd0943844f7a101dc5e2fcec90fadd50e8aeab52523f"
+  },
+  "f9c10afab49139": {
+    "file": "female-recordings/a2ca42d15a50fb53.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.35,
+    "duration": 0.79,
+    "batch": "quality-sample",
+    "sha256": "0c3e83cfe737d4a08db02665ec858ea0edd825bd37b6cd7be410b63b8451b66d"
+  },
+  "a60e224ca88f20": {
+    "file": "female-recordings/a2ca42d15a50fb53.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.35,
+    "duration": 0.79,
+    "batch": "quality-sample",
+    "sha256": "0c3e83cfe737d4a08db02665ec858ea0edd825bd37b6cd7be410b63b8451b66d"
+  },
+  "cecc257d5bab0b": {
+    "file": "female-recordings/949040ee2ecb43da.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.06,
+    "duration": 0.82,
+    "batch": "priority45",
+    "sha256": "0f747a9c6995b55b1c5abffcb14108a6f336ba7629267c46f428712211771172"
+  },
+  "999473b953cc26": {
+    "file": "female-recordings/352b85e88dae3379.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 1.29,
+    "duration": 0.8,
+    "batch": "priority45",
+    "sha256": "0087eac101cd19f430146e32a8af77c24154c7eedb268128b4c8c5f57a8c0587"
   }
 }

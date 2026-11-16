@@ -22,7 +22,7 @@ async function loadAudio(u) {
   if(audioCache[u]) return audioCache[u];
   if(!loading[u]) {
     const controller=new AbortController(), timer=setTimeout(()=>controller.abort(),20000);
-    loading[u]=fetch('u'+u+'.json?v=20261115',{signal:controller.signal})
+    loading[u]=fetch('u'+u+'.json?v=20261116b',{signal:controller.signal})
       .then(r=>{if(!r.ok)throw Error('network');return r.json();})
       .then(data=>audioCache[u]=data)
       .catch(e=>{delete loading[u];throw e;})
@@ -106,11 +106,13 @@ function render() {
   $('ipa').textContent='/'+w.ipa+'/';$('ipa').insertAdjacentHTML('beforeend',speaker);
   $('ipa').setAttribute('aria-label','朗读完整音标 '+w.ipa);$('ipa').onclick=()=>single(w.audio,$('ipa'),true);
   $('meaning').textContent=w.meaning;
+  $('syllable-label').textContent=w.syllablesReady===false?'音节 · 待补齐':'音节';
   $('syllables').replaceChildren();
   w.syllables.forEach((s,i)=>{
     const b=document.createElement('button');b.className='syllable';
     const label=document.createElement('b');label.textContent=w.word==='Mrs'?(i===0?'mis':'siz'):s.text;
     const ipa=document.createElement('small');ipa.textContent='/'+s.ipa+'/';b.append(label,ipa);
+    if(s.available===false){b.disabled=true;b.title='待补录';}
     b.setAttribute('aria-label',`第 ${i+1} 音节 ${s.ipa}`);b.onclick=()=>single(s.audio,b);$('syllables').append(b);
   });
   $('phonics').replaceChildren();
@@ -144,7 +146,7 @@ $('auto').onclick=async()=>{
   while(token===generation&&auto){
     const w=filtered[position], sequence=[[w.audio,$('word')]];
     if($('mode').value==='full'){
-      sequence.push(...w.syllables.map((s,i)=>[s.audio,$('syllables').children[i]]));
+      sequence.push(...w.syllables.flatMap((s,i)=>s.available===false?[]:[[s.audio,$('syllables').children[i]]]));
       const buttons=Array.from($('phonics').querySelectorAll('button'));
       sequence.push(...w.phonics.flatMap(p=>p.sounds).map((s,i)=>[s.audio,buttons[i]]));
       sequence.push([w.exampleAudio,$('example')]);
@@ -159,7 +161,7 @@ $('auto').onclick=async()=>{
   if(token===generation){auto=false;renderAuto();}
 };
 function restoreHash(){
-  const m=location.hash.match(/^#u([456])\/(bold|regular)\/(\d+)$/);
+  const m=location.hash.match(/^#u([1-6])\/(bold|regular)\/(\d+)$/);
   if(m){unit=Number(m[1]);group=m[2];const list=WORDS.filter(w=>w.unit===unit&&w.bold===(group==='bold'));position=Math.max(0,list.findIndex(w=>w.id===Number(m[3])));}
   render();
 }
