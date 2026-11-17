@@ -2585,7 +2585,7 @@
         "text": "er",
         "ipa": "ə",
         "audio": "c01fb921053345",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -2631,7 +2631,7 @@
     "audio": "8925d35c09f0ba",
     "exampleAudio": "8b44e911e0309d",
     "syllablesReady": false,
-    "audioPack": "clip-u6-01-29a165ababfd.json"
+    "audioPack": "clip-u6-01-64048d445445.json"
   },
   {
     "id": 41,
@@ -2698,7 +2698,7 @@
     "audio": "7c4e47352e6cdc",
     "exampleAudio": "872f878dad6f46",
     "syllablesReady": false,
-    "audioPack": "clip-u6-01-29a165ababfd.json"
+    "audioPack": "clip-u6-01-64048d445445.json"
   },
   {
     "id": 42,
@@ -2719,7 +2719,7 @@
         "text": "ter",
         "ipa": "tə",
         "audio": "aadba06d2dbabf",
-        "available": false
+        "available": true
       },
       {
         "text": "fall",
@@ -2798,7 +2798,7 @@
     "audio": "c7adf004f50613",
     "exampleAudio": "1d8be41571921f",
     "syllablesReady": false,
-    "audioPack": "clip-u6-01-29a165ababfd.json"
+    "audioPack": "clip-u6-01-64048d445445.json"
   },
   {
     "id": 43,
@@ -3579,7 +3579,7 @@
     "audio": "bdf6b71fd7ecfb",
     "exampleAudio": "63fc69cf346908",
     "syllablesReady": false,
-    "audioPack": "clip-u6-05-a178e5fab73a.json"
+    "audioPack": "clip-u6-05-d26efa2b954c.json"
   },
   {
     "id": 53,
@@ -3664,7 +3664,7 @@
     "audio": "19496b36940ace",
     "exampleAudio": "627e2b13d4b0ee",
     "syllablesReady": false,
-    "audioPack": "clip-u6-05-a178e5fab73a.json"
+    "audioPack": "clip-u6-05-d26efa2b954c.json"
   },
   {
     "id": 54,
@@ -3679,7 +3679,7 @@
         "text": "wor",
         "ipa": "wʌ",
         "audio": "302d158e8a38a9",
-        "available": false
+        "available": true
       },
       {
         "text": "ry",
@@ -3731,7 +3731,7 @@
     "audio": "ed9aba2e7b132b",
     "exampleAudio": "7f8d12134475af",
     "syllablesReady": false,
-    "audioPack": "clip-u6-05-a178e5fab73a.json"
+    "audioPack": "clip-u6-05-d26efa2b954c.json"
   },
   {
     "id": 55,
@@ -3943,7 +3943,7 @@
     "audio": "960e83a3b28ee2",
     "exampleAudio": "585a862c86dec6",
     "syllablesReady": true,
-    "audioPack": "clip-u6-07-ee91a44b9a87.json"
+    "audioPack": "clip-u6-07-41420554ceee.json"
   },
   {
     "id": 59,
@@ -3986,7 +3986,7 @@
     "audio": "4fc10d08e1b2b5",
     "exampleAudio": "99ba44ce00361e",
     "syllablesReady": true,
-    "audioPack": "clip-u6-07-ee91a44b9a87.json"
+    "audioPack": "clip-u6-07-41420554ceee.json"
   },
   {
     "id": 60,
@@ -4001,7 +4001,7 @@
         "text": "be",
         "ipa": "bɪ",
         "audio": "28b0109910a752",
-        "available": false
+        "available": true
       },
       {
         "text": "fore",
@@ -4053,7 +4053,7 @@
     "audio": "56dc1ad33c570c",
     "exampleAudio": "7f6c29fdb1f971",
     "syllablesReady": false,
-    "audioPack": "clip-u6-07-ee91a44b9a87.json"
+    "audioPack": "clip-u6-07-41420554ceee.json"
   },
   {
     "id": 61,
@@ -4266,7 +4266,7 @@
     "audio": "6af9fdfe58bb1e",
     "exampleAudio": "e314b52e1a1a9d",
     "syllablesReady": true,
-    "audioPack": "clip-u1-01-25b398443066.json"
+    "audioPack": "clip-u1-01-0729951e7aa8.json"
   },
   {
     "id": 64,
@@ -4281,13 +4281,13 @@
         "text": "play",
         "ipa": "pleɪ",
         "audio": "127d737c94fb50",
-        "available": false
+        "available": true
       },
       {
         "text": "er",
         "ipa": "ə",
         "audio": "c01fb921053345",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -4332,8 +4332,8 @@
     "translation": "他是一名篮球运动员。",
     "audio": "6938bd2186b7b9",
     "exampleAudio": "6f30df3465f3d6",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-01-25b398443066.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-01-0729951e7aa8.json"
   },
   {
     "id": 65,
@@ -4385,7 +4385,7 @@
     "audio": "356de177228607",
     "exampleAudio": "2743bdf2a09f83",
     "syllablesReady": true,
-    "audioPack": "clip-u1-01-25b398443066.json"
+    "audioPack": "clip-u1-01-0729951e7aa8.json"
   },
   {
     "id": 66,
@@ -4400,13 +4400,13 @@
         "text": "love",
         "ipa": "lʌv",
         "audio": "c7ca4d644c4fb4",
-        "available": false
+        "available": true
       },
       {
         "text": "ly",
         "ipa": "li",
         "audio": "1ea57fc3a6551c",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -4460,8 +4460,8 @@
     "translation": "多么美丽的花园！",
     "audio": "2c8aa4265bf647",
     "exampleAudio": "7ed2897caf6eaa",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-02-076dcbd7dd73.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-02-cd8c42e8e05f.json"
   },
   {
     "id": 67,
@@ -4476,13 +4476,13 @@
         "text": "cle",
         "ipa": "kle",
         "audio": "0e21c278ab9277",
-        "available": false
+        "available": true
       },
       {
         "text": "ver",
         "ipa": "və",
         "audio": "2192fd59a6d18f",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -4536,8 +4536,8 @@
     "translation": "我的姐姐很聪明。",
     "audio": "6db3ebd48739f1",
     "exampleAudio": "551f7912d179f1",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-02-076dcbd7dd73.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-02-cd8c42e8e05f.json"
   },
   {
     "id": 68,
@@ -4589,7 +4589,7 @@
     "audio": "3f57b97d7c981a",
     "exampleAudio": "b4d930bea5c7aa",
     "syllablesReady": true,
-    "audioPack": "clip-u1-02-076dcbd7dd73.json"
+    "audioPack": "clip-u1-02-cd8c42e8e05f.json"
   },
   {
     "id": 69,
@@ -4604,19 +4604,19 @@
         "text": "hard-",
         "ipa": "hɑːd",
         "audio": "2867e6fb20db3c",
-        "available": false
+        "available": true
       },
       {
         "text": "work",
         "ipa": "wɜːk",
         "audio": "acc81d57cb6e51",
-        "available": false
+        "available": true
       },
       {
         "text": "ing",
         "ipa": "ɪŋ",
         "audio": "af86fae40f67ee",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -4697,8 +4697,8 @@
     "translation": "她是一个勤奋的学生。",
     "audio": "3a298fac4b814b",
     "exampleAudio": "2898001ef5a74a",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-03-610b4ff21806.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-03-be435139f07f.json"
   },
   {
     "id": 70,
@@ -4713,13 +4713,13 @@
         "text": "sci",
         "ipa": "saɪ",
         "audio": "8fc8a6cca6b09d",
-        "available": false
+        "available": true
       },
       {
         "text": "ence",
         "ipa": "əns",
         "audio": "ee830a2f70ea06",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -4773,8 +4773,8 @@
     "translation": "我喜欢科学。",
     "audio": "406a9e36c8524c",
     "exampleAudio": "e3ab8fd261f219",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-03-610b4ff21806.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-03-be435139f07f.json"
   },
   {
     "id": 71,
@@ -4789,13 +4789,13 @@
         "text": "ro",
         "ipa": "rəʊ",
         "audio": "f509cddf09e6bb",
-        "available": false
+        "available": true
       },
       {
         "text": "bot",
         "ipa": "bɒt",
         "audio": "fec19891b0f7dd",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -4849,8 +4849,8 @@
     "translation": "这个机器人会跳舞。",
     "audio": "9fded907c6714d",
     "exampleAudio": "97003a443b6fba",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-03-610b4ff21806.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-03-be435139f07f.json"
   },
   {
     "id": 72,
@@ -4911,7 +4911,7 @@
     "audio": "3e53f5c4d3e6fe",
     "exampleAudio": "7f4aa8fabf206a",
     "syllablesReady": true,
-    "audioPack": "clip-u1-04-1adcdff33375.json"
+    "audioPack": "clip-u1-04-00c94cb11f07.json"
   },
   {
     "id": 73,
@@ -4963,7 +4963,7 @@
     "audio": "270bf2fb308f3f",
     "exampleAudio": "0400f963dfa5ab",
     "syllablesReady": true,
-    "audioPack": "clip-u1-04-1adcdff33375.json"
+    "audioPack": "clip-u1-04-00c94cb11f07.json"
   },
   {
     "id": 74,
@@ -4978,19 +4978,19 @@
         "text": "pi",
         "ipa": "pi",
         "audio": "911f86d00de548",
-        "available": false
+        "available": true
       },
       {
         "text": "a",
         "ipa": "æ",
         "audio": "4103cf4e04d3a4",
-        "available": false
+        "available": true
       },
       {
         "text": "no",
         "ipa": "nəʊ",
         "audio": "ea465fb60dfea4",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5044,8 +5044,8 @@
     "translation": "我会弹钢琴。",
     "audio": "16b6440a7432b7",
     "exampleAudio": "c7ca8ec7ee671d",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-04-1adcdff33375.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-04-00c94cb11f07.json"
   },
   {
     "id": 75,
@@ -5097,7 +5097,7 @@
     "audio": "621330af148e6c",
     "exampleAudio": "b66a3f6de2f784",
     "syllablesReady": true,
-    "audioPack": "clip-u1-05-64c7a4bccc00.json"
+    "audioPack": "clip-u1-05-2226c1b41bc4.json"
   },
   {
     "id": 76,
@@ -5167,7 +5167,7 @@
     "audio": "c89d71a7d89647",
     "exampleAudio": "360ab13b10da2f",
     "syllablesReady": true,
-    "audioPack": "clip-u1-05-64c7a4bccc00.json"
+    "audioPack": "clip-u1-05-2226c1b41bc4.json"
   },
   {
     "id": 77,
@@ -5182,13 +5182,13 @@
         "text": "ea",
         "ipa": "iː",
         "audio": "bbf81634778d8c",
-        "available": false
+        "available": true
       },
       {
         "text": "sy",
         "ipa": "zi",
         "audio": "9e64532b5cbf23",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5224,8 +5224,8 @@
     "translation": "这个游戏很容易。",
     "audio": "135289132b44b2",
     "exampleAudio": "76a55dd99b6fa3",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-05-64c7a4bccc00.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-05-2226c1b41bc4.json"
   },
   {
     "id": 78,
@@ -5277,7 +5277,7 @@
     "audio": "dd4ccd7c76bb9c",
     "exampleAudio": "745bd069bfead4",
     "syllablesReady": true,
-    "audioPack": "clip-u1-06-4015d4394c41.json"
+    "audioPack": "clip-u1-06-89b6d502ff22.json"
   },
   {
     "id": 79,
@@ -5292,19 +5292,19 @@
         "text": "won",
         "ipa": "wʌn",
         "audio": "01fdd8ba7fa18f",
-        "available": false
+        "available": true
       },
       {
         "text": "der",
         "ipa": "də",
         "audio": "8e758288b12d05",
-        "available": false
+        "available": true
       },
       {
         "text": "ful",
         "ipa": "fl",
         "audio": "98e32576492eb2",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5380,8 +5380,8 @@
     "translation": "这个节目很精彩。",
     "audio": "ceb9ea1802dae1",
     "exampleAudio": "2cbc540f723b45",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-06-4015d4394c41.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-06-89b6d502ff22.json"
   },
   {
     "id": 80,
@@ -5396,25 +5396,25 @@
         "text": "Au",
         "ipa": "ɒ",
         "audio": "150422293fb477",
-        "available": false
+        "available": true
       },
       {
         "text": "stra",
         "ipa": "streɪ",
         "audio": "d9c98d952c0e35",
-        "available": false
+        "available": true
       },
       {
         "text": "li",
         "ipa": "li",
         "audio": "f01b714c3addd8",
-        "available": false
+        "available": true
       },
       {
         "text": "a",
         "ipa": "ə",
         "audio": "7d024eb0e929d0",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5495,8 +5495,8 @@
     "translation": "我的朋友来自澳大利亚。",
     "audio": "3f22f7c27880f3",
     "exampleAudio": "bd26cb31a9a97b",
-    "syllablesReady": false,
-    "audioPack": "clip-u1-06-4015d4394c41.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u1-06-89b6d502ff22.json"
   },
   {
     "id": 81,
@@ -5548,7 +5548,7 @@
     "audio": "2598b9ce2f0e49",
     "exampleAudio": "835e6b8b66f011",
     "syllablesReady": true,
-    "audioPack": "clip-u2-01-08323161d48f.json"
+    "audioPack": "clip-u2-01-2d88f8f6e962.json"
   },
   {
     "id": 82,
@@ -5563,13 +5563,13 @@
         "text": "mat",
         "ipa": "mæ",
         "audio": "94047818a9eee0",
-        "available": false
+        "available": true
       },
       {
         "text": "ter",
         "ipa": "tə",
         "audio": "aadba06d2dbabf",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5614,8 +5614,8 @@
     "translation": "怎么了？",
     "audio": "e79858511e08e5",
     "exampleAudio": "eaeca52ad350f1",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-01-08323161d48f.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-01-2d88f8f6e962.json"
   },
   {
     "id": 83,
@@ -5630,13 +5630,13 @@
         "text": "pro",
         "ipa": "prɒ",
         "audio": "e86c2b3ad497c8",
-        "available": false
+        "available": true
       },
       {
         "text": "ject",
         "ipa": "dʒekt",
         "audio": "5d54e1de479f0d",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5708,8 +5708,8 @@
     "translation": "我们正在做一个科学项目。",
     "audio": "d680210f283eb4",
     "exampleAudio": "648eb04c15719d",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-01-08323161d48f.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-01-2d88f8f6e962.json"
   },
   {
     "id": 84,
@@ -5724,13 +5724,13 @@
         "text": "cen",
         "ipa": "sen",
         "audio": "7c1dd6db9f2e34",
-        "available": false
+        "available": true
       },
       {
         "text": "tre",
         "ipa": "tə",
         "audio": "5b60f20a3c8dd6",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5784,8 +5784,8 @@
     "translation": "公园在镇中心。",
     "audio": "9612abacb3b1d9",
     "exampleAudio": "6551ca8291e2fe",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-02-e1a0231eeb83.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-02-8981c40d73c5.json"
   },
   {
     "id": 85,
@@ -5800,13 +5800,13 @@
         "text": "a",
         "ipa": "ə",
         "audio": "7d024eb0e929d0",
-        "available": false
+        "available": true
       },
       {
         "text": "gree",
         "ipa": "ɡriː",
         "audio": "21a5e7fb119d88",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5851,8 +5851,8 @@
     "translation": "我同意你的看法。",
     "audio": "b5fb1b748a8619",
     "exampleAudio": "eb9cd6495089e9",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-02-e1a0231eeb83.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-02-8981c40d73c5.json"
   },
   {
     "id": 86,
@@ -5867,13 +5867,13 @@
         "text": "fi",
         "ipa": "fɪ",
         "audio": "d2c2bec4d751d7",
-        "available": false
+        "available": true
       },
       {
         "text": "nish",
         "ipa": "nɪʃ",
         "audio": "ca32762abe60bd",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -5927,8 +5927,8 @@
     "translation": "放学后我完成作业。",
     "audio": "f07056feb512f1",
     "exampleAudio": "d7d18e73191011",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-02-e1a0231eeb83.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-02-8981c40d73c5.json"
   },
   {
     "id": 87,
@@ -5943,13 +5943,13 @@
         "text": "Mon",
         "ipa": "mʌn",
         "audio": "cf5c37bcf57624",
-        "available": false
+        "available": true
       },
       {
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6003,8 +6003,8 @@
     "translation": "我们星期一有英语课。",
     "audio": "1024c5ba6ea634",
     "exampleAudio": "1cdc9e8b3f1f5f",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-03-0576d0307aac.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-03-9b5fa049b0f0.json"
   },
   {
     "id": 88,
@@ -6019,13 +6019,13 @@
         "text": "wor",
         "ipa": "wʌ",
         "audio": "302d158e8a38a9",
-        "available": false
+        "available": true
       },
       {
         "text": "ried",
         "ipa": "rid",
         "audio": "6407e8bb35928a",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6079,8 +6079,8 @@
     "translation": "她很担心她的小狗。",
     "audio": "cbca78a63b28a4",
     "exampleAudio": "8285d0e22596a8",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-03-0576d0307aac.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-03-9b5fa049b0f0.json"
   },
   {
     "id": 89,
@@ -6132,7 +6132,7 @@
     "audio": "ac4276a0851070",
     "exampleAudio": "f6faf67910fc79",
     "syllablesReady": true,
-    "audioPack": "clip-u2-03-0576d0307aac.json"
+    "audioPack": "clip-u2-03-9b5fa049b0f0.json"
   },
   {
     "id": 90,
@@ -6147,19 +6147,19 @@
         "text": "ex",
         "ipa": "ɪk",
         "audio": "977e14af9248b5",
-        "available": false
+        "available": true
       },
       {
         "text": "ci",
         "ipa": "saɪ",
         "audio": "0b63bbd50a7a8b",
-        "available": false
+        "available": true
       },
       {
         "text": "ted",
         "ipa": "tɪd",
         "audio": "4f0354535ea1a9",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6226,8 +6226,8 @@
     "translation": "我对学校组织的旅行感到兴奋。",
     "audio": "d662998fe02f85",
     "exampleAudio": "2106f16480b30e",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-04-28af4f2cbef7.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-04-f728294c0c92.json"
   },
   {
     "id": 91,
@@ -6279,7 +6279,7 @@
     "audio": "c870855ed4af3b",
     "exampleAudio": "cc2c7607244615",
     "syllablesReady": true,
-    "audioPack": "clip-u2-04-28af4f2cbef7.json"
+    "audioPack": "clip-u2-04-f728294c0c92.json"
   },
   {
     "id": 92,
@@ -6294,7 +6294,7 @@
         "text": "an",
         "ipa": "æŋ",
         "audio": "a4d0a829ea26c8",
-        "available": false
+        "available": true
       },
       {
         "text": "gry",
@@ -6354,8 +6354,8 @@
     "translation": "请不要生气。",
     "audio": "ef86ddab10ceb9",
     "exampleAudio": "8bb28d0c485bd1",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-04-28af4f2cbef7.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-04-f728294c0c92.json"
   },
   {
     "id": 93,
@@ -6370,13 +6370,13 @@
         "text": "a",
         "ipa": "ə",
         "audio": "7d024eb0e929d0",
-        "available": false
+        "available": true
       },
       {
         "text": "fraid",
         "ipa": "freɪd",
         "audio": "12b0ca2e2fb529",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6430,8 +6430,8 @@
     "translation": "我害怕蛇。",
     "audio": "3e2b4f97f81f34",
     "exampleAudio": "17ee3c6c835748",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-05-2b83f9398d2c.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-05-faee732c149c.json"
   },
   {
     "id": 94,
@@ -6446,7 +6446,7 @@
         "text": "par",
         "ipa": "peə",
         "audio": "6b56cf7ad4e101",
-        "available": false
+        "available": true
       },
       {
         "text": "ent",
@@ -6515,8 +6515,8 @@
     "translation": "家长可以帮忙玩这个游戏。",
     "audio": "8cee6e210e41ac",
     "exampleAudio": "8a2cdd035f03e6",
-    "syllablesReady": false,
-    "audioPack": "clip-u2-05-2b83f9398d2c.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u2-05-faee732c149c.json"
   },
   {
     "id": 95,
@@ -6568,7 +6568,7 @@
     "audio": "0fbd84822b42b7",
     "exampleAudio": "c59f41c138cd66",
     "syllablesReady": true,
-    "audioPack": "clip-u2-05-2b83f9398d2c.json"
+    "audioPack": "clip-u2-05-faee732c149c.json"
   },
   {
     "id": 96,
@@ -6687,13 +6687,13 @@
         "text": "Wednes",
         "ipa": "wenz",
         "audio": "1a0a97e49f92ee",
-        "available": false
+        "available": true
       },
       {
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6764,8 +6764,8 @@
     "translation": "我们星期三有美术课。",
     "audio": "1cd72ef7e58665",
     "exampleAudio": "f453fcb64b9d2a",
-    "syllablesReady": false,
-    "audioPack": "clip-u3-01-58205184b314.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u3-01-451ec0596c68.json"
   },
   {
     "id": 99,
@@ -6780,13 +6780,13 @@
         "text": "sub",
         "ipa": "sʌb",
         "audio": "156534b4cd9fd9",
-        "available": false
+        "available": true
       },
       {
         "text": "ject",
         "ipa": "dʒɪkt",
         "audio": "49d95c2b290b6d",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6858,8 +6858,8 @@
     "translation": "英语是我最喜欢的科目。",
     "audio": "c9d783b74da9ca",
     "exampleAudio": "ce2b1818bb2442",
-    "syllablesReady": false,
-    "audioPack": "clip-u3-01-58205184b314.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u3-01-451ec0596c68.json"
   },
   {
     "id": 100,
@@ -6874,13 +6874,13 @@
         "text": "Mon",
         "ipa": "mʌn",
         "audio": "cf5c37bcf57624",
-        "available": false
+        "available": true
       },
       {
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -6934,8 +6934,8 @@
     "translation": "我们星期一有英语课。",
     "audio": "4c0b6f760b5f81",
     "exampleAudio": "8e55ac1d711a0e",
-    "syllablesReady": false,
-    "audioPack": "clip-u3-01-58205184b314.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u3-01-451ec0596c68.json"
   },
   {
     "id": 101,
@@ -6950,13 +6950,13 @@
         "text": "Tues",
         "ipa": "tjuːz",
         "audio": "8fd0f2bb314566",
-        "available": false
+        "available": true
       },
       {
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7014,8 +7014,8 @@
     "translation": "我星期二踢足球。",
     "audio": "01c59847eaeff5",
     "exampleAudio": "7decfd140a6f9d",
-    "syllablesReady": false,
-    "audioPack": "clip-u3-02-997304cf8bc5.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u3-02-53454e86df74.json"
   },
   {
     "id": 102,
@@ -7030,13 +7030,13 @@
         "text": "Fri",
         "ipa": "fraɪ",
         "audio": "4ef9c98f87a07c",
-        "available": false
+        "available": true
       },
       {
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7090,8 +7090,8 @@
     "translation": "我们星期五有音乐课。",
     "audio": "127b5d20828d5d",
     "exampleAudio": "21f9e1225ebdd2",
-    "syllablesReady": false,
-    "audioPack": "clip-u3-02-997304cf8bc5.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u3-02-53454e86df74.json"
   },
   {
     "id": 103,
@@ -7106,13 +7106,13 @@
         "text": "be",
         "ipa": "bɪ",
         "audio": "28b0109910a752",
-        "available": false
+        "available": true
       },
       {
         "text": "cause",
         "ipa": "kɒz",
         "audio": "dda1bcf7726130",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7166,8 +7166,8 @@
     "translation": "我喜欢这本书，因为它很有趣。",
     "audio": "1ff662bd11b1fc",
     "exampleAudio": "59052327e95606",
-    "syllablesReady": false,
-    "audioPack": "clip-u3-02-997304cf8bc5.json"
+    "syllablesReady": true,
+    "audioPack": "clip-u3-02-53454e86df74.json"
   },
   {
     "id": 104,
@@ -7188,7 +7188,7 @@
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7243,7 +7243,7 @@
     "audio": "85004258cf5bd9",
     "exampleAudio": "2582f57144593b",
     "syllablesReady": false,
-    "audioPack": "clip-u3-03-5edc0e48c487.json"
+    "audioPack": "clip-u3-03-6e2a51a6f1c1.json"
   },
   {
     "id": 105,
@@ -7304,7 +7304,7 @@
     "audio": "67ae5f727e6299",
     "exampleAudio": "403a918f8ab62a",
     "syllablesReady": true,
-    "audioPack": "clip-u3-03-5edc0e48c487.json"
+    "audioPack": "clip-u3-03-6e2a51a6f1c1.json"
   },
   {
     "id": 106,
@@ -7331,13 +7331,13 @@
         "text": "al",
         "ipa": "ə",
         "audio": "8d68418492a42e",
-        "available": false
+        "available": true
       },
       {
         "text": "ly",
         "ipa": "li",
         "audio": "1ea57fc3a6551c",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7405,7 +7405,7 @@
     "audio": "165e42ee0795ef",
     "exampleAudio": "2baee340bf6cc8",
     "syllablesReady": false,
-    "audioPack": "clip-u3-03-5edc0e48c487.json"
+    "audioPack": "clip-u3-03-6e2a51a6f1c1.json"
   },
   {
     "id": 107,
@@ -7490,7 +7490,7 @@
     "audio": "bc901ec3908549",
     "exampleAudio": "b72e041701804e",
     "syllablesReady": false,
-    "audioPack": "clip-u3-04-be4431f6c333.json"
+    "audioPack": "clip-u3-04-1d82cd69f175.json"
   },
   {
     "id": 108,
@@ -7584,7 +7584,7 @@
     "audio": "dbc5270bb3ad65",
     "exampleAudio": "c6624c8b8d7ffb",
     "syllablesReady": false,
-    "audioPack": "clip-u3-04-be4431f6c333.json"
+    "audioPack": "clip-u3-04-1d82cd69f175.json"
   },
   {
     "id": 109,
@@ -7605,13 +7605,13 @@
         "text": "tur",
         "ipa": "tə",
         "audio": "1f82e5ff789fd7",
-        "available": false
+        "available": true
       },
       {
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7675,7 +7675,7 @@
     "audio": "50e5efe3872f0b",
     "exampleAudio": "9cc5d407758cb4",
     "syllablesReady": false,
-    "audioPack": "clip-u3-04-be4431f6c333.json"
+    "audioPack": "clip-u3-04-1d82cd69f175.json"
   },
   {
     "id": 110,
@@ -7696,7 +7696,7 @@
         "text": "day",
         "ipa": "deɪ",
         "audio": "c6997a35680c53",
-        "available": false
+        "available": true
       }
     ],
     "phonics": [
@@ -7751,7 +7751,7 @@
     "audio": "d63366aefcb6c3",
     "exampleAudio": "49984d89ca7245",
     "syllablesReady": false,
-    "audioPack": "clip-u3-05-3679194b0f2d.json"
+    "audioPack": "clip-u3-05-01575a6ff501.json"
   },
   {
     "id": 111,
@@ -7822,7 +7822,7 @@
     "audio": "e5f81bf53803be",
     "exampleAudio": "2893ea29103615",
     "syllablesReady": false,
-    "audioPack": "clip-u3-05-3679194b0f2d.json"
+    "audioPack": "clip-u3-05-01575a6ff501.json"
   },
   {
     "id": 112,
@@ -7902,7 +7902,7 @@
     "audio": "171c816872239d",
     "exampleAudio": "7b8112cf3707da",
     "syllablesReady": false,
-    "audioPack": "clip-u3-05-3679194b0f2d.json"
+    "audioPack": "clip-u3-05-01575a6ff501.json"
   },
   {
     "id": 113,
@@ -8186,7 +8186,7 @@
     "audio": "7e21a1990b5356",
     "exampleAudio": "7219c97af1afd0",
     "syllablesReady": false,
-    "audioPack": "clip-u3-07-2b1903ed90d6.json"
+    "audioPack": "clip-u3-07-611ac808b014.json"
   },
   {
     "id": 117,
@@ -8207,7 +8207,7 @@
         "text": "par",
         "ipa": "peə",
         "audio": "6b56cf7ad4e101",
-        "available": false
+        "available": true
       },
       {
         "text": "ent",
@@ -8317,6 +8317,6 @@
     "audio": "5c7026d444d707",
     "exampleAudio": "8a247ea6ad3069",
     "syllablesReady": false,
-    "audioPack": "clip-u3-07-2b1903ed90d6.json"
+    "audioPack": "clip-u3-07-611ac808b014.json"
   }
 ]

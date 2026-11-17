@@ -1,41 +1,34 @@
 {
-  "build": "20261116-audio3",
-  "entries": 118,
-  "audioIDs": 367,
-  "prioritySyllableWords": 40,
-  "sourceAudioChanged": false,
-  "allAudioReferences": "passed",
-  "wordPacks": 41,
-  "phonemeFiles": 43,
-  "maxWordPackBytes": 193139,
-  "legacyDefaultU4Bytes": 1741607,
-  "newDefaultU4Bytes": 153388,
-  "simulatedRegressions": [
-    "synchronous gesture resume",
-    "repeat playback without fetch/decode",
-    "latest tap only",
-    "stop active source",
-    "abort old unit downloads",
-    "A-B-A request race",
-    "native fallback",
-    "12 unit/category groups",
-    "both autoplay modes"
-  ],
-  "browserSlowNetwork": {
-    "server": "250ms request latency, 16KiB per 120ms",
-    "viewport": "390x844 Chrome",
-    "firstU5SchedulingMs": 1215,
-    "cachedU5SchedulingMs": 0,
-    "rapidUnits": [
-      1,
-      2,
-      3,
-      6,
-      4
-    ],
-    "latestUnitOnly": "passed"
+  "build": "20261117-syllables1",
+  "newSyllables": 47,
+  "audioReferences": 420,
+  "readiness": {
+    "1": {
+      "total": 18,
+      "complete": 18
+    },
+    "2": {
+      "total": 17,
+      "complete": 17
+    },
+    "3": {
+      "total": 20,
+      "complete": 8
+    },
+    "4": {
+      "total": 20,
+      "complete": 20
+    },
+    "5": {
+      "total": 20,
+      "complete": 20
+    },
+    "6": {
+      "total": 23,
+      "complete": 10
+    }
   },
-  "realAndroidWechat": "not tested",
-  "realIPhoneWechat": "not tested",
-  "publication": "pending"
+  "splitAndLevelChecks": "47/47 passed",
+  "regressionChecks": "passed",
+  "remainingUniqueSyllables": 45
 }

@@ -30,3 +30,5 @@
 `build.py` 结合 `units123.py`、`phonics.py` 生成词表。`prepare_female_audio.py` 准备适配语音提供方的 IPA；`process_female_audio.py` 按显式停顿分离录音并校准音量；`package_v2.py` 从本地录音目录生成 `release/`。发布 `release/` 中的文件到 GitHub Pages 根目录。制作所需的原始录音保存在本机备份中。
 
 保留原有 U4–U6 词条编号，既有定位链接仍有效。GitHub Pages 在不同地区、运营商和微信内的实际可达性需要用目标手机验证。
+
+2026-11-17：新增 47 段 Emma 英式女声音节；U1、U2 分音节已全部补齐。U3 已完成 8/20 个词条，U6 已完成 10/23 个词条，余下受免费每日额度限制待继续补录。
