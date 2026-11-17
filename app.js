@@ -2,6 +2,7 @@
 const $ = id => document.getElementById(id);
 const speaker = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/></svg>';
 const playIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 5 11 7-11 7V5Z"/></svg>';
+let view='words',lessonPart='a',lessonPlaying=false;
 let unit=4, group='bold', position=0, filtered=[], generation=0, auto=false, active=null, slowFactor=1;
 const player=$('player'), audio=new ReaderAudio(AUDIO_INDEX,player);
 function status(message='') { $('status').textContent=message; }
@@ -14,17 +15,18 @@ function renderAuto() {
   $('auto').setAttribute('aria-pressed',String(auto));
 }
 function stop() {
-  generation++; auto=false; audio.stop(); resetActive(); renderAuto();
+  generation++; auto=false; audio.stop(); resetActive(); renderAuto(); stopLessonsUI();
 }
-async function playSound(id,button,token,slow=false) {
+async function playSound(id,button,token,slow=false,lesson=false) {
   if(token!==generation) return false;
   resetActive(); active=button; button.setAttribute('aria-busy','true');
   status(audio.raw.has(id)||audio.buffers.has(id)?'':'音频加载中…');
   slowFactor=slow?.82:1;
   try {
-    const ok=await audio.play(id,Number($('speed').value)*slowFactor,()=>{
+    const ok=await audio.play(id,(lesson?1:Number($('speed').value))*slowFactor,()=>{
       if(token!==generation) return;
       status();button.removeAttribute('aria-busy');button.classList.add('is-playing');button.setAttribute('aria-pressed','true');
+      if(lesson&&lessonPlaying)button.scrollIntoView?.({block:'center',behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
     });
     if(token===generation) resetActive();
     return ok&&token===generation;
@@ -97,7 +99,8 @@ function render() {
   $('previous').disabled=position===0;$('next').disabled=position===filtered.length-1;
   $('position').textContent=`${position+1} / ${filtered.length}`;
   $('progress').style.width=((position+1)/filtered.length*100)+'%';renderAuto();writeHash();
-  audio.focus(w,filtered[position+1]);
+  if(view==='words')audio.focus(w,filtered[position+1]);
+  renderLessons();
 }
 document.querySelectorAll('[data-unit]').forEach(b=>b.onclick=()=>{stop();status();unit=Number(b.dataset.unit);position=0;render();});
 document.querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{stop();status();group=b.dataset.group;position=0;render();});
@@ -126,12 +129,15 @@ $('auto').onclick=async()=>{
 };
 function restoreHash(){
   const m=location.hash.match(/^#u([1-6])\/(bold|regular)\/(\d+)$/);
-  if(m){unit=Number(m[1]);group=m[2];const list=WORDS.filter(w=>w.unit===unit&&w.bold===(group==='bold'));position=Math.max(0,list.findIndex(w=>w.id===Number(m[3])));}
+  const textHash=location.hash.match(/^#u([1-6])\/text\/([ab])$/);
+  if(textHash){view='texts';unit=Number(textHash[1]);lessonPart=textHash[2];}
+  if(m){view='words';unit=Number(m[1]);group=m[2];const list=WORDS.filter(w=>w.unit===unit&&w.bold===(group==='bold'));position=Math.max(0,list.findIndex(w=>w.id===Number(m[3])));}
   render();
 }
 window.addEventListener('hashchange',()=>{stop();restoreHash();});
 document.addEventListener('visibilitychange',()=>{
   if(document.hidden){stop();audio.suspend();}
+  else if(view==='texts'){const l=currentLesson();focusSentence(l.lines[0],l.lines[1]);}
   else if(filtered[position]) audio.focus(filtered[position],filtered[position+1]);
 });
 window.addEventListener('pagehide',()=>{stop();audio.suspend();});

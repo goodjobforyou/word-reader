@@ -1,34 +1,25 @@
 {
-  "build": "20261117-syllables1",
-  "newSyllables": 47,
-  "audioReferences": 420,
-  "readiness": {
-    "1": {
-      "total": 18,
-      "complete": 18
-    },
-    "2": {
-      "total": 17,
-      "complete": 17
-    },
-    "3": {
-      "total": 20,
-      "complete": 8
-    },
-    "4": {
-      "total": 20,
-      "complete": 20
-    },
-    "5": {
-      "total": 20,
-      "complete": 20
-    },
-    "6": {
-      "total": 23,
-      "complete": 10
-    }
-  },
-  "splitAndLevelChecks": "47/47 passed",
-  "regressionChecks": "passed",
-  "remainingUniqueSyllables": 45
+  "title": "五上英语朗读小屋",
+  "lessons": 12,
+  "sentences": 163,
+  "uniqueClips": 153,
+  "voices": [
+    "en-GB-RyanNeural",
+    "en-GB-SoniaNeural"
+  ],
+  "synthesisRate": "-20%",
+  "clipDurations": [
+    1.872,
+    5.736
+  ],
+  "formatChecks": "all passed",
+  "wordAndTextRegressions": "passed",
+  "source": "五年级上册英语_Lets_talk全册课文.docx",
+  "localBrowser": "male/female sentence playback and full lesson autoplay passed",
+  "mobileWidth": 390,
+  "stickyStopButton": "checked",
+  "wordSyllablesStillPending": [
+    3,
+    6
+  ]
 }

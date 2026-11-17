@@ -4480,5 +4480,1382 @@
     "duration": 0.9,
     "batch": "nov17",
     "sha256": "6b570592737ef62f8da1d699b7e09e65f436d2b77e5c97a0d3e4d0eff8416312"
+  },
+  "text-e3a1f9b87897ecb1": {
+    "file": "lesson-recordings/text-e3a1f9b87897ecb1.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Hi, class.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "eb97286108742237ee5fe7d3047497b0211daa5bbd082f101e2400dd1a0016ed"
+  },
+  "text-1a6ec85cdd9667f8": {
+    "file": "lesson-recordings/text-1a6ec85cdd9667f8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You'll have a new classmate.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d1335f16cc39cbc172e22f91bde442b0d8684c7540590c1d6c529413e12d9d24"
+  },
+  "text-f51725edfb7a4a65": {
+    "file": "lesson-recordings/text-f51725edfb7a4a65.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "He's from Australia.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "7739e5c603e743fa18754cd957155d70017a01f21b479162ee23f796eb722d4a"
+  },
+  "text-442ce23189396008": {
+    "file": "lesson-recordings/text-442ce23189396008.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "His name is Oliver.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "7e7d48fa8dff1059b6025ea5a6772682a7aa5ea97777d11342e30bbcb9e32f53"
+  },
+  "text-f0a3c6e1cc81724a": {
+    "file": "lesson-recordings/text-f0a3c6e1cc81724a.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What's he like?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "04374f370a374f6062bd44c524951b92ecc063cbfcb3f100ae73f7c3058b2c1a"
+  },
+  "text-4f09663e28b899e8": {
+    "file": "lesson-recordings/text-4f09663e28b899e8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "He's tall and strong.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "69a1ce30a6cbe23013f63ad7a0860d4a49ec9bcd6162c84172dc0eb7b5004491"
+  },
+  "text-1c6dab5ecebb95dc": {
+    "file": "lesson-recordings/text-1c6dab5ecebb95dc.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Is he good at football?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "e07c799a9be33e6b8be55978f6238fb5806b3b5e44f3382f19cba340284b153f"
+  },
+  "text-a23623bfeebd0fe6": {
+    "file": "lesson-recordings/text-a23623bfeebd0fe6.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, I think he is.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "02320556ace6fa2701b8a51cafee40a7847b9a16574ef82719abf52a9385a742"
+  },
+  "text-163150e5e8d2a5bd": {
+    "file": "lesson-recordings/text-163150e5e8d2a5bd.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "He can run very fast.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "88afb1a872bac844a549f389d08549d3ce87ce85072ba863927f7ae0cfedd4bd"
+  },
+  "text-a34b2bbafa1f1bc2": {
+    "file": "lesson-recordings/text-a34b2bbafa1f1bc2.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Great!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "ce9fce2521c182df59e9085e41a22ea69b2b3a9a147f2b569d4aa60a14d161b8"
+  },
+  "text-4f69b37694548ed5": {
+    "file": "lesson-recordings/text-4f69b37694548ed5.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Our football team needs more players.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d6a36d842c9500cf2d5a88fe2939bc5811e97cb692aca4915585e68e9ea843ef"
+  },
+  "text-1125fc51c04534e5": {
+    "file": "lesson-recordings/text-1125fc51c04534e5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Oliver can't speak Chinese.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "bb818425897769a118d6ea6686b17498ef3dc65bb80838b1f4d77fc82fb4126a"
+  },
+  "text-be5a500a14b9585c": {
+    "file": "lesson-recordings/text-be5a500a14b9585c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Would you like to help him, Zhang Peng?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a9e18a733bf4df7fcfe2d98dbd507ddf4e10a06f3c10781703d1620fe337e8ee"
+  },
+  "text-c48ae4309b057add": {
+    "file": "lesson-recordings/text-c48ae4309b057add.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Sure!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "c9e99cf49415a6e1db2d57a7fb4d72db3f773e66d19a02a0972059a5a63d6249"
+  },
+  "text-8a9e848b55f6841c": {
+    "file": "lesson-recordings/text-8a9e848b55f6841c.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "The Science and Art Festival is in two weeks.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a21d2f4bb57100f1147ce159d7f340dcee2ca1d8219bcd69c6457c013ac33e72"
+  },
+  "text-f95beee2379abe90": {
+    "file": "lesson-recordings/text-f95beee2379abe90.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "162d7ba172ef2964a9eeabe35ea068d0f2b93383759e3fd14fe6f2bcb465343e"
+  },
+  "text-b8b0d68316421852": {
+    "file": "lesson-recordings/text-b8b0d68316421852.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What can you do for the festival?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "496eb8bb6bb31abc4ca15efa8885607fc59060ba530d459b3545006da5769db9"
+  },
+  "text-575f98dd26296de3": {
+    "file": "lesson-recordings/text-575f98dd26296de3.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I can make a robot.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "c3ada7db3e662c9e788944188b5731005d71113e46cf29f951ec4695f7b88601"
+  },
+  "text-5d570d3231bb402a": {
+    "file": "lesson-recordings/text-5d570d3231bb402a.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Oh!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "532b572e85171990c45c61f98107bdaf6ee4812eed181c55293da3c9bbc62025"
+  },
+  "text-f3e7188cf55f63c9": {
+    "file": "lesson-recordings/text-f3e7188cf55f63c9.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I like making robots too.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "bd2f218cca8721abb6320c67dd16b1bd7ed4b79c9339ba608924b25eaa142551"
+  },
+  "text-63dd1b1c5c10b96c": {
+    "file": "lesson-recordings/text-63dd1b1c5c10b96c.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We can work together.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "eba1999137aada6aeebc220582cac0a64a171bf01005a7e83d1f6062f0fadb97"
+  },
+  "text-7b7ad02ab0f3be71": {
+    "file": "lesson-recordings/text-7b7ad02ab0f3be71.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Can you make robots, Sarah?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "48d419164fc7bb8a704170d5123de108bf47593c7d7a23ca6a2e8b258c00f013"
+  },
+  "text-ae6565bf4f1645d9": {
+    "file": "lesson-recordings/text-ae6565bf4f1645d9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "No, I can't.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "eccf0ddb943cfbf2c90eefd27d48cbd08590d704113c2de4dbfe7215cbec510c"
+  },
+  "text-bfd2ce666e4d73ed": {
+    "file": "lesson-recordings/text-bfd2ce666e4d73ed.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What can you do?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "9a014a380212504a2f005e8c3e8a84c443f86d6bc51ca2af48171a166d8a43ed"
+  },
+  "text-421319dcee39b7f7": {
+    "file": "lesson-recordings/text-421319dcee39b7f7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I can dance.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "f7b92c0f1ec3edef8f1eece2b6b1bac548e3d5b6768f91bd83213d151badbd9d"
+  },
+  "text-bc51089c043fc5a9": {
+    "file": "lesson-recordings/text-bc51089c043fc5a9.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's great!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "2e6ae9f781ade311e19797faceff08508092d4da9852a157cf2f9acad8a651f8"
+  },
+  "text-863cf600c6bc5615": {
+    "file": "lesson-recordings/text-863cf600c6bc5615.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Hi, Mike.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "94c1fd65c88f63e33bebef7603df0e57a9e9cfe26c31556ace5769cd04fb5509"
+  },
+  "text-e4b98171edf009ca": {
+    "file": "lesson-recordings/text-e4b98171edf009ca.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You look sad.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "751318972a5f1bffeabc612435174b4b78605ab22f2f19b57db38e2467c870ac"
+  },
+  "text-514168b9aef8c321": {
+    "file": "lesson-recordings/text-514168b9aef8c321.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What's the matter?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "85e4b5ee2751c30fb5075ec1cac6420abc494c2d8f4e316cc3f88b8d68a13540"
+  },
+  "text-1892f0b832b4a1fa": {
+    "file": "lesson-recordings/text-1892f0b832b4a1fa.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "It's about our school project.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a8382652df3667be3514f724d7423682f75c98e389114ffab6d312f2ff955c37"
+  },
+  "text-50b743898d456143": {
+    "file": "lesson-recordings/text-50b743898d456143.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "John wants to go to the children's centre, but I want to clean up the park.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "af30cf3ffde6de6e4eb8a69e490243955027de19e47781122d377fd990b3f027"
+  },
+  "text-795ddc3826d3c816": {
+    "file": "lesson-recordings/text-795ddc3826d3c816.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I see.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "5c0e2ad07cbb6c44c6d6cefee082ff1524e640b518a1677d879c6500ce3de21c"
+  },
+  "text-290d3cf45a75e4b7": {
+    "file": "lesson-recordings/text-290d3cf45a75e4b7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "So you don't agree with each other?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "471e5f951eab0fe7492c45e386dc7aa864a0658468e534606dc8e05400d6b605"
+  },
+  "text-43e512b6a0ffeb54": {
+    "file": "lesson-recordings/text-43e512b6a0ffeb54.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's right.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "29a687decebcb926963ff67424e427e44e13fdee441b0bfa1e370db70b7a1488"
+  },
+  "text-75aaeef3fe5b060d": {
+    "file": "lesson-recordings/text-75aaeef3fe5b060d.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And we have to finish our project by Monday.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a4760b98fb22ed167c162d1dd49d359e6cd9b6ac99de2924b86ae07573c0bf25"
+  },
+  "text-230809dda9930aac": {
+    "file": "lesson-recordings/text-230809dda9930aac.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I'm so worried!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "aa03ff37f67dd3514a7d69342d6b11b9f533b85be6be45ba3677a45fc59822cb"
+  },
+  "text-7f10854c2e5933ce": {
+    "file": "lesson-recordings/text-7f10854c2e5933ce.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Why not do both?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "75bbf7ad15196f96ed2c0881e76f11d65e8b2b82dddce8b0c63db511442036f9"
+  },
+  "text-06e12dba0c5eb288": {
+    "file": "lesson-recordings/text-06e12dba0c5eb288.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I can help.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "8b1e46da0a131ef792b93789cafa9f45e728de15a6332f9c7fc18f5b81a007fc"
+  },
+  "text-456da6d25a1fe4d0": {
+    "file": "lesson-recordings/text-456da6d25a1fe4d0.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We can work together.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "f63749cf6b84782bcc74ffe8e305f6a89a83cb63d3bbd5e0c8c02e78697dfcfa"
+  },
+  "text-70f9fb7da6367b25": {
+    "file": "lesson-recordings/text-70f9fb7da6367b25.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's a good idea!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "8ab41deae0f7f752c3f3752b14e4984d565a614bdb79546b1cfbafb09aca8c70"
+  },
+  "text-d474fba95d459ded": {
+    "file": "lesson-recordings/text-d474fba95d459ded.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What's the matter, John?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6954a6bec3f02f0034a0a8a7b4f8d32d70d5624d60cfee5ab6b3d1b89a44e5d6"
+  },
+  "text-fee4b354f1e9ca08": {
+    "file": "lesson-recordings/text-fee4b354f1e9ca08.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You look worried.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "300ec7befb2fbfee4a9fd10437da044c8b6875efdf2517dbf8326c1428373689"
+  },
+  "text-66fa221d1a97c9a1": {
+    "file": "lesson-recordings/text-66fa221d1a97c9a1.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "It's about our project.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "0137db1e9bdfb3f8674891ca0f9a20a07190c13c13b64db6106958fa5ad2dec4"
+  },
+  "text-c7f2211711dc9cd5": {
+    "file": "lesson-recordings/text-c7f2211711dc9cd5.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Mike and I want to do different things.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "7475751970f12c4715421ff1046165ada1336746144019b6bd50c2ad9127fc62"
+  },
+  "text-4af8e514788a29ca": {
+    "file": "lesson-recordings/text-4af8e514788a29ca.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "It's important to listen to each other.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "63d21957c4229e3fc83cc66c46984761f67de4e09f9e516af47599423a521591"
+  },
+  "text-e63108678b818cf3": {
+    "file": "lesson-recordings/text-e63108678b818cf3.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, Miss White.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "eae3bdc0dbc116d9d3d9a6e96c313350d50af54f73eb1910fbaaff8b62af7118"
+  },
+  "text-7131c727c8b2b83f": {
+    "file": "lesson-recordings/text-7131c727c8b2b83f.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I need to talk to Mike.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "b118c28a71364e2f09d5b8a2ac769460187caa77a16f48ee3b001bd47d58c5db"
+  },
+  "text-2b169f0671d803ca": {
+    "file": "lesson-recordings/text-2b169f0671d803ca.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "But I'm afraid he's angry with me.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d7392a6c2baa7a355dca760bca27eb6c845b7295fee793671436f7a12f66131e"
+  },
+  "text-97ed0ed12188abdc": {
+    "file": "lesson-recordings/text-97ed0ed12188abdc.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Look, here he comes.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "7fe7893b9637b9800c797d80b722e8de91a3c98dcd17b7dff90159e365b9d732"
+  },
+  "text-cec2ab9b49444619": {
+    "file": "lesson-recordings/text-cec2ab9b49444619.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You can talk to him now.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "33d7f25fe91295177659497ba8434b3cb1125468c7a51c5cd188d49947444f6b"
+  },
+  "text-d53063fed91d63f3": {
+    "file": "lesson-recordings/text-d53063fed91d63f3.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "John, I'm sorry.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "57ab2a43b530743b033cc02b2751e2e33c808a77537fff6b5308a8d286726c7d"
+  },
+  "text-bdb4c8b72cb0c32b": {
+    "file": "lesson-recordings/text-bdb4c8b72cb0c32b.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Let's do both projects!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "dd4485b888d9baa7cab158d05aa6157a1309b08413e82d1e5faaf33821e0098f"
+  },
+  "text-f9459c8eecc31621": {
+    "file": "lesson-recordings/text-f9459c8eecc31621.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Chen Jie can work with us.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "4bca4f74563cab0c797a6ccf996b5f96f90d75503305b1ab367211ad11ff4525"
+  },
+  "text-57721225d19d86ce": {
+    "file": "lesson-recordings/text-57721225d19d86ce.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What's your favourite day at school, John?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a316e9d0c3936e09842c00864732f0c933649a83e7bc1c7ba658ef50d80ff2c4"
+  },
+  "text-c6e4ef4f48473df6": {
+    "file": "lesson-recordings/text-c6e4ef4f48473df6.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Wednesday.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "51dcaa79a9f5c61e7d2447d9e835d04fbc6d33b3f2abb28f7ae63bc05916066b"
+  },
+  "text-94fb7f0d3b5248a3": {
+    "file": "lesson-recordings/text-94fb7f0d3b5248a3.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What do you have on Wednesdays?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "36b25608a5527395327610c8e944d6756002bd19935b0828d650c12ef105ef77"
+  },
+  "text-b7fe65d1f849fd90": {
+    "file": "lesson-recordings/text-b7fe65d1f849fd90.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I have Chinese, maths, music and PE.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "0ba670ae1218417ac57d00917b205e014595b8e78c7d313c9b56a52f1a37097e"
+  },
+  "text-c29e34c258e5b570": {
+    "file": "lesson-recordings/text-c29e34c258e5b570.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Maths is not easy.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "68b9257f398d6dc82ccc5997ca12bcb99f81af6947de546855f040a446b323d4"
+  },
+  "text-ba70f5a53f8dea8f": {
+    "file": "lesson-recordings/text-ba70f5a53f8dea8f.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "No, but I really like my maths teacher!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "059193fc1aa1bebe4a4b270165e952ef060371804a177caf4106c8fa60255ccd"
+  },
+  "text-50b6738b11996735": {
+    "file": "lesson-recordings/text-50b6738b11996735.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's good.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "fb68a9bc22598fa68bfa360c6ce585960bba0dd7a448625a40932bcb3c95f90f"
+  },
+  "text-d022e345516b6ba1": {
+    "file": "lesson-recordings/text-d022e345516b6ba1.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Is music your favourite subject?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "59fd3a46ec3bcf32c4d4aaa7432ad3b9981a3648eb7b06d9c02e72b28c11176e"
+  },
+  "text-37cb92bfecdfab71": {
+    "file": "lesson-recordings/text-37cb92bfecdfab71.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "16571f7426dba3b0bfc25ca8dc8c20a4a3e63b097dd2630c3dc4310fd9bc518d"
+  },
+  "text-a7dd09a46aa36edc": {
+    "file": "lesson-recordings/text-a7dd09a46aa36edc.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I really like singing.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "c2efa4143b30a3246daa35920acb0a856bed5d70a68ecf1cbd9f5a21bed377dc"
+  },
+  "text-6054444bf9cf9811": {
+    "file": "lesson-recordings/text-6054444bf9cf9811.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And I like PE too.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "8ca0d437a3285723df97a57f1e6493a2136509d23e171e747468b3245024bb36"
+  },
+  "text-58fd379c6b1419a3": {
+    "file": "lesson-recordings/text-58fd379c6b1419a3.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Wednesday is your favourite day.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "986a937b3775235ed0fdd41b40ded0c196d1c8fa719b6a033ae5954d2b7f5c7c"
+  },
+  "text-3afa58cff993583e": {
+    "file": "lesson-recordings/text-3afa58cff993583e.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "But I like Tuesdays and Fridays.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "51cab165bab19ccbcfbe7dbe6f5a08db4abafd7a7a3d0c5ff857825f22b61696"
+  },
+  "text-a92ef2a380e1f7ac": {
+    "file": "lesson-recordings/text-a92ef2a380e1f7ac.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Why, Grandpa?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "69c1578db7453788da97ebdc3241d6ef791713bf32e0a2bd1100269f6710aef7"
+  },
+  "text-5b52704f7ec89977": {
+    "file": "lesson-recordings/text-5b52704f7ec89977.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Because I have my taijiquan class!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "9e618d704347202f941cf80b38e86a9a4d5416c37f454514bff65d2878331a5c"
+  },
+  "text-fb85373c9bdb3e10": {
+    "file": "lesson-recordings/text-fb85373c9bdb3e10.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What do you usually do at the weekend, children?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "2037144c827cac308e10d0800e5e4866ca9635cb5d4da70367aca794c853b4c6"
+  },
+  "text-c5207419340ad2f6": {
+    "file": "lesson-recordings/text-c5207419340ad2f6.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I often play football.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "12f753b3cd46aca51f65c0ab30c2999a198af72f1c2b725fba70b8441768eb7f"
+  },
+  "text-30a6cc070e1e2482": {
+    "file": "lesson-recordings/text-30a6cc070e1e2482.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Sometimes I play Chinese chess with my father.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6acdb913ca11004d8fa2f62bc96993e0452652f0f0d7380fa3f316d7ab9f785e"
+  },
+  "text-e4348f51e8928869": {
+    "file": "lesson-recordings/text-e4348f51e8928869.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's nice.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "449bade1aa0daddd4e07457075638f6f6db54be3199a376c822bb58e04b143f5"
+  },
+  "text-8c52f78b7b54011b": {
+    "file": "lesson-recordings/text-8c52f78b7b54011b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "My mother works at the weekend, so I often cook lunch for my family.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "dfe8ee0c09099d9911be458e0c048b18caefcbe24e932ecdd110a73e72360ab6"
+  },
+  "text-dd77f2197ba3b853": {
+    "file": "lesson-recordings/text-dd77f2197ba3b853.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Good girl!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "440a4b5a7a82e7223a2fb256de7719052e08807b33dbf67d9e56ac71043347a9"
+  },
+  "text-98d665c82453c308": {
+    "file": "lesson-recordings/text-98d665c82453c308.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Does your mother work on Saturdays and Sundays?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "13150e345cdb6c029466dda8125d78940f9237c1964eab2072bcb348c4ad3718"
+  },
+  "text-c0e898923236db89": {
+    "file": "lesson-recordings/text-c0e898923236db89.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, she does.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "188612982a381d729f5364db5f5a335566170e4a9fc2faf797a752ccb22538eb"
+  },
+  "text-5a2b6c202fa3a0c2": {
+    "file": "lesson-recordings/text-5a2b6c202fa3a0c2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I do my homework on Saturdays.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "70c46280ca6760d7ff43b69b5a2ed6a73a7a683e67af634bd4d02d52e13e9b73"
+  },
+  "text-d1c12f7181a20031": {
+    "file": "lesson-recordings/text-d1c12f7181a20031.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And I usually have pipa lessons on Sundays.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d7f4ad9f7f9f48793661d42c4a80d4a4ab872f082c4914e9b003eb977c8bba69"
+  },
+  "text-87d7cb607937a4c5": {
+    "file": "lesson-recordings/text-87d7cb607937a4c5.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Great!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "df11161488be0a5df90689bdb74e558a6c11b896c1e3748d5253cb1303e01e74"
+  },
+  "text-58137d4af023f57c": {
+    "file": "lesson-recordings/text-58137d4af023f57c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Have a nice weekend, everyone!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "e83483ff46ad9f3be759cb944ccf00eed236b8457e4de44b53f950ab079387eb"
+  },
+  "text-093238f1da5c4200": {
+    "file": "lesson-recordings/text-093238f1da5c4200.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Mike has a cold today, children.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "81837845088fcc0d5f3af492415ec09e1b0362ff906f2c7f30565f329026fcf5"
+  },
+  "text-b171cab99666d9d8": {
+    "file": "lesson-recordings/text-b171cab99666d9d8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "He has to stay at home.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "22b5cd7760c4275d1108882c9d73ff601a37bf7a23fed414e9c65ff0d056e611"
+  },
+  "text-0b10d4b5c7f17692": {
+    "file": "lesson-recordings/text-0b10d4b5c7f17692.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Oh no!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "bf0b0dee94c55015b09543b47002c0768a7fc6ab9dbe45d4f0649e534cbcbe08"
+  },
+  "text-ce001dab61c2a6b5": {
+    "file": "lesson-recordings/text-ce001dab61c2a6b5.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "It's flu season now.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "32f4bdaa079ca4a47683204aba2e09a2ef4d27be0a098b9633457786490e02fc"
+  },
+  "text-7d31a2d2222891d1": {
+    "file": "lesson-recordings/text-7d31a2d2222891d1.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's right.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "98a97f04e44fd1f62b63c38fa0cfbf04f373a9c4385f8810cb4cc73625409b19"
+  },
+  "text-28f419eb81a47f7c": {
+    "file": "lesson-recordings/text-28f419eb81a47f7c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "How can we all stay healthy?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a0730534df43b87e232c69f56813139dfd4be19b8ee8ab552835dae308201721"
+  },
+  "text-b68c13d6f1f8b85b": {
+    "file": "lesson-recordings/text-b68c13d6f1f8b85b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We should eat healthy food.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6c731227ce2cfba638392381b9f14f9a6d32dabe6ba0b7a3ce581f7934fb1d9e"
+  },
+  "text-23a4555b774f9dfe": {
+    "file": "lesson-recordings/text-23a4555b774f9dfe.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Good.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6122c5577ba42cec65655aa1a912314e5e797e88e129c2518f81c618a0ea8222"
+  },
+  "text-2799b3c2a397714a": {
+    "file": "lesson-recordings/text-2799b3c2a397714a.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And what else?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "da22349738a4ad3237e3fba24c30d7188d4843de53b660806c55981c20b32328"
+  },
+  "text-85f8ec29411604ba": {
+    "file": "lesson-recordings/text-85f8ec29411604ba.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We should exercise every day.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "1a0d69509f68f2d0e1062829898af7dcc803cea046bc1db66171757a5239570c"
+  },
+  "text-c9a604f42e9fed86": {
+    "file": "lesson-recordings/text-c9a604f42e9fed86.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, but please drink enough water.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "49f6cf1c922eda2356b679eb02b3d0cbd9d5d30a5003ff227db2b95d2839706f"
+  },
+  "text-ffe0892e9525c90b": {
+    "file": "lesson-recordings/text-ffe0892e9525c90b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We should also get enough sleep, Miss White.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "9404fe16cbbd92335782a4344a8d0e27f2dbce75e7c16353a39292c7f17edfc4"
+  },
+  "text-88a497e5149a146b": {
+    "file": "lesson-recordings/text-88a497e5149a146b.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Right.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d1895a8bd58a5fd9043de200e86d922883e6eadaf60c5401887ed523107c925d"
+  },
+  "text-6d28e14006f1f21c": {
+    "file": "lesson-recordings/text-6d28e14006f1f21c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And if you don't feel well, you should see a doctor.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "b2f077852da9679b694fae7f9429f176ffb14de402fd2c31043cfc1b145ecee2"
+  },
+  "text-6915a002c75ccd0b": {
+    "file": "lesson-recordings/text-6915a002c75ccd0b.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Can I watch a TV show now, please?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "482c23bc041a6e15f4a0823f439b62d438cb63429666d5c0fc569a12495aadc3"
+  },
+  "text-d4dc6a974e214039": {
+    "file": "lesson-recordings/text-d4dc6a974e214039.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "No, I'm afraid not.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "960c91bd86b1613515fd28eddb30a89f9c3985a9bb6bc071c1ccb3c71e38e8e2"
+  },
+  "text-10dd4d3a65eda263": {
+    "file": "lesson-recordings/text-10dd4d3a65eda263.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Can I play on Mum's phone?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "c3ff5f4ac8bebbc14d60d55e62cae29dc445531b456f2ebd2188225248b8e0a5"
+  },
+  "text-8f81c4ec41be0f4f": {
+    "file": "lesson-recordings/text-8f81c4ec41be0f4f.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "No.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "477c848df5b3d4f59facdec5e785c3e7e9fe10c762c83d020c0e84ef15a382c9"
+  },
+  "text-1fd7e404ec7c1627": {
+    "file": "lesson-recordings/text-1fd7e404ec7c1627.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You shouldn't play on a phone so often.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "f6eb3212846a43d1d8e663d7f814303df0ceaa618edd35bea06f2a286b2dcad9"
+  },
+  "text-11787af110cfcd3d": {
+    "file": "lesson-recordings/text-11787af110cfcd3d.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What should I do then?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "434bd99fe777420b53e6d76c3959085d8379e3deba60186292fec620c1ba1e14"
+  },
+  "text-bd63453cd85cb9ec": {
+    "file": "lesson-recordings/text-bd63453cd85cb9ec.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You should rest your eyes.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "dfeb290df5b413b40552bda82a06d5c937293a039acb2ac92deb3054f7b9de71"
+  },
+  "text-44dfbb3ca7590ece": {
+    "file": "lesson-recordings/text-44dfbb3ca7590ece.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Let's take a walk.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6d046c4854eb2cd64793c5f2c25427b0ef02850241816c0cd7ade8da11d4097f"
+  },
+  "text-386f7d2fea267053": {
+    "file": "lesson-recordings/text-386f7d2fea267053.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's no fun.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "5873aa897dcf94a4b9fe43b9baa165bc18853ef54b1266673205614a852eace3"
+  },
+  "text-eeae18c2283e060c": {
+    "file": "lesson-recordings/text-eeae18c2283e060c.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "OK.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "13d63e0a8533fe8627d8117978420ab5cf066f1db52fb8ec256171a4d001fa6b"
+  },
+  "text-d64a9e66cb3340de": {
+    "file": "lesson-recordings/text-d64a9e66cb3340de.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Let's play in the garden then.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "5fd2054d236fee452e9706c8ae575e23e05b1e7faa443fad489f25c5020b76e3"
+  },
+  "text-711a54cbac18b830": {
+    "file": "lesson-recordings/text-711a54cbac18b830.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "It's a nice day.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "39892a9aa0a5fb803f5f49daa1213a9a89bac4c4d9b8d67c52d23696e0717021"
+  },
+  "text-4c366abc2abb8605": {
+    "file": "lesson-recordings/text-4c366abc2abb8605.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Mum, I'm hungry.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "495847c7eff7a89210824d7cfc0c4f6aa6cab6fe21b3c4208596f0d9516ce3de"
+  },
+  "text-0e4a544aa3a02429": {
+    "file": "lesson-recordings/text-0e4a544aa3a02429.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What would you like to eat?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "eab93aee1c110dfc0f654fc30e23367f1579fa131d334c8687703c9d0c2ac19c"
+  },
+  "text-eb1a523a5c2bf57e": {
+    "file": "lesson-recordings/text-eb1a523a5c2bf57e.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I'd like beef and rice.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d45e56cbd01b3f0cdc54ce35728e2f0c2a72c136bcf73453470cbb4be64b9636"
+  },
+  "text-57849adfd05e7fe9": {
+    "file": "lesson-recordings/text-57849adfd05e7fe9.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "No problem.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "9695cc9435f50588c72fa953d73b7e20e0e1ea79e633eee7982cb2763b3d92f2"
+  },
+  "text-8ebbfee95cfc27be": {
+    "file": "lesson-recordings/text-8ebbfee95cfc27be.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Would you like some chicken soup too?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "8d28c487476e130fcce4589c55205b3b002e6ea785e43da6567a8d70d3259396"
+  },
+  "text-bd48cb84660ca9d1": {
+    "file": "lesson-recordings/text-bd48cb84660ca9d1.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, please.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "823fbfe9546b94a7274cf034c4983d2ca6a0781397a14e6b3f599545dfa585b4"
+  },
+  "text-32374905852e2857": {
+    "file": "lesson-recordings/text-32374905852e2857.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You should also have some salad.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "b9c85c034b2fd90bc0caefae0eb8d6e6a0507527439b109bb61d68769747d4a5"
+  },
+  "text-c5da729ac426fce8": {
+    "file": "lesson-recordings/text-c5da729ac426fce8.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Vegetables are good for you.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6a47d0febcf74db15159a5acdea9c2e67a3dec209561722e58ed259b60138e1d"
+  },
+  "text-d3502b861fc1992d": {
+    "file": "lesson-recordings/text-d3502b861fc1992d.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "OK.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "93b6e00619bd9d489cc6d678a92da98ab5fdc50da8a5a3aff4ee7b597a4e548c"
+  },
+  "text-3b03c930456a9ccd": {
+    "file": "lesson-recordings/text-3b03c930456a9ccd.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Can I have some ice cream, please?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "aba8523683d448cc11fd7c554d0bcddc12ea66977d5e84980911b7e1e4d8a09a"
+  },
+  "text-51d38b3b34a44380": {
+    "file": "lesson-recordings/text-51d38b3b34a44380.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, but just a little.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "fff4dce1c4816174a2a1b6f6d812035922e0162cef2c4f2ec8b7eb16d2bbf8d4"
+  },
+  "text-e982ff7705fa3b9d": {
+    "file": "lesson-recordings/text-e982ff7705fa3b9d.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Thanks, Mum.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "8a7da5b3754564e043dbaf038c93afc1c504d95f93a6b3196879f0bb16d1352f"
+  },
+  "text-22ecefdda2400bfe": {
+    "file": "lesson-recordings/text-22ecefdda2400bfe.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "What's your favourite fruit, Binbin?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "17154a3522cddc51960833cda7a906a21640a3bfe641f00130ca208ef7f4fc30"
+  },
+  "text-883a5682eab7ec40": {
+    "file": "lesson-recordings/text-883a5682eab7ec40.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Coconuts are my favourite.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "ebeb8619519d723a64c61a2400bef21372e17e554e4f0d2102ca0e725129f6de"
+  },
+  "text-6596c2029e9d19f3": {
+    "file": "lesson-recordings/text-6596c2029e9d19f3.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Why do you like coconuts?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d2c5f40bb8afa1471938a168d8b8214c06179b8c281e57ebb3323297a4c29c79"
+  },
+  "text-a79c9325d31d6aef": {
+    "file": "lesson-recordings/text-a79c9325d31d6aef.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Because coconut water is nice.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "a8ac441bba2eb2d0142cc763b6540f1a337ab8c9e2de06e677369370bffbe20a"
+  },
+  "text-160e7c9de57aaf04": {
+    "file": "lesson-recordings/text-160e7c9de57aaf04.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And it's healthy.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "5de87fb7acbc8b543c053c7f620420b0521a33c410fdc05e306111bfbf9fab78"
+  },
+  "text-b0b0090fba4a5375": {
+    "file": "lesson-recordings/text-b0b0090fba4a5375.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We can also cook delicious meals with coconut.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "356288b328e907a94c280bf8ac79bc60525d25713a8aff4466f8f372d79ea2cd"
+  },
+  "text-4fd6ea6dd7da11be": {
+    "file": "lesson-recordings/text-4fd6ea6dd7da11be.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "91b59020ca69c39be74632f5d6f6451ed392a27f8ff4a7a255c7b46988d2b863"
+  },
+  "text-0d95969ed0a47769": {
+    "file": "lesson-recordings/text-0d95969ed0a47769.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And some people make houses with coconut tree leaves.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "54d376d61b460d865ffed8fbca6a5599d1e31f523e37016b947ca90b60cf1666"
+  },
+  "text-4d5b39b57cc5b4f4": {
+    "file": "lesson-recordings/text-4d5b39b57cc5b4f4.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That's interesting.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "88f62626074ecebdb77853c47e11a40e586b61548905ed8f1ba04ce878de0a3b"
+  },
+  "text-7c25341d0ae7fff7": {
+    "file": "lesson-recordings/text-7c25341d0ae7fff7.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Where does your coconut come from?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "88535ff9d76192e019b8964cfac409f3e388426b276ba75f5a481f916891a3b2"
+  },
+  "text-49a73097e731bbed": {
+    "file": "lesson-recordings/text-49a73097e731bbed.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Hainan!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "e3ff93349ad83b5a69a8661208fd5214602169e3a9573660459b6b3092f099d2"
+  },
+  "text-e57d36453d0b8c93": {
+    "file": "lesson-recordings/text-e57d36453d0b8c93.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "There are many coconut trees there.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "0b0598e04ccd077c7d8ed8b5722264c986742b8077f4aee6ec600d8ea318c862"
+  },
+  "text-e502ad8739671bc6": {
+    "file": "lesson-recordings/text-e502ad8739671bc6.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Wow!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "0604c68244db24dac895672783ea39aa4b91bac721f1352fdcbaa67809af80a6"
+  },
+  "text-8b8ce34c3c4c7100": {
+    "file": "lesson-recordings/text-8b8ce34c3c4c7100.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "That lake is really lovely!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "39b54abf86d2de35626af7c0c1ecc7a7b4496121a90345883dc03598831fdd15"
+  },
+  "text-56119fbdd1d2b542": {
+    "file": "lesson-recordings/text-56119fbdd1d2b542.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "There are also many rivers in the nature park.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "867f95207e43af8f7f97e27434047ec5dbb8fc3860c70cf4ae0b3b045f5662e8"
+  },
+  "text-68b22b02c151112b": {
+    "file": "lesson-recordings/text-68b22b02c151112b.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Is there a waterfall in the forest?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "4d410e2321cc05bdc89e1705fd2dadfb30e0b73add35a427b68adef44db82639"
+  },
+  "text-dac0e61c2ba50f4f": {
+    "file": "lesson-recordings/text-dac0e61c2ba50f4f.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, there is.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "6c3e2a2cb5386698bb8fe911a6d8b2a19f45e8041a17c3f0956603e50cc9e30c"
+  },
+  "text-ab73521939ddbe0c": {
+    "file": "lesson-recordings/text-ab73521939ddbe0c.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You'll see a beautiful one today!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "2b216a92955551d2fd927cd91d15b23d8ac811c2638b21674753a67a27d040ea"
+  },
+  "text-5b9e946c34f2d52b": {
+    "file": "lesson-recordings/text-5b9e946c34f2d52b.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Are there any famous mountains in the nature park?",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d2b35cd6a423949db083ae1e96759b9890f6769a4f73a4dc4c9c9c7e0eaa1b8b"
+  },
+  "text-a5778bcbc0d90005": {
+    "file": "lesson-recordings/text-a5778bcbc0d90005.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Yes, there are.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "f240b3818205119c74f900da527e586a0eb96434121c072f415a56f5f0ac4190"
+  },
+  "text-161b970a0bd55111": {
+    "file": "lesson-recordings/text-161b970a0bd55111.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We'll visit one tomorrow.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "07bd504000c9311b73ad9bb99f1b583791b49bce2165727b3b0c71a62ae7f42e"
+  },
+  "text-a2fe0ce07819c1a8": {
+    "file": "lesson-recordings/text-a2fe0ce07819c1a8.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "There are many flowers too.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "3082cf3a10c53e755499250cf2ffaffda361281721ee263e19cb6c01c8e9feee"
+  },
+  "text-570c4ec839539e91": {
+    "file": "lesson-recordings/text-570c4ec839539e91.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "And there are rabbits!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "2e2c6735b3c5835faa8914dbb4524915b593dfdb075ab7b8d6a063d4e1a893d4"
+  },
+  "text-9e248c37a71e1c51": {
+    "file": "lesson-recordings/text-9e248c37a71e1c51.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I'm sorry.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "e700780f2b944b35a318d8264411a331ed4f90765fe641ff6243c480ca57eeb2"
+  },
+  "text-f290fb645709803d": {
+    "file": "lesson-recordings/text-f290fb645709803d.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "The wind is very strong outside.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d21548a6922919a663029855dd3a0cdf514be1586ee8ff046b4f64b1b4199664"
+  },
+  "text-c140e937e58b61c9": {
+    "file": "lesson-recordings/text-c140e937e58b61c9.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "We can't go on our trip this morning.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "dfa3ef76970549dd91f920dc94409f563f177ceb6ebbf3a05b6be9704e4b22be"
+  },
+  "text-33d7f5d8289a5160": {
+    "file": "lesson-recordings/text-33d7f5d8289a5160.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I agree.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "c73c29dd95cd6dca6a430255babfb9ef4bbeb2f1667c3a6075808d24e010f500"
+  },
+  "text-ac4609339af68bd2": {
+    "file": "lesson-recordings/text-ac4609339af68bd2.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Strong winds are often dangerous.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "fc3f42239687ac3e871ca177f399331dfc7fa0742c585879df42d0e97dac1ff1"
+  },
+  "text-c2af3101dbd9ea8f": {
+    "file": "lesson-recordings/text-c2af3101dbd9ea8f.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "There will be heavy rain in the afternoon too.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "4128f072ffbbcb75a5c6bd873582eb4a7f7a5636784a8cccb1a9f52826addac2"
+  },
+  "text-f4a3d8690b1033c2": {
+    "file": "lesson-recordings/text-f4a3d8690b1033c2.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Mike, stay in the hotel with Mum and close the windows.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "c57103484988986a49fe96cd4dddea635c999a11f3dbcbd082ecd9ace6b389cf"
+  },
+  "text-f1b85cf9ec44347a": {
+    "file": "lesson-recordings/text-f1b85cf9ec44347a.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "I'll go to buy some umbrellas and raincoats.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "04c9d8199846c1caedfd15582a7a657d3c28e8ebf3c14dd25da247634128d6a2"
+  },
+  "text-fb9c75b74277a567": {
+    "file": "lesson-recordings/text-fb9c75b74277a567.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "There is a small shop in the hotel.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "d347f5a16eed84bc14666365aa3ef516da9b3a35e9fcc107af66b9ffec22983a"
+  },
+  "text-399714e73c207d0e": {
+    "file": "lesson-recordings/text-399714e73c207d0e.mp3",
+    "voice": "en-GB-SoniaNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "You can buy them there.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "13830b9f49d87696bc11fc10a65d06262997255b7911d778804660095d4d0f3a"
+  },
+  "text-f728c72f550e786a": {
+    "file": "lesson-recordings/text-f728c72f550e786a.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "Please don't worry!",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "9d409f570f7a1abf235ecc8a2ded88df6a24e5619275b5f0325a1fa0b0012a84"
+  },
+  "text-43550307821f3f10": {
+    "file": "lesson-recordings/text-43550307821f3f10.mp3",
+    "voice": "en-GB-RyanNeural",
+    "locale": "en-GB",
+    "rate": "-20%",
+    "text": "It'll be a fine day tomorrow.",
+    "source": "Microsoft Edge Read Aloud",
+    "sha256": "9363f2d25cc5e00cf91b7c117dfb5b9570c410d4031bad0b787eb2a0f44596fc"
   }
 }
