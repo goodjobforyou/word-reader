@@ -12,17 +12,17 @@ function renderLessons(){
   const button=document.createElement('button');button.className='sentence '+line.gender;button.lang='en-GB';button.setAttribute('aria-label','朗读 '+line.speaker+'：'+line.text);
   const top=document.createElement('span');top.className='sentence-top';
   const role=document.createElement('span');role.className='role';role.textContent=line.speaker;
-  const number=document.createElement('span');number.className='line-number';number.textContent=String(i+1).padStart(2,'0');top.append(role,number);
+  top.append(role);
   const text=document.createElement('span');text.className='sentence-text';text.textContent=line.text;
   button.append(top,text);button.insertAdjacentHTML('beforeend',speaker);
-  button.onclick=()=>{stop();status();focusSentence(line,lesson.lines[i+1]);playSound(line.audio,button,generation,false,true);};$('lesson-lines').append(button);
+  button.onclick=()=>{stop();focusSentence(line,lesson.lines[i+1]);playSound(line.audio,button,generation,false,true);};$('lesson-lines').append(button);
  });
  stopLessonsUI();
  if(view==='texts'){history.replaceState(null,'','#u'+unit+'/text/'+lessonPart);focusSentence(lesson.lines[0],lesson.lines[1]);}
 }
 function initLessons(){
- document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{stop();status();view=b.dataset.view;render();});
- document.querySelectorAll('[data-part]').forEach(b=>b.onclick=()=>{stop();status();lessonPart=b.dataset.part;renderLessons();});
+ document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>{stop();view=b.dataset.view;render();});
+ document.querySelectorAll('[data-part]').forEach(b=>b.onclick=()=>{stop();lessonPart=b.dataset.part;renderLessons();});
  $('lesson-auto').onclick=async()=>{
   if(lessonPlaying){stop();return;}stop();lessonPlaying=true;$('lesson-auto').textContent='停止朗读';$('lesson-auto').setAttribute('aria-pressed','true');
   const token=generation,lesson=currentLesson();

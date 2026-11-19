@@ -5,7 +5,13 @@ const playIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 5 11 7
 let view='words',lessonPart='a',lessonPlaying=false;
 let unit=4, group='bold', position=0, filtered=[], generation=0, auto=false, active=null, slowFactor=1;
 const player=$('player'), audio=new ReaderAudio(AUDIO_INDEX,player);
-function status(message='') { $('status').textContent=message; }
+function status(state='idle') {
+  const message = state==='loading' ? '音频加载中…' :
+    state==='error' ? '音频未能播放，请再点一次。' : '';
+  $('audio-feedback').dataset.state=state;
+  $('audio-message').textContent=message;
+  $('status').textContent=message;
+}
 function resetActive() {
   if (!active) return;
   active.classList.remove('is-playing'); active.setAttribute('aria-pressed','false'); active.removeAttribute('aria-busy'); active=null;
@@ -15,12 +21,12 @@ function renderAuto() {
   $('auto').setAttribute('aria-pressed',String(auto));
 }
 function stop() {
-  generation++; auto=false; audio.stop(); resetActive(); renderAuto(); stopLessonsUI();
+  generation++; auto=false; audio.stop(); resetActive(); status(); renderAuto(); stopLessonsUI();
 }
 async function playSound(id,button,token,slow=false,lesson=false) {
   if(token!==generation) return false;
   resetActive(); active=button; button.setAttribute('aria-busy','true');
-  status(audio.raw.has(id)||audio.buffers.has(id)?'':'音频加载中…');
+  status('loading');
   slowFactor=slow?.82:1;
   try {
     const ok=await audio.play(id,(lesson?1:Number($('speed').value))*slowFactor,()=>{
@@ -28,10 +34,13 @@ async function playSound(id,button,token,slow=false,lesson=false) {
       status();button.removeAttribute('aria-busy');button.classList.add('is-playing');button.setAttribute('aria-pressed','true');
       if(lesson&&lessonPlaying)button.scrollIntoView?.({block:'center',behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
     });
-    if(token===generation) resetActive();
+    if(token===generation) {
+      resetActive();
+      if(!ok) status('error');
+    }
     return ok&&token===generation;
   } catch(e) {
-    if(token===generation) {resetActive();status('音频加载失败，请再点一次');}
+    if(token===generation) {resetActive();status('error');}
     return false;
   }
 }
@@ -63,7 +72,7 @@ function render() {
   $('word-strip').replaceChildren();
   filtered.forEach((item,i)=>{
     const b=document.createElement('button');b.className='word-tab';b.textContent=item.word;b.setAttribute('aria-current',String(i===position));
-    b.onclick=()=>{stop();status();position=i;render();};$('word-strip').append(b);
+    b.onclick=()=>{stop();position=i;render();};$('word-strip').append(b);
   });
   const current=$('word-strip').children[position];
   $('word-strip').scrollLeft=current.offsetLeft-$('word-strip').offsetLeft-($('word-strip').clientWidth-current.offsetWidth)/2;
@@ -102,12 +111,12 @@ function render() {
   if(view==='words')audio.focus(w,filtered[position+1]);
   renderLessons();
 }
-document.querySelectorAll('[data-unit]').forEach(b=>b.onclick=()=>{stop();status();unit=Number(b.dataset.unit);position=0;render();});
-document.querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{stop();status();group=b.dataset.group;position=0;render();});
-function move(step){stop();status();position+=step;render();}
+document.querySelectorAll('[data-unit]').forEach(b=>b.onclick=()=>{stop();unit=Number(b.dataset.unit);position=0;render();});
+document.querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{stop();group=b.dataset.group;position=0;render();});
+function move(step){stop();position+=step;render();}
 $('previous').onclick=()=>move(-1);$('next').onclick=()=>move(1);
 $('speed').onchange=()=>{audio.setRate(Number($('speed').value)*slowFactor);};
-$('mode').onchange=()=>{stop();status();};
+$('mode').onchange=()=>{stop();};
 $('auto').onclick=async()=>{
   if(auto){stop();return;}stop();auto=true;renderAuto();const token=generation;
   while(token===generation&&auto){
