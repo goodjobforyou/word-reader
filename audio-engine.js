@@ -123,6 +123,12 @@ class ReaderAudio {
   }
   async play(id,rate,onStart) {
     const token=++this.playToken, tapped=performance.now();
+    // On iOS, the ambient category is silenced by the ringer switch.
+    // A tap on a recording is intentional media playback.
+    try {
+      const session=window.navigator?.audioSession;
+      if(session&&session.type!=='playback') session.type='playback';
+    } catch {} // Playback still works in browsers without a usable Audio Session API.
     const resumed=this.unlock();
     this.player.dataset.state='loading';
     this.player.dataset.audioId=id;
