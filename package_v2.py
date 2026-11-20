@@ -51,8 +51,14 @@ def build():
    for id in ids:index.setdefault(id,{'pack':file})
    for w in chunk:w['audioPack']=file
  lessons=json.loads((R/'lessons.json').read_text());lm=json.loads((R/'lesson-recordings/manifest.json').read_text())
+ translations=json.loads((R/'lesson-translations.zh-CN.json').read_text())
+ assert set(translations)=={lesson['id'] for lesson in lessons},'Lesson translation IDs must match the source lessons'
  for lesson in lessons:
+  translated=translations[lesson['id']]
+  assert set(translated)=={line['text'] for line in lesson['lines']},f"Translation coverage mismatch in {lesson['id']}"
   for line in lesson['lines']:
+   line['translation']=translated[line['text']].strip()
+   assert line['translation'],line['text']
    assert line['audio'] in lm,line['text'];put(line['audio'],R/'lesson-recordings',lm[line['audio']])
   for start in range(0,len(lesson['lines']),3):
    lines=lesson['lines'][start:start+3];ids={line['audio'] for line in lines}
@@ -72,6 +78,6 @@ def build():
  html=(R/'index.template.html').read_text().replace('__WORDS__',json.dumps(W,ensure_ascii=False,separators=(',',':'))).replace('__AUDIO_INDEX__',json.dumps(index,separators=(',',':'))).replace('__AUDIO_ENGINE__',(R/'audio-engine.js').read_text()).replace('__APP__',(R/'app.js').read_text()).replace('__LESSONS__',json.dumps(lessons,ensure_ascii=False,separators=(',',':'))).replace('__LESSONS_APP__',(R/'lessons.js').read_text()).replace('__HOUSE_CSS__',(R/'house.css').read_text())
  (out/'index.html').write_text(html);(out/'.nojekyll').touch();(out/'words.json').write_text(json.dumps(W,ensure_ascii=False,indent=2));(out/'audio-sources.json').write_text(json.dumps(sources,ensure_ascii=False,indent=2))
  (out/'audio-index.json').write_text(json.dumps(index,separators=(',',':')))
- for name in ['app.js','lessons.js','house.css','build_lessons.py','generate_lessons_audio.py','audio-engine.js','index.template.html','build.py','units123.py','phonics.py','README.md','package_v2.py','prepare_female_audio.py','process_female_audio.py']:shutil.copyfile(R/name,out/name)
+ for name in ['app.js','lessons.js','lesson-translations.zh-CN.json','house.css','build_lessons.py','generate_lessons_audio.py','audio-engine.js','index.template.html','build.py','units123.py','phonics.py','README.md','package_v2.py','prepare_female_audio.py','process_female_audio.py']:shutil.copyfile(R/name,out/name)
  report={'entries':len(W),'audioIDs':len(audio),'units':unit_report,'priorityUnitsReady':True,'deferredSyllableUnits':[u for u,v in unit_report.items() if v['syllablesReady']<v['words']],'wordPacks':len(packs),'phonemeFiles':len({index[id]['file'] for id in phone_ids}),'maxWordPackBytes':max(p['bytes'] for p in packs),'packs':packs};(R/'release-readiness.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='packs'},ensure_ascii=False,indent=2))
 if __name__=='__main__':build()

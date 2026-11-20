@@ -84,6 +84,15 @@ header { margin-bottom: 22px; }
 .role { font-size: 12px; font-weight: 650; color: #3e6186; }
 .female .role { color: #745382; }
 .sentence-text { display: block; font: 19px/1.45 Georgia, "Times New Roman", serif; overflow-wrap: anywhere; }
+.sentence-translation {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+.sentence.is-playing .sentence-translation { color: #f4efff; }
 .sentence > svg {
   position: absolute;
   right: 14px;

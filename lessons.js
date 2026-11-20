@@ -14,7 +14,13 @@ function renderLessons(){
   const role=document.createElement('span');role.className='role';role.textContent=line.speaker;
   top.append(role);
   const text=document.createElement('span');text.className='sentence-text';text.textContent=line.text;
-  button.append(top,text);button.insertAdjacentHTML('beforeend',speaker);
+  const translation=document.createElement('span');
+  translation.className='sentence-translation';
+  translation.lang='zh-CN';
+  translation.id=lesson.id+'-translation-'+(i+1);
+  translation.textContent=line.translation;
+  button.setAttribute('aria-describedby',translation.id);
+  button.append(top,text,translation);button.insertAdjacentHTML('beforeend',speaker);
   button.onclick=()=>{stop();focusSentence(line,lesson.lines[i+1]);playSound(line.audio,button,generation,false,true);};$('lesson-lines').append(button);
  });
  stopLessonsUI();

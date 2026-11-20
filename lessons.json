@@ -12,6 +12,7 @@
         "text": "Hi, class.",
         "audio": "text-e3a1f9b87897ecb1",
         "voice": "en-GB-SoniaNeural",
+        "translation": "同学们好。",
         "audioPack": "text-u1a-01-d9df706f7f3c.json"
       },
       {
@@ -20,6 +21,7 @@
         "text": "You'll have a new classmate.",
         "audio": "text-1a6ec85cdd9667f8",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你们班要来一位新同学。",
         "audioPack": "text-u1a-01-d9df706f7f3c.json"
       },
       {
@@ -28,6 +30,7 @@
         "text": "He's from Australia.",
         "audio": "text-f51725edfb7a4a65",
         "voice": "en-GB-SoniaNeural",
+        "translation": "他来自澳大利亚。",
         "audioPack": "text-u1a-01-d9df706f7f3c.json"
       },
       {
@@ -36,6 +39,7 @@
         "text": "His name is Oliver.",
         "audio": "text-442ce23189396008",
         "voice": "en-GB-SoniaNeural",
+        "translation": "他叫奥利弗。",
         "audioPack": "text-u1a-02-610b8475f4e8.json"
       },
       {
@@ -44,6 +48,7 @@
         "text": "What's he like?",
         "audio": "text-f0a3c6e1cc81724a",
         "voice": "en-GB-RyanNeural",
+        "translation": "他是什么样的人？",
         "audioPack": "text-u1a-02-610b8475f4e8.json"
       },
       {
@@ -52,6 +57,7 @@
         "text": "He's tall and strong.",
         "audio": "text-4f09663e28b899e8",
         "voice": "en-GB-SoniaNeural",
+        "translation": "他又高又壮。",
         "audioPack": "text-u1a-02-610b8475f4e8.json"
       },
       {
@@ -60,6 +66,7 @@
         "text": "Is he good at football?",
         "audio": "text-1c6dab5ecebb95dc",
         "voice": "en-GB-RyanNeural",
+        "translation": "他擅长踢足球吗？",
         "audioPack": "text-u1a-03-607f2fe67d97.json"
       },
       {
@@ -68,6 +75,7 @@
         "text": "Yes, I think he is.",
         "audio": "text-a23623bfeebd0fe6",
         "voice": "en-GB-SoniaNeural",
+        "translation": "嗯，我想他擅长。",
         "audioPack": "text-u1a-03-607f2fe67d97.json"
       },
       {
@@ -76,6 +84,7 @@
         "text": "He can run very fast.",
         "audio": "text-163150e5e8d2a5bd",
         "voice": "en-GB-SoniaNeural",
+        "translation": "他跑得很快。",
         "audioPack": "text-u1a-03-607f2fe67d97.json"
       },
       {
@@ -84,6 +93,7 @@
         "text": "Great!",
         "audio": "text-a34b2bbafa1f1bc2",
         "voice": "en-GB-RyanNeural",
+        "translation": "太好了！",
         "audioPack": "text-u1a-04-60716c792528.json"
       },
       {
@@ -92,6 +102,7 @@
         "text": "Our football team needs more players.",
         "audio": "text-4f69b37694548ed5",
         "voice": "en-GB-RyanNeural",
+        "translation": "我们的足球队还需要更多队员。",
         "audioPack": "text-u1a-04-60716c792528.json"
       },
       {
@@ -100,6 +111,7 @@
         "text": "Oliver can't speak Chinese.",
         "audio": "text-1125fc51c04534e5",
         "voice": "en-GB-SoniaNeural",
+        "translation": "奥利弗不会说中文。",
         "audioPack": "text-u1a-04-60716c792528.json"
       },
       {
@@ -108,6 +120,7 @@
         "text": "Would you like to help him, Zhang Peng?",
         "audio": "text-be5a500a14b9585c",
         "voice": "en-GB-SoniaNeural",
+        "translation": "张鹏，你愿意帮帮他吗？",
         "audioPack": "text-u1a-05-b6811ccd2dce.json"
       },
       {
@@ -116,6 +129,7 @@
         "text": "Sure!",
         "audio": "text-c48ae4309b057add",
         "voice": "en-GB-RyanNeural",
+        "translation": "当然！",
         "audioPack": "text-u1a-05-b6811ccd2dce.json"
       }
     ]
@@ -133,6 +147,7 @@
         "text": "The Science and Art Festival is in two weeks.",
         "audio": "text-8a9e848b55f6841c",
         "voice": "en-GB-RyanNeural",
+        "translation": "再过两周就是科技艺术节了。",
         "audioPack": "text-u1b-01-ad6ff18a7755.json"
       },
       {
@@ -141,6 +156,7 @@
         "text": "Yes.",
         "audio": "text-f95beee2379abe90",
         "voice": "en-GB-SoniaNeural",
+        "translation": "是啊。",
         "audioPack": "text-u1b-01-ad6ff18a7755.json"
       },
       {
@@ -149,6 +165,7 @@
         "text": "What can you do for the festival?",
         "audio": "text-b8b0d68316421852",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你能为艺术节做些什么？",
         "audioPack": "text-u1b-01-ad6ff18a7755.json"
       },
       {
@@ -157,6 +174,7 @@
         "text": "I can make a robot.",
         "audio": "text-575f98dd26296de3",
         "voice": "en-GB-RyanNeural",
+        "translation": "我能做一个机器人。",
         "audioPack": "text-u1b-02-d00878c2f9c4.json"
       },
       {
@@ -165,6 +183,7 @@
         "text": "Oh!",
         "audio": "text-5d570d3231bb402a",
         "voice": "en-GB-RyanNeural",
+        "translation": "哦！",
         "audioPack": "text-u1b-02-d00878c2f9c4.json"
       },
       {
@@ -173,6 +192,7 @@
         "text": "I like making robots too.",
         "audio": "text-f3e7188cf55f63c9",
         "voice": "en-GB-RyanNeural",
+        "translation": "我也喜欢做机器人。",
         "audioPack": "text-u1b-02-d00878c2f9c4.json"
       },
       {
@@ -181,6 +201,7 @@
         "text": "We can work together.",
         "audio": "text-63dd1b1c5c10b96c",
         "voice": "en-GB-RyanNeural",
+        "translation": "我们可以一起做。",
         "audioPack": "text-u1b-03-8fd9aee64433.json"
       },
       {
@@ -189,6 +210,7 @@
         "text": "Great!",
         "audio": "text-a34b2bbafa1f1bc2",
         "voice": "en-GB-RyanNeural",
+        "translation": "太好了！",
         "audioPack": "text-u1b-03-8fd9aee64433.json"
       },
       {
@@ -197,6 +219,7 @@
         "text": "Can you make robots, Sarah?",
         "audio": "text-7b7ad02ab0f3be71",
         "voice": "en-GB-RyanNeural",
+        "translation": "萨拉，你会做机器人吗？",
         "audioPack": "text-u1b-03-8fd9aee64433.json"
       },
       {
@@ -205,6 +228,7 @@
         "text": "No, I can't.",
         "audio": "text-ae6565bf4f1645d9",
         "voice": "en-GB-SoniaNeural",
+        "translation": "不，我不会。",
         "audioPack": "text-u1b-04-95c1261cc466.json"
       },
       {
@@ -213,6 +237,7 @@
         "text": "What can you do?",
         "audio": "text-bfd2ce666e4d73ed",
         "voice": "en-GB-RyanNeural",
+        "translation": "那你会做什么？",
         "audioPack": "text-u1b-04-95c1261cc466.json"
       },
       {
@@ -221,6 +246,7 @@
         "text": "I can dance.",
         "audio": "text-421319dcee39b7f7",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我会跳舞。",
         "audioPack": "text-u1b-04-95c1261cc466.json"
       },
       {
@@ -229,6 +255,7 @@
         "text": "That's great!",
         "audio": "text-bc51089c043fc5a9",
         "voice": "en-GB-RyanNeural",
+        "translation": "太棒了！",
         "audioPack": "text-u1b-05-9553015ce015.json"
       }
     ]
@@ -246,6 +273,7 @@
         "text": "Hi, Mike.",
         "audio": "text-863cf600c6bc5615",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你好，迈克。",
         "audioPack": "text-u2a-01-a2b5c0a63952.json"
       },
       {
@@ -254,6 +282,7 @@
         "text": "You look sad.",
         "audio": "text-e4b98171edf009ca",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你看起来不太开心。",
         "audioPack": "text-u2a-01-a2b5c0a63952.json"
       },
       {
@@ -262,6 +291,7 @@
         "text": "What's the matter?",
         "audio": "text-514168b9aef8c321",
         "voice": "en-GB-SoniaNeural",
+        "translation": "怎么了？",
         "audioPack": "text-u2a-01-a2b5c0a63952.json"
       },
       {
@@ -270,6 +300,7 @@
         "text": "It's about our school project.",
         "audio": "text-1892f0b832b4a1fa",
         "voice": "en-GB-RyanNeural",
+        "translation": "是学校活动项目的事。",
         "audioPack": "text-u2a-02-ffdf675f9c58.json"
       },
       {
@@ -278,6 +309,7 @@
         "text": "John wants to go to the children's centre, but I want to clean up the park.",
         "audio": "text-50b743898d456143",
         "voice": "en-GB-RyanNeural",
+        "translation": "约翰想去儿童活动中心，可我想打扫公园。",
         "audioPack": "text-u2a-02-ffdf675f9c58.json"
       },
       {
@@ -286,6 +318,7 @@
         "text": "I see.",
         "audio": "text-795ddc3826d3c816",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我明白了。",
         "audioPack": "text-u2a-02-ffdf675f9c58.json"
       },
       {
@@ -294,6 +327,7 @@
         "text": "So you don't agree with each other?",
         "audio": "text-290d3cf45a75e4b7",
         "voice": "en-GB-SoniaNeural",
+        "translation": "所以你们的想法不一样？",
         "audioPack": "text-u2a-03-ac8520b214ae.json"
       },
       {
@@ -302,6 +336,7 @@
         "text": "That's right.",
         "audio": "text-43e512b6a0ffeb54",
         "voice": "en-GB-RyanNeural",
+        "translation": "没错。",
         "audioPack": "text-u2a-03-ac8520b214ae.json"
       },
       {
@@ -310,6 +345,7 @@
         "text": "And we have to finish our project by Monday.",
         "audio": "text-75aaeef3fe5b060d",
         "voice": "en-GB-RyanNeural",
+        "translation": "而且我们最晚得在星期一完成这个项目。",
         "audioPack": "text-u2a-03-ac8520b214ae.json"
       },
       {
@@ -318,6 +354,7 @@
         "text": "I'm so worried!",
         "audio": "text-230809dda9930aac",
         "voice": "en-GB-RyanNeural",
+        "translation": "我好担心啊！",
         "audioPack": "text-u2a-04-3b0bf3e743e9.json"
       },
       {
@@ -326,6 +363,7 @@
         "text": "Why not do both?",
         "audio": "text-7f10854c2e5933ce",
         "voice": "en-GB-SoniaNeural",
+        "translation": "为什么不把两件事都做了呢？",
         "audioPack": "text-u2a-04-3b0bf3e743e9.json"
       },
       {
@@ -334,6 +372,7 @@
         "text": "I can help.",
         "audio": "text-06e12dba0c5eb288",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我可以帮忙。",
         "audioPack": "text-u2a-04-3b0bf3e743e9.json"
       },
       {
@@ -342,6 +381,7 @@
         "text": "We can work together.",
         "audio": "text-456da6d25a1fe4d0",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我们可以一起做。",
         "audioPack": "text-u2a-05-d80d0e053a02.json"
       },
       {
@@ -350,6 +390,7 @@
         "text": "That's a good idea!",
         "audio": "text-70f9fb7da6367b25",
         "voice": "en-GB-RyanNeural",
+        "translation": "这主意不错！",
         "audioPack": "text-u2a-05-d80d0e053a02.json"
       }
     ]
@@ -367,6 +408,7 @@
         "text": "What's the matter, John?",
         "audio": "text-d474fba95d459ded",
         "voice": "en-GB-SoniaNeural",
+        "translation": "怎么了，约翰？",
         "audioPack": "text-u2b-01-5f0adea3e477.json"
       },
       {
@@ -375,6 +417,7 @@
         "text": "You look worried.",
         "audio": "text-fee4b354f1e9ca08",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你看起来很担心。",
         "audioPack": "text-u2b-01-5f0adea3e477.json"
       },
       {
@@ -383,6 +426,7 @@
         "text": "It's about our project.",
         "audio": "text-66fa221d1a97c9a1",
         "voice": "en-GB-RyanNeural",
+        "translation": "是我们那个项目的事。",
         "audioPack": "text-u2b-01-5f0adea3e477.json"
       },
       {
@@ -391,6 +435,7 @@
         "text": "Mike and I want to do different things.",
         "audio": "text-c7f2211711dc9cd5",
         "voice": "en-GB-RyanNeural",
+        "translation": "迈克和我想做的事不一样。",
         "audioPack": "text-u2b-02-d3135fb38cb4.json"
       },
       {
@@ -399,6 +444,7 @@
         "text": "I see.",
         "audio": "text-795ddc3826d3c816",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我明白了。",
         "audioPack": "text-u2b-02-d3135fb38cb4.json"
       },
       {
@@ -407,6 +453,7 @@
         "text": "It's important to listen to each other.",
         "audio": "text-4af8e514788a29ca",
         "voice": "en-GB-SoniaNeural",
+        "translation": "听听对方的想法很重要。",
         "audioPack": "text-u2b-02-d3135fb38cb4.json"
       },
       {
@@ -415,6 +462,7 @@
         "text": "Yes, Miss White.",
         "audio": "text-e63108678b818cf3",
         "voice": "en-GB-RyanNeural",
+        "translation": "是的，怀特老师。",
         "audioPack": "text-u2b-03-b96131645857.json"
       },
       {
@@ -423,6 +471,7 @@
         "text": "I need to talk to Mike.",
         "audio": "text-7131c727c8b2b83f",
         "voice": "en-GB-RyanNeural",
+        "translation": "我得跟迈克谈谈。",
         "audioPack": "text-u2b-03-b96131645857.json"
       },
       {
@@ -431,6 +480,7 @@
         "text": "But I'm afraid he's angry with me.",
         "audio": "text-2b169f0671d803ca",
         "voice": "en-GB-RyanNeural",
+        "translation": "可我怕他生我的气。",
         "audioPack": "text-u2b-03-b96131645857.json"
       },
       {
@@ -439,6 +489,7 @@
         "text": "Look, here he comes.",
         "audio": "text-97ed0ed12188abdc",
         "voice": "en-GB-SoniaNeural",
+        "translation": "看，他来了。",
         "audioPack": "text-u2b-04-dd44c95b70d8.json"
       },
       {
@@ -447,6 +498,7 @@
         "text": "You can talk to him now.",
         "audio": "text-cec2ab9b49444619",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你现在就可以跟他说。",
         "audioPack": "text-u2b-04-dd44c95b70d8.json"
       },
       {
@@ -455,6 +507,7 @@
         "text": "John, I'm sorry.",
         "audio": "text-d53063fed91d63f3",
         "voice": "en-GB-RyanNeural",
+        "translation": "约翰，对不起。",
         "audioPack": "text-u2b-04-dd44c95b70d8.json"
       },
       {
@@ -463,6 +516,7 @@
         "text": "Let's do both projects!",
         "audio": "text-bdb4c8b72cb0c32b",
         "voice": "en-GB-RyanNeural",
+        "translation": "我们两个项目都做吧！",
         "audioPack": "text-u2b-05-2e32ead903d5.json"
       },
       {
@@ -471,6 +525,7 @@
         "text": "Chen Jie can work with us.",
         "audio": "text-f9459c8eecc31621",
         "voice": "en-GB-RyanNeural",
+        "translation": "陈洁可以和我们一起做。",
         "audioPack": "text-u2b-05-2e32ead903d5.json"
       },
       {
@@ -479,6 +534,7 @@
         "text": "That's great!",
         "audio": "text-bc51089c043fc5a9",
         "voice": "en-GB-RyanNeural",
+        "translation": "太棒了！",
         "audioPack": "text-u2b-05-2e32ead903d5.json"
       }
     ]
@@ -496,6 +552,7 @@
         "text": "What's your favourite day at school, John?",
         "audio": "text-57721225d19d86ce",
         "voice": "en-GB-RyanNeural",
+        "translation": "约翰，你最喜欢哪一天上学？",
         "audioPack": "text-u3a-01-941b468fd216.json"
       },
       {
@@ -504,6 +561,7 @@
         "text": "Wednesday.",
         "audio": "text-c6e4ef4f48473df6",
         "voice": "en-GB-RyanNeural",
+        "translation": "星期三。",
         "audioPack": "text-u3a-01-941b468fd216.json"
       },
       {
@@ -512,6 +570,7 @@
         "text": "What do you have on Wednesdays?",
         "audio": "text-94fb7f0d3b5248a3",
         "voice": "en-GB-RyanNeural",
+        "translation": "你星期三有什么课？",
         "audioPack": "text-u3a-01-941b468fd216.json"
       },
       {
@@ -520,6 +579,7 @@
         "text": "I have Chinese, maths, music and PE.",
         "audio": "text-b7fe65d1f849fd90",
         "voice": "en-GB-RyanNeural",
+        "translation": "我有语文、数学、音乐和体育课。",
         "audioPack": "text-u3a-02-2b888454c95c.json"
       },
       {
@@ -528,6 +588,7 @@
         "text": "Maths is not easy.",
         "audio": "text-c29e34c258e5b570",
         "voice": "en-GB-RyanNeural",
+        "translation": "数学可不容易。",
         "audioPack": "text-u3a-02-2b888454c95c.json"
       },
       {
@@ -536,6 +597,7 @@
         "text": "No, but I really like my maths teacher!",
         "audio": "text-ba70f5a53f8dea8f",
         "voice": "en-GB-RyanNeural",
+        "translation": "是不容易，不过我很喜欢我的数学老师！",
         "audioPack": "text-u3a-02-2b888454c95c.json"
       },
       {
@@ -544,6 +606,7 @@
         "text": "That's good.",
         "audio": "text-50b6738b11996735",
         "voice": "en-GB-RyanNeural",
+        "translation": "那很好。",
         "audioPack": "text-u3a-03-461fbbc11e12.json"
       },
       {
@@ -552,6 +615,7 @@
         "text": "Is music your favourite subject?",
         "audio": "text-d022e345516b6ba1",
         "voice": "en-GB-RyanNeural",
+        "translation": "音乐是你最喜欢的科目吗？",
         "audioPack": "text-u3a-03-461fbbc11e12.json"
       },
       {
@@ -560,6 +624,7 @@
         "text": "Yes.",
         "audio": "text-37cb92bfecdfab71",
         "voice": "en-GB-RyanNeural",
+        "translation": "是的。",
         "audioPack": "text-u3a-03-461fbbc11e12.json"
       },
       {
@@ -568,6 +633,7 @@
         "text": "I really like singing.",
         "audio": "text-a7dd09a46aa36edc",
         "voice": "en-GB-RyanNeural",
+        "translation": "我特别喜欢唱歌。",
         "audioPack": "text-u3a-04-c86e4061993b.json"
       },
       {
@@ -576,6 +642,7 @@
         "text": "And I like PE too.",
         "audio": "text-6054444bf9cf9811",
         "voice": "en-GB-RyanNeural",
+        "translation": "我也喜欢体育课。",
         "audioPack": "text-u3a-04-c86e4061993b.json"
       },
       {
@@ -584,6 +651,7 @@
         "text": "Great!",
         "audio": "text-a34b2bbafa1f1bc2",
         "voice": "en-GB-RyanNeural",
+        "translation": "真棒！",
         "audioPack": "text-u3a-04-c86e4061993b.json"
       },
       {
@@ -592,6 +660,7 @@
         "text": "Wednesday is your favourite day.",
         "audio": "text-58fd379c6b1419a3",
         "voice": "en-GB-RyanNeural",
+        "translation": "星期三是你最喜欢的一天。",
         "audioPack": "text-u3a-05-051803383dbb.json"
       },
       {
@@ -600,6 +669,7 @@
         "text": "But I like Tuesdays and Fridays.",
         "audio": "text-3afa58cff993583e",
         "voice": "en-GB-RyanNeural",
+        "translation": "不过我喜欢星期二和星期五。",
         "audioPack": "text-u3a-05-051803383dbb.json"
       },
       {
@@ -608,6 +678,7 @@
         "text": "Why, Grandpa?",
         "audio": "text-a92ef2a380e1f7ac",
         "voice": "en-GB-RyanNeural",
+        "translation": "为什么呀，爷爷？",
         "audioPack": "text-u3a-05-051803383dbb.json"
       },
       {
@@ -616,6 +687,7 @@
         "text": "Because I have my taijiquan class!",
         "audio": "text-5b52704f7ec89977",
         "voice": "en-GB-RyanNeural",
+        "translation": "因为这两天我有太极拳课！",
         "audioPack": "text-u3a-06-90fea6de4c8c.json"
       }
     ]
@@ -633,6 +705,7 @@
         "text": "What do you usually do at the weekend, children?",
         "audio": "text-fb85373c9bdb3e10",
         "voice": "en-GB-SoniaNeural",
+        "translation": "孩子们，你们周末通常做什么？",
         "audioPack": "text-u3b-01-0bc633992f15.json"
       },
       {
@@ -641,6 +714,7 @@
         "text": "I often play football.",
         "audio": "text-c5207419340ad2f6",
         "voice": "en-GB-RyanNeural",
+        "translation": "我经常踢足球。",
         "audioPack": "text-u3b-01-0bc633992f15.json"
       },
       {
@@ -649,6 +723,7 @@
         "text": "Sometimes I play Chinese chess with my father.",
         "audio": "text-30a6cc070e1e2482",
         "voice": "en-GB-RyanNeural",
+        "translation": "有时我和爸爸下中国象棋。",
         "audioPack": "text-u3b-01-0bc633992f15.json"
       },
       {
@@ -657,6 +732,7 @@
         "text": "That's nice.",
         "audio": "text-e4348f51e8928869",
         "voice": "en-GB-SoniaNeural",
+        "translation": "真不错。",
         "audioPack": "text-u3b-02-95106bdb6621.json"
       },
       {
@@ -665,6 +741,7 @@
         "text": "My mother works at the weekend, so I often cook lunch for my family.",
         "audio": "text-8c52f78b7b54011b",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我妈妈周末要上班，所以我常给家人做午饭。",
         "audioPack": "text-u3b-02-95106bdb6621.json"
       },
       {
@@ -673,6 +750,7 @@
         "text": "Good girl!",
         "audio": "text-dd77f2197ba3b853",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你真懂事！",
         "audioPack": "text-u3b-02-95106bdb6621.json"
       },
       {
@@ -681,6 +759,7 @@
         "text": "Does your mother work on Saturdays and Sundays?",
         "audio": "text-98d665c82453c308",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你妈妈星期六和星期日都上班吗？",
         "audioPack": "text-u3b-03-6a3e1bab7cbc.json"
       },
       {
@@ -689,6 +768,7 @@
         "text": "Yes, she does.",
         "audio": "text-c0e898923236db89",
         "voice": "en-GB-SoniaNeural",
+        "translation": "是的，她都上班。",
         "audioPack": "text-u3b-03-6a3e1bab7cbc.json"
       },
       {
@@ -697,6 +777,7 @@
         "text": "I do my homework on Saturdays.",
         "audio": "text-5a2b6c202fa3a0c2",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我星期六做作业。",
         "audioPack": "text-u3b-03-6a3e1bab7cbc.json"
       },
       {
@@ -705,6 +786,7 @@
         "text": "And I usually have pipa lessons on Sundays.",
         "audio": "text-d1c12f7181a20031",
         "voice": "en-GB-SoniaNeural",
+        "translation": "星期日我通常上琵琶课。",
         "audioPack": "text-u3b-04-f61aa3e7a8c8.json"
       },
       {
@@ -713,6 +795,7 @@
         "text": "Great!",
         "audio": "text-87d7cb607937a4c5",
         "voice": "en-GB-SoniaNeural",
+        "translation": "真棒！",
         "audioPack": "text-u3b-04-f61aa3e7a8c8.json"
       },
       {
@@ -721,6 +804,7 @@
         "text": "Have a nice weekend, everyone!",
         "audio": "text-58137d4af023f57c",
         "voice": "en-GB-SoniaNeural",
+        "translation": "祝大家周末愉快！",
         "audioPack": "text-u3b-04-f61aa3e7a8c8.json"
       }
     ]
@@ -738,6 +822,7 @@
         "text": "Mike has a cold today, children.",
         "audio": "text-093238f1da5c4200",
         "voice": "en-GB-SoniaNeural",
+        "translation": "孩子们，迈克今天感冒了。",
         "audioPack": "text-u4a-01-3194084be5c8.json"
       },
       {
@@ -746,6 +831,7 @@
         "text": "He has to stay at home.",
         "audio": "text-b171cab99666d9d8",
         "voice": "en-GB-SoniaNeural",
+        "translation": "他得待在家里。",
         "audioPack": "text-u4a-01-3194084be5c8.json"
       },
       {
@@ -754,6 +840,7 @@
         "text": "Oh no!",
         "audio": "text-0b10d4b5c7f17692",
         "voice": "en-GB-RyanNeural",
+        "translation": "哎呀！",
         "audioPack": "text-u4a-01-3194084be5c8.json"
       },
       {
@@ -762,6 +849,7 @@
         "text": "It's flu season now.",
         "audio": "text-ce001dab61c2a6b5",
         "voice": "en-GB-RyanNeural",
+        "translation": "现在是流感季节。",
         "audioPack": "text-u4a-02-6258e28e096f.json"
       },
       {
@@ -770,6 +858,7 @@
         "text": "That's right.",
         "audio": "text-7d31a2d2222891d1",
         "voice": "en-GB-SoniaNeural",
+        "translation": "没错。",
         "audioPack": "text-u4a-02-6258e28e096f.json"
       },
       {
@@ -778,6 +867,7 @@
         "text": "How can we all stay healthy?",
         "audio": "text-28f419eb81a47f7c",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我们怎样才能保持健康呢？",
         "audioPack": "text-u4a-02-6258e28e096f.json"
       },
       {
@@ -786,6 +876,7 @@
         "text": "We should eat healthy food.",
         "audio": "text-b68c13d6f1f8b85b",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我们应该吃健康的食物。",
         "audioPack": "text-u4a-03-e20504034aca.json"
       },
       {
@@ -794,6 +885,7 @@
         "text": "Good.",
         "audio": "text-23a4555b774f9dfe",
         "voice": "en-GB-SoniaNeural",
+        "translation": "说得好。",
         "audioPack": "text-u4a-03-e20504034aca.json"
       },
       {
@@ -802,6 +894,7 @@
         "text": "And what else?",
         "audio": "text-2799b3c2a397714a",
         "voice": "en-GB-SoniaNeural",
+        "translation": "还有呢？",
         "audioPack": "text-u4a-03-e20504034aca.json"
       },
       {
@@ -810,6 +903,7 @@
         "text": "We should exercise every day.",
         "audio": "text-85f8ec29411604ba",
         "voice": "en-GB-RyanNeural",
+        "translation": "我们应该每天锻炼。",
         "audioPack": "text-u4a-04-10c8db97d09c.json"
       },
       {
@@ -818,6 +912,7 @@
         "text": "Yes, but please drink enough water.",
         "audio": "text-c9a604f42e9fed86",
         "voice": "en-GB-SoniaNeural",
+        "translation": "对，不过也要喝够水。",
         "audioPack": "text-u4a-04-10c8db97d09c.json"
       },
       {
@@ -826,6 +921,7 @@
         "text": "We should also get enough sleep, Miss White.",
         "audio": "text-ffe0892e9525c90b",
         "voice": "en-GB-SoniaNeural",
+        "translation": "怀特老师，我们还应该睡够觉。",
         "audioPack": "text-u4a-04-10c8db97d09c.json"
       },
       {
@@ -834,6 +930,7 @@
         "text": "Right.",
         "audio": "text-88a497e5149a146b",
         "voice": "en-GB-SoniaNeural",
+        "translation": "对。",
         "audioPack": "text-u4a-05-97dbb64f998e.json"
       },
       {
@@ -842,6 +939,7 @@
         "text": "And if you don't feel well, you should see a doctor.",
         "audio": "text-6d28e14006f1f21c",
         "voice": "en-GB-SoniaNeural",
+        "translation": "如果觉得不舒服，就应该去看医生。",
         "audioPack": "text-u4a-05-97dbb64f998e.json"
       }
     ]
@@ -859,6 +957,7 @@
         "text": "Can I watch a TV show now, please?",
         "audio": "text-6915a002c75ccd0b",
         "voice": "en-GB-RyanNeural",
+        "translation": "我现在可以看一会儿电视节目吗？",
         "audioPack": "text-u4b-01-2359188f068e.json"
       },
       {
@@ -867,6 +966,7 @@
         "text": "No, I'm afraid not.",
         "audio": "text-d4dc6a974e214039",
         "voice": "en-GB-SoniaNeural",
+        "translation": "恐怕不行。",
         "audioPack": "text-u4b-01-2359188f068e.json"
       },
       {
@@ -875,6 +975,7 @@
         "text": "Can I play on Mum's phone?",
         "audio": "text-10dd4d3a65eda263",
         "voice": "en-GB-RyanNeural",
+        "translation": "那我可以玩妈妈的手机吗？",
         "audioPack": "text-u4b-01-2359188f068e.json"
       },
       {
@@ -883,6 +984,7 @@
         "text": "No.",
         "audio": "text-8f81c4ec41be0f4f",
         "voice": "en-GB-SoniaNeural",
+        "translation": "不行。",
         "audioPack": "text-u4b-02-24b937f833b7.json"
       },
       {
@@ -891,6 +993,7 @@
         "text": "You shouldn't play on a phone so often.",
         "audio": "text-1fd7e404ec7c1627",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你不应该老是玩手机。",
         "audioPack": "text-u4b-02-24b937f833b7.json"
       },
       {
@@ -899,6 +1002,7 @@
         "text": "What should I do then?",
         "audio": "text-11787af110cfcd3d",
         "voice": "en-GB-RyanNeural",
+        "translation": "那我该做什么呢？",
         "audioPack": "text-u4b-02-24b937f833b7.json"
       },
       {
@@ -907,6 +1011,7 @@
         "text": "You should rest your eyes.",
         "audio": "text-bd63453cd85cb9ec",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你该让眼睛休息一下。",
         "audioPack": "text-u4b-03-533e27df1cb4.json"
       },
       {
@@ -915,6 +1020,7 @@
         "text": "Let's take a walk.",
         "audio": "text-44dfbb3ca7590ece",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我们去散步吧。",
         "audioPack": "text-u4b-03-533e27df1cb4.json"
       },
       {
@@ -923,6 +1029,7 @@
         "text": "That's no fun.",
         "audio": "text-386f7d2fea267053",
         "voice": "en-GB-RyanNeural",
+        "translation": "那没意思。",
         "audioPack": "text-u4b-03-533e27df1cb4.json"
       },
       {
@@ -931,6 +1038,7 @@
         "text": "OK.",
         "audio": "text-eeae18c2283e060c",
         "voice": "en-GB-SoniaNeural",
+        "translation": "好吧。",
         "audioPack": "text-u4b-04-fb656bf6a431.json"
       },
       {
@@ -939,6 +1047,7 @@
         "text": "Let's play in the garden then.",
         "audio": "text-d64a9e66cb3340de",
         "voice": "en-GB-SoniaNeural",
+        "translation": "那我们去花园玩吧。",
         "audioPack": "text-u4b-04-fb656bf6a431.json"
       },
       {
@@ -947,6 +1056,7 @@
         "text": "It's a nice day.",
         "audio": "text-711a54cbac18b830",
         "voice": "en-GB-SoniaNeural",
+        "translation": "今天天气真好。",
         "audioPack": "text-u4b-04-fb656bf6a431.json"
       },
       {
@@ -955,6 +1065,7 @@
         "text": "Great!",
         "audio": "text-a34b2bbafa1f1bc2",
         "voice": "en-GB-RyanNeural",
+        "translation": "太好了！",
         "audioPack": "text-u4b-05-3fb1aae53a4c.json"
       }
     ]
@@ -972,6 +1083,7 @@
         "text": "Mum, I'm hungry.",
         "audio": "text-4c366abc2abb8605",
         "voice": "en-GB-RyanNeural",
+        "translation": "妈妈，我饿了。",
         "audioPack": "text-u5a-01-e7e239a5a4ed.json"
       },
       {
@@ -980,6 +1092,7 @@
         "text": "What would you like to eat?",
         "audio": "text-0e4a544aa3a02429",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你想吃什么？",
         "audioPack": "text-u5a-01-e7e239a5a4ed.json"
       },
       {
@@ -988,6 +1101,7 @@
         "text": "I'd like beef and rice.",
         "audio": "text-eb1a523a5c2bf57e",
         "voice": "en-GB-RyanNeural",
+        "translation": "我想吃牛肉和米饭。",
         "audioPack": "text-u5a-01-e7e239a5a4ed.json"
       },
       {
@@ -996,6 +1110,7 @@
         "text": "No problem.",
         "audio": "text-57849adfd05e7fe9",
         "voice": "en-GB-SoniaNeural",
+        "translation": "没问题。",
         "audioPack": "text-u5a-02-4fc18e9afd23.json"
       },
       {
@@ -1004,6 +1119,7 @@
         "text": "Would you like some chicken soup too?",
         "audio": "text-8ebbfee95cfc27be",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你还想喝点鸡汤吗？",
         "audioPack": "text-u5a-02-4fc18e9afd23.json"
       },
       {
@@ -1012,6 +1128,7 @@
         "text": "Yes, please.",
         "audio": "text-bd48cb84660ca9d1",
         "voice": "en-GB-RyanNeural",
+        "translation": "好啊，谢谢。",
         "audioPack": "text-u5a-02-4fc18e9afd23.json"
       },
       {
@@ -1020,6 +1137,7 @@
         "text": "You should also have some salad.",
         "audio": "text-32374905852e2857",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你还应该吃点沙拉。",
         "audioPack": "text-u5a-03-60c92d05f3f9.json"
       },
       {
@@ -1028,6 +1146,7 @@
         "text": "Vegetables are good for you.",
         "audio": "text-c5da729ac426fce8",
         "voice": "en-GB-SoniaNeural",
+        "translation": "蔬菜对身体有好处。",
         "audioPack": "text-u5a-03-60c92d05f3f9.json"
       },
       {
@@ -1036,6 +1155,7 @@
         "text": "OK.",
         "audio": "text-d3502b861fc1992d",
         "voice": "en-GB-RyanNeural",
+        "translation": "好的。",
         "audioPack": "text-u5a-03-60c92d05f3f9.json"
       },
       {
@@ -1044,6 +1164,7 @@
         "text": "Can I have some ice cream, please?",
         "audio": "text-3b03c930456a9ccd",
         "voice": "en-GB-RyanNeural",
+        "translation": "我可以吃点冰激凌吗？",
         "audioPack": "text-u5a-04-4def4af4fb50.json"
       },
       {
@@ -1052,6 +1173,7 @@
         "text": "Yes, but just a little.",
         "audio": "text-51d38b3b34a44380",
         "voice": "en-GB-SoniaNeural",
+        "translation": "可以，不过只能吃一点。",
         "audioPack": "text-u5a-04-4def4af4fb50.json"
       },
       {
@@ -1060,6 +1182,7 @@
         "text": "OK.",
         "audio": "text-d3502b861fc1992d",
         "voice": "en-GB-RyanNeural",
+        "translation": "好的。",
         "audioPack": "text-u5a-04-4def4af4fb50.json"
       },
       {
@@ -1068,6 +1191,7 @@
         "text": "Thanks, Mum.",
         "audio": "text-e982ff7705fa3b9d",
         "voice": "en-GB-RyanNeural",
+        "translation": "谢谢妈妈。",
         "audioPack": "text-u5a-05-551a7c5cd0e6.json"
       }
     ]
@@ -1085,6 +1209,7 @@
         "text": "What's your favourite fruit, Binbin?",
         "audio": "text-22ecefdda2400bfe",
         "voice": "en-GB-SoniaNeural",
+        "translation": "彬彬，你最喜欢什么水果？",
         "audioPack": "text-u5b-01-1e000d13d320.json"
       },
       {
@@ -1093,6 +1218,7 @@
         "text": "Coconuts are my favourite.",
         "audio": "text-883a5682eab7ec40",
         "voice": "en-GB-RyanNeural",
+        "translation": "我最喜欢椰子。",
         "audioPack": "text-u5b-01-1e000d13d320.json"
       },
       {
@@ -1101,6 +1227,7 @@
         "text": "Why do you like coconuts?",
         "audio": "text-6596c2029e9d19f3",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你为什么喜欢椰子？",
         "audioPack": "text-u5b-01-1e000d13d320.json"
       },
       {
@@ -1109,6 +1236,7 @@
         "text": "Because coconut water is nice.",
         "audio": "text-a79c9325d31d6aef",
         "voice": "en-GB-RyanNeural",
+        "translation": "因为椰子水很好喝。",
         "audioPack": "text-u5b-02-b80d9cbdaa75.json"
       },
       {
@@ -1117,6 +1245,7 @@
         "text": "And it's healthy.",
         "audio": "text-160e7c9de57aaf04",
         "voice": "en-GB-RyanNeural",
+        "translation": "而且也很健康。",
         "audioPack": "text-u5b-02-b80d9cbdaa75.json"
       },
       {
@@ -1125,6 +1254,7 @@
         "text": "We can also cook delicious meals with coconut.",
         "audio": "text-b0b0090fba4a5375",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我们还可以用椰子做好吃的菜。",
         "audioPack": "text-u5b-02-b80d9cbdaa75.json"
       },
       {
@@ -1133,6 +1263,7 @@
         "text": "Yes!",
         "audio": "text-4fd6ea6dd7da11be",
         "voice": "en-GB-RyanNeural",
+        "translation": "是啊！",
         "audioPack": "text-u5b-03-0b732cad8c1b.json"
       },
       {
@@ -1141,6 +1272,7 @@
         "text": "And some people make houses with coconut tree leaves.",
         "audio": "text-0d95969ed0a47769",
         "voice": "en-GB-RyanNeural",
+        "translation": "还有人用椰子树叶盖房子。",
         "audioPack": "text-u5b-03-0b732cad8c1b.json"
       },
       {
@@ -1149,6 +1281,7 @@
         "text": "That's interesting.",
         "audio": "text-4d5b39b57cc5b4f4",
         "voice": "en-GB-SoniaNeural",
+        "translation": "真有意思。",
         "audioPack": "text-u5b-03-0b732cad8c1b.json"
       },
       {
@@ -1157,6 +1290,7 @@
         "text": "Where does your coconut come from?",
         "audio": "text-7c25341d0ae7fff7",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你这个椰子是哪里的？",
         "audioPack": "text-u5b-04-8ac4fa9a3e11.json"
       },
       {
@@ -1165,6 +1299,7 @@
         "text": "Hainan!",
         "audio": "text-49a73097e731bbed",
         "voice": "en-GB-RyanNeural",
+        "translation": "海南！",
         "audioPack": "text-u5b-04-8ac4fa9a3e11.json"
       },
       {
@@ -1173,6 +1308,7 @@
         "text": "There are many coconut trees there.",
         "audio": "text-e57d36453d0b8c93",
         "voice": "en-GB-RyanNeural",
+        "translation": "那里有很多椰子树。",
         "audioPack": "text-u5b-04-8ac4fa9a3e11.json"
       }
     ]
@@ -1190,6 +1326,7 @@
         "text": "Wow!",
         "audio": "text-e502ad8739671bc6",
         "voice": "en-GB-RyanNeural",
+        "translation": "哇！",
         "audioPack": "text-u6a-01-43ef16b34f51.json"
       },
       {
@@ -1198,6 +1335,7 @@
         "text": "That lake is really lovely!",
         "audio": "text-8b8ce34c3c4c7100",
         "voice": "en-GB-RyanNeural",
+        "translation": "那个湖真美！",
         "audioPack": "text-u6a-01-43ef16b34f51.json"
       },
       {
@@ -1206,6 +1344,7 @@
         "text": "Yes.",
         "audio": "text-37cb92bfecdfab71",
         "voice": "en-GB-RyanNeural",
+        "translation": "是啊。",
         "audioPack": "text-u6a-01-43ef16b34f51.json"
       },
       {
@@ -1214,6 +1353,7 @@
         "text": "There are also many rivers in the nature park.",
         "audio": "text-56119fbdd1d2b542",
         "voice": "en-GB-RyanNeural",
+        "translation": "自然公园里还有很多河流。",
         "audioPack": "text-u6a-02-a35f9990dd58.json"
       },
       {
@@ -1222,6 +1362,7 @@
         "text": "Is there a waterfall in the forest?",
         "audio": "text-68b22b02c151112b",
         "voice": "en-GB-RyanNeural",
+        "translation": "森林里有瀑布吗？",
         "audioPack": "text-u6a-02-a35f9990dd58.json"
       },
       {
@@ -1230,6 +1371,7 @@
         "text": "Yes, there is.",
         "audio": "text-dac0e61c2ba50f4f",
         "voice": "en-GB-RyanNeural",
+        "translation": "有的。",
         "audioPack": "text-u6a-02-a35f9990dd58.json"
       },
       {
@@ -1238,6 +1380,7 @@
         "text": "You'll see a beautiful one today!",
         "audio": "text-ab73521939ddbe0c",
         "voice": "en-GB-RyanNeural",
+        "translation": "今天你们就能看到一处美丽的瀑布！",
         "audioPack": "text-u6a-03-a2b2fbcfeca5.json"
       },
       {
@@ -1246,6 +1389,7 @@
         "text": "Great!",
         "audio": "text-a34b2bbafa1f1bc2",
         "voice": "en-GB-RyanNeural",
+        "translation": "太好了！",
         "audioPack": "text-u6a-03-a2b2fbcfeca5.json"
       },
       {
@@ -1254,6 +1398,7 @@
         "text": "Are there any famous mountains in the nature park?",
         "audio": "text-5b9e946c34f2d52b",
         "voice": "en-GB-RyanNeural",
+        "translation": "自然公园里有名山吗？",
         "audioPack": "text-u6a-03-a2b2fbcfeca5.json"
       },
       {
@@ -1262,6 +1407,7 @@
         "text": "Yes, there are.",
         "audio": "text-a5778bcbc0d90005",
         "voice": "en-GB-RyanNeural",
+        "translation": "有的。",
         "audioPack": "text-u6a-04-1f9738dcce76.json"
       },
       {
@@ -1270,6 +1416,7 @@
         "text": "We'll visit one tomorrow.",
         "audio": "text-161b970a0bd55111",
         "voice": "en-GB-RyanNeural",
+        "translation": "明天我们会去游览其中一座。",
         "audioPack": "text-u6a-04-1f9738dcce76.json"
       },
       {
@@ -1278,6 +1425,7 @@
         "text": "There are many flowers too.",
         "audio": "text-a2fe0ce07819c1a8",
         "voice": "en-GB-RyanNeural",
+        "translation": "这里还有很多花。",
         "audioPack": "text-u6a-04-1f9738dcce76.json"
       },
       {
@@ -1286,6 +1434,7 @@
         "text": "And there are rabbits!",
         "audio": "text-570c4ec839539e91",
         "voice": "en-GB-RyanNeural",
+        "translation": "还有兔子呢！",
         "audioPack": "text-u6a-05-55117f909d9c.json"
       },
       {
@@ -1294,6 +1443,7 @@
         "text": "That's great!",
         "audio": "text-bc51089c043fc5a9",
         "voice": "en-GB-RyanNeural",
+        "translation": "太棒了！",
         "audioPack": "text-u6a-05-55117f909d9c.json"
       }
     ]
@@ -1311,6 +1461,7 @@
         "text": "I'm sorry.",
         "audio": "text-9e248c37a71e1c51",
         "voice": "en-GB-RyanNeural",
+        "translation": "很抱歉。",
         "audioPack": "text-u6b-01-124a6bf53fbd.json"
       },
       {
@@ -1319,6 +1470,7 @@
         "text": "The wind is very strong outside.",
         "audio": "text-f290fb645709803d",
         "voice": "en-GB-RyanNeural",
+        "translation": "外面的风很大。",
         "audioPack": "text-u6b-01-124a6bf53fbd.json"
       },
       {
@@ -1327,6 +1479,7 @@
         "text": "We can't go on our trip this morning.",
         "audio": "text-c140e937e58b61c9",
         "voice": "en-GB-RyanNeural",
+        "translation": "今天上午我们不能出游了。",
         "audioPack": "text-u6b-01-124a6bf53fbd.json"
       },
       {
@@ -1335,6 +1488,7 @@
         "text": "I agree.",
         "audio": "text-33d7f5d8289a5160",
         "voice": "en-GB-SoniaNeural",
+        "translation": "我也这么想。",
         "audioPack": "text-u6b-02-34f6531cce5e.json"
       },
       {
@@ -1343,6 +1497,7 @@
         "text": "Strong winds are often dangerous.",
         "audio": "text-ac4609339af68bd2",
         "voice": "en-GB-SoniaNeural",
+        "translation": "大风天气往往很危险。",
         "audioPack": "text-u6b-02-34f6531cce5e.json"
       },
       {
@@ -1351,6 +1506,7 @@
         "text": "There will be heavy rain in the afternoon too.",
         "audio": "text-c2af3101dbd9ea8f",
         "voice": "en-GB-RyanNeural",
+        "translation": "下午还会下大雨。",
         "audioPack": "text-u6b-02-34f6531cce5e.json"
       },
       {
@@ -1359,6 +1515,7 @@
         "text": "Mike, stay in the hotel with Mum and close the windows.",
         "audio": "text-f4a3d8690b1033c2",
         "voice": "en-GB-RyanNeural",
+        "translation": "迈克，你和妈妈待在旅馆里，把窗户关好。",
         "audioPack": "text-u6b-03-940fc3a76e35.json"
       },
       {
@@ -1367,6 +1524,7 @@
         "text": "I'll go to buy some umbrellas and raincoats.",
         "audio": "text-f1b85cf9ec44347a",
         "voice": "en-GB-RyanNeural",
+        "translation": "我去买些雨伞和雨衣。",
         "audioPack": "text-u6b-03-940fc3a76e35.json"
       },
       {
@@ -1375,6 +1533,7 @@
         "text": "There is a small shop in the hotel.",
         "audio": "text-fb9c75b74277a567",
         "voice": "en-GB-SoniaNeural",
+        "translation": "旅馆里有个小商店。",
         "audioPack": "text-u6b-03-940fc3a76e35.json"
       },
       {
@@ -1383,6 +1542,7 @@
         "text": "You can buy them there.",
         "audio": "text-399714e73c207d0e",
         "voice": "en-GB-SoniaNeural",
+        "translation": "你可以在那里买到。",
         "audioPack": "text-u6b-04-4038aa96d5bb.json"
       },
       {
@@ -1391,6 +1551,7 @@
         "text": "OK.",
         "audio": "text-d3502b861fc1992d",
         "voice": "en-GB-RyanNeural",
+        "translation": "好的。",
         "audioPack": "text-u6b-04-4038aa96d5bb.json"
       },
       {
@@ -1399,6 +1560,7 @@
         "text": "Please don't worry!",
         "audio": "text-f728c72f550e786a",
         "voice": "en-GB-RyanNeural",
+        "translation": "请别担心！",
         "audioPack": "text-u6b-04-4038aa96d5bb.json"
       },
       {
@@ -1407,6 +1569,7 @@
         "text": "It'll be a fine day tomorrow.",
         "audio": "text-43550307821f3f10",
         "voice": "en-GB-RyanNeural",
+        "translation": "明天会是个晴天。",
         "audioPack": "text-u6b-05-58f1d18c061c.json"
       }
     ]
