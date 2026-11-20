@@ -3986,6 +3986,15 @@
     "batch": "quality-sample",
     "sha256": "0c3e83cfe737d4a08db02665ec858ea0edd825bd37b6cd7be410b63b8451b66d"
   },
+  "736c36d08f5442": {
+    "file": "female-recordings/848db13a93ae7d1f.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.46,
+    "duration": 0.62,
+    "batch": "next-free-batch",
+    "sha256": "583359109fdb030374670aa858cde4dfa9379767b68bbb87a8a11b5a8f067e3a"
+  },
   "c01fb921053345": {
     "file": "female-recordings/464fde05a05af348.m4a",
     "voice": "Emma",
@@ -4012,6 +4021,33 @@
     "duration": 0.46,
     "batch": "nov17",
     "sha256": "7850012ffd87578164d1f5b638f39ee1b96d0dad9468d29c95ea61a839fc58eb"
+  },
+  "0f092fa873de65": {
+    "file": "female-recordings/d0711c9f42477464.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.16,
+    "duration": 0.83,
+    "batch": "next-free-batch",
+    "sha256": "ff80354a1f216f96389cfc702c1056da12b28ccab27497367ce72b5c410aa9a9"
+  },
+  "7f9596c69f0bfc": {
+    "file": "female-recordings/83f690fe06ad1b06.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 7.0,
+    "duration": 0.83,
+    "batch": "next-free-batch",
+    "sha256": "60510406863414be5e6d41c4a50ecc419b951d83dbdc2d5a09c0019568cd4692"
+  },
+  "afefd7ab8fb5f1": {
+    "file": "female-recordings/a66e5a2bab2cca1b.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.52,
+    "duration": 0.95,
+    "batch": "next-free-batch",
+    "sha256": "a50e48debc2a1845fef2318575a011e63b4797fa27004e2268be8ea0df7fef87"
   },
   "aadba06d2dbabf": {
     "file": "female-recordings/12cc71c7b05fffdc.m4a",
@@ -4040,6 +4076,96 @@
     "batch": "nov17",
     "sha256": "d2433faaa254bc1dfaa7e460e36b8fcc72bdea295a3c74e809cc986edb9d0320"
   },
+  "7c89a61380e26b": {
+    "file": "female-recordings/375b9c9003e8fc8c.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 8.23,
+    "duration": 0.86,
+    "batch": "next-free-batch",
+    "sha256": "03a7fa248f73884ff02ea48759d8384084e130ea4f86d6e961b203eb2bb7cca1"
+  },
+  "d99c1195cf2425": {
+    "file": "female-recordings/2e204128b761065f.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.06,
+    "duration": 0.84,
+    "batch": "next-free-batch",
+    "sha256": "1932608d71b2de9aba48a70c68f013a4b5f7133ab31c050858e625441307cea8"
+  },
+  "7ff8d483ee3cd6": {
+    "file": "female-recordings/37bd53dc442ca212.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.14,
+    "duration": 0.94,
+    "batch": "next-free-batch",
+    "sha256": "4da6eb40e77fc30d8147ce88a98419b8d0f05fa0c8d178944e3ff1b8922b7d22"
+  },
+  "52d355ceba19a7": {
+    "file": "female-recordings/68da5525082e6408.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 7.81,
+    "duration": 0.74,
+    "batch": "next-free-batch",
+    "sha256": "426f07dea9dd8fd3c26fc99929e6ba00b38f22e0146fa7bdc23e1ce9c7fc2a9a"
+  },
+  "8f40432b52b79d": {
+    "file": "female-recordings/7242bc103a0cc33d.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.13,
+    "duration": 0.77,
+    "batch": "next-free-batch",
+    "sha256": "bbff4fa61e0692ce93783d3a5481de5e234e4601db47e9be894bf5f8c908a175"
+  },
+  "440fbd5d5e7249": {
+    "file": "female-recordings/4979be41a397d39e.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 1.92,
+    "duration": 0.88,
+    "batch": "next-free-batch",
+    "sha256": "2d4202ea014f2cd5459f9ea6bed8a7f31e748695469707cc31914fd6e660338b"
+  },
+  "d81e9f5755e746": {
+    "file": "female-recordings/d4139dc451348e4d.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.77,
+    "duration": 0.78,
+    "batch": "next-free-batch",
+    "sha256": "31f49bea3473fef5ff559c33037d07483096c3bc080e9ce4d9de04b13d16e008"
+  },
+  "c83db3e7c1099b": {
+    "file": "female-recordings/c189595ddea9e062.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.6,
+    "duration": 0.93,
+    "batch": "next-free-batch",
+    "sha256": "5cf6cc400c65ef684065dd52e84d9c490a3d41ba86888ade97e157a2bded9892"
+  },
+  "27be90c3d135db": {
+    "file": "female-recordings/cae86c12c7e7bb5b.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.25,
+    "duration": 0.74,
+    "batch": "next-free-batch",
+    "sha256": "7a5141df95ab886a864801c664bd8d41164c84cccebe1b0aeada0e2649e41f3f"
+  },
+  "cfc02dd3e00557": {
+    "file": "female-recordings/286cb05339734566.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.97,
+    "duration": 0.85,
+    "batch": "next-free-batch",
+    "sha256": "2bfa3d63f252c8baa97af707ae15a3e4d278aea839087ff4f8d3f5d9d9e48422"
+  },
   "cecc257d5bab0b": {
     "file": "female-recordings/949040ee2ecb43da.m4a",
     "voice": "Emma",
@@ -4058,6 +4184,69 @@
     "batch": "priority45",
     "sha256": "0087eac101cd19f430146e32a8af77c24154c7eedb268128b4c8c5f57a8c0587"
   },
+  "17bf35fa5b69ef": {
+    "file": "female-recordings/4e16490e86c66884.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.85,
+    "duration": 0.81,
+    "batch": "next-free-batch",
+    "sha256": "35964fe39d992bc6c5abf606e25cbc85e6befdfdad16e117c83e34e7a27bf74d"
+  },
+  "e356fb757814e6": {
+    "file": "female-recordings/1d1cfc5b325cb73d.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.86,
+    "duration": 0.98,
+    "batch": "next-free-batch",
+    "sha256": "0a24c21698ad3c1977e720019221ed0d5a8b5f37e5e0135b708be3b2a8abe2d3"
+  },
+  "7d928338ee54df": {
+    "file": "female-recordings/f0237b4127bb7861.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.74,
+    "duration": 0.76,
+    "batch": "next-free-batch",
+    "sha256": "dc0c3b28301d452ecc97b9d44b84da1032ed36b515b6e925db12fc440aa2a284"
+  },
+  "5ab75a6e0bc867": {
+    "file": "female-recordings/61fd76aa24306fe9.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.33,
+    "duration": 0.86,
+    "batch": "next-free-batch",
+    "sha256": "266bc81bab14017d0206cffc4c7c180d8158f71ef8af7425d6dfbc41fd4ae732"
+  },
+  "ecced18ec19fc1": {
+    "file": "female-recordings/a6ea4320039f4819.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 0.54,
+    "duration": 0.7,
+    "batch": "next-free-batch",
+    "sha256": "e513eec4e345980542c6414802eaa791b7439fa24003222135768bd1982e293d"
+  },
+  "e6f133d2b853fe": {
+    "file": "female-recordings/16c0c88ed9699627.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.99,
+    "duration": 0.85,
+    "batch": "next-free-batch",
+    "sha256": "3650854e9d8fc175cae95de80b27e9df54ebc49887a440f8d6c32acb2dde829a"
+  },
+  "efc074962eb7d9": {
+    "file": "female-recordings/86fb8bbaeebc391b.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.97,
+    "duration": 0.77,
+    "batch": "next-free-batch",
+    "sha256": "01b1f531b92abc46a552d37b928ffe9c51c3777250ba055aa6f8d6bfaa26233f"
+  },
   "302d158e8a38a9": {
     "file": "female-recordings/2aee3c86c798c087.m4a",
     "voice": "Emma",
@@ -4066,6 +4255,15 @@
     "duration": 0.76,
     "batch": "nov17",
     "sha256": "1abb6792dfcdabe8e319d2932720d7b6d5269cd494bb69c837e4b7d898d2fcea"
+  },
+  "08ba8918fd078b": {
+    "file": "female-recordings/098344fc8a69ced4.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.33,
+    "duration": 0.79,
+    "batch": "next-free-batch",
+    "sha256": "f598f98c2534f2f9645f158cdb7ab4e7e253f2564e9c0496dc37626d61746832"
   },
   "ea465fb60dfea4": {
     "file": "female-recordings/ad4f2df78fb7ae8d.m4a",
@@ -4084,6 +4282,42 @@
     "duration": 0.74,
     "batch": "nov17",
     "sha256": "4c36e282880c40afe8309a8a06798d21ea78756b714a88ac214dc3bbaeb689f8"
+  },
+  "afa0b9f1dc21eb": {
+    "file": "female-recordings/4b6c6f56c6f385b1.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.02,
+    "duration": 0.84,
+    "batch": "next-free-batch",
+    "sha256": "6bee86dd5a8f0359d49e387e2c0f9ee839ecfc598baa8dde1cdd8e9eb7e20b3a"
+  },
+  "1386ffd7c8a78a": {
+    "file": "female-recordings/aedfa71cc6a655ed.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.63,
+    "duration": 0.79,
+    "batch": "next-free-batch",
+    "sha256": "ab274849d593d004e4d663567d81c6d8969373ab21cea34091c839bb8d16c5a7"
+  },
+  "6b8bb68dea4516": {
+    "file": "female-recordings/3af21595c293c086.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.23,
+    "duration": 0.97,
+    "batch": "next-free-batch",
+    "sha256": "1e720903e853d1c2ff7424cddd100c109b6ed1a6c06fdde13d00434ece01b53c"
+  },
+  "24b9e3bc22fe8f": {
+    "file": "female-recordings/38df689f061eb3f5.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.47,
+    "duration": 0.78,
+    "batch": "next-free-batch",
+    "sha256": "adb62f5c40e25a593656c54c7ea05a956df58b5cd07c50760240e8a19a5f1abd"
   },
   "127d737c94fb50": {
     "file": "female-recordings/41a0e0dccf017b3d.m4a",
@@ -4480,6 +4714,177 @@
     "duration": 0.9,
     "batch": "nov17",
     "sha256": "6b570592737ef62f8da1d699b7e09e65f436d2b77e5c97a0d3e4d0eff8416312"
+  },
+  "2498f2eb72e33d": {
+    "file": "female-recordings/9f23d9e104dd6891.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.88,
+    "duration": 0.99,
+    "batch": "next-free-batch",
+    "sha256": "62101bd48ebb4ab3de3b3ace4cd01c18006316b4ce827a3b2241006b9f9eddd4"
+  },
+  "d3f71e530ae4ee": {
+    "file": "female-recordings/dda16eafb6669d51.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 1.6,
+    "duration": 0.73,
+    "batch": "next-free-batch",
+    "sha256": "66bbeb722fedbfa63c28214dde6d380f6a59130bfd82be0b4af5f6c9a38a7c91"
+  },
+  "11f6c374c4a5a8": {
+    "file": "female-recordings/0d62117e36b55c55.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.07,
+    "duration": 0.69,
+    "batch": "next-free-batch",
+    "sha256": "32d52f9ee12843cd59c5c197ade1c82dce51fa93e19d90e62034e2424f76eb71"
+  },
+  "18df297fe0f58e": {
+    "file": "female-recordings/2d18756d606a8dd3.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.83,
+    "duration": 0.83,
+    "batch": "next-free-batch",
+    "sha256": "41377102a98807dd7c467a177f0bc1f62434fff747fe481453ee1ff492bec77a"
+  },
+  "285c8254bf44fc": {
+    "file": "female-recordings/90a01ba925e68dfc.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.33,
+    "duration": 0.77,
+    "batch": "next-free-batch",
+    "sha256": "6a0d75de99fdac87c952ba98b90deea9816c8378aaf787ab6ab0fa7929cfd141"
+  },
+  "a60cbda4726f60": {
+    "file": "female-recordings/ca6c079229bc9d88.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.08,
+    "duration": 0.98,
+    "batch": "next-free-batch",
+    "sha256": "09f3e6ebd1c177dd7d9096b99615a76eefa18ef30ecf527122c1cb7385ef3ea1"
+  },
+  "eca2ba0d097f4d": {
+    "file": "female-recordings/ba48ee3d50fc9184.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.2,
+    "duration": 0.92,
+    "batch": "next-free-batch",
+    "sha256": "625e9ed47463e7f25639c9009a49832f91b08da8b4a667bf1a9c579fa8531560"
+  },
+  "c72ac08452bf4f": {
+    "file": "female-recordings/5b23fdfacad52861.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.46,
+    "duration": 0.88,
+    "batch": "next-free-batch",
+    "sha256": "ca9fafeff71f42c130ed029614e6697ae0ee40785e7ec2788d557114fe6ceaa5"
+  },
+  "9476a5829121ed": {
+    "file": "female-recordings/c00a12352d964181.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.91,
+    "duration": 0.84,
+    "batch": "next-free-batch",
+    "sha256": "b6c98264acc9381e567c9d52753c53080bb1ffa8c1805950b3e33732f8cc5f5b"
+  },
+  "362bf4d75e6549": {
+    "file": "female-recordings/1839d73736f4536e.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 2.95,
+    "duration": 0.72,
+    "batch": "next-free-batch",
+    "sha256": "00426cc2213178f7a9c7d330eceb9a96e7524c6ca06f8beef41ae6d22b5948b7"
+  },
+  "cab1ac35a246fd": {
+    "file": "female-recordings/0ed348e42df51c42.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.39,
+    "duration": 0.75,
+    "batch": "next-free-batch",
+    "sha256": "fa3d532d3e69049e8811a6a83b37b7d45ecb2fe0de5b677834670f16e0887525"
+  },
+  "bbe51558478567": {
+    "file": "female-recordings/58f3c206efcbd1b5.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 0.33,
+    "duration": 1.0,
+    "batch": "next-free-batch",
+    "sha256": "2e167f6e8306667151df8bec1445973bd7be9cee19cfe86d7d489e9b9e09ed29"
+  },
+  "1b9b10d0fc02cb": {
+    "file": "female-recordings/75263f4e6958947c.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 0.68,
+    "duration": 0.87,
+    "batch": "next-free-batch",
+    "sha256": "93ec59b2aa701ec64378c24072146335fa25c9e2f85baa3893689f54893a795e"
+  },
+  "34828d7b14f73a": {
+    "file": "female-recordings/f134ab6708ad0c17.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.74,
+    "duration": 0.93,
+    "batch": "next-free-batch",
+    "sha256": "5067422aaeda78e3488b803cca01fb0f9625f2f9a7e47695667462438db46e26"
+  },
+  "662517845d0fc7": {
+    "file": "female-recordings/4f14d10fc5765f27.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 6.13,
+    "duration": 0.78,
+    "batch": "next-free-batch",
+    "sha256": "d4117d2b3afc40775b2c88223de00bb9060ed1b62417112adf7b12d5136b8aa5"
+  },
+  "4213371ce469ba": {
+    "file": "female-recordings/1202e418a654dd90.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 7.2,
+    "duration": 0.78,
+    "batch": "next-free-batch",
+    "sha256": "8dd809f6d750f410c9a797d522ca797a2635190033397d1c08282831a2e70975"
+  },
+  "760a15c0ecec0a": {
+    "file": "female-recordings/987cd56c3285c93c.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 3.76,
+    "duration": 0.88,
+    "batch": "next-free-batch",
+    "sha256": "916cd6e71d8b33ba595f80f6c5003ed2cd43887b803f990bbe39e4541f9a6644"
+  },
+  "7ade87c946d525": {
+    "file": "female-recordings/3b9977b8053bd941.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 5.16,
+    "duration": 0.84,
+    "batch": "next-free-batch",
+    "sha256": "2468524cbd1569a055ca9c05f5f94bdcac45c1b7c2ba740e6b31bcf53cb8e061"
+  },
+  "d6a6930cae66a6": {
+    "file": "female-recordings/31b3d5d3d3ef06da.m4a",
+    "voice": "Emma",
+    "locale": "en-GB",
+    "gainDB": 4.91,
+    "duration": 1.15,
+    "batch": "next-free-batch",
+    "sha256": "724937e3b55cb34ab3086c09cdc4a3d5774778aa4f5eb026dfd787718d7968a7"
   },
   "text-e3a1f9b87897ecb1": {
     "file": "lesson-recordings/text-e3a1f9b87897ecb1.mp3",
