@@ -70,43 +70,68 @@ header { margin-bottom: 22px; }
 .lesson-title { font: 600 24px/1.25 Georgia, serif; color: var(--ink); margin: 0; }
 .lesson-rate { display: block; text-align: center; font-size: 11px; color: var(--muted); margin: 5px 0 0; }
 .lesson-play { min-width: 100px; min-height: 44px; font-size: 13px; padding: 0 12px; }
+.lesson-guide { margin: 8px 0 10px; color: var(--muted); font-size: 13px; line-height: 1.5; }
 .lesson-lines { overflow: hidden; background: var(--paper); border: 1px solid var(--line); border-radius: 16px; }
-.sentence {
-  position: relative;
-  width: 100%;
-  min-height: 80px;
-  padding: 13px 62px 15px 16px;
-  text-align: left;
-  scroll-margin-top: 104px;
-}
 .sentence + .sentence { border-top: 1px solid var(--line); }
-.sentence-top { display: block; margin-bottom: 5px; }
+.sentence-play {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) 40px;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 13px 14px 10px;
+  text-align: left;
+  scroll-margin-top: 108px;
+}
+.sentence-play:focus-visible { outline-offset: -3px; }
+.sentence-top, .sentence-text, .sentence-translation { display: block; }
+.sentence-top { margin-bottom: 4px; }
 .role { font-size: 12px; font-weight: 650; color: #3e6186; }
 .female .role { color: #745382; }
-.sentence-text { display: block; font: 19px/1.45 Georgia, "Times New Roman", serif; overflow-wrap: anywhere; }
+.sentence-text { font: 19px/1.5 Georgia, "Times New Roman", serif; overflow-wrap: anywhere; }
 .sentence-translation {
-  display: block;
   margin-top: 4px;
   color: var(--muted);
   font-size: 15px;
   line-height: 1.6;
   overflow-wrap: anywhere;
 }
-.sentence.is-playing .sentence-translation { color: #f4efff; }
-.sentence > svg {
-  position: absolute;
-  right: 14px;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 34px;
-  height: 34px;
-  padding: 8px;
+.sentence-play-icon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: #f1edf7;
   color: var(--accent);
 }
-.sentence.is-playing > svg { color: white; background: #ffffff29; }
-.sentence:focus-visible { outline-offset: -3px; }
+.sentence-play-icon > svg { width: 18px; height: 18px; }
+.sentence-play.is-playing .sentence-play-icon { background: #ffffff29; }
+.sentence-word-panel {
+  margin: 0 12px 11px;
+  padding: 7px 9px 9px;
+  border: 1px solid #ebe5f4;
+  border-radius: 10px;
+  background: #f8f6fc;
+}
+.sentence-word-label { margin: 0 0 5px; color: #625287; font-size: 12px; font-weight: 650; }
+.sentence-words { display: flex; flex-wrap: wrap; gap: 5px; }
+.lesson-word {
+  min-width: 32px;
+  min-height: 36px;
+  max-width: 100%;
+  padding: 4px 8px;
+  border: 1px solid #e4daef;
+  border-radius: 8px;
+  background: var(--paper);
+  color: var(--accent);
+  font: 16px/1.25 Georgia, "Times New Roman", serif;
+  overflow-wrap: anywhere;
+}
+@media (hover: hover) {
+  .sentence-play:hover { background: #f6f2fd; }
+  .lesson-word:hover { background: #eee7f7; }
+}
 button.is-playing { background: var(--accent) !important; }
 button[aria-busy=true] { opacity: 1; background: #f4f0fb; box-shadow: inset 0 0 0 1px #ded5f2; }
 .audio-feedback {

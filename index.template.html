@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%236659d7'/%3E%3Cpath d='M7 8h7l2 2 2-2h7v17h-7l-2 2-2-2H7zM16 10v17' fill='none' stroke='white' stroke-width='1.5'/%3E%3C/svg%3E">
 <meta name="theme-color" content="#f1eff9">
-<meta name="reader-build" content="20261120-dialogue-zh1">
+<meta name="reader-build" content="20261120-lesson-words1">
 <meta name="description" content="五上英语朗读小屋">
 <title>五上英语朗读小屋</title>
 <style>
@@ -32,7 +32,7 @@ __HOUSE_CSS__
 <div class="play-options"><label><span class="sr-only">连续朗读模式</span><select id="mode" aria-label="连续朗读模式"><option value="word">只读单词</option><option value="full" selected>单词＋拆读＋例句</option></select></label></div>
 <div class="progress" aria-hidden="true"><span id="progress"></span></div>
 <div class="bottom"><span id="position"></span><span class="footer-label">五年级 · 上册</span><label><span class="sr-only">朗读速度</span><select class="speed" id="speed" aria-label="朗读速度"><option value="0.8">0.8×</option><option value="1" selected>1.0×</option><option value="1.2">1.2×</option></select></label></div>
-</section><section id="lessons-panel" aria-label="课文" hidden><nav class="lesson-switch" aria-label="选择课文"><button class="part-button" data-part="a">Part A</button><button class="part-button" data-part="b">Part B</button></nav><div class="lesson-heading"><div><p class="lesson-page" id="lesson-page"></p><h2 class="lesson-title" id="lesson-title"></h2></div><div><button class="lesson-play" id="lesson-auto">整篇朗读</button><span class="lesson-rate">英音 · 0.8×</span></div></div><div class="lesson-lines" id="lesson-lines"></div></section><div class="audio-feedback" id="audio-feedback" data-state="idle" aria-hidden="true">
+</section><section id="lessons-panel" aria-label="课文" hidden><nav class="lesson-switch" aria-label="选择课文"><button class="part-button" data-part="a">Part A</button><button class="part-button" data-part="b">Part B</button></nav><div class="lesson-heading"><div><p class="lesson-page" id="lesson-page"></p><h2 class="lesson-title" id="lesson-title"></h2></div><div><button class="lesson-play" id="lesson-auto">整篇朗读</button><span class="lesson-rate">英音 · 0.8×</span></div></div><p class="lesson-guide">点句子听整句，下方单词可单独点读（英音 0.75×）。</p><div class="lesson-lines" id="lesson-lines"></div></section><div class="audio-feedback" id="audio-feedback" data-state="idle" aria-hidden="true">
   <p class="audio-message" id="audio-message"></p>
   <p class="audio-hint">加载后自动播放，无需重复点击。</p>
   <div class="audio-loading-track"><span></span></div>
@@ -44,6 +44,7 @@ __HOUSE_CSS__
 const WORDS=__WORDS__;
 const LESSONS=__LESSONS__;
 const AUDIO_INDEX=__AUDIO_INDEX__;
+const LESSON_WORD_AUDIO=__LESSON_WORD_AUDIO__;
 __AUDIO_ENGINE__
 __APP__
 __LESSONS_APP__

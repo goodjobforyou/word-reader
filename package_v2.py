@@ -1,9 +1,10 @@
 """Build the U1–U6 site. U4/U5 syllables are required; others may be pending."""
 from pathlib import Path
-import json,base64,hashlib,shutil
+import argparse,json,base64,hashlib,shutil
+from lesson_word_clips import RECORDINGS, clip_id, collect_words
 R=Path(__file__).parent
 
-def build():
+def build(out):
  W=json.loads((R/'words.json').read_text());P=json.loads((R/'recordings/phonemes.json').read_text());D=json.loads((R/'special-word-recordings.json').read_text())
  full=json.loads((R/'female-full/manifest.json').read_text());syllables=json.loads((R/'female-recordings/manifest.json').read_text());plan=json.loads((R/'female-audio-plan/jobs.json').read_text())
  audio={};sources={}
@@ -31,9 +32,9 @@ def build():
   for s in w['syllables']:s['available']=s['audio'] in audio
   w['syllablesReady']=all(s['available'] for s in w['syllables'])
   if w['unit'] in [4,5]:assert w['syllablesReady'],w['word']
- out=R/'release';out.mkdir(exist_ok=True)
+ out.mkdir(parents=True,exist_ok=True)
  # Remove only this builder's obsolete generated audio artifacts.
- for pattern in ['u[1-6].json','clip-u*-*.json','phone-*.mp3','phone-*.m4a','text-u*-*.json']:
+ for pattern in ['u[1-6].json','clip-u*-*.json','phone-*.mp3','phone-*.m4a','text-u*-*.json','lesson-word-pack-*.json']:
   for old in out.glob(pattern):old.unlink()
  index={};phone_ids={s['audio'] for w in W for p in w['phonics'] for s in p['sounds']}
  for id in sorted(phone_ids):
@@ -67,6 +68,24 @@ def build():
    (out/file).write_bytes(data)
    for id in ids:index.setdefault(id,{'pack':file})
    for line in lines:line['audioPack']=file
+ # Keep lesson word clips in small, immutable downloadable groups.
+ word_manifest=json.loads((RECORDINGS/'manifest.json').read_text())
+ lesson_words=collect_words(lessons)
+ word_audio={}
+ keys=sorted(lesson_words)
+ assert set(keys)==set(word_manifest),'Lesson word recording coverage does not match the dialogue'
+ for start in range(0,len(keys),8):
+  entries={}
+  for key in keys[start:start+8]:
+   id=clip_id(key)
+   put(id,RECORDINGS,word_manifest[key])
+   entries[id]=audio[id]
+   word_audio[key]=id
+  data=json.dumps(entries,separators=(',',':')).encode()
+  filename='lesson-word-pack-'+hashlib.sha256(data).hexdigest()[:16]+'.json'
+  (out/filename).write_bytes(data)
+  index.update({id:{'pack':filename} for id in entries})
+ (out/'lesson-words.json').write_text(json.dumps(word_audio,ensure_ascii=False,indent=2)+'\n')
  (out/'lessons.json').write_text(json.dumps(lessons,ensure_ascii=False,indent=2))
  unit_report={}
  for u in range(1,7):
@@ -75,9 +94,12 @@ def build():
    ids.update([w['audio'],w['exampleAudio']]+[s['audio'] for s in w['syllables'] if s['available']]);ids.update(s['audio'] for p in w['phonics'] for s in p['sounds'])
   assert all(id in index for id in ids)
   unit_report[u]={'words':len(subset),'syllablesReady':sum(w['syllablesReady'] for w in subset),'audioIDs':len(ids),'packBytes':sum(p['bytes'] for p in packs if p['file'].startswith(f'clip-u{u}-'))}
- html=(R/'index.template.html').read_text().replace('__WORDS__',json.dumps(W,ensure_ascii=False,separators=(',',':'))).replace('__AUDIO_INDEX__',json.dumps(index,separators=(',',':'))).replace('__AUDIO_ENGINE__',(R/'audio-engine.js').read_text()).replace('__APP__',(R/'app.js').read_text()).replace('__LESSONS__',json.dumps(lessons,ensure_ascii=False,separators=(',',':'))).replace('__LESSONS_APP__',(R/'lessons.js').read_text()).replace('__HOUSE_CSS__',(R/'house.css').read_text())
+ html=(R/'index.template.html').read_text().replace('__WORDS__',json.dumps(W,ensure_ascii=False,separators=(',',':'))).replace('__AUDIO_INDEX__',json.dumps(index,separators=(',',':'))).replace('__LESSON_WORD_AUDIO__',json.dumps(word_audio,separators=(',',':'))).replace('__AUDIO_ENGINE__',(R/'audio-engine.js').read_text()).replace('__APP__',(R/'app.js').read_text()).replace('__LESSONS__',json.dumps(lessons,ensure_ascii=False,separators=(',',':'))).replace('__LESSONS_APP__',(R/'lessons.js').read_text()).replace('__HOUSE_CSS__',(R/'house.css').read_text())
  (out/'index.html').write_text(html);(out/'.nojekyll').touch();(out/'words.json').write_text(json.dumps(W,ensure_ascii=False,indent=2));(out/'audio-sources.json').write_text(json.dumps(sources,ensure_ascii=False,indent=2))
  (out/'audio-index.json').write_text(json.dumps(index,separators=(',',':')))
- for name in ['app.js','lessons.js','lesson-translations.zh-CN.json','house.css','build_lessons.py','generate_lessons_audio.py','audio-engine.js','index.template.html','build.py','units123.py','phonics.py','README.md','package_v2.py','prepare_female_audio.py','process_female_audio.py']:shutil.copyfile(R/name,out/name)
- report={'entries':len(W),'audioIDs':len(audio),'units':unit_report,'priorityUnitsReady':True,'deferredSyllableUnits':[u for u,v in unit_report.items() if v['syllablesReady']<v['words']],'wordPacks':len(packs),'phonemeFiles':len({index[id]['file'] for id in phone_ids}),'maxWordPackBytes':max(p['bytes'] for p in packs),'packs':packs};(R/'release-readiness.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='packs'},ensure_ascii=False,indent=2))
-if __name__=='__main__':build()
+ for name in ['app.js','lessons.js','lesson-translations.zh-CN.json','house.css','build_lessons.py','generate_lessons_audio.py','lesson_word_clips.py','audio-engine.js','index.template.html','build.py','units123.py','phonics.py','README.md','package_v2.py','prepare_female_audio.py','process_female_audio.py']:shutil.copyfile(R/name,out/name)
+ report={'entries':len(W),'audioIDs':len(audio),'units':unit_report,'priorityUnitsReady':True,'deferredSyllableUnits':[u for u,v in unit_report.items() if v['syllablesReady']<v['words']],'wordPacks':len(packs),'phonemeFiles':len({index[id]['file'] for id in phone_ids}),'maxWordPackBytes':max(p['bytes'] for p in packs),'packs':packs};(R/'release-readiness.json' if out==R/'release' else out/'preview-readiness.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps({k:v for k,v in report.items() if k!='packs'},ensure_ascii=False,indent=2))
+if __name__=='__main__':
+ parser=argparse.ArgumentParser()
+ parser.add_argument('--output', type=Path, default=R/'release')
+ build(parser.parse_args().output.resolve())

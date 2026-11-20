@@ -6262,5 +6262,2293 @@
     "text": "It'll be a fine day tomorrow.",
     "source": "Microsoft Edge Read Aloud",
     "sha256": "9363f2d25cc5e00cf91b7c117dfb5b9570c410d4031bad0b787eb2a0f44596fc"
+  },
+  "lesson-word-25768477dbcd72ef": {
+    "file": "lesson-word-recordings/lesson-word-25768477dbcd72ef.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "a",
+    "sha256": "d1fbd01f644039b7d0952717e328d0f816c4ed944509a6413554b265495fb585"
+  },
+  "lesson-word-432dd8b1db1773dc": {
+    "file": "lesson-word-recordings/lesson-word-432dd8b1db1773dc.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "about",
+    "sha256": "3ff5b9656d6aac52a0004a46ab363a211df1ae12d392bebe4e2126ba4bf74406"
+  },
+  "lesson-word-5e603f30bb12380d": {
+    "file": "lesson-word-recordings/lesson-word-5e603f30bb12380d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "afraid",
+    "sha256": "bb13501e5b665df71476f1f3dbf08ec0f159cd3ee9ed64fbe6f0f2cf1417251e"
+  },
+  "lesson-word-67351f3009739597": {
+    "file": "lesson-word-recordings/lesson-word-67351f3009739597.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "afternoon",
+    "sha256": "996123b77d43745763ea8cc5595468180576ac4b634c5b1c2b396ab3058bffe3"
+  },
+  "lesson-word-a026f4c6b2144c9b": {
+    "file": "lesson-word-recordings/lesson-word-a026f4c6b2144c9b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "agree",
+    "sha256": "1c0d1cbd786ed7a9dfe44c01a70138b1ded49c7251c6d352dac806b1992c721e"
+  },
+  "lesson-word-945d8e743be70490": {
+    "file": "lesson-word-recordings/lesson-word-945d8e743be70490.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "all",
+    "sha256": "72ffbf10d9c2bb0ea698c60f7dd98b42796992737b5d39700e04a97df879817d"
+  },
+  "lesson-word-3887b62379536c26": {
+    "file": "lesson-word-recordings/lesson-word-3887b62379536c26.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "also",
+    "sha256": "490c9db7d55c7d43df900006058bcef93a3d55387be23ac97235fcf1969ca8c2"
+  },
+  "lesson-word-a6e4f3665d95bd3f": {
+    "file": "lesson-word-recordings/lesson-word-a6e4f3665d95bd3f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "and",
+    "sha256": "74555ac4ec1a226654ca8b4899e2cd48a18a210364b96eced62cfcef3b05f703"
+  },
+  "lesson-word-36c0d7c248051553": {
+    "file": "lesson-word-recordings/lesson-word-36c0d7c248051553.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "angry",
+    "sha256": "4ec26f92af5d9b782bb603059deab718de9d13fbc49f999e80388e0ef48ea7f7"
+  },
+  "lesson-word-48902af0120636c8": {
+    "file": "lesson-word-recordings/lesson-word-48902af0120636c8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "any",
+    "sha256": "cefc0cacd150f83b04ccee9649f70aed55e94fe9d786f78998abebf92ec37976"
+  },
+  "lesson-word-faa05b949767d2c9": {
+    "file": "lesson-word-recordings/lesson-word-faa05b949767d2c9.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "are",
+    "sha256": "a1c8791100c5da983e5652e67acc8a9444457776448fcea15d4b513652e1717f"
+  },
+  "lesson-word-b9a53e52ab0a0a6c": {
+    "file": "lesson-word-recordings/lesson-word-b9a53e52ab0a0a6c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Art",
+    "sha256": "4b5cf4ace9b5e75248ecdc4959139444cc6a617da49d4022ec7ba009b583dea3"
+  },
+  "lesson-word-124f0c1ee4cce472": {
+    "file": "lesson-word-recordings/lesson-word-124f0c1ee4cce472.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "at",
+    "sha256": "25db52073b2b2be6ae93f4a931e297dd23ce7ae5f6282010bf9628a2372aaa6f"
+  },
+  "lesson-word-bc70ebe4c548b449": {
+    "file": "lesson-word-recordings/lesson-word-bc70ebe4c548b449.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Australia",
+    "sha256": "21a3c140f8c4b91d599f85ee2aad49468993ba851d05ffb1607f14b42298a91f"
+  },
+  "lesson-word-84c2a10af6518882": {
+    "file": "lesson-word-recordings/lesson-word-84c2a10af6518882.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "be",
+    "sha256": "3525e9c6eb473750e3dea1925a36d041443b68e82543ccbb56c66237d7583071"
+  },
+  "lesson-word-73575b11ef03d5f2": {
+    "file": "lesson-word-recordings/lesson-word-73575b11ef03d5f2.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "beautiful",
+    "sha256": "b14ba343669977c9b6c2876b05583580cf0fba8f89b455366023fd8f425ce6f0"
+  },
+  "lesson-word-a7fd8144d10d0d0b": {
+    "file": "lesson-word-recordings/lesson-word-a7fd8144d10d0d0b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Because",
+    "sha256": "83939e33fa0444e8363d9b46ecf8f864a0a6802d5b186b832f68d5684f1a7f39"
+  },
+  "lesson-word-14aa32e6508fdd49": {
+    "file": "lesson-word-recordings/lesson-word-14aa32e6508fdd49.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "beef",
+    "sha256": "6ddab561be8d35ba645a1e4975c57ef38fd09c45ed10ada7538024b4d865fb27"
+  },
+  "lesson-word-86a11a8de91b1c32": {
+    "file": "lesson-word-recordings/lesson-word-86a11a8de91b1c32.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Binbin",
+    "sha256": "f3e86bb1b45f0ae1f823768ba763db6590b1b2433bb99436a5e18326ae52b807"
+  },
+  "lesson-word-99ddcebad0967fa0": {
+    "file": "lesson-word-recordings/lesson-word-99ddcebad0967fa0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "both",
+    "sha256": "1e7f557b71445f9b3da8a3c699f4ca11ba190f241b0ee8fce9d3017fe5710e25"
+  },
+  "lesson-word-5b901b3f613b6bf4": {
+    "file": "lesson-word-recordings/lesson-word-5b901b3f613b6bf4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "but",
+    "sha256": "e46c53da23f9ec14d1112f341de807d158dfd112305aac9a8e70055486e9c474"
+  },
+  "lesson-word-806ed6b245c9d7a4": {
+    "file": "lesson-word-recordings/lesson-word-806ed6b245c9d7a4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "buy",
+    "sha256": "bcbc3c7a32d12fe32daceaa12ecce0d8c2978f264330c0d4969f8b9b34de0041"
+  },
+  "lesson-word-d3f06e8f2e5f9c02": {
+    "file": "lesson-word-recordings/lesson-word-d3f06e8f2e5f9c02.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "by",
+    "sha256": "bcbc3c7a32d12fe32daceaa12ecce0d8c2978f264330c0d4969f8b9b34de0041"
+  },
+  "lesson-word-0cfe1960b58bd30b": {
+    "file": "lesson-word-recordings/lesson-word-0cfe1960b58bd30b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "can",
+    "sha256": "78d6260ef4ee26959a03904fd0206a269809918ad4e0d6f63818efe1fc1eeca7"
+  },
+  "lesson-word-41c97ec07375854f": {
+    "file": "lesson-word-recordings/lesson-word-41c97ec07375854f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "can't",
+    "sha256": "a33bb355f38023ee814af54d6c607b7a83c26c1412b3c5886d0ec981419c9336"
+  },
+  "lesson-word-9cb70322ec89b975": {
+    "file": "lesson-word-recordings/lesson-word-9cb70322ec89b975.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "centre",
+    "sha256": "dfa9b4b43b64a77c8cd76c623b65e893d3fc0b3b79b8b377cd9d9c4c805da52d"
+  },
+  "lesson-word-7a3c620f6959024f": {
+    "file": "lesson-word-recordings/lesson-word-7a3c620f6959024f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Chen",
+    "sha256": "d9a233bae8b878728df6276ef973250f0a60dd626e436e6fce73afbc3101e000"
+  },
+  "lesson-word-cd0113568f46bbf3": {
+    "file": "lesson-word-recordings/lesson-word-cd0113568f46bbf3.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "chess",
+    "sha256": "9eaa616e7a134e39c7775e6dafe3998d8f5bb61da743064576202f715ceb1ec1"
+  },
+  "lesson-word-8e6e8d04d16cecf4": {
+    "file": "lesson-word-recordings/lesson-word-8e6e8d04d16cecf4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "chicken",
+    "sha256": "119638c9c5d6c36edc76ec20ae977078a45624e69b877898017b95d547f162e7"
+  },
+  "lesson-word-2dd607fd37a065ea": {
+    "file": "lesson-word-recordings/lesson-word-2dd607fd37a065ea.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "children",
+    "sha256": "f6e6ba9cddc24fdbbb6b86f64cd3e2f7d5b5257ab474f51ca3c9f217d4b25a6a"
+  },
+  "lesson-word-cd54bc0018fc0e09": {
+    "file": "lesson-word-recordings/lesson-word-cd54bc0018fc0e09.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "children's",
+    "sha256": "44e1aa602215b09ec6cea0ddbf229725ff2eef1cb58f9b7452e5f44d1d5604ae"
+  },
+  "lesson-word-f47b3876e2df5e2e": {
+    "file": "lesson-word-recordings/lesson-word-f47b3876e2df5e2e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Chinese",
+    "sha256": "c23885abed53587c43468a5651d81382fe6ba65e7823bb2d33006f137edd8c8b"
+  },
+  "lesson-word-eab91ade185f8e34": {
+    "file": "lesson-word-recordings/lesson-word-eab91ade185f8e34.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "class",
+    "sha256": "88bd2d1e05d81348ab59a9ba054152060d4f85fcac3c0ab50b466cf88c90b216"
+  },
+  "lesson-word-aac7876e150e69f7": {
+    "file": "lesson-word-recordings/lesson-word-aac7876e150e69f7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "classmate",
+    "sha256": "ca2b941ae19dcfea95f507e9ee478aa54ebbf8527ed54b9c10fcd21433214444"
+  },
+  "lesson-word-57c9cc212a478453": {
+    "file": "lesson-word-recordings/lesson-word-57c9cc212a478453.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "clean",
+    "sha256": "545941deb9ce7cc6105c7cd54fd6667d73466a38c29fc6c4b0f1313512ce4f64"
+  },
+  "lesson-word-bf7930ce8771ea59": {
+    "file": "lesson-word-recordings/lesson-word-bf7930ce8771ea59.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "close",
+    "sha256": "a336baf9faab45fe1273cf1c1bdecac75df75d48585b55e2a095d437dd8cc61b"
+  },
+  "lesson-word-65906cf733f2486b": {
+    "file": "lesson-word-recordings/lesson-word-65906cf733f2486b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "coconut",
+    "sha256": "0454ed515631602231e3c9787e9208675238d3b792e304b0a9d1c2a068b2c5d1"
+  },
+  "lesson-word-8de9d833cb0ae967": {
+    "file": "lesson-word-recordings/lesson-word-8de9d833cb0ae967.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Coconuts",
+    "sha256": "634734f2f9ecda4c7a26c5ea14cb2eac6eabdf7263cbee5ae4b548a2a8d02695"
+  },
+  "lesson-word-6431d8592d9c1eb7": {
+    "file": "lesson-word-recordings/lesson-word-6431d8592d9c1eb7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "cold",
+    "sha256": "a50ad92489ae1c4b31f07b553b64730f894b1759d4e7bfa7fdbc6c158ed0836f"
+  },
+  "lesson-word-13c4ca5305fc5c10": {
+    "file": "lesson-word-recordings/lesson-word-13c4ca5305fc5c10.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "come",
+    "sha256": "36ad25489e7761deafcc785c6224d88037f9125df9b295b6301195a6b11fca87"
+  },
+  "lesson-word-fbe38226e03620da": {
+    "file": "lesson-word-recordings/lesson-word-fbe38226e03620da.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "comes",
+    "sha256": "5778634eda2f532562667e0d90e8996d855b7f3939a9694dcf54d851d16c167f"
+  },
+  "lesson-word-ffec041686b3ff28": {
+    "file": "lesson-word-recordings/lesson-word-ffec041686b3ff28.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "cook",
+    "sha256": "2211714154dd840b38d0bd993f6967d389244792abe97b4c254f5978bb543d5e"
+  },
+  "lesson-word-5e577dd807bf08d9": {
+    "file": "lesson-word-recordings/lesson-word-5e577dd807bf08d9.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "cream",
+    "sha256": "2224ab2175cfe0d129aae901089242256b84fa2ccd103df342ffc99b17d2d88c"
+  },
+  "lesson-word-39b2b491cf770ff8": {
+    "file": "lesson-word-recordings/lesson-word-39b2b491cf770ff8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "dance",
+    "sha256": "2f2817a80515298baeceda3c9e068233b09778f42f1b55a9911a8b4b4e4cd5fa"
+  },
+  "lesson-word-40aea49f385c5bc1": {
+    "file": "lesson-word-recordings/lesson-word-40aea49f385c5bc1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "dangerous",
+    "sha256": "94fef03eb0d8e1437c0e06b3b901f6d3e8149b9bdcad66bf53e58f06647bb941"
+  },
+  "lesson-word-cb37f1a0505c094a": {
+    "file": "lesson-word-recordings/lesson-word-cb37f1a0505c094a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "day",
+    "sha256": "1939b4f21265f59f1e7c411908c41dd638b6bf0e475cb0011a4fc413f64cfe8d"
+  },
+  "lesson-word-9d98e377759afe41": {
+    "file": "lesson-word-recordings/lesson-word-9d98e377759afe41.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "delicious",
+    "sha256": "656e57c4f1d57c98bf85f2fe3cb88d5c2d6c7a45d2af56bcf4e75fb85647bfd5"
+  },
+  "lesson-word-72f0284769ddac83": {
+    "file": "lesson-word-recordings/lesson-word-72f0284769ddac83.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "different",
+    "sha256": "bfe8eddb67ac1c563ecaa36720f2fd8cba681c2faecdc787fe2790ee733f1093"
+  },
+  "lesson-word-af93dd7d6428c1e5": {
+    "file": "lesson-word-recordings/lesson-word-af93dd7d6428c1e5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "do",
+    "sha256": "b698bfc5183360deb4f339d5fb896e9c8619d491f252de6ec165d952012eabec"
+  },
+  "lesson-word-355b0ea4906c43fe": {
+    "file": "lesson-word-recordings/lesson-word-355b0ea4906c43fe.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "doctor",
+    "sha256": "81ca9fe2f3eb076f299b8a8254637c7fbc6a5cf52f0b35b7d7b16837486b2955"
+  },
+  "lesson-word-f3d5e9b09bfdba52": {
+    "file": "lesson-word-recordings/lesson-word-f3d5e9b09bfdba52.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Does",
+    "sha256": "4fb24d1b05f0a638e0f782cd7a08cc8d85eb3fadb51865269becd6eb5b75445b"
+  },
+  "lesson-word-5461a08f23d25847": {
+    "file": "lesson-word-recordings/lesson-word-5461a08f23d25847.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "don't",
+    "sha256": "4de39c3ff2d3a19759f1bddb46e4a700d072dfee93e846b96af7a1307df7fe0f"
+  },
+  "lesson-word-7a10d5746c84e802": {
+    "file": "lesson-word-recordings/lesson-word-7a10d5746c84e802.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "drink",
+    "sha256": "d9162bd37fa71187878a4074c1741ea202a4425606ec0436adfd13820e6b7f36"
+  },
+  "lesson-word-62fd023c5c5808a4": {
+    "file": "lesson-word-recordings/lesson-word-62fd023c5c5808a4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "each",
+    "sha256": "2bc5c479620bf941e1e78dd1398bd40078206de9f394768fd950291113fb2c3a"
+  },
+  "lesson-word-9466648cd3431187": {
+    "file": "lesson-word-recordings/lesson-word-9466648cd3431187.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "easy",
+    "sha256": "820c377e6d4e7dc9dd13e9a638dc183013927e9bc86a6505e896ca6aea6ec7b2"
+  },
+  "lesson-word-b7f449fdb547ae87": {
+    "file": "lesson-word-recordings/lesson-word-b7f449fdb547ae87.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "eat",
+    "sha256": "690646f49afedc72a51820efe0509d628afc95f958f994e8d9aa2f05bdee7494"
+  },
+  "lesson-word-899e92c9c91f1529": {
+    "file": "lesson-word-recordings/lesson-word-899e92c9c91f1529.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "else",
+    "sha256": "69f545db932f8decdf013ff43cd3727b1c8a8c07a1197f22feed42cec36b8eb9"
+  },
+  "lesson-word-e46da8106191dd40": {
+    "file": "lesson-word-recordings/lesson-word-e46da8106191dd40.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "enough",
+    "sha256": "f3f48c720179100bc8972df474a1abd09e1e4a6d6cd3fcc367b6ff3f82ece96e"
+  },
+  "lesson-word-1e4b8643657c9e88": {
+    "file": "lesson-word-recordings/lesson-word-1e4b8643657c9e88.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "every",
+    "sha256": "a9cd0c3e1d1ca3cb7af79b9316d51345212aa31fb053ca48852be983be8de6d9"
+  },
+  "lesson-word-cb176b729a974f1f": {
+    "file": "lesson-word-recordings/lesson-word-cb176b729a974f1f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "everyone",
+    "sha256": "9e8ce363f01b91e03541da660b858980c41cea6e571f6fbcb6e60640843ac7bc"
+  },
+  "lesson-word-045c9662b5c2904b": {
+    "file": "lesson-word-recordings/lesson-word-045c9662b5c2904b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "exercise",
+    "sha256": "013bdfe238aa25eb01edfa6509ab491a9b735dddc4b9c54ef1d1d35ea5388c73"
+  },
+  "lesson-word-c6f119510a1c86fa": {
+    "file": "lesson-word-recordings/lesson-word-c6f119510a1c86fa.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "eyes",
+    "sha256": "eadc58d6f0c8efd3e1e0f1514555279fb0443b21c9b933d1a20e499e707eacc7"
+  },
+  "lesson-word-4bb0a801438d985c": {
+    "file": "lesson-word-recordings/lesson-word-4bb0a801438d985c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "family",
+    "sha256": "4094ca6d7f1470d7a7d0092f0fffd0b33cc286748f7858bc2680a86d35df462b"
+  },
+  "lesson-word-d810db7376ad6d69": {
+    "file": "lesson-word-recordings/lesson-word-d810db7376ad6d69.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "famous",
+    "sha256": "3908a9057cf6e472858b5f8704a5a4dbf42a7015de7574bba9fb6cedfc19d7f7"
+  },
+  "lesson-word-2b9835ee9a5e4720": {
+    "file": "lesson-word-recordings/lesson-word-2b9835ee9a5e4720.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "fast",
+    "sha256": "7a3236e05d143e63e87ae0a4dc6edabe53425fecd5c39c13af54520ee9f71aa0"
+  },
+  "lesson-word-37ea5b39799c8137": {
+    "file": "lesson-word-recordings/lesson-word-37ea5b39799c8137.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "father",
+    "sha256": "fc3d98c5a79ce9b929f79b9083fc7ddd1c799b62845af8d9a7f4607cb14b4e5c"
+  },
+  "lesson-word-a69d7a65e06c6508": {
+    "file": "lesson-word-recordings/lesson-word-a69d7a65e06c6508.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "favourite",
+    "sha256": "8f6e1a228312e25c5370546d66f3ea5eea1d62a47d4bb3242d9c37e5568fc816"
+  },
+  "lesson-word-7561fe123eb127e8": {
+    "file": "lesson-word-recordings/lesson-word-7561fe123eb127e8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "feel",
+    "sha256": "6cb45849125c394fa43d707c584e645684d461209ee8e26714f91271f1682ff7"
+  },
+  "lesson-word-ed7b2b70d3b7e6c4": {
+    "file": "lesson-word-recordings/lesson-word-ed7b2b70d3b7e6c4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Festival",
+    "sha256": "3078597712fb415a7e33d3ac8ba06a1c59e2dd2a73ff7e60db9992d5fc674b5e"
+  },
+  "lesson-word-8eb40c7c51e0e89e": {
+    "file": "lesson-word-recordings/lesson-word-8eb40c7c51e0e89e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "fine",
+    "sha256": "3df8413f36236991d442ef883ef6c7a7e4377df09732053c9efc71adb3068c0a"
+  },
+  "lesson-word-5d8fd68d1fd7eb7b": {
+    "file": "lesson-word-recordings/lesson-word-5d8fd68d1fd7eb7b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "finish",
+    "sha256": "87226f05f40e8d8215b056bdc3eb5c44092ebe5bce742695ed5ecbaf7f4ea338"
+  },
+  "lesson-word-2b3c8945f0406d6c": {
+    "file": "lesson-word-recordings/lesson-word-2b3c8945f0406d6c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "flowers",
+    "sha256": "bc537a3376aaab7e6d5583ee8bbf280132bbf142cea0256cf06d700b68c6be65"
+  },
+  "lesson-word-9a802884328a4a6e": {
+    "file": "lesson-word-recordings/lesson-word-9a802884328a4a6e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "flu",
+    "sha256": "24befb08db2584b0d6d994c2365418bd22ad9ad06518ab2a8b9963d3b7834f74"
+  },
+  "lesson-word-47dfd6de7fc2dff0": {
+    "file": "lesson-word-recordings/lesson-word-47dfd6de7fc2dff0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "food",
+    "sha256": "5079f1c88cd144b2828696bc65740aeefd6d8cdf29c523d9feb48cb3cf552dd8"
+  },
+  "lesson-word-064a4e575722c190": {
+    "file": "lesson-word-recordings/lesson-word-064a4e575722c190.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "football",
+    "sha256": "b53b946e9e229a864262658b9770258e1095f0b6ceb7074fef13b0b3e6b54ae5"
+  },
+  "lesson-word-f0273d18b516de84": {
+    "file": "lesson-word-recordings/lesson-word-f0273d18b516de84.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "for",
+    "sha256": "7ade38ecad6185dfb5a4d59a9e80b0879cc005bab589da57a84be0dc567abb14"
+  },
+  "lesson-word-eed6cd005ae3ae6d": {
+    "file": "lesson-word-recordings/lesson-word-eed6cd005ae3ae6d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "forest",
+    "sha256": "1d2283de2cb8c834ab34ed7670db33fb30460777084baab82ec85a0b6224d0e1"
+  },
+  "lesson-word-4c767c0e7e2ad306": {
+    "file": "lesson-word-recordings/lesson-word-4c767c0e7e2ad306.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Fridays",
+    "sha256": "453ee37150b51799719a1cff5de3e81c7d1d15487ec74def41a4a72a87cb8e2a"
+  },
+  "lesson-word-e71f1c8c2bd4877d": {
+    "file": "lesson-word-recordings/lesson-word-e71f1c8c2bd4877d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "from",
+    "sha256": "e4d08fade85f46b4c3d64341d7b18f4886583532e13507c4cac714225f284818"
+  },
+  "lesson-word-838f0bf33e2d53e7": {
+    "file": "lesson-word-recordings/lesson-word-838f0bf33e2d53e7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "fruit",
+    "sha256": "93a8498acc903bd4254229e5be7dd7f82144599f06e9c0fa3290744d98a1e18d"
+  },
+  "lesson-word-77625fc4d7ba4fa3": {
+    "file": "lesson-word-recordings/lesson-word-77625fc4d7ba4fa3.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "fun",
+    "sha256": "c0e01acd4c1a867fe56dcfa9fecb5c72585168f685b5f501a7f5933cb572756a"
+  },
+  "lesson-word-3b508d229fa252ef": {
+    "file": "lesson-word-recordings/lesson-word-3b508d229fa252ef.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "garden",
+    "sha256": "aef72352909874211ad3af468772111d999807248432deb443d170a266ea9b6a"
+  },
+  "lesson-word-ecba24a63ebce9cf": {
+    "file": "lesson-word-recordings/lesson-word-ecba24a63ebce9cf.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "get",
+    "sha256": "94909404a2ae2c71858d7ffec66c574541c0635bec04ee1d1d873ad515b5ada3"
+  },
+  "lesson-word-254c3ec8b94ec988": {
+    "file": "lesson-word-recordings/lesson-word-254c3ec8b94ec988.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "girl",
+    "sha256": "cb4a88b7d61a8e0b3114d2825b206f060f43595ba922a17de605f03ab00cdb63"
+  },
+  "lesson-word-c58138f21582cb47": {
+    "file": "lesson-word-recordings/lesson-word-c58138f21582cb47.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "go",
+    "sha256": "9376616b447c119687f101f53ab2f3c503c96259e79719a5299b3dfc835569cb"
+  },
+  "lesson-word-b7ccfd963db0fb07": {
+    "file": "lesson-word-recordings/lesson-word-b7ccfd963db0fb07.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "good",
+    "sha256": "d48d6c3900e4b4057aad9db04be511d7fb83195ccdcf7509b1dfef0db8bf90bb"
+  },
+  "lesson-word-320e53b00ba23cf7": {
+    "file": "lesson-word-recordings/lesson-word-320e53b00ba23cf7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Grandpa",
+    "sha256": "55075c9762b57876e72b95f5643c9f8d10384df51a6f71f28fb095a076d6f689"
+  },
+  "lesson-word-12877963f865c944": {
+    "file": "lesson-word-recordings/lesson-word-12877963f865c944.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Great",
+    "sha256": "66e50ff5ae91d624c39995ebdfbc8e759f6784a910656cc5617b687145864e1a"
+  },
+  "lesson-word-1621c748a9a23609": {
+    "file": "lesson-word-recordings/lesson-word-1621c748a9a23609.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Hainan",
+    "sha256": "b06c444b312743fa722f94ffb6f3ea99352368474f2e82080c70a4fe3f1a5181"
+  },
+  "lesson-word-39ac0394f90a7ee6": {
+    "file": "lesson-word-recordings/lesson-word-39ac0394f90a7ee6.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "has",
+    "sha256": "632676bb2a17f44c2fae4b375fe44039aea44e72dd9fe42a8888eb4e5cc07145"
+  },
+  "lesson-word-1342977f176abe20": {
+    "file": "lesson-word-recordings/lesson-word-1342977f176abe20.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "have",
+    "sha256": "a1026c76408bea03d27a3f84a3061d727052bd91e755b3c16de5f9512c28c8f5"
+  },
+  "lesson-word-86b0cae8683d23bd": {
+    "file": "lesson-word-recordings/lesson-word-86b0cae8683d23bd.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "he",
+    "sha256": "359562cab731d343bdf72132c758ec604a266fc8fa4b94d83e2df84aea47c67e"
+  },
+  "lesson-word-9e8d7ce85ab3ebff": {
+    "file": "lesson-word-recordings/lesson-word-9e8d7ce85ab3ebff.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "He's",
+    "sha256": "baa7a204f23808494888775702f2af0e774fc4973b32b370cc44ec5627e117a8"
+  },
+  "lesson-word-27532571e72756fa": {
+    "file": "lesson-word-recordings/lesson-word-27532571e72756fa.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "healthy",
+    "sha256": "a6e2d826641d909abe3f86b4ae0bf20250a14a8b5539173f486f8847f9e0969b"
+  },
+  "lesson-word-58b2f1d719dc1042": {
+    "file": "lesson-word-recordings/lesson-word-58b2f1d719dc1042.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "heavy",
+    "sha256": "acf6e40bb881b7b0e80e8171ac3000e7b817c16b1ece17b0349af4d19eb357bf"
+  },
+  "lesson-word-d1e2a8517be3e897": {
+    "file": "lesson-word-recordings/lesson-word-d1e2a8517be3e897.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "help",
+    "sha256": "4eb7dab2fc8f129ce6552c09914b1810f79ac6df77784288415cebe4b7634cd6"
+  },
+  "lesson-word-fd7f4d27f2a57824": {
+    "file": "lesson-word-recordings/lesson-word-fd7f4d27f2a57824.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "here",
+    "sha256": "23bbb41dd257eb623e211ad99ebdcdc9067abf9c20e4a61dc432479116643205"
+  },
+  "lesson-word-e463b49ada8ca950": {
+    "file": "lesson-word-recordings/lesson-word-e463b49ada8ca950.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Hi",
+    "sha256": "4c593480fec77a2a2e3ba5407a0aad7f4456ee2d772d1ecf4244bcc4d6a0c6a2"
+  },
+  "lesson-word-5d0e7ff70e43fb86": {
+    "file": "lesson-word-recordings/lesson-word-5d0e7ff70e43fb86.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "him",
+    "sha256": "25cb81ed19230c4cfee5bb44a4dda8966bf5199a333e7b75ce222da6569a6dad"
+  },
+  "lesson-word-dc77a9dbb9db736d": {
+    "file": "lesson-word-recordings/lesson-word-dc77a9dbb9db736d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "His",
+    "sha256": "ab28a9cf6f49189e889f43d6e518082c89b6074c66153ec39bce52d5b2555472"
+  },
+  "lesson-word-34c75442af168d66": {
+    "file": "lesson-word-recordings/lesson-word-34c75442af168d66.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "home",
+    "sha256": "5651762d935047270ab5b1870ea52e0d8914487d4fcdd4f85b428110d4177360"
+  },
+  "lesson-word-d112cd6cbe4ff113": {
+    "file": "lesson-word-recordings/lesson-word-d112cd6cbe4ff113.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "homework",
+    "sha256": "4b61b5e47856b3012cf319b5ba3e3be5ebf67d2c6aabe95317094938ed1d543c"
+  },
+  "lesson-word-c61ca67c2bda929d": {
+    "file": "lesson-word-recordings/lesson-word-c61ca67c2bda929d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "hotel",
+    "sha256": "ddb5c22a075ecc56022fec6bc19e9309589ef0127bae806849c9d8cb128d59fa"
+  },
+  "lesson-word-ad780d6445127294": {
+    "file": "lesson-word-recordings/lesson-word-ad780d6445127294.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "houses",
+    "sha256": "f2edf97e1024827a0acc255bc02566f7112148639be01d7201d6601a105114d0"
+  },
+  "lesson-word-c19d6d8a6fb9f595": {
+    "file": "lesson-word-recordings/lesson-word-c19d6d8a6fb9f595.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "How",
+    "sha256": "b8e0f31a7621c60aef827cf96ce216cb13d58f0eed5049022b52def2dcf2d430"
+  },
+  "lesson-word-74004462682b6231": {
+    "file": "lesson-word-recordings/lesson-word-74004462682b6231.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "hungry",
+    "sha256": "a5b254c1e73e56e8b02dccd2d31e0c8fff55f8d07df5f46dc1477dfb432607d1"
+  },
+  "lesson-word-e2a1e7e42047edad": {
+    "file": "lesson-word-recordings/lesson-word-e2a1e7e42047edad.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "I",
+    "sha256": "e3ae27b5c6acb6c92184fca1fe84e0a38f7c66c46ef8f44110f4ff756e3b616b"
+  },
+  "lesson-word-ebedbc5a2daa8d6d": {
+    "file": "lesson-word-recordings/lesson-word-ebedbc5a2daa8d6d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "I'd",
+    "sha256": "b2ee6b00ff6d08ab64dd1ef1885f362b01293cd4a134b8905b0fe1dfcd4e2191"
+  },
+  "lesson-word-4c559b408ea40cdb": {
+    "file": "lesson-word-recordings/lesson-word-4c559b408ea40cdb.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "I'll",
+    "sha256": "ce43ec0c8361dd5f6356bf150dfa507b56fa749e5210de28557b6015df68c836"
+  },
+  "lesson-word-2ae80e176c280784": {
+    "file": "lesson-word-recordings/lesson-word-2ae80e176c280784.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "I'm",
+    "sha256": "b5717ff0f67975135851fe19a49710c0a827a422ecd407bd33519f75e0ac2481"
+  },
+  "lesson-word-1ae1dc6cb7e2c381": {
+    "file": "lesson-word-recordings/lesson-word-1ae1dc6cb7e2c381.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "ice",
+    "sha256": "f13b6204ef5079f12df8873b054b2ce6f7630d31ec5910d32eac2be6a6638015"
+  },
+  "lesson-word-1f231ebc41aa6fd1": {
+    "file": "lesson-word-recordings/lesson-word-1f231ebc41aa6fd1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "idea",
+    "sha256": "a4f82e8ad50af4b0c25e5283b84c9b9e5edc3b276220c5580f238729510b221b"
+  },
+  "lesson-word-cc4aa80584785a19": {
+    "file": "lesson-word-recordings/lesson-word-cc4aa80584785a19.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "if",
+    "sha256": "a281245d3178c49fe97f773d27f449c4105d0f5d00176a25a23739f6e540ff8a"
+  },
+  "lesson-word-082daf083eb08caf": {
+    "file": "lesson-word-recordings/lesson-word-082daf083eb08caf.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "important",
+    "sha256": "48ae21676cffa01b283ad3ce20749789e5ba5b97ba545d287b90bfe742ac3700"
+  },
+  "lesson-word-9eb27ff15e765af9": {
+    "file": "lesson-word-recordings/lesson-word-9eb27ff15e765af9.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "in",
+    "sha256": "ce413ce1980ebaa9e07de84e43dd8aef98f29e913431cec953ffe99c6d09faea"
+  },
+  "lesson-word-d96dcb2c78f7c824": {
+    "file": "lesson-word-recordings/lesson-word-d96dcb2c78f7c824.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "interesting",
+    "sha256": "7177ac7d6204b598d5f8745cc16725837b9c0e0725d1f8ebf73291bb69b6baab"
+  },
+  "lesson-word-049380773c08bfa8": {
+    "file": "lesson-word-recordings/lesson-word-049380773c08bfa8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "is",
+    "sha256": "9fe8a02a7357e9553189aebe145f0821431cb98c80ff7f1c29c479bbeb3fce57"
+  },
+  "lesson-word-2a13a1dcdb2b2582": {
+    "file": "lesson-word-recordings/lesson-word-2a13a1dcdb2b2582.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "It'll",
+    "sha256": "d6904597e3f79ad2f322999b8c515730b0a9a9520b8e7945644d925e451bd4b7"
+  },
+  "lesson-word-ec2887d458011fd4": {
+    "file": "lesson-word-recordings/lesson-word-ec2887d458011fd4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "It's",
+    "sha256": "4d7d036d8acd9235c4853892a073305011cdb1c64912bbc3f54dd01b650f5b18"
+  },
+  "lesson-word-59def3862b6544b8": {
+    "file": "lesson-word-recordings/lesson-word-59def3862b6544b8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Jie",
+    "sha256": "74ca55250305efa752862d3d52d5f5d84a845c369fd169768196795a09011754"
+  },
+  "lesson-word-f4b706e72a2e9ccb": {
+    "file": "lesson-word-recordings/lesson-word-f4b706e72a2e9ccb.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "John",
+    "sha256": "98f1a8f9ad644fd20802b8734e3781acd9f8d28e2d7e7d6ac54acbaf99b00a6d"
+  },
+  "lesson-word-925ecec1ea24ec75": {
+    "file": "lesson-word-recordings/lesson-word-925ecec1ea24ec75.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "just",
+    "sha256": "ddc422092d36855fde9fff49ef198522b88fb310143cddede878bbfbd0572355"
+  },
+  "lesson-word-2bcdd3f6a310301e": {
+    "file": "lesson-word-recordings/lesson-word-2bcdd3f6a310301e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "lake",
+    "sha256": "897328360f5205382b7048c4f0a5a0965ce941bc26de8051be846aade74db5b9"
+  },
+  "lesson-word-c2a9cd17c7f4c73e": {
+    "file": "lesson-word-recordings/lesson-word-c2a9cd17c7f4c73e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "leaves",
+    "sha256": "b0e84d567b8ea6bde7f79f41ae8c191711c71b1f60cb05e3239ddc29b12ebc4c"
+  },
+  "lesson-word-4936ad6df7630b22": {
+    "file": "lesson-word-recordings/lesson-word-4936ad6df7630b22.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "lessons",
+    "sha256": "08d69e5853a44b288b5706c2de77ad501e175da16d5a619402cf599f7a3a1071"
+  },
+  "lesson-word-e08fb768f41a29c6": {
+    "file": "lesson-word-recordings/lesson-word-e08fb768f41a29c6.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Let's",
+    "sha256": "1e048e2f5fb79388b4ccadb3b6d502329bc3bf6ca091222b36972dbb14ebeeff"
+  },
+  "lesson-word-4dcc74058559a642": {
+    "file": "lesson-word-recordings/lesson-word-4dcc74058559a642.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "like",
+    "sha256": "d7794e31b6ebf210e2e27cba77a5c8973062ecbe0983e1a6fe7afd2ac9272bed"
+  },
+  "lesson-word-eaf08f3bd9c3b51d": {
+    "file": "lesson-word-recordings/lesson-word-eaf08f3bd9c3b51d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "listen",
+    "sha256": "717fde3e78895a1674edde461828646a93a5a95ab55822b11a0f6fa701a1c016"
+  },
+  "lesson-word-35e26b8ad991df89": {
+    "file": "lesson-word-recordings/lesson-word-35e26b8ad991df89.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "little",
+    "sha256": "c620a702edb84d8fa1277d3df94aaf5231ae071bca3f8ddacaa99a2b7a65b80a"
+  },
+  "lesson-word-bba1b3920da937f5": {
+    "file": "lesson-word-recordings/lesson-word-bba1b3920da937f5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "look",
+    "sha256": "fc87d90b1cf37f4865e48b581298350389a9cf7ac7d8df1e93d7c6c33828c852"
+  },
+  "lesson-word-ac732f1a9fefc070": {
+    "file": "lesson-word-recordings/lesson-word-ac732f1a9fefc070.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "lovely",
+    "sha256": "2596c097ea517e58f73985e1a9d637bf2597e01361c5d19f5f07a8150a2e398d"
+  },
+  "lesson-word-9b422d425ff7d7e5": {
+    "file": "lesson-word-recordings/lesson-word-9b422d425ff7d7e5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "lunch",
+    "sha256": "7266a363ce82d557feffeff3760f90fc214f55ee4cecaa544a35cc8654b3f5e3"
+  },
+  "lesson-word-b8922927c85bdccd": {
+    "file": "lesson-word-recordings/lesson-word-b8922927c85bdccd.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "make",
+    "sha256": "c8fd2cb0d10d5ec1c0bde0f4458e019fb4567ce42dbb0824b42be7687de9f5a2"
+  },
+  "lesson-word-f59c9cf6facb8622": {
+    "file": "lesson-word-recordings/lesson-word-f59c9cf6facb8622.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "making",
+    "sha256": "678ec9a42e323024856a955b82e23701d0297333845ce6af3a49c22666f3a3ee"
+  },
+  "lesson-word-99b3bef7880a1169": {
+    "file": "lesson-word-recordings/lesson-word-99b3bef7880a1169.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "many",
+    "sha256": "886fa39a1565f68a73d1e2ce1fbd9dfb2500864e333fe2eedc2a838f1e7384b2"
+  },
+  "lesson-word-1f7327f1ac98324b": {
+    "file": "lesson-word-recordings/lesson-word-1f7327f1ac98324b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "maths",
+    "sha256": "1de30fe4f5fb851bb0f587c89854c06df741561a28802bfe4ba284754c85d7d1"
+  },
+  "lesson-word-abb35e4c5317a675": {
+    "file": "lesson-word-recordings/lesson-word-abb35e4c5317a675.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "matter",
+    "sha256": "07143eb095172e9e8a3890899d2f1c93af7aded585f6c0737b91d50ca11da5d6"
+  },
+  "lesson-word-6d5992c8034ab854": {
+    "file": "lesson-word-recordings/lesson-word-6d5992c8034ab854.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "me",
+    "sha256": "de2444ad26c4a183dc590fafb97b4c5af8f8e082958621d3aa8137991df1f1dd"
+  },
+  "lesson-word-bdb7d3bff3bbde0e": {
+    "file": "lesson-word-recordings/lesson-word-bdb7d3bff3bbde0e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "meals",
+    "sha256": "b53b26eb535879244642cfb690ecd8d0cc5646a4b9615a0651681f8aee7ec813"
+  },
+  "lesson-word-72cf2c094a1189bd": {
+    "file": "lesson-word-recordings/lesson-word-72cf2c094a1189bd.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Mike",
+    "sha256": "da2ff64d8cb5d656e27fa6fa516162bfa62a379c701fdebd5a4a079af092b500"
+  },
+  "lesson-word-503511b636601f25": {
+    "file": "lesson-word-recordings/lesson-word-503511b636601f25.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Miss",
+    "sha256": "d21d205070ea4ec125ef4bb44abfab91c4acca94b70e7c65e9244b3be3782ed3"
+  },
+  "lesson-word-6f170b661e90c7c3": {
+    "file": "lesson-word-recordings/lesson-word-6f170b661e90c7c3.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Monday",
+    "sha256": "7555b7da0d785f2f05cc1def99d779bf570a56bc656fef110cc764263f22cde3"
+  },
+  "lesson-word-d493602dcc9ac045": {
+    "file": "lesson-word-recordings/lesson-word-d493602dcc9ac045.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "more",
+    "sha256": "c57b08b16999e3d448cea59b06f89fe5090ccf8c5d72d1f780b6a64ce5675c92"
+  },
+  "lesson-word-ba1ab162428c910d": {
+    "file": "lesson-word-recordings/lesson-word-ba1ab162428c910d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "morning",
+    "sha256": "6a3b4c93f6c04e49fb43a54e3f50fddf6a6e2d48a53f7bc14516bd67c783fe3a"
+  },
+  "lesson-word-d3a6129c7f8b4464": {
+    "file": "lesson-word-recordings/lesson-word-d3a6129c7f8b4464.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "mother",
+    "sha256": "203537a9872b13f22d529d7863409c35a5e2a3c15c937f1ee434a793f76b6fc5"
+  },
+  "lesson-word-41a5dfa411b0a46d": {
+    "file": "lesson-word-recordings/lesson-word-41a5dfa411b0a46d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "mountains",
+    "sha256": "3f474113f60d372ade71b644fcddeeb96dfbaa9937eeec29761ec1cb5bccc7f9"
+  },
+  "lesson-word-fd4f14f283b6425a": {
+    "file": "lesson-word-recordings/lesson-word-fd4f14f283b6425a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Mum",
+    "sha256": "041064691b7dd62ad1cd19680637b0683faa1f7714987eda22939bed71827212"
+  },
+  "lesson-word-ebc9670a13f5a9c5": {
+    "file": "lesson-word-recordings/lesson-word-ebc9670a13f5a9c5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Mum's",
+    "sha256": "9371834d74339b9bad313ce0f17dc59217c1252f6ce2cd11169cd35161962186"
+  },
+  "lesson-word-7414cfbc192ae44d": {
+    "file": "lesson-word-recordings/lesson-word-7414cfbc192ae44d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "music",
+    "sha256": "007aa0866884b8c1494cf9d7f696927e6170b0b9a7bbb13882d8ffa821332011"
+  },
+  "lesson-word-ce5674b4115e3da8": {
+    "file": "lesson-word-recordings/lesson-word-ce5674b4115e3da8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "my",
+    "sha256": "00ac75910a270d5733169790d9a5bf81dc2a1b6983f26282786f73cbe5f8e9f7"
+  },
+  "lesson-word-9b243b30e8fa9a2b": {
+    "file": "lesson-word-recordings/lesson-word-9b243b30e8fa9a2b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "name",
+    "sha256": "b342706e09ed92161462c5470feaef837077f00c82cdb1084f8996bac224d486"
+  },
+  "lesson-word-c6f401fdde9d72f7": {
+    "file": "lesson-word-recordings/lesson-word-c6f401fdde9d72f7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "nature",
+    "sha256": "a24a750451e5104a8712fe181af69c1a4f26af0010cf0b5f7f6a1696673cb91d"
+  },
+  "lesson-word-bd9514d0e5e780c0": {
+    "file": "lesson-word-recordings/lesson-word-bd9514d0e5e780c0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "need",
+    "sha256": "55b65bca9d59a4a9db01438b0b86cfbd7160032ab08ed8259e67ad6f72839d4b"
+  },
+  "lesson-word-ad2209cc986451fe": {
+    "file": "lesson-word-recordings/lesson-word-ad2209cc986451fe.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "needs",
+    "sha256": "2b8e35b67162adbd12b054653461030d54de599c75beb0fd1500176063b92df4"
+  },
+  "lesson-word-45d1db22633da7c6": {
+    "file": "lesson-word-recordings/lesson-word-45d1db22633da7c6.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "new",
+    "sha256": "768c90f865b8584408ef754e0eb6bf4df112272f5e3f7174ccec475d91e1d315"
+  },
+  "lesson-word-7473a67423bb768e": {
+    "file": "lesson-word-recordings/lesson-word-7473a67423bb768e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "nice",
+    "sha256": "aba9071e3a6bc4455927dc5e81d71eef24f070db70d9acb89d82decf479e1778"
+  },
+  "lesson-word-b4fdb953d1bf7bd0": {
+    "file": "lesson-word-recordings/lesson-word-b4fdb953d1bf7bd0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "No",
+    "sha256": "18f049ec49f3607132dd773de86529dd3113aa1fba4ed7f874e50115d1608d96"
+  },
+  "lesson-word-57d86420386b7914": {
+    "file": "lesson-word-recordings/lesson-word-57d86420386b7914.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "not",
+    "sha256": "c163e126dea0754435af7b290a5e7f3d2ade054a6db86ab4ff698a19c862e711"
+  },
+  "lesson-word-cb9ba88e17be2982": {
+    "file": "lesson-word-recordings/lesson-word-cb9ba88e17be2982.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "now",
+    "sha256": "f1ece45321db23ee465d4aaa5cc027822cbdb3544d153c3b9d4c963997438182"
+  },
+  "lesson-word-6c6d9cfe2275fc70": {
+    "file": "lesson-word-recordings/lesson-word-6c6d9cfe2275fc70.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "often",
+    "sha256": "299afc4f8882f5e92f344a088eda33f01c324b588b925440c6b87df72150ed73"
+  },
+  "lesson-word-4ac5e25129ef91d8": {
+    "file": "lesson-word-recordings/lesson-word-4ac5e25129ef91d8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Oh",
+    "sha256": "0af4de69e152af496a23773ab697623791ee9ef2d6c5d99b69a98db0873a5d66"
+  },
+  "lesson-word-8d1b539df26846b3": {
+    "file": "lesson-word-recordings/lesson-word-8d1b539df26846b3.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "OK",
+    "sha256": "4be9f62bd100b8a62c6a7097158b07ea121154e9389b91b394a1b266b1739d06"
+  },
+  "lesson-word-26e46665e817401d": {
+    "file": "lesson-word-recordings/lesson-word-26e46665e817401d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Oliver",
+    "sha256": "9b40b4ca1ef73d2ffea52a320043d6902dd4c53e7238f4fd41534e2ba8bf171a"
+  },
+  "lesson-word-0f11ada052f73523": {
+    "file": "lesson-word-recordings/lesson-word-0f11ada052f73523.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "on",
+    "sha256": "b08928bf9645f13638c2eb7aed5cd0cf72a1faafba9da9fbe0deb777cbf8d58e"
+  },
+  "lesson-word-9f699bbed37e8a99": {
+    "file": "lesson-word-recordings/lesson-word-9f699bbed37e8a99.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "one",
+    "sha256": "3f01147378fafc2f22e8b02e01ac6d31f3b6d1da42434138105ab99a7be649c4"
+  },
+  "lesson-word-bd884763f660147d": {
+    "file": "lesson-word-recordings/lesson-word-bd884763f660147d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "other",
+    "sha256": "bb9266b986a1a059ec89bd4ee1ca710e5f44ecc1e10935fd60b15ab4b4989b1f"
+  },
+  "lesson-word-106d1b0b9b778710": {
+    "file": "lesson-word-recordings/lesson-word-106d1b0b9b778710.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Our",
+    "sha256": "4d2217633180662a5794243a5dfd807b0ff1411a670ef4dd2a2695cbb032ffec"
+  },
+  "lesson-word-beaf4541d64a9af4": {
+    "file": "lesson-word-recordings/lesson-word-beaf4541d64a9af4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "outside",
+    "sha256": "2444fcfaf4664335d3eb332d5e254f15d162809c8e229e67ad030e8db6a958d2"
+  },
+  "lesson-word-18a7ac8bc49b773b": {
+    "file": "lesson-word-recordings/lesson-word-18a7ac8bc49b773b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "park",
+    "sha256": "deb7f70fd85511f691c7ba98d2333beb1a5fe988016c3709087d3a1d34485049"
+  },
+  "lesson-word-13a0875b3df1c4ab": {
+    "file": "lesson-word-recordings/lesson-word-13a0875b3df1c4ab.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "PE",
+    "sha256": "9b7335e9550272baf7f8ba22d8f78924e703b82f5e6e695f3a51c49f31259923"
+  },
+  "lesson-word-9d8647b44783d8ae": {
+    "file": "lesson-word-recordings/lesson-word-9d8647b44783d8ae.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Peng",
+    "sha256": "eaaaa2850af20259d840396b439f79c45513076028ff6a188210bb60ee6c2e73"
+  },
+  "lesson-word-58ae7fc067cb58a7": {
+    "file": "lesson-word-recordings/lesson-word-58ae7fc067cb58a7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "people",
+    "sha256": "2dc0cdef50de914f720706bf24aa84a7f39f4d44fb162fbd5dd4673596baa18d"
+  },
+  "lesson-word-ea73fe2030c07d19": {
+    "file": "lesson-word-recordings/lesson-word-ea73fe2030c07d19.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "phone",
+    "sha256": "f92125b0949ffbff393994ae25ffcf352a7406670e8f75c9efe0b6462e96fab0"
+  },
+  "lesson-word-72cecd21b42807d0": {
+    "file": "lesson-word-recordings/lesson-word-72cecd21b42807d0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "pipa",
+    "sha256": "2059b8c58002e41c25ac6b7d8a1e86875f0701f0de1165e26a28c7bc5333c895"
+  },
+  "lesson-word-359ca8c8f134dffa": {
+    "file": "lesson-word-recordings/lesson-word-359ca8c8f134dffa.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "play",
+    "sha256": "36e779d555ba9422c5c6ab136ba6e7b74e09b1eee0bd36a2991237b8e8afbb93"
+  },
+  "lesson-word-2d1ddd753d8439c8": {
+    "file": "lesson-word-recordings/lesson-word-2d1ddd753d8439c8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "players",
+    "sha256": "0b8cb1a1d6bde073c116447e1570057238b927f7e2e2a1df72e641c8dcdb7e45"
+  },
+  "lesson-word-fb9df82836c0a119": {
+    "file": "lesson-word-recordings/lesson-word-fb9df82836c0a119.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "please",
+    "sha256": "f118f4af865ef5fa75fb705e716773714c5f96be714fdc52f16e45c021efa5ec"
+  },
+  "lesson-word-62de964f3de91c91": {
+    "file": "lesson-word-recordings/lesson-word-62de964f3de91c91.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "problem",
+    "sha256": "d4e351a2297f5be4cc3933ff2b1736718437055e9c26f3830c7ff84e95790935"
+  },
+  "lesson-word-87d07ff0761151ce": {
+    "file": "lesson-word-recordings/lesson-word-87d07ff0761151ce.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "project",
+    "sha256": "c6da00c52d9b3e107efd41280d99f4c0236221051b9f49964c238cbfe0904602"
+  },
+  "lesson-word-9ddb715a23df2446": {
+    "file": "lesson-word-recordings/lesson-word-9ddb715a23df2446.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "projects",
+    "sha256": "d5d18ae310e4bd6f383ae3858108b6e63b5327c43507dcf8c7b3d48c083b3720"
+  },
+  "lesson-word-52d92a8a3ed65ed1": {
+    "file": "lesson-word-recordings/lesson-word-52d92a8a3ed65ed1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "rabbits",
+    "sha256": "e33ea4946bf2ef80a26cd2e38345c928de398b188c53fbcc4ee8059dc0e8a885"
+  },
+  "lesson-word-09ab3dfa13cb693c": {
+    "file": "lesson-word-recordings/lesson-word-09ab3dfa13cb693c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "rain",
+    "sha256": "0cdf0f3ae598e004ad21c2ef9afcc3d536e3ff26f28236292c6b447da20fd2b8"
+  },
+  "lesson-word-2a3523864f7cc255": {
+    "file": "lesson-word-recordings/lesson-word-2a3523864f7cc255.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "raincoats",
+    "sha256": "1c5ca5ba7045da3ed7eb591674c9c069e05f419d2a041abb2e3080ce7f6b07bd"
+  },
+  "lesson-word-ab877a8cef664416": {
+    "file": "lesson-word-recordings/lesson-word-ab877a8cef664416.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "really",
+    "sha256": "013def2ed91bdaff9516ca6a23a481996b70186d1f399bfc970ab3e00f8578aa"
+  },
+  "lesson-word-5178eefad228180f": {
+    "file": "lesson-word-recordings/lesson-word-5178eefad228180f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "rest",
+    "sha256": "710e1bbf784f8a850024bb1f097532c65aedb80de670887f560e3749d8252f38"
+  },
+  "lesson-word-afcbd4252dba0184": {
+    "file": "lesson-word-recordings/lesson-word-afcbd4252dba0184.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "rice",
+    "sha256": "238e47ac4945b85be4cb5aeb091d6d100f3ce062e4a60d2a4138d5370371640c"
+  },
+  "lesson-word-a2ff8228d15f7454": {
+    "file": "lesson-word-recordings/lesson-word-a2ff8228d15f7454.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "right",
+    "sha256": "a48ca9ecc72f23c3dddf494c76ef2f9aa5d08dc758e87cabf35aecbe7eb1c222"
+  },
+  "lesson-word-8028fa60941d25cd": {
+    "file": "lesson-word-recordings/lesson-word-8028fa60941d25cd.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "rivers",
+    "sha256": "d64c4b49036f8eeda043b044130fdb8eb2fc01a26d808fe2c88dad49e81f6468"
+  },
+  "lesson-word-1652da1bba692e7e": {
+    "file": "lesson-word-recordings/lesson-word-1652da1bba692e7e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "robot",
+    "sha256": "725d65429cecb65cea72ac9589cc549fec1a447098a14ec9bab92dfe3dc8f808"
+  },
+  "lesson-word-d691937287d338f1": {
+    "file": "lesson-word-recordings/lesson-word-d691937287d338f1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "robots",
+    "sha256": "a58ea9b358fc27c1ee236622aa6885bf3e5c38b8a56df273f4a778da50bcf463"
+  },
+  "lesson-word-02cb969375637009": {
+    "file": "lesson-word-recordings/lesson-word-02cb969375637009.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "run",
+    "sha256": "d1062eafaef14cfacebff291aff7fc7622b544b82559e16fbadc80c4f56d919a"
+  },
+  "lesson-word-e91d230a7b11596e": {
+    "file": "lesson-word-recordings/lesson-word-e91d230a7b11596e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "sad",
+    "sha256": "679e527a1defc12acb1c0a05aacd674074de039d98dfa2f6c12df2af8dd60ca4"
+  },
+  "lesson-word-134bab539e4df930": {
+    "file": "lesson-word-recordings/lesson-word-134bab539e4df930.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "salad",
+    "sha256": "169f064069f09d90d612d235409d56bb170947065ee64d291e8148b6799cc973"
+  },
+  "lesson-word-bd6e9daa153d8005": {
+    "file": "lesson-word-recordings/lesson-word-bd6e9daa153d8005.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Sarah",
+    "sha256": "a7ace4de0bd0f91c3bac1ddefdd0eaf598491b85b9a7ea8ef6074f7ff43f31e8"
+  },
+  "lesson-word-9dd773bd08e56ea5": {
+    "file": "lesson-word-recordings/lesson-word-9dd773bd08e56ea5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Saturdays",
+    "sha256": "076ea05c744f76c7378f9f97028af901f3b390864b71a371df681ce2eed6eeaa"
+  },
+  "lesson-word-537383192e24de2f": {
+    "file": "lesson-word-recordings/lesson-word-537383192e24de2f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "school",
+    "sha256": "be4af0f282a116786fe70ee9523c6cc25abedd2dc395ec64ec3518c74f5abb2a"
+  },
+  "lesson-word-76fd94e04b37cedb": {
+    "file": "lesson-word-recordings/lesson-word-76fd94e04b37cedb.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Science",
+    "sha256": "b90e40fedd8fb6f6af16b330ff8872ba64b74360c826a57692c9df1582720675"
+  },
+  "lesson-word-43da9ca0102d680b": {
+    "file": "lesson-word-recordings/lesson-word-43da9ca0102d680b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "season",
+    "sha256": "2513f3726f6f235cd21938634b356f9ed9606b340887ee3b7ac184509e9afd9d"
+  },
+  "lesson-word-1db98a2c74cea348": {
+    "file": "lesson-word-recordings/lesson-word-1db98a2c74cea348.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "see",
+    "sha256": "ce7343e46ba49ceda969883837bd540168f55d6d06dde04d02e413d134e167f1"
+  },
+  "lesson-word-0dc03c7c97878b18": {
+    "file": "lesson-word-recordings/lesson-word-0dc03c7c97878b18.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "she",
+    "sha256": "a8305ad905102590d972893d946092ba4f2cc84473d492f6f19b43e4837f5276"
+  },
+  "lesson-word-240687a06ff3b1aa": {
+    "file": "lesson-word-recordings/lesson-word-240687a06ff3b1aa.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "shop",
+    "sha256": "611d9781383ecfa65ad784d5a2008703284070022467f96d3a330cd81b8b5317"
+  },
+  "lesson-word-3272436a422670c5": {
+    "file": "lesson-word-recordings/lesson-word-3272436a422670c5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "should",
+    "sha256": "6ead54746c81afc1b4cd660d5049f335511459034fbd4ae67c44acd8acdb05b8"
+  },
+  "lesson-word-b778e2861e6135b2": {
+    "file": "lesson-word-recordings/lesson-word-b778e2861e6135b2.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "shouldn't",
+    "sha256": "5c55ca7a4311d4722f0fe79bb8ff2a963184cd100a5ac4dd133f01289ad7e677"
+  },
+  "lesson-word-e06aeb32f8a87ca8": {
+    "file": "lesson-word-recordings/lesson-word-e06aeb32f8a87ca8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "show",
+    "sha256": "9597442c013c8453816043491dac1a6b56569b538fac4c2c913f5d95bd14f15b"
+  },
+  "lesson-word-2623384a7675403e": {
+    "file": "lesson-word-recordings/lesson-word-2623384a7675403e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "singing",
+    "sha256": "323deb77a70d4f1cce2d406e2714efa17da8023d0f07b7bc413ba67bb6ff3c6d"
+  },
+  "lesson-word-e9213243d268644c": {
+    "file": "lesson-word-recordings/lesson-word-e9213243d268644c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "sleep",
+    "sha256": "de2841183fd2e4f2176af8bcfa9afab69ae3d4a0f23fa80b1901aa8d29c73392"
+  },
+  "lesson-word-9a4fae92ded0e9b5": {
+    "file": "lesson-word-recordings/lesson-word-9a4fae92ded0e9b5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "small",
+    "sha256": "96ee96c95c04cea0355c37f88acad87893e775e7a3d08f426f3835d7c1b36fd5"
+  },
+  "lesson-word-8dca76435cf1da8d": {
+    "file": "lesson-word-recordings/lesson-word-8dca76435cf1da8d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "So",
+    "sha256": "61d1399f20922d0e7f5c630bfcc5c9c510fd6f17761a6e38b069dd797b79f334"
+  },
+  "lesson-word-52eaf95515be6099": {
+    "file": "lesson-word-recordings/lesson-word-52eaf95515be6099.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "some",
+    "sha256": "f409dc03a276657cdb19e9e280579d6a92b4ffab62b809d12b1c11e38a0c7045"
+  },
+  "lesson-word-b441700c391fadf1": {
+    "file": "lesson-word-recordings/lesson-word-b441700c391fadf1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Sometimes",
+    "sha256": "c6cbe9e188deb73aa87ca65371ec247b40f3d0880003c4a8f99168562067417e"
+  },
+  "lesson-word-1f20db3f15ddff5a": {
+    "file": "lesson-word-recordings/lesson-word-1f20db3f15ddff5a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "sorry",
+    "sha256": "c34ea8e6871f5e1c476773b79caf1c0544df6f62ddfca72785da81f18f11f29d"
+  },
+  "lesson-word-bf0df7733beb73dd": {
+    "file": "lesson-word-recordings/lesson-word-bf0df7733beb73dd.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "soup",
+    "sha256": "57d2d3ad7e5cc2fa7fbd22e2817fbd8db4345abe83d239fa461690ad80742cda"
+  },
+  "lesson-word-a0b513e35af28bd7": {
+    "file": "lesson-word-recordings/lesson-word-a0b513e35af28bd7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "speak",
+    "sha256": "2056ea05021742ae730dc2399fdb4b130ead6f0a0db7ac46f05eb409287b9552"
+  },
+  "lesson-word-7b5d22c8a2d17f3e": {
+    "file": "lesson-word-recordings/lesson-word-7b5d22c8a2d17f3e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "stay",
+    "sha256": "f5f8cb1960c208c65e6f92b90c121798351aa21e9b13d199ec880fcf6057a4f5"
+  },
+  "lesson-word-d314296caa5d5820": {
+    "file": "lesson-word-recordings/lesson-word-d314296caa5d5820.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "strong",
+    "sha256": "275fbc8142bf8b906c677bf1229c0fc5735ae7ff269f74fc97b6489f4fbd8297"
+  },
+  "lesson-word-3ae8a38166d62a8b": {
+    "file": "lesson-word-recordings/lesson-word-3ae8a38166d62a8b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "subject",
+    "sha256": "236a34042c983fa22f8ca20a4dd2f28d1c9b6e4c080ca4918f8663e5005d676f"
+  },
+  "lesson-word-f30b31a530fccd4e": {
+    "file": "lesson-word-recordings/lesson-word-f30b31a530fccd4e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Sundays",
+    "sha256": "67971452f006af31b53c1c7c2ac32eefb1838e08d42fca4a7d35cde45f0f9ab6"
+  },
+  "lesson-word-598baecffe23e694": {
+    "file": "lesson-word-recordings/lesson-word-598baecffe23e694.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Sure",
+    "sha256": "a48018c076ed2e851cfe7f8a4a03a107460e8994f5450c77734d7cc2650a8a2c"
+  },
+  "lesson-word-c1c1b6faa988b720": {
+    "file": "lesson-word-recordings/lesson-word-c1c1b6faa988b720.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "taijiquan",
+    "sha256": "392314d88978efb623f6244caa42b58f6f304e69fe4f8a90d243ef7d9f203a43"
+  },
+  "lesson-word-b5b33666727db14c": {
+    "file": "lesson-word-recordings/lesson-word-b5b33666727db14c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "take",
+    "sha256": "16129d42cf3cea891d729a785283926bfad0252cb90f43315bd6cf6b1f8b479e"
+  },
+  "lesson-word-f7fd531247212305": {
+    "file": "lesson-word-recordings/lesson-word-f7fd531247212305.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "talk",
+    "sha256": "d4db7edc071075e561a4270e39cac425b59ad7558d5af5dddfcba105fc60f76f"
+  },
+  "lesson-word-2a29bb3ea4540e0b": {
+    "file": "lesson-word-recordings/lesson-word-2a29bb3ea4540e0b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "tall",
+    "sha256": "4743c33ebcbe650c9ce16c2ee4af4b71c83f0470d59994a5594869a87736fde9"
+  },
+  "lesson-word-e1fb250b3dfe0a1e": {
+    "file": "lesson-word-recordings/lesson-word-e1fb250b3dfe0a1e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "teacher",
+    "sha256": "a27a3043c884e6ea64beac8433dfc64ad1bd8a6c1841467ce25f9d6a57f0bb2b"
+  },
+  "lesson-word-6481ac6203e9a7f8": {
+    "file": "lesson-word-recordings/lesson-word-6481ac6203e9a7f8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "team",
+    "sha256": "6a5759bae417372c9924f167edd5c1531b02b56c95311fc34f42cf653e162367"
+  },
+  "lesson-word-3d1b0369d6d514d5": {
+    "file": "lesson-word-recordings/lesson-word-3d1b0369d6d514d5.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Thanks",
+    "sha256": "1666329c438bd8c7128b05d172ab9ea1e224677061af38339ee3b767dc1fdf2d"
+  },
+  "lesson-word-5d9abf9a2c3c0302": {
+    "file": "lesson-word-recordings/lesson-word-5d9abf9a2c3c0302.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "That",
+    "sha256": "1e5242cd03338938afbd30976afc5213c5a53e3d11b7214bacd0a6c75aac87fa"
+  },
+  "lesson-word-56ad5d6a9f3bc9c0": {
+    "file": "lesson-word-recordings/lesson-word-56ad5d6a9f3bc9c0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "That's",
+    "sha256": "677a83fb8dd64cc3f01423c64bbb2cef62bb9d524768fa9a4265c9e554855b0a"
+  },
+  "lesson-word-7c1825c148077501": {
+    "file": "lesson-word-recordings/lesson-word-7c1825c148077501.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "The",
+    "sha256": "e6df6aa8a505165fe15248ae354f7b49cfad50bcb281aedd998ba5c66beba623"
+  },
+  "lesson-word-0b242f71f7a66f47": {
+    "file": "lesson-word-recordings/lesson-word-0b242f71f7a66f47.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "them",
+    "sha256": "ffa634efcd42b8297678b4dcc5ca60c151fac1eaf0946084427d65afe880fced"
+  },
+  "lesson-word-530b36b6685a692f": {
+    "file": "lesson-word-recordings/lesson-word-530b36b6685a692f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "then",
+    "sha256": "8820b58de3da3c3304c8465bdcdbef94859069a7696ad7f43b31e2bca3148586"
+  },
+  "lesson-word-a34f6151939567b6": {
+    "file": "lesson-word-recordings/lesson-word-a34f6151939567b6.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "There",
+    "sha256": "89a4a9a2a5a881af04f16238e5d25c70bb1367bd2cb10e5d13163b9fb23d67f3"
+  },
+  "lesson-word-93424f4faba6ebf1": {
+    "file": "lesson-word-recordings/lesson-word-93424f4faba6ebf1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "things",
+    "sha256": "97268191c2d488def7adab4793a26f887c5b9a76a2d6e78943103c307099d61a"
+  },
+  "lesson-word-1b8e32dff907f7e8": {
+    "file": "lesson-word-recordings/lesson-word-1b8e32dff907f7e8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "think",
+    "sha256": "e2bc26ba88cd14730c6a25edd37be9000aee2d8e15ad7d5ab72b08fd71acb897"
+  },
+  "lesson-word-7a4b9087845f8004": {
+    "file": "lesson-word-recordings/lesson-word-7a4b9087845f8004.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "this",
+    "sha256": "2f842b0bdc45f1b6842cd89f3dde84ce0309cbde378ae6d8a3b6b7565cf0a76f"
+  },
+  "lesson-word-4d4ad77121ab1d4d": {
+    "file": "lesson-word-recordings/lesson-word-4d4ad77121ab1d4d.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "to",
+    "sha256": "26d18dc8d8afc4222b018e88c7e72db3371da9b19bff9cf0cc661169b9675350"
+  },
+  "lesson-word-d93d8887310f85ee": {
+    "file": "lesson-word-recordings/lesson-word-d93d8887310f85ee.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "today",
+    "sha256": "8722380edc8b819b728364aeb0d13cbb42315ed824fbf5f8345b44100374de5d"
+  },
+  "lesson-word-c2478a7c88ef5905": {
+    "file": "lesson-word-recordings/lesson-word-c2478a7c88ef5905.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "together",
+    "sha256": "fbf30fdb05b5ad83931047c2f4f0f70f32adddfa495664be9e71dcaffb358cfa"
+  },
+  "lesson-word-b6363be726e333e7": {
+    "file": "lesson-word-recordings/lesson-word-b6363be726e333e7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "tomorrow",
+    "sha256": "112fb416a75af0a5d1e002ab8072f7a1172b08f90361baead8a46207b4ce6538"
+  },
+  "lesson-word-c6a8ea6c7ebf68d2": {
+    "file": "lesson-word-recordings/lesson-word-c6a8ea6c7ebf68d2.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "too",
+    "sha256": "26d18dc8d8afc4222b018e88c7e72db3371da9b19bff9cf0cc661169b9675350"
+  },
+  "lesson-word-8a4620001cd88ea1": {
+    "file": "lesson-word-recordings/lesson-word-8a4620001cd88ea1.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "tree",
+    "sha256": "1a7062f653d89ecb4aa09b969cbdd49a2ae7581855a2a44f7f9c502f7e497b2b"
+  },
+  "lesson-word-062b83e859cad01c": {
+    "file": "lesson-word-recordings/lesson-word-062b83e859cad01c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "trees",
+    "sha256": "c71f4773de0811233cfb2325ab3a054be88e471d2c2d41c12dd2b1db10efda55"
+  },
+  "lesson-word-e3f0c42f18973061": {
+    "file": "lesson-word-recordings/lesson-word-e3f0c42f18973061.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "trip",
+    "sha256": "cf21fd1b8be28a8a764da6595c042d985c6a89d2256eb2c955a1cbd1bf51dd54"
+  },
+  "lesson-word-9ab207d15ebcc5a0": {
+    "file": "lesson-word-recordings/lesson-word-9ab207d15ebcc5a0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Tuesdays",
+    "sha256": "3cf15eb42d0db882e9faa820da24033f27e5c9a2dccf9d51103686f6423ce200"
+  },
+  "lesson-word-735a0017eadb1966": {
+    "file": "lesson-word-recordings/lesson-word-735a0017eadb1966.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "TV",
+    "sha256": "4ee9fedd013e52fa802bd2faf0700fd25b08516200b160df1cf87eaeef3cc469"
+  },
+  "lesson-word-7d3b4303e99f9aca": {
+    "file": "lesson-word-recordings/lesson-word-7d3b4303e99f9aca.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "two",
+    "sha256": "a854722f001cb9b0dbe65dd94ed00a822f23dfec33ded791856f9ad30b00dfa0"
+  },
+  "lesson-word-21cc195b3f8215b0": {
+    "file": "lesson-word-recordings/lesson-word-21cc195b3f8215b0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "umbrellas",
+    "sha256": "ec03b391b08e13be5e50868d18fe170d74fe5931acf12bad30276e29888799fb"
+  },
+  "lesson-word-86ab09044623c1b7": {
+    "file": "lesson-word-recordings/lesson-word-86ab09044623c1b7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "up",
+    "sha256": "55837750d62abd335df766f50fa4e3a04009469790b7fc46dfc24771e9b5e9e1"
+  },
+  "lesson-word-a5215cb25f2624c3": {
+    "file": "lesson-word-recordings/lesson-word-a5215cb25f2624c3.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "us",
+    "sha256": "1aca8b4e8a5ba3614ddb43439957d811b60e2385aaff94cbcea88099d9c1a2ee"
+  },
+  "lesson-word-f6277642822f27ec": {
+    "file": "lesson-word-recordings/lesson-word-f6277642822f27ec.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "usually",
+    "sha256": "3fb6a0f80fc61be35bdb3af403229e1b232fb6d625a8c8a9dbddd1780f3d3148"
+  },
+  "lesson-word-162c655c8a257079": {
+    "file": "lesson-word-recordings/lesson-word-162c655c8a257079.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Vegetables",
+    "sha256": "e71d080c307848d2f009d080e3ba39de585e0a1e011e624ede1791759485ea74"
+  },
+  "lesson-word-5971a5b8a2e754aa": {
+    "file": "lesson-word-recordings/lesson-word-5971a5b8a2e754aa.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "very",
+    "sha256": "acf69dff32ac2158a89ad97deb4df7d9baf8f01c4209cf5ab4317ec43677f7fc"
+  },
+  "lesson-word-5ae883b4f2553af7": {
+    "file": "lesson-word-recordings/lesson-word-5ae883b4f2553af7.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "visit",
+    "sha256": "081fc7fad5fc7ccdb27575eb04b41a88bfe57f4cf15fb8b93d7c7251a4ae1a63"
+  },
+  "lesson-word-88623181f7ce4a44": {
+    "file": "lesson-word-recordings/lesson-word-88623181f7ce4a44.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "walk",
+    "sha256": "65d3307cc3ac16bdd49102706fcff64b07aaad8f44c3c9a21eebb3b76b5f16c4"
+  },
+  "lesson-word-478fcba22ddf9643": {
+    "file": "lesson-word-recordings/lesson-word-478fcba22ddf9643.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "want",
+    "sha256": "a691fd59e5012276f890f36fab6be665915cdf509922c901b0f5b36a943690a5"
+  },
+  "lesson-word-f1546b41992c4258": {
+    "file": "lesson-word-recordings/lesson-word-f1546b41992c4258.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "wants",
+    "sha256": "11b67a68b901987edfb39c48f3411dd82e9c43f516fdd24d58e6f04104267dcc"
+  },
+  "lesson-word-1e58401480df9c4a": {
+    "file": "lesson-word-recordings/lesson-word-1e58401480df9c4a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "watch",
+    "sha256": "7f17f22cd7caed8b53fcf14396ee8a9e83a41e66d2b09dab7a53503f612ffa57"
+  },
+  "lesson-word-4eed59d727d75d38": {
+    "file": "lesson-word-recordings/lesson-word-4eed59d727d75d38.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "water",
+    "sha256": "f85472cb7c0b682b05d9b5eb51b01fc2aaf9d5955064a1c60b5932968af8ecf9"
+  },
+  "lesson-word-522469546986ac4b": {
+    "file": "lesson-word-recordings/lesson-word-522469546986ac4b.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "waterfall",
+    "sha256": "09a8bf296b019b744c45ea16baf55d4b5bd6e3b358499f28a80394311cdbbf7e"
+  },
+  "lesson-word-447d54d89439473f": {
+    "file": "lesson-word-recordings/lesson-word-447d54d89439473f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "We",
+    "sha256": "ec094f22389803fd4fa18a4779fccf39377ec4e19c3800c970798907617a8f1c"
+  },
+  "lesson-word-6e299805859b02b6": {
+    "file": "lesson-word-recordings/lesson-word-6e299805859b02b6.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "We'll",
+    "sha256": "9a10946a34eadedc66bf9d0131defdec5baf58368cab2bbcbb2a94327ee6fb0b"
+  },
+  "lesson-word-37b6afa1ddddf54c": {
+    "file": "lesson-word-recordings/lesson-word-37b6afa1ddddf54c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Wednesday",
+    "sha256": "4a38d5c52749732d3797ff6cefcc4e8ba9486984dd34f33f011e969e155f1933"
+  },
+  "lesson-word-f157d5eaa0296e6c": {
+    "file": "lesson-word-recordings/lesson-word-f157d5eaa0296e6c.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Wednesdays",
+    "sha256": "421ba0d4158feba1d93ab4781c5493acde3a957501b236c0361e4e5c76c9a609"
+  },
+  "lesson-word-2004a893f2c7d1cd": {
+    "file": "lesson-word-recordings/lesson-word-2004a893f2c7d1cd.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "weekend",
+    "sha256": "e37dc561bde9052f6ed190c7fc0c0843cd2a74ff0dda987766f77d90d78027c0"
+  },
+  "lesson-word-f7a8cabe1199d57f": {
+    "file": "lesson-word-recordings/lesson-word-f7a8cabe1199d57f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "weeks",
+    "sha256": "bd400a8c35a088209ead400c2ef53112b9ac18e2d488aaf7ec04db18288eb087"
+  },
+  "lesson-word-9c5de95c7ab91b06": {
+    "file": "lesson-word-recordings/lesson-word-9c5de95c7ab91b06.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "well",
+    "sha256": "84256a47a225da58c342aabe85ac575e75f9ec1462f5fac55dd02a712db226b5"
+  },
+  "lesson-word-daef6ca67dec3087": {
+    "file": "lesson-word-recordings/lesson-word-daef6ca67dec3087.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "What",
+    "sha256": "54ee8b6f43d609c04563a515a62aaa719ce4073e0fb7e125375dacde1d52e515"
+  },
+  "lesson-word-dab24e02939189b2": {
+    "file": "lesson-word-recordings/lesson-word-dab24e02939189b2.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "What's",
+    "sha256": "6ec8544faab7f4f7150de477c55f2837312b49ebc3cdc2da5ab1a90083f7ab21"
+  },
+  "lesson-word-48820088864471ff": {
+    "file": "lesson-word-recordings/lesson-word-48820088864471ff.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Where",
+    "sha256": "1f9497e92c0e2ac8f01a8c02cf2a0637198604798d2115fe76ae0809db0a7a73"
+  },
+  "lesson-word-8e1c72b63ceaf03a": {
+    "file": "lesson-word-recordings/lesson-word-8e1c72b63ceaf03a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "White",
+    "sha256": "47ab3dbbaa4e9804f1d3be51b6675fcb2e0a9cf4949ba7bc82b0ff853a4465c3"
+  },
+  "lesson-word-992dab4466410b1e": {
+    "file": "lesson-word-recordings/lesson-word-992dab4466410b1e.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Why",
+    "sha256": "79657ca9d1c679c81d2e8be31dc6780d1c1bd79bb7d3e9e76e357eaf0efd2d4f"
+  },
+  "lesson-word-855dff49b4ee3ac0": {
+    "file": "lesson-word-recordings/lesson-word-855dff49b4ee3ac0.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "will",
+    "sha256": "36c09d8b62894fbba25006cff02916ccdf6deafa9e17b6fe50db9931aec25064"
+  },
+  "lesson-word-f1a039e6001760b3": {
+    "file": "lesson-word-recordings/lesson-word-f1a039e6001760b3.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "wind",
+    "sha256": "e71daafd7796f773de7d8a9442313cb99585dc710db11f6dadc49481213e3c9a"
+  },
+  "lesson-word-97a871f2eb233288": {
+    "file": "lesson-word-recordings/lesson-word-97a871f2eb233288.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "windows",
+    "sha256": "e5e1efc10946ac6ab25dc13f0ca78e6b88945f103a7d80615d2109d83f93fdf1"
+  },
+  "lesson-word-af0efe1d6662a11f": {
+    "file": "lesson-word-recordings/lesson-word-af0efe1d6662a11f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "winds",
+    "sha256": "ec5c42b787b04d441733dc890e09346612156c04236d2cc2c81a60605a8d977a"
+  },
+  "lesson-word-52cd82e6de7dcf8a": {
+    "file": "lesson-word-recordings/lesson-word-52cd82e6de7dcf8a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "with",
+    "sha256": "617ce5586c5a002cc1ff72f2746a66c6b31f8ae34ec9fc9263a6b7d7379a77be"
+  },
+  "lesson-word-0ddffee62924541f": {
+    "file": "lesson-word-recordings/lesson-word-0ddffee62924541f.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "work",
+    "sha256": "e38c0a72219cb7a8617fb65f33e3ba8d198463b3cc86d1505ca520b2cc5f1e04"
+  },
+  "lesson-word-19b1d52d3faae357": {
+    "file": "lesson-word-recordings/lesson-word-19b1d52d3faae357.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "works",
+    "sha256": "0c3ffc1967677b109e848aaaa893d8488fe8ed4caf32020238fd216fe095e6d8"
+  },
+  "lesson-word-83669c205cf1fa35": {
+    "file": "lesson-word-recordings/lesson-word-83669c205cf1fa35.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "worried",
+    "sha256": "81bb211b3e808e44361a541b4a0e8f1a4b7271f13a8672f22b5c8e69fececd42"
+  },
+  "lesson-word-078df666488366bf": {
+    "file": "lesson-word-recordings/lesson-word-078df666488366bf.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "worry",
+    "sha256": "8ec9aa1340575492cd1b3ec50a40669e4e95cf0113b7113f7ca2de1c306aa41a"
+  },
+  "lesson-word-88760b5933acb480": {
+    "file": "lesson-word-recordings/lesson-word-88760b5933acb480.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Would",
+    "sha256": "35c6fcc1613afffeb714c312c1f975559b2d915a2c408a8d4fa3f715762fb4e1"
+  },
+  "lesson-word-3e0ce3d622ce6577": {
+    "file": "lesson-word-recordings/lesson-word-3e0ce3d622ce6577.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Wow",
+    "sha256": "c7d1b5cc4242c30b1c0ac40865d980d8e3b6188835b8b01e2bd9d83f93543e12"
+  },
+  "lesson-word-c9cd737623876ae8": {
+    "file": "lesson-word-recordings/lesson-word-c9cd737623876ae8.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Yes",
+    "sha256": "4b594b15c8c8c83856ba7759304ba9d5ff0e0c10567f1255badd33617d9297a5"
+  },
+  "lesson-word-b98fab61d9689de2": {
+    "file": "lesson-word-recordings/lesson-word-b98fab61d9689de2.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "you",
+    "sha256": "2bde3e5c2ba7dec25e5d85dd5ce8f2655030e35b84ad2a0c7d8df97d02943cd1"
+  },
+  "lesson-word-810e2a29a24d6917": {
+    "file": "lesson-word-recordings/lesson-word-810e2a29a24d6917.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "You'll",
+    "sha256": "bf718c440e6df64e7de2bd369b8025ff2ff4ca65839f54f482b656da5c39b1ea"
+  },
+  "lesson-word-7e0b6319c03cb0e4": {
+    "file": "lesson-word-recordings/lesson-word-7e0b6319c03cb0e4.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "your",
+    "sha256": "775e9bb61487cb4cb23b9073f2c8c1b12c9eb30146ab39780dd8ff7f5fec7bd9"
+  },
+  "lesson-word-81512170e4292d4a": {
+    "file": "lesson-word-recordings/lesson-word-81512170e4292d4a.m4a",
+    "voice": "Daniel",
+    "locale": "en-GB",
+    "wordsPerMinute": 131,
+    "text": "Zhang",
+    "sha256": "2afd1500e33ab9ba52aaa1c02e46eb0a99afd2b285da702bcbc0a9eebb189f2a"
   }
 }
